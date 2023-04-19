@@ -1,0 +1,55 @@
+---
+title: "filter_raw_data"
+date: "`r Sys.Date()`"
+output:
+  rmdformats::material:
+    highlight: kate
+---
+
+```{r setup, include=FALSE}
+## Global options
+knitr::opts_chunk$set(cache = TRUE)
+```
+
+# Charging the data in the cache memory
+
+In my case, I had to go change  my directory to access to the file that was in data.
+
+```{r}
+getwd()
+setwd("../data")
+raw_nifh <- read.csv("nifH_2023_all.csv", header = T, sep = ",")
+colnames(raw_nifh)[1] = "index"
+# raw_nifh <- raw_nifh[,-1]
+raw_nifh
+```
+
+# First filter
+
+Keep only the sequences which are attributed a taxa "Bacteria;" or "Bacteria;Cyanobacteria"
+
+But here as it has been filled manually, I hope that the is no orthograph mistakes so I'll have to check.
+
+```{r}
+non_classified_nifh <- raw_nifh[raw_nifh$tax == "Bacteria;" | raw_nifh$tax == "Bacteria; Cyanobacteria;" | raw_nifh$tax == "unclassified sequences;" | is.na(raw_nifh$tax),]
+row.names(non_classified_nifh) = NULL
+# dim(non_classified_nifh)
+non_classified_nifh
+```
+
+So if I didn't miss some, I have 33217 non classified sequences over the 40520 sequences, which makes 80% of non identified sequences.
+
+```{r}
+which(is.na(raw_nifh$tax))
+```
+
+And the 65th sequence taxa is weirdly non filled so we have to add it I guess.
+
+# Create an output file
+
+```{r}
+setwd("../data")
+write.csv(non_classified_nifh, "non_classified_nifh.csv")
+?write.csv
+```
+

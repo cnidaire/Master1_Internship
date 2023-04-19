@@ -6,3 +6,5 @@ cheat_sheet/reticulate-1.pdf
 cheat_sheet/rstudio-ide-1.pdf
 cheat_sheet/tidyr.pdf
 code/filter_raw_data.html
+data/test.fasta
+code/create_fasta.R
