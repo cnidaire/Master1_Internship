@@ -1,157 +1,18 @@
 
 
-## DADA2
+# DADA2
 
 https://www.bioconductor.org/packages/release/bioc/vignettes/dada2/inst/doc/dada2-intro.html#overview-of-the-dada2-pipeline
-
-```R
-library(dada2); packageVersion("dada2")
-
-fnF1 <- system.file("extdata", "sam1F.fastq.gz", package="dada2")
-fnR1 <- system.file("extdata", "sam1R.fastq.gz", package="dada2")
-filtF1 <- tempfile(fileext=".fastq.gz")
-filtR1 <- tempfile(fileext=".fastq.gz")
-```
-
-### 1 Filter and Trim
-
-check quality:
-
-```R
-plotQualityProfile(fnF1) # Forward
-plotQualityProfile(fnR1) # Reverse
-```
-
-```R
-filterAndTrim(fwd=fnF1, filt=filtF1, rev=fnR1, filt.rev=filtR1,
-                  trimLeft=10, truncLen=c(240, 200), 
-                  maxN=0, maxEE=2,
-                  compress=TRUE, verbose=TRUE)
-```
-
-you don't need to the forward and the reverse reads at the same position, resulting in reads of different length.
-
-The FilterAndTrim() function filter forward and reverse reads jointly
-
-- *trimLeft=10* unable to remove the first 10 nucleotides of each reads(as there usually is a drop for the first nucleotides)
-- *truncLen=c(240, 200)* trunk the forward at nucleotide 240 and the backward at nucleotide 200
-- *maxN=0* we filter out all the reads with more than 0 ambiguous nucleotides
-
-If using a pair-end sequencing data, must have at the very least 20 nucleotides that overlap after the trimming. 
-
-
-
-### 2 Dereplicate
-
-```R
-derepF1 <- derepFastq(filtF1, verbose=TRUE)
-derepR1 <- derepFastq(filtR1, verbose=TRUE)
-```
-
-Condense the data by collapsing together all reads that encode the same  sequence, which significantly reduces later computation times
-
-derepFastq maintain a summary of the quality information for each dereplicated sequence in $quals
-
-
-
-### 3 Learn the errors rates
-
-```R
-errF <- learnErrors(derepF1, multithread=FALSE) # multithreading is available on many functions
-errR <- learnErrors(derepR1, multithread=FALSE)
-```
-
-
-
-### 4 Infer sample composition
-
-```R
-dadaF1 <- dada(derepF1, err=errF, multithread=FALSE)
-dadaR1 <- dada(derepR1, err=errR, multithread=FALSE)
-print(dadaF1)
-```
-
- 
-
-### 5 Merge forward/reverse reads 
-
-We’ve inferred the sample sequences in the forward and reverse reads  independently. Now it’s time to merge those inferred sequences together, throwing out those pairs of reads that don’t match.
-
-It will return a data frame corresponding to each successfully merged sequences.
-
-```R
-merger1 <- mergePairs(dadaF1, derepF1, dadaR1, derepR1, verbose=TRUE)
-```
-
-
-
-### 6 Remove chimeras
-
-when sequence incompletely amplified, a chimera is formed and will result in the next generation in half of this amplicon and half of an other. Hence we have to remove those sequences.
-
-```R
-merger1.nochim <- removeBimeraDenovo(merger1, multithread=FALSE, verbose=TRUE)
-```
-
-
-
-### 7 A second sample
-
-repeat the same steps for an other sample, pretty straight forward.
-
-
-
-### 8 Create a sequence table
-
-If we want to combine all the inferred samples into one unified table: give a matrix.
-
-Each row is a processed sample and each column is a non-chimeric inferred sample sequence.
-
-```R
-seqtab <- makeSequenceTable(list(merger1, merger2))
-seqtab.nochim <- removeBimeraDenovo(seqtab, verbose=TRUE)
-dim(seqtab.nochim)
-```
-
-
-
-### 9 further analysis
-
-They recommend the "*phyloseq*" package: a tool to import, store, analyze, and graphically display complex  phylogenetic sequencing data that has already been clustered into  Operational Taxonomic Units.
-
-I'm not sure if it is really useful in our case.
-
-
-
-# Notes from Mar
-
-## Goal of metabarcoding
-
-Characterization of the taxonomic diversity inhabiting various ecosystems using direct environmental DNA
-
-We can use the full genome, hence, we have to use 16S region (~200-400bp): a marker for bacterial and Archeal identification. But there is PCR and sequencing (Illumina) errors in the sequences.
-
-<img src="./images/overview.png" alt="10" style="zoom:50%;" /> 
-
-Pair-end sequencing is usually better, as max read of illumina is 300bp, we obtain 2 x 300bp.
-
-We pool all the sample together(multiplexing and add an index/barcode to the sequence so that we can then separate the samples: demultiplexing). It cost less, is faster and we can avoid as much batch effect as possible.
-
-==Demultiplex:== using the barcodes
-
-==Filter==: remove bad quality sequencing reads
-
-==Cluster(OTUs):== one cluster = sequence identity > 97%. but the can be some ambiguous OTU assignement when a sequence can match in more than one OTU. And there is a centroid sequence taht is the sequence that minimize the sum of the distances to the other sequences of the cluster (commonly the most abundant one). One of the problem is taht it tends to overestimate the bidiversity and is efficient if there is not much errors, which is not the case for PCR and Illumina sequencing because we have chimera for exemple. A cut-off of 98.5% or even a bit high (98.7%) would be better and is used in bacterial identification.
-
-
-
- ==Taxonomic assignation:== 
-
-
 
 
 
 # [Youtube video from Brown uni](https://www.youtube.com/watch?v=wV5_z7rR6yw)
+
+
+
+==Full script if mistakes [here](https://compbiocore.github.io/metagenomics-workshop/assets/DADA2_tutorial.html)==
+
+
 
 ## before putting data in dada2
 
@@ -208,7 +69,9 @@ Plot the quality score and determine the trimming cut-offs (usually 30 is the lo
 
 We don't have to check for every file (just a couple), there is usually not much variation from sample to sample.
 
-Usually, the quality of the reverse sequence is rather bad compared to the forward, that's why we will have to trimm it more. However, we have to make sure that the Forward and reverse sequences are overlaping (at the very least 20 bp for DADA2 to successfully merge sequences).
+Usually, the quality of the reverse sequence is rather bad compared to the forward, that's why we will have to trim it more. However, we have to make sure that the Forward and reverse sequences are overlapping (at the very least 20 bp for DADA2 to successfully merge sequences).
+
+We usually remove the first 10 nucleotides with *trimleft=10* because there is a drop of quality and because it contains the primers that will be annoying for later. 
 
 ```R
 # Create a new file path to store filtered and trimmed reads
@@ -249,7 +112,7 @@ In general, for the error plot, the frequency of the errors rate decrease as the
 
 ### Dereplicate Reads
 
-So that DADA2 doesn't have to work on every single read we have to speed up and simplify the computation
+Condense the data by collapsing together all reads that encode the same sequence so that DADA2 doesn't have to work on every single read we have to speed up and simplify the computation
 
 ```R
 # Dereplicate FASTQ files to speed up computation
@@ -263,7 +126,7 @@ names(derepRs) <- sample.names
 
 ### Sample Inference with DADA2 Algorithm
 
-testing the null-hypothesis that the sequence is too abundant in the sample to be solely explained by errors in the data set.
+Testing the null-hypothesis that the sequence is too abundant in the sample to be solely explained by errors in the data set.
 
 -> low p-value sequence can be considered as real sequences that are not caused by random errors.
 
@@ -279,246 +142,149 @@ dadaRs <- dada(derepRs, err=errR, multithread=TRUE)
 
 ### Merge Reads
 
+We’ve inferred the sample sequences in the forward and reverse reads independently. Now it’s
+time to merge those inferred sequences together, throwing out those pairs of reads that don’t match.
+It will return a data frame corresponding to each successfully merged sequences.
+
 ```R
 # Merge denoised reads
+mergers <- mergePairs(dadaFs, derepFs, dadaRs, derepRs, verbose=TRUE) # will only merge perfectly overlapped seq so can addmaxMismatch 1 or 2 if lots of reads are not merging
 
+# Inspect the merger data.frame from the first sample
+head(mergers[[1]])
+
+
+
+# Tabulate Denoised and Merged data
+seqtab <- makeSequenceTable(mergers)
+dim(seqtab)
+
+# View the total length of al total RSVs (Ribosomal Sequence Variants) (close to an OTU table)
+table(nchar(getSequences(seqtab))) # gives how sequences there is for the length of the sequence
 ```
 
 
 
 ### Chimera Checking and Removal
 
+Chimera: fusion of two or more parents sequences
+
+Perform multiple sequence alignment from the least abundant read and for all the more abundant read, it will do sequence alignment with all possible combinations. When a chimera is detected, it is removed from the sequence table.
+
+```R
+# Perform de novo chimera sequece detection and removal
+seqtab.nochim <- removeBimeraDenovo(seqtab, method="consensus", multithread=TRUE, verbose=TRUE)
+dim(seqtab.nochim)
+
+# Calculate the proportion of the non-chimeric RSVs (reads)
+sum(seqtab.nochim)/sum(seqtab)
+```
+
+More than 90% of the unique sequences identified are bimeras and most of the total reads shouldn't be identified as chimera (less than 70% is really bad).
+
+If too much chimera, check if trim the 20 first base pairs of the reads because contain primers that can artificially increase the number of chimera. If not, try trimming more the low quality bp.
+
 ### Assign Taxonomy
 
-### Construct Phylogenic tree
+```R
+# Assign taxonomy using RDP database (greengenes and Silva also available)
+# This is performed in two steps: this first one assigns phylum to genus
+taxa <- assignTaxonomy(seqtab.cochim,"~DADA2_Tutorial/Taxonomy/rdp_train_set_16.fa.gz", multithread=TRUE) # database we want to use
+unname(head(taxa))
+
+# Assign species (when possible)
+system.time({taxa.plus <- addSpecies(taxa, "~DADA2_Tutorial/Taxonomy/rdp_species_assignement_16.fa.gz", verbose=TRUE)
+colnames(taxa.plus) <- c("Kingdom", "Phylum", "Class", "Order", "Family", "Genus", "Species")
+unname(taxa.plus)}) # Usually hard to go down to species level assignment with V4 region (hypervariable region)
+```
+
+==using a reference database==
+
+### Construct Phylogenic tree ==(Not sure if I'll need to go further)==
+
+first need to align sequences in the sequence table
+
+```R
+# Extract sequences from DADA2 output
+sequences <- getSequences(seqtab.nochim)
+names(sequences) <- sequences 
+
+#Run sequence alignment (MSA) using DECIPHER
+alignment <- AlignSeqs(DNAStringsSet(sequences), anchor=NA)
+
+
+# Change sequence alignment output into a phyDat structure
+phang.align <- phyDat(as(alignment, "matrix"), type="DNA")
+
+# Create a distance matrix
+dm <- dist.ml(phang.align)
+
+# Perform Neighbor joining
+treeNJ <- NJ(dm)
+
+# Internal maximum likelihood
+fit = pml(treeNJ, data=phang.align)
+
+# Negative edges length changed to 0
+fitGTR <- update(fit, k=4, inv=0.2)
+fitGTR <- optim.pml(fitGTR, model="GTR", optInv=TRUE, optGammma=True,
+                   rearrangment = "stochastic", control = pml.control(trace=0))
+```
+
+
 
 ### Import into Phylliseq
 
+```R
+map <- import_qiieme_sample_data("~DADA2_Tutorial/Tutorial_Map.txt")
+
+ps <- pyloseq(otu_table(seqtab.nochim, taxa_are_row=False),
+             tax_table(taxa.plus), phhy_tree(fitGTR$tree)) # takes taxonomic table, sequence table, tree, mapping file and put it into a usable format (associate metadata with all the samples)
+
+# Merge PS object with map
+ps <- merge_phyloseq(ps, map)
+ps
+```
+
+It is possible to root the tree if you want to set the phylogenetic relationships.
+
 ### Analysis and visualization
 
-
-
-
-
-## Setting the environment
-
-### Store the paths
+If we want Alpha Diversity metrics
 
 ```R
-fnFs <- sort(list.files(path, pattern="_R1.fastq", full.names=TRUE))
-# List the files names located at path containing the pattern and gives the full name (full path)
-# and all these names are stored in fnFs for R1 and fnFr for R2
+plot_richness(ps, x="day", measures=c("Shanon", "Simpson)"), color="when") + theme_bw() # gives Shanon (richness) and Simpson (evenness) diversity in the community
 ```
 
-### Retrieve sample names
+There is also Beta Diversity if wanted
 
-```R
-sample.names <- sapply(strsplit(basename(fnFs), "_"), `[`, 1)
-# basename retrieve the name before the last separator "/"
-# strsplit split by removing the "_"
-```
 
-### Create a folder "filtered" with the file names
 
-```R
-filtFs <- file.path(path, "Filtered", basename(fnFs))
-# will create a new folder "Filtered" withe all the file names inside (the files are empty).
-```
 
-### Set working directory
 
-##  Phyloseq objects
 
-### Abundance table
 
-```R
-otu_table()
-# OTU abundance in the different samples
-```
+# Notes from Mar
 
-### Metadata
+## Goal of metabarcoding
 
-```R
-sample_data()
-# contains group, treatments, localisations, sample names, env data
-```
+Characterization of the taxonomic diversity inhabiting various ecosystems using direct environmental DNA
 
-### Taxonomy classification
+We can use the full genome, hence, we have to use 16S region (~200-400bp): a marker for bacterial and Archeal identification. But there is PCR and sequencing (Illumina) errors in the sequences.
 
-```R
-tax_table()
-# devide each taxa in taxonomic ranks: Kingdom, Phylum, Class, Order, Family (and the sample name of course)
-```
+<img src="./images/overview.png" alt="10" style="zoom:50%;" /> 
 
-### Phylogenic tree
+Pair-end sequencing is usually better, as max read of illumina is 300bp, we obtain 2 x 300bp.
 
-```R
-phy_tree()
-# number of nodes, number of tips
-```
+We pool all the sample together(multiplexing and add an index/barcode to the sequence so that we can then separate the samples: demultiplexing). It cost less, is faster and we can avoid as much batch effect as possible.
 
-### DNA sequence of ASV/OTU
+==Demultiplex:== using the barcodes
 
-```R
-ref_seq
-# gives the reference sequences I think
-```
+==Filter==: remove bad quality sequencing reads
 
+==Cluster(OTUs):== one cluster = sequence identity > 97%. but the can be some ambiguous OTU assignement when a sequence can match in more than one OTU. And there is a centroid sequence taht is the sequence that minimize the sum of the distances to the other sequences of the cluster (commonly the most abundant one). One of the problem is taht it tends to overestimate the bidiversity and is efficient if there is not much errors, which is not the case for PCR and Illumina sequencing because we have chimera for exemple. A cut-off of 98.5% or even a bit high (98.7%) would be better and is used in bacterial identification.
 
 
 
-
-## Table with abundance and taxonomic assignement
-
-we have to fuse two tables: otu_table() and tax_table()
-
-```R
-tableau=cbind(t(otu_table(Myselection2)),tax_table(Myselection2))
-# t() is to transpose the table
-# but you don't always need to transpose when you are working on microbes data apparently
-```
-
-
-
-```R
-
-```
-
-
-
-```R
-
-```
-
-
-
-```R
-
-```
-
-
-
-```R
-
-```
-
-
-
-```R
-
-```
-
-
-
-```R
-
-```
-
-
-
-```R
-
-```
-
-
-
-```R
-
-```
-
-
-
-```R
-
-```
-
-
-
-```R
-
-```
-
-
-
-```R
-
-```
-
-
-
-```R
-
-```
-
-
-
-```R
-
-```
-
-
-
-```R
-
-```
-
-
-
-```R
-
-```
-
-
-
-```R
-
-```
-
-
-
-```R
-
-```
-
-
-
-```R
-
-```
-
-
-
-```R
-
-```
-
-
-
-```R
-
-```
-
-
-
-```R
-
-```
-
-
-
-```R
-
-```
-
-
-
-```R
-
-```
-
-
-
-```R
-
-```
+ ==Taxonomic assignation:== 
 

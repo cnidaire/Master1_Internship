@@ -1,4 +1,4 @@
-# Day 1
+# Day 1: 17/04/2023
 
 Had a tour of the building and joined the different group chats, read bibliography and the is preparing for the meting at 4:30 where Elena presented the weekly paper. It was interesting.
 
@@ -6,7 +6,7 @@ I received the keys from Christan and I will have access to the computer.  I wil
 
 
 
-# Day 2
+# Day 2: 18/04/2023
 
 continue to work on understanding the Dada2 pipeline
 
@@ -18,7 +18,7 @@ I tried to convert the csv file into a fasta file by making my own code because 
 
 
 
-# Day 3
+# Day 3: 19/04/2023
 
 Continue debugging the csv to fasta code. And stopped using the basic R and used Tidyverse, it's faster (less or around a second) and is way cleaner to me.
 
@@ -30,11 +30,13 @@ So for Dada2, am I supposed to
 
 
 
-# Day 4
+# Day 4: 20/04/2023
 
 Working on Dada2 with the materials provided by Mar
 
 And on watching some youtube videos and other to fix my knowledge in DNA sequencing and analysis of Omics data : https://www.youtube.com/watch?v=wV5_z7rR6yw
+
+I think I'm should now be able to use DADA2
 
 
 
