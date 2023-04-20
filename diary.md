@@ -26,7 +26,15 @@ I'm now trying to download the data from ENA and NCBI and to really understand D
 
 So for Dada2, am I supposed to 
 
-**NTP** NCBI
+**NTP** NCBI for accessing via terminal to NCBI
+
+
+
+# Day 4
+
+Working on Dada2 with the materials provided by Mar
+
+And on watching some youtube videos and other to fix my knowledge in DNA sequencing and analysis of Omics data : https://www.youtube.com/watch?v=wV5_z7rR6yw
 
 
 
