@@ -1,0 +1,20 @@
+---
+title: "Test Dada2"
+author: "Rémi Legrand"
+date: "2023-04-19"
+output: html_document
+---
+
+Need Dada2!!!
+
+```{r}
+library(dada2); packageVersion("dada2")
+```
+
+
+# Import data
+
+```{r}
+?system.file
+```
+
