@@ -40,6 +40,22 @@ I think I'm should now be able to use DADA2
 
 
 
+# Day 5: 21/04/2023
+
+Trying to use DADA2
+
+Setting up the other computer with the data, updating R, struggling to install DADA2
+
+Then I switched to my computer but there is problems with the files:
+
+- Dupe: 551_R1_001.fastq is in data_002 and there is a negative sample that is weird
+- Swings: single end sequenced? There is only one file for each sample
+- Tonga: a lot of non complementary sequences: where are the others?
+
+
+
+To progress a bit, I added manually the 551_R1_001.fastq
+
 
 
 # Pipeline
@@ -51,4 +67,4 @@ I think I'm should now be able to use DADA2
 - [ ] Identify and extract unidentified sequences (e.g., sequence only identified at phylum level)
 - [ ] Diamond blast and add hits to the database (remember to note down which was added).
 - [ ] Manually, add the taxonomic annotation (i.e. kingdom, phylum, order and so on). Not sure
-  have this can be done automatically.
+  have this can be done automatically. 

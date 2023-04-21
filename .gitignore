@@ -9,3 +9,144 @@ code/filter_raw_data.html
 data/test.fasta
 code/create_fasta.R
 notes/dada2/notes_on_dada2.pdf
+.Rproj.user
+data/dupe_train/.DS_Store
+data/dupe_train/550_R1_001.fastq
+data/dupe_train/550_R2_001.fastq
+data/dupe_train/551_R1_001.fastq
+data/dupe_train/551_R2_001.fastq
+data/dupe_train/552_R1_001.fastq
+data/dupe_train/552_R2_001.fastq
+data/dupe_train/676_R1_001.fastq
+data/dupe_train/676_R2_001.fastq
+data/dupe_train/677_R1_001.fastq
+data/dupe_train/677_R2_001.fastq
+data/dupe_train/678_R1_001.fastq
+data/dupe_train/678_R2_001.fastq
+data/dupe_train/md5sum_list.txt
+data/dupe_train/negative_R1_001.fastq
+data/dupe_train/negative_R2_001.fastq
+data/dupe_train/filtered/550_F_filt.fastq.gz
+data/dupe_train/filtered/550_R_filt.fastq.gz
+data/dupe_train/filtered/551_F_filt.fastq.gz
+data/dupe_train/filtered/551_R_filt.fastq.gz
+data/dupe_train/filtered/552_F_filt.fastq.gz
+data/dupe_train/filtered/552_R_filt.fastq.gz
+data/dupe_train/filtered/676_F_filt.fastq.gz
+data/dupe_train/filtered/676_R_filt.fastq.gz
+data/dupe_train/filtered/677_F_filt.fastq.gz
+data/dupe_train/filtered/677_R_filt.fastq.gz
+data/dupe_train/filtered/678_F_filt.fastq.gz
+data/dupe_train/filtered/678_R_filt.fastq.gz
+data/dupe_train/filtered/negative_F_filt.fastq.gz
+data/dupe_train/filtered/negative_R_filt.fastq.gz
+data/raw_data/Raw data-20230420T113305Z-001.zip
+data/raw_data/Raw data-20230420T113305Z-002.zip
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/dupe/.DS_Store
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/dupe/550_R1_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/dupe/550_R2_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/dupe/551_R2_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/dupe/552_R1_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/dupe/552_R2_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/dupe/676_R1_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/dupe/676_R2_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/dupe/677_R1_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/dupe/677_R2_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/dupe/678_R1_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/dupe/678_R2_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/dupe/md5sum_list.txt
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/dupe/negative_R1_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/dupe/negative_R2_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/swings/862_NifH_2.fastq.gz
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/swings/863_NifH_2.fastq.gz
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/swings/865_NifH_2.fastq.gz
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/swings/882_NifH_2.fastq.gz
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/swings/898_NifH_1.fastq.gz
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/swings/899_NifH_1.fastq.gz
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/swings/902_NifH_1.fastq.gz
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/swings/905_NifH_1.fastq.gz
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/swings/906_NifH_2.fastq.gz
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/swings/907_NifH_2.fastq.gz
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/swings/909_NifH_2.fastq.gz
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/swings/910_NifH_2.fastq.gz
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/swings/911_NifH_2.fastq.gz
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/swings/912_NifH_1.fastq.gz
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/swings/913_NifH_1.fastq.gz
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/swings/914_NifH_1.fastq.gz
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/swings/917_NifH_2.fastq.gz
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/swings/918_NifH_2.fastq.gz
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/swings/922_NifH_2.fastq.gz
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/tonga/PRI-BYZHX-d-508_S94_L001_R2_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/tonga/PRI-BYZHX-d-509_S95_L001_R1_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/tonga/PRI-BYZHX-d-534_S96_L001_R1_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/tonga/PRI-BYZHX-d-534_S96_L001_R2_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/tonga/PRI-BYZHX-d-536_S98_L001_R1_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/tonga/PRI-BYZHX-d-537_S99_L001_R2_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/tonga/PRI-BYZHX-d-538_S100_L001_R2_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/tonga/PRI-BYZHX-d-539_S101_L001_R1_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/tonga/PRI-BYZHX-d-541_S103_L001_R2_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/tonga/PRI-BYZHX-d-606_S105_L001_R2_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/tonga/PRI-BYZHX-d-612_S106_L001_R1_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/tonga/PRI-BYZHX-d-613_S107_L001_R1_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/tonga/PRI-BYZHX-d-614_S108_L001_R2_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/tonga/PRI-BYZHX-d-619_S113_L001_R2_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/tonga/PRI-BYZHX-d-neg_S134_L001_R1_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/tonga/PRI-BYZHX-r-534_S116_L001_R2_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/tonga/PRI-BYZHX-r-535_S117_L001_R1_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/tonga/PRI-BYZHX-r-535_S117_L001_R2_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/tonga/PRI-BYZHX-r-536_S118_L001_R1_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/tonga/PRI-BYZHX-r-537_S119_L001_R1_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/tonga/PRI-BYZHX-r-538_S120_L001_R2_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/tonga/PRI-BYZHX-r-539_S121_L001_R2_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/tonga/PRI-BYZHX-r-606_S125_L001_R1_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/tonga/PRI-BYZHX-r-612_S126_L001_R2_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/tonga/PRI-BYZHX-r-614_S128_L001_R1_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/tonga/PRI-BYZHX-r-neg_S135_L001_R1_001.fastq
+data/raw_data/Raw data-20230420T113305Z-001/Raw data/tonga/samples.tonga.dop.names.txt
+data/raw_data/Raw data-20230420T113305Z-002/Raw data/dupe/551_R1_001.fastq.gz
+data/raw_data/Raw data-20230420T113305Z-002/Raw data/swings/901_NifH_2.fastq.gz
+data/raw_data/Raw data-20230420T113305Z-002/Raw data/tonga/PRI-BYZHX-d-535_S97_L001_R1_001.fastq
+data/raw_data/Raw data-20230420T113305Z-002/Raw data/tonga/PRI-BYZHX-d-538_S100_L001_R1_001.fastq
+data/raw_data/Raw data-20230420T113305Z-002/Raw data/tonga/PRI-BYZHX-d-540_S102_L001_R1_001.fastq
+data/raw_data/Raw data-20230420T113305Z-002/Raw data/tonga/PRI-BYZHX-d-541_S103_L001_R1_001.fastq
+data/raw_data/Raw data-20230420T113305Z-002/Raw data/tonga/PRI-BYZHX-d-605_S104_L001_R2_001.fastq
+data/raw_data/Raw data-20230420T113305Z-002/Raw data/tonga/PRI-BYZHX-d-614_S108_L001_R1_001.fastq
+data/raw_data/Raw data-20230420T113305Z-002/Raw data/tonga/PRI-BYZHX-d-615_S109_L001_R2_001.fastq
+data/raw_data/Raw data-20230420T113305Z-002/Raw data/tonga/PRI-BYZHX-d-616_S110_L001_R2_001.fastq
+data/raw_data/Raw data-20230420T113305Z-002/Raw data/tonga/PRI-BYZHX-d-617_S111_L001_R2_001.fastq
+data/raw_data/Raw data-20230420T113305Z-002/Raw data/tonga/PRI-BYZHX-d-618_S112_L001_R1_001.fastq
+data/raw_data/Raw data-20230420T113305Z-002/Raw data/tonga/PRI-BYZHX-d-618_S112_L001_R2_001.fastq
+data/raw_data/Raw data-20230420T113305Z-002/Raw data/tonga/PRI-BYZHX-r-508_S114_L001_R1_001.fastq
+data/raw_data/Raw data-20230420T113305Z-002/Raw data/tonga/PRI-BYZHX-r-508_S114_L001_R2_001.fastq
+data/raw_data/Raw data-20230420T113305Z-002/Raw data/tonga/PRI-BYZHX-r-509_S115_L001_R2_001.fastq
+data/raw_data/Raw data-20230420T113305Z-002/Raw data/tonga/PRI-BYZHX-r-540_S122_L001_R2_001.fastq
+data/raw_data/Raw data-20230420T113305Z-002/Raw data/tonga/PRI-BYZHX-r-541_S123_L001_R2_001.fastq
+data/raw_data/Raw data-20230420T113305Z-002/Raw data/tonga/PRI-BYZHX-r-605_S124_L001_R1_001.fastq
+data/raw_data/Raw data-20230420T113305Z-002/Raw data/tonga/PRI-BYZHX-r-613_S127_L001_R2_001.fastq
+data/raw_data/Raw data-20230420T113305Z-002/Raw data/tonga/PRI-BYZHX-r-615_S129_L001_R1_001.fastq
+data/raw_data/Raw data-20230420T113305Z-002/Raw data/tonga/PRI-BYZHX-r-616_S130_L001_R1_001.fastq
+data/raw_data/Raw data-20230420T113305Z-002/Raw data/tonga/PRI-BYZHX-r-616_S130_L001_R2_001.fastq
+data/raw_data/Raw data-20230420T113305Z-002/Raw data/tonga/PRI-BYZHX-r-617_S131_L001_R1_001.fastq
+data/raw_data/Raw data-20230420T113305Z-002/Raw data/tonga/PRI-BYZHX-r-618_S132_L001_R1_001.fastq
+data/raw_data/Raw data-20230420T113305Z-002/Raw data/tonga/PRI-BYZHX-r-619_S133_L001_R1_001.fastq
+data/raw_data (copie)/Raw data-20230420T113305Z-001.zip
+data/raw_data (copie)/Raw data-20230420T113305Z-002.zip
+data/swings_train/862_NifH_2.fastq
+data/swings_train/863_NifH_2.fastq
+data/swings_train/865_NifH_2.fastq
+data/swings_train/882_NifH_2.fastq
+data/swings_train/898_NifH_1.fastq
+data/swings_train/899_NifH_1.fastq
+data/swings_train/902_NifH_1.fastq
+data/swings_train/905_NifH_1.fastq
+data/swings_train/906_NifH_2.fastq
+data/swings_train/907_NifH_2.fastq
+data/swings_train/909_NifH_2.fastq
+data/swings_train/910_NifH_2.fastq
+data/swings_train/911_NifH_2.fastq
+data/swings_train/912_NifH_1.fastq
+data/swings_train/913_NifH_1.fastq
+data/swings_train/914_NifH_1.fastq
+data/swings_train/917_NifH_2.fastq
+data/swings_train/918_NifH_2.fastq
+data/swings_train/922_NifH_2.fastq

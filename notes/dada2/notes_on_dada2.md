@@ -78,8 +78,8 @@ We usually remove the first 10 nucleotides with *trimleft=10* because there is a
 filt_path <- file.path(path, "filtered") # place the filtered files in a "filtered" subdirectory
 
 # Rename filtered files
-filtFs <- files.path(filt_path, paste0(sample.names, "_F_filt.fastq.gz"))
-filsRs <- files.path(filt_path, paste0(sample.names, "_R_filt.fastq.gz"))
+filtFs <- file.path(filt_path, paste0(sample.names, "_F_filt.fastq.gz"))
+filtRs <- file.path(filt_path, paste0(sample.names, "_R_filt.fastq.gz"))
 
 # Quality Filtering and trimming
 out <- filterAndTrim(fnFs, filtFs, fnRs, filtRs, truncLen=c(240,160), # fnFs: where F reads/filtFs: where put filtered
@@ -119,7 +119,7 @@ Condense the data by collapsing together all reads that encode the same sequence
 derepFs <- derepFastq(filtFs, verbose=TRUE)
 derepRs <- derepFastq(filtRs, verbose=TRUE)
 
-Name the derep-class objects by the sample names
+# Name the derep-class objects by the sample names
 names(derepFs) <- sample.names
 names(derepRs) <- sample.names
 ```
@@ -287,4 +287,3 @@ We pool all the sample together(multiplexing and add an index/barcode to the seq
 
 
  ==Taxonomic assignation:== 
-
