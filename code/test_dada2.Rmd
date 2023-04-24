@@ -111,12 +111,37 @@ table(nchar(getSequences(seqtab)))
 # Chimera Checking and removal
 
 ```{r}
-# Perform de novo chimera sequece detection and removal
+# Perform de novo chimera sequence detection and removal
 seqtab.nochim <- removeBimeraDenovo(seqtab, method="consensus", multithread=TRUE, verbose=TRUE)
 dim(seqtab.nochim)
 
 
 # Calculate the proportion of the non-chimeric RSVs (reads)
 sum(seqtab.nochim)/sum(seqtab)
+```
+
+# Assign taxonomy
+
+```{r}
+# Assign taxonomy using RDP database (greengenes and Silva also available)
+# This is performed in two steps: this first one assigns phylum to genus
+taxa <- assignTaxonomy(seqtab.nochim,"../data/nifH_dada2_phylum_v1.1.0.fasta", multithread=TRUE) # database we want to use
+unname(head(taxa))
+
+class(taxa)
+
+write.table(taxa, '../data/taxa.txt') # To save the table
+```
+
+
+# Insight in the data
+
+```{r}
+colnames(taxa)
+sum(is.na(taxa[,1]))/length(taxa)*100 # 1% of data has no associated kingdom
+sum(is.na(taxa[,2]))/length(taxa)*100 # 9% at the phylum lvl
+sum(is.na(taxa[,5]))/length(taxa)*100 # 13% at the family lvl and around the same for the genus lvl
+length(taxa)
+table(is.na(taxa[,6]))
 ```
 

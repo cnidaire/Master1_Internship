@@ -58,6 +58,28 @@ To progress a bit, I added manually the 551_R1_001.fastq
 
 
 
+# Day 6: 24/04/2023
+
+I'm trying to install docker  to lab's computer but I'm struggling a lot, I wonder why nothing works as I want on this computer.
+
+
+
+so there is forward and reverse primer for the TONGA too so I don't get why I miss so much sample files.
+
+I tried to look at Subhadeep paper to find how it was sequences because to me it seems that it's not pair end sequencing but I'm not sure if it's he right one.
+
+I'm trying to learn more about docker:
+
+- to pull an image : docker pull image_name:version_number
+- to go in a docker image: docker run -t -i image
+- to quit this image: exit
+
+Re run dada2 with Molly's reference file https://github.com/moyn413/nifHdada2
+
+We obtain 80% of the sequences that are not identified at the genus level
+
+So I have to gather more sequences to construct a bigger reference file
+
 # Pipeline
 
 - [ ] Collect marine? nifH amplicon sequences from NCBI and ENA

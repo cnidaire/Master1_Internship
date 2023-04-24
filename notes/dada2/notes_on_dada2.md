@@ -172,7 +172,7 @@ Chimera: fusion of two or more parents sequences
 Perform multiple sequence alignment from the least abundant read and for all the more abundant read, it will do sequence alignment with all possible combinations. When a chimera is detected, it is removed from the sequence table.
 
 ```R
-# Perform de novo chimera sequece detection and removal
+# Perform de novo chimera sequence detection and removal
 seqtab.nochim <- removeBimeraDenovo(seqtab, method="consensus", multithread=TRUE, verbose=TRUE)
 dim(seqtab.nochim)
 
@@ -260,7 +260,76 @@ There is also Beta Diversity if wanted
 
 
 
+# Ampvis
 
+## Loading data
+
+```R
+library(ampvis2)
+d <- amp_load(
+  otutable = "path/to/otutable.csv",
+  metadata = "path/to/samplemetadata.xlsx",
+  taxonomy = "path/to/taxonomy.csv"
+)
+
+```
+
+
+
+## Filtering and subsetting
+
+```R
+data("MiDAS")
+MiDAS
+
+MiDAS$refseq
+
+MiDASsubset <- amp_subset_samples(
+  MiDAS,
+  Plant %in% c("Aalborg West", "Aalborg East")
+)
+
+MiDASsubset <- amp_subset_samples(
+  MiDAS,
+  Plant %in% c("Aalborg West", "Aalborg East") & !SampleID %in% c("16SAMP-749"),
+  minreads = 10000
+)
+
+MiDAS_Chloroflexi_Actinobacteria <- amp_subset_taxa(
+  MiDAS,
+  c("p__Chloroflexi", "p__Actinobacteria")
+)
+```
+
+
+
+## Heatmap
+
+
+
+```R
+amp_heatmap(
+  MiDASsubset,
+  group_by = "Plant"
+)
+```
+
+If wanna put more arguments
+
+```R
+amp_heatmap(MiDASsubset,
+            group_by = "Plant",
+            facet_by = "Year",
+            tax_aggregate = "Genus",
+            tax_add = "Phylum",
+            tax_show = 25,
+            color_vector = c("white", "darkred"),
+            plot_colorscale = "sqrt",
+            plot_values = FALSE) +
+  theme(axis.text.x = element_text(angle = 45, size=10, vjust = 1),
+        axis.text.y = element_text(size=8),
+        legend.position="right")
+```
 
 
 
