@@ -138,10 +138,8 @@ write.table(taxa, '../data/taxa.txt') # To save the table
 
 ```{r}
 colnames(taxa)
-sum(is.na(taxa[,1]))/length(taxa)*100 # 1% of data has no associated kingdom
-sum(is.na(taxa[,2]))/length(taxa)*100 # 9% at the phylum lvl
-sum(is.na(taxa[,5]))/length(taxa)*100 # 13% at the family lvl and around the same for the genus lvl
-length(taxa)
-table(is.na(taxa[,6]))
+sum(is.na(taxa[,1]))/dim(taxa)[1]*100 # 10% of data has no associated kingdom
+sum(is.na(taxa[,2]))/dim(taxa)[1]*100 # 57% at the phylum lvl
+sum(is.na(taxa[,5]))/dim(taxa)[1]*100 # 78% at the family lvl and around the same for the genus lvl
 ```
 

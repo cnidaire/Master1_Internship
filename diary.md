@@ -78,7 +78,80 @@ Re run dada2 with Molly's reference file https://github.com/moyn413/nifHdada2
 
 We obtain 80% of the sequences that are not identified at the genus level
 
-So I have to gather more sequences to construct a bigger reference file
+So I have to gather more sequences to construct a bigger reference file contains 18 711 individuals
+
+## group meeting
+
+It was interesting, we talked about what we did and Mar presented a future project for 2025 and exposed the founding problems, etc
+
+
+
+# Day 7: 25/04/2023
+
+goals: either understand docker and start harvesting the sequences
+
+## Python
+
+```python
+variable = Entrez.efetch(db='database',id='id_of_seq',rettype='fasta') # need Entrz and SeqIO in biopython
+print(variable.read()) # shows at fasta format but not the right one for ref db
+# would work if I have a database and an id for each sequences
+# database can be 'nucleotides' so probably ''
+variable = Entrez.efetch(db='nucleotide',id='id_of_seq',rettype='fasta', retmode='text')
+record = SeqIO.read(variable, 'fasta')
+record.id # gives the sequence id
+record.name
+record.seq # then I should be able to make a custom reference Fasta dataset
+
+# Download multiple genomes
+variable = Entrez.efetch(db='database',id='id_of_seq1,id_of_seq2,id_of_seq3',rettype='fasta')
+record = SeqIO.read(variable, 'fasta')
+record = [i for i in record] # to count the number of sequences then len(record)
+record[1] # to access to the fasta file of the first sequence
+
+# save in an output file (for fasta and multifasta)
+SeqIO.write(record,'output_name','fasta') # writes a number correspoding to the number of sequences inside the file
+```
+
+otherwise, if I have the url, I can download it with wget in shell
+
+## Docker
+
+[cheat sheet docker](https://learninglab.gitlabpages.inria.fr/mooc-rr/mooc-rr2-ressources/module2/seq2-package_mgmt/unit2-references.html)
+
+```shell
+docker run -it image_name:version # run interactive
+docker run -it -d image_name:version # run in background
+docker stop id # stop the docker with this id in the background
+docker ps # gives the active dockers
+docker system prune # will clean up everything
+docker run -p image_name:version # can define the "ports" but idk what it does
+```
+
+
+
+### Docker file
+
+```shell
+FROM debian:9 # FROM is only usable once
+
+RUN apt-get update -yq \ # to execute something in the container
+&& apt-get install curl gnupg -yq \
+&& curl -sL https://deb.nodesource.com/setup_10.x | bash \
+&& apt-get install nodejs -yq \
+&& apt-get clean -y
+
+ADD . /app/ # to copy or download files in the image
+WORKDIR /app # change the working directory, equivalent of cd
+RUN npm install
+
+EXPOSE 2368
+VOLUME /app/logs
+
+CMD npm run start
+```
+
+
 
 # Pipeline
 
