@@ -1,0 +1,29 @@
+---
+title: "Untitled"
+author: "Rémi Legrand"
+date: "2023-04-26"
+output: html_document
+---
+
+
+```{r}
+hit_table <- read.csv('../../data/new_assign/HitTable.csv', header = F, 
+                      col.names = c("seq_num", "seq_id", "%_identity", "alignment_length", "mismatches", "gap_opens", "q.start", "q.end", "s.start", "s.end", "evalue", "bit_score"))
+
+hit_table
+```
+
+```{r}
+summary(hit_table[hit_table$seq_num == 1,])
+```
+
+# First filter
+
+let's get rid of all the genes/genomes that have less than 90% of identity
+```{r}
+filtered_table <- hit_table[hit_table$`%_identity` > 90,]
+
+table(filtered_table$seq_num)
+filtered_table[filtered_table$seq_num == 37,]
+```
+

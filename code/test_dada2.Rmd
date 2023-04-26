@@ -143,3 +143,36 @@ sum(is.na(taxa[,2]))/dim(taxa)[1]*100 # 57% at the phylum lvl
 sum(is.na(taxa[,5]))/dim(taxa)[1]*100 # 78% at the family lvl and around the same for the genus lvl
 ```
 
+# extract the non identified sequences
+
+```{r}
+non_id <- taxa[is.na(taxa[,6]),]
+write.table(non_id, '../data/non_id.txt') # To save the table
+hist(nchar(row.names(non_id))) # to check the distribution of the length of the sequences
+```
+
+# Separate the already identified sequences to merge later on
+
+```{r}
+identified <- taxa[!is.na(taxa[,6]),]
+write.table(identified, '../data/identified.txt') # To save the table
+hist(nchar(row.names(identified))) # to check the distribution of the length of the sequences
+```
+
+# create a training at FASTA format
+
+```{r}
+library(tidyverse)
+
+train <- taxa[is.na(taxa[,6]),][1:10,]
+nrow(train)
+train_fasta <- tibble(id = paste0("> ",c(1:nrow(train))), seq = row.names(train))
+train_fasta <- separate_rows(unite(train_fasta, id, seq, col = "sequence", sep = ","), sequence, sep =",")
+
+setwd("../data")
+fileConn<-file("train.fasta")
+writeLines(train_fasta$sequence, fileConn)
+close(fileConn)
+```
+
+

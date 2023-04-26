@@ -153,6 +153,38 @@ CMD npm run start
 
 
 
+# Day 8: 26/04/2023
+
+I extracted the sequences of the dupe database that weren't annotated up to the genus level and then I tried to use blastn on the NCBI websit because I'm not able to do the blast on my computer with all the references datasets of ncbi. I specified that I exclude exclude Uncultured/environmental sample sequences and Models(XM/XP) to avoid as much un-annotated data as possible. Now I have a CSV file withe the ID, E-value, %query, etc.
+
+Now I have to choose which of the results are plausible.
+
+
+
+I plan to use blastn to align he sequences. Depending on the output, I want to gather the first sequences, check the E-value, how much is aligned, and for the first ones if it has the same phylogeny and if It is something different than transposons or uncultured bacterium. Be careful to put a threshold to the E-values like I think at least e-90/e-100
+
+exclude Uncultured/environmental sample sequences and Models(XM/XP)
+
+
+
+If the first sequences are as likely to be the real ones and have different phylogeny, then we keep only the parts that are identical.
+
+By trying on a few sequences manually, I checked that I works really well for some sequences
+
+
+
+I think I finally understood why there is so much non identified sequences, it's because the primers didn't fix at the right position and amplified some other sequences that are not nifh related. But It's still possible to identify it with blastn because we align on the whole genome.
+
+
+
+```shell
+blastn -query input_file_name -db reference_db -evalue 10 -out output_file_name # with outfmt, youcan choose the format of the ouput and then you can form exemple obtain the sequences id to then put it in the reference file.
+```
+
+I will run blastn manually on the NCBI website and then extract the data manually. I think the csv format even if I hate csv migth be the best because it's easily be opened in R
+
+
+
 # Pipeline
 
 - [ ] Collect marine? nifH amplicon sequences from NCBI and ENA

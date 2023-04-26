@@ -10,7 +10,6 @@ Need tidyverse package!!!
 Using tidyverse, it takes less than a second to do 30K sequences
 
 ```{r}
-
 setwd("../data")
 getwd()
 non_classified <- read.csv("non_classified_nifh.csv", header = T, sep = ",")
@@ -24,8 +23,7 @@ csv_to_fasta <- function(data){
 }
 
 fasta_file <- as.list(csv_to_fasta(non_classified))
-# length(fasta_file)
-# fasta_file$sequence
+
 
 setwd("../data")
 fileConn<-file("test1.fasta")
