@@ -6,24 +6,60 @@ output: html_document
 ---
 
 
+
+# Try with some better filters on the blast
+
 ```{r}
 hit_table <- read.csv('../../data/new_assign/HitTable.csv', header = F, 
-                      col.names = c("seq_num", "seq_id", "%_identity", "alignment_length", "mismatches", "gap_opens", "q.start", "q.end", "s.start", "s.end", "evalue", "bit_score"))
+                      col.names = c("seq_num", "seq_id", "percent_identity", "alignment_length", "mismatches", "gap_opens", "q.start", "q.end", "s.start", "s.end", "evalue", "bit_score"))
 
 hit_table
 ```
 
+# Lowest e-val
+
+Here, I wanted to get the smallest and I there is a few, the set of the lowest
+
 ```{r}
-summary(hit_table[hit_table$seq_num == 1,])
+# function to get the smallest e-val depending on the sequence
+min_eval <- function(seq_id){
+  min(hit_table[hit_table$seq_num == seq_id,"evalue"])
+}
+
+# Gather it in a df with the smallest with the smallest e-val for the sequences (not optimized at all because for loop but easier to read)
+
+identified <- data.frame()
+
+for (i in unique(hit_table$seq_num)) {
+  identified <- rbind(identified, hit_table[hit_table$seq_num == i & hit_table$evalue == min_eval(i),])
+  # print(i)
+}
+
+# Get all the unique id of the best matching sequences (around 4-5% of all the matching sequences)
+
+unique(identified$seq_id)
+
+# If we say that all the found sequences are relevant, then we can just omit the previous step and obtain
+
+unique(hit_table$seq_id)
+
+# Percent of the kept sequences in the first case:
+
+length(unique(hit_table$seq_id))/length(unique(identified$seq_id))*100
 ```
 
-# First filter
+# Recover the sequences to make a FASTA file
 
-let's get rid of all the genes/genomes that have less than 90% of identity
 ```{r}
-filtered_table <- hit_table[hit_table$`%_identity` > 90,]
+library(biomaRt)
 
-table(filtered_table$seq_num)
-filtered_table[filtered_table$seq_num == 37,]
+# download the genome of Homo sapiens from refseq
+# and store the corresponding genome file in '_ncbi_downloads/genomes'
+HS.genome.refseq <- getGenome( db       = "refseq", 
+                               organism = "Homo sapiens")
+# import downloaded genome as Biostrings object
+Human_Genome <- read_genome(file = HS.genome.refseq)
+# look at the Biostrings object
+Human_Genome
 ```
 

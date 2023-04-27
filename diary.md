@@ -153,6 +153,10 @@ CMD npm run start
 
 
 
+install.package("name") to install a package in R
+
+
+
 # Day 8: 26/04/2023
 
 I extracted the sequences of the dupe database that weren't annotated up to the genus level and then I tried to use blastn on the NCBI websit because I'm not able to do the blast on my computer with all the references datasets of ncbi. I specified that I exclude exclude Uncultured/environmental sample sequences and Models(XM/XP) to avoid as much un-annotated data as possible. Now I have a CSV file withe the ID, E-value, %query, etc.
@@ -182,6 +186,50 @@ blastn -query input_file_name -db reference_db -evalue 10 -out output_file_name 
 ```
 
 I will run blastn manually on the NCBI website and then extract the data manually. I think the csv format even if I hate csv migth be the best because it's easily be opened in R
+
+
+
+# Day 9: 27/04/2023
+
+try to understand the accession number to know if it's a gene in order to filter out the full genome, etc.
+
+
+
+I tried to specify in "Entrez Query" nifH[TW] so that it's only aligned with the annotated sequences containing nifh in the text (title and abstract, and MeSH terms, subheadings, chemical substance names, personal name as subject, and MEDLINE Secondary Source (SI) field).
+
+nifH[TW] NOT unidentified[TI]
+
+do I have to add CDS too in order to only have the part of the genome I'm interested in?
+
+All the taxonomic names ending in ota for phylum names (like Cyanobacteriota) are the new taxonomy. Hopefuly, the phyluum names have been updated in NCBI on January 2023
+
+
+
+for exemple, https://www.ncbi.nlm.nih.gov/nuccore/AY786992.1 contain the nifH but not only. Then it's annoying because if I put it in the nifH reference database, DADA2 can align it with nifH but not only.
+
+
+
+In the sequences I have selected, there is some with an % identity that is around 72% it's of course way too low but It would be a good idea to include it because the sequence is still relevant (It's a sequence between 100 and 1000 bp, containing nifH and that is not unidentified)
+
+
+
+## Goal
+
+Find all of these sequences that are relevant and aligned with the non identified sequences with a blast
+
+- put the un-identified sequences in a FASTA file
+- use blast n on these seq (nifH[TW] NOT unidentified[TI] AND 100:1000[SLEN])
+- take all the unique sequences id (I wonder if I only take the most relevant one as I'm constructing a db and not assigning the taxonomy)
+- get the sequences and the taxonomy (from GenBank) and make a FASTA file out of it 
+
+Then fuse the two databases by omitting the sequences that were already inside of the reference (if there is one).
+
+- check if the sequence of the new file is already in the old file
+- if not, add in the new file
+
+Re-run DADA2 on the sequences with the new reference DataBase
+
+- the pipeline is already ready
 
 
 
