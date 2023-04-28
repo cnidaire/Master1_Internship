@@ -209,7 +209,7 @@ for exemple, https://www.ncbi.nlm.nih.gov/nuccore/AY786992.1 contain the nifH bu
 
 
 
-In the sequences I have selected, there is some with an % identity that is around 72% it's of course way too low but It would be a good idea to include it because the sequence is still relevant (It's a sequence between 100 and 1000 bp, containing nifH and that is not unidentified)
+**In the sequences I have selected, there is some with an % identity that is around 72% it's of course way too low but It would be a good idea to include it because the sequence is still relevant (It's a sequence between 100 and 1000 bp, containing nifH and that is not unidentified)**
 
 
 
@@ -218,7 +218,7 @@ In the sequences I have selected, there is some with an % identity that is aroun
 Find all of these sequences that are relevant and aligned with the non identified sequences with a blast
 
 - put the un-identified sequences in a FASTA file
-- use blast n on these seq (nifH[TW] NOT unidentified[TI] AND 100:1000[SLEN])
+- use blast n on these seq (nifH[TW] AND 100:1000[SLEN])
 - take all the unique sequences id (I wonder if I only take the most relevant one as I'm constructing a db and not assigning the taxonomy)
 - get the sequences and the taxonomy (from GenBank) and make a FASTA file out of it 
 
@@ -230,6 +230,42 @@ Then fuse the two databases by omitting the sequences that were already inside o
 Re-run DADA2 on the sequences with the new reference DataBase
 
 - the pipeline is already ready
+
+
+
+# Day 10: 28/04/2023
+
+The references sequences I obtained yesterday seems pretty good, at least, it is sequences that are all relevant.
+
+Maybe I can do what I did before with biopython to even automatize that. It seems more adapted to what I want than Biomartr
+
+It would be nice in the next database to put the accession number to have a reference from where this sequence is coming from. It will help for example if the sequence is updated, so that we don't keep the old version in the reference.
+
+
+
+
+
+I looked at what are the questions/ problems I have with he nifH reference database.
+
+## Problems of the database
+
+there is a lot of sequences to whom there is only the up to the kingdom or Phylum level (mostly cyanobacteria, proteobacteria or archea)
+
+- there is a lot of identical sequences for the same taxonomy... where was it found? Wouldn't it be better if there was only one verified sequence instead of a lot with a few bp difference? (example: line 5054 to 5058 where the sequences are exactly the same)
+- The accession number correspond to a protein but the sequences stored in the database are nucleotides
+- I'm sure that the duplicates are completely useless, but I don't know for the sequences that differ from a few databases and that are associated to the same phylogeny... as this is a variable sequence, it should be significantly different from other species (there is only 875 species with the same taxonomy)
+- there is three non unique accession numbers
+
+
+
+## Questions
+
+- how was the database constructed (which criteria to select the sequences)?
+- there is sequences duplicates: why? (there is 8 thousand duplicate sequences)
+- sometime, same sequence but one is a bit longer, wouldn't it be better to keep only the longest one as it's assigning to the same taxonomy anyway?
+- might seem a bit drastic but there is only 569 genus, can't we only have 569 sequences or do we keep it in order to maintain more variability in the sequences to have a more chance to attribute a sequence with DADA2?
+- I didn't find the database you used as a starting point: from the Zehr Lab
+- Good point is that everything is annotated to the class level at least.
 
 
 

@@ -50,6 +50,7 @@ length(unique(hit_table$seq_id))/length(unique(identified$seq_id))*100
 
 # Recover the sequences to make a FASTA file
 
+
 ```{r}
 library(biomaRt)
 
