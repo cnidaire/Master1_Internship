@@ -64,3 +64,110 @@ Human_Genome <- read_genome(file = HS.genome.refseq)
 Human_Genome
 ```
 
+```{r}
+install.packages("readxl")
+library(readxl)
+
+ref <- read_xlsx("../../data/nifH_dada2_phylum_v2.0.2.xlsx")
+
+length(unique(ref$tax2))
+length(ref$acc)
+
+library(tidyverse)
+phylogeny[1,]
+phylogeny <- as_tibble(ref$tax2)
+tax <- separate(phylogeny, value, sep = ";", into = c("cluster", "domain", "phylum", "class", "order", "family", "genus"))
+tax
+length(unique(tax$genus))
+
+length(which(is.na(tax$class)))
+```
+
+```{r}
+new_db <- read.csv('../../data/new_assign/sequence.ipg.csv', header = T, sep = '\t')
+# view(new_db)
+```
+
+
+```{r}
+ncbi_accession <- new_db[new_db$Source == "RefSeq",]
+ncbi_accession
+
+
+fileConn<-file("../../data/new_assign/refseq_accession.txt")
+writeLines(ncbi_accession$Nucleotide.Accession, fileConn)
+close(fileConn)
+```
+
+# Try to access with R entrez
+
+```{r}
+install.packages("rentrez")
+```
+
+```{r}
+# library(rentrez)
+# # entrez_set_email("remi.legrand38@gmail.com")
+# accession_numbers <- ncbi_accession$Nucleotide.Accession[1:10]
+# class(accession_numbers)
+# 
+# # Install the rentrez package if not already installed
+# install.packages("rentrez")
+
+# Load the rentrez package
+library(rentrez)
+
+# Define the list of accession numbers
+accession_numbers <- c("NP_123456", "NP_789012", "NP_345678")
+
+# Fetch the data for each accession number
+for (accession in accession_numbers) {
+  # Search for the protein record
+  search_term <- paste0(accession, "[Accession]")
+  search_result <- entrez_search(db = "protein", term = search_term)
+  
+  # Get the protein record ID
+  record_id <- search_result$ids[1]
+  
+  # Fetch the protein record
+  protein_record <- entrez_fetch(db = "protein", id = record_id, rettype = "gbwithparts", retmode = "text")
+  
+  # Extract the DNA sequence and taxonomy information
+  dna_sequence <- getSequence(protein_record)
+  taxonomy <- getTaxonomy(protein_record)
+  
+  # Print the results
+  cat("Accession:", accession, "\n")
+  cat("DNA Sequence:\n", dna_sequence, "\n")
+  cat("Taxonomy:", taxonomy, "\n\n")
+}
+
+# Function to extract the DNA sequence from the protein record
+getSequence <- function(record) {
+  pattern <- "ORIGIN(.+)//"
+  match <- regmatches(record, regexpr(pattern, record, perl = TRUE))
+  
+  if (length(match) > 0) {
+    sequence <- gsub("\\s+|\\d+|//", "", match)
+    return(sequence)
+  } else {
+    return("DNA sequence not found.")
+  }
+}
+
+# Function to extract the taxonomy information from the protein record
+getTaxonomy <- function(record) {
+  pattern <- "ORGANISM(.+)?REFERENCE"
+  match <- regmatches(record, regexpr(pattern, record, perl = TRUE))
+  
+  if (length(match) > 0) {
+    taxonomy <- gsub("\\s+", " ", match)
+    return(taxonomy)
+  } else {
+    return("Taxonomy information not found.")
+  }
+}
+
+
+```
+

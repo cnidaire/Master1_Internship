@@ -258,14 +258,121 @@ there is a lot of sequences to whom there is only the up to the kingdom or Phylu
 
 
 
+add taxonomy as an output by incorporating it in the taxonomic level
+
 ## Questions
 
 - how was the database constructed (which criteria to select the sequences)?
+  - 
 - there is sequences duplicates: why? (there is 8 thousand duplicate sequences)
+  - 
 - sometime, same sequence but one is a bit longer, wouldn't it be better to keep only the longest one as it's assigning to the same taxonomy anyway?
+  - 
 - might seem a bit drastic but there is only 569 genus, can't we only have 569 sequences or do we keep it in order to maintain more variability in the sequences to have a more chance to attribute a sequence with DADA2?
+  - 
 - I didn't find the database you used as a starting point: from the Zehr Lab
+  - 
 - Good point is that everything is annotated to the class level at least.
+  - 
+
+
+
+# Day 11: 02/05/2023
+
+I think building a new database from scratch is a better option because there is a lot of redundant sequences and I feel like it isn't optimal to have such a non controlled database (for example, some sequences are really old and my have a different annotation now but there is no control over it).
+
+So I will download the protein package on blast then make a query search to gather all the data with the right filter corresponding to nifH and make a FASTA file out of it.
+
+After, I will have to check all the identical sequences to check if the same classification is assigned, if not I make a new taxonomy with the common part (among the most annotated because there can be sequences with non complete annotation and in this case, we would loose information). And if it is, then I remove arbitrarily all the useless sequences to keep only one sequence.
+
+Then, if I have done everything, I retry with DADA2 and if I obtain to see if it works.
+
+Then I can add the sequences from DNA too in an other file and only add the ones hat are not already inside. 
+
+## Attempt
+
+There is a database called Identical protein group that is giving me all the unique sequences coming from different databases sources: refseq, INSDC, PDB, UniProtKB/Swiss-Prot, PIR, PRF. It is really amazing!!! I obtain 6783 sequences.
+
+Then with the file, I obtain the acession number but it means that I will have to deal with different web interfaces, that's the main down side. But most of the sequences are coming from INSDC and RefSeq (except 59 sequences)
+
+
+
+My problem so far is that I obtain the whole genome, it is really slow and I don't even have the taxonomy
+
+
+
+# Day 12: 03/05/2023
+
+If I can obtain the  CDS Region in Nucleotide from identical protein group, then I can obtain directly the sequence if I find where I have to search.
+
+But It seems that NCBI didn't implement any search tool to obtain the right sequence directly from an ID like "NZ_FQZT01000024.1 24762-25643 (-)".
+
+I will have to obtain the sequence of the whole genome and then only keep the parts I'm interested in. furthermore, I have to be carfull if it's the 6 or + strand. I think using identical protein group is the good option. The easiest way might be to retrieve the whole sequence and then to make a fasta file out of the part I'm interested in. The problem is that take the coding sequences of the whole genome would take around 4Mo and I have a bit less than 10k sequences, I would make downloading 40 go instead of 1Ko per sequences making 10 Mo to download which is reasonable. I can't use the first option, I would put NCBI servers down, restrict the other users from doing important stuff or just being stopped in the middle.
+
+I think it would be better to retrieve the id directly in NCBI because it's not possible to use identical protein groups eiter in python or in R but after, maybe using python might be more suitable to extract and filter the data.
+
+
+
+For the moment, I have to search in nucleotides with the Nucleotide.accession but it gives me the whole genome so now I'll have to see if possible to only obtain the pat I'm interested in.
+
+
+
+## Bio-python
+
+**to recap, I want two thing, giving a Nucleotid.accession, a start + a stop(if I only want to take the whole genome and only the CDS) of just the protein name (if I only take the CDS, then I have to select the correct sub-unit), the taxonomy and the sequence of the gene of interest**
+
+
+
+```python
+from Bio.Seq import Seq
+my_seq = Seq("GATCGATGGGCCTATATAGGATCGAAAATCGC")
+my_seq[4:12] # if only want bp from 4 t 12, gives Seq('GATGGGCC')
+
+
+
+```
+
+### SeqRecord object
+
+offers the following information as attributes:
+
+- **.seq – The sequence itself, typically a Seq object.**
+- **.id – The primary ID used to identify the sequence – a string. In most cases this is something like an accession number.**
+- **.name – A “common” name/id for the sequence – a string. In some cases this will be the same as the accession number, but it could also be a clone name. I think of this as being analogous to the LOCUS id in a GenBank record.**
+- .description – A human readable description or expressive name for the sequence – a string.
+- .letter annotations – Holds per-letter-annotations using a (restricted) dictionary of additional information about the letters in the sequence. The keys are the name of the information, and the information is contained in the value as a Python sequence (i.e. a list, tuple or string) with the same length as the sequence itself. This is often used for quality scores (e.g. Section 20.1.6) or secondary structure information (e.g. from Stockholm/PFAM alignment files).
+- .annotations – A dictionary of additional information about the sequence. The keys are the name of the information, and the information is contained in the value. This allows the addition of more “unstructured” information to the sequence.
+- .features – A list of SeqFeature objects with more structured information about the features on a sequence (e.g. position of genes on a genome, or domains on a protein sequence). The structure of sequence features is described below in Section 4.3.
+- .dbxrefs - A list of database cross-references as strings.
+
+```python
+from Bio import SeqIO
+record = SeqIO.read("NC_005816.gb", "genbank") # if we have the database localy on the computer
+record
+```
+
+### SeqFeature objects
+
+the Biopython SeqFeature class attempts to encapsulate as much of the information about the sequence as possible: describe a region on a parent sequence, typically a SeqRecord object:
+
+- **.type (CDS or gene)**
+- **.location**
+- .ref
+- .ref_db
+- **.strand**
+
+### Slicing a SeqRecord (page 42)
+
+```python
+from Bio import SeqIO
+record = SeqIO.read("NC_005816.gb", "genbank")
+record
+len(record)
+len(record.features)
+print(record.features[20]) # access to the feature 21
+print(record.features[21])
+
+```
 
 
 
