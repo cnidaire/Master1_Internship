@@ -328,8 +328,6 @@ from Bio.Seq import Seq
 my_seq = Seq("GATCGATGGGCCTATATAGGATCGAAAATCGC")
 my_seq[4:12] # if only want bp from 4 t 12, gives Seq('GATGGGCC')
 
-
-
 ```
 
 ### SeqRecord object
@@ -373,6 +371,84 @@ print(record.features[20]) # access to the feature 21
 print(record.features[21])
 
 ```
+
+
+
+# Day13 : 05/05/2023
+
+Continue the tutorial of biopython.
+
+I think I will need the genbank format because it contains the taxonomy and the sequence and then make a Fasta file out of it.
+
+Apparently, It might be better to first save the files on my computer and then work on it.
+
+I just realized that the accession number is usually giving me the whole genome and in  Amino Acids but contain the taxonomy. And on the other hand, the id contains only the sequences (DNA) I'm interested in but the taxonomy is  unidentified. So I want the sequences coming from the id and the taxonomy of the Accession number.
+
+
+
+The thing is that I have a lot of similar sequences (CDS coming form the same genome). Hence I have to find a satisfying file format containing the whole genome (because when I only have the CDS, It's the CDS for the + strand and hence I can't obtain the complementfor the minus strand: with full sequences, I can obtain the complement with Biopython). **THE FASTA FORMAT, OF COURSE!!!** Then I have a way to proceed:
+
+-  collect the full fasta files for the unique sequences: only around 2K for NCBI and store all of these files individually locally but I don't know yet how to obtain it from the nucleotide accession number
+- After It, find a way to
+
+For the moment, I'm against the wall because I wanna use the Identical Protein Group but there is a huge lack of information on it making that I don't really know what I'm doing.
+
+https://astrobiomike.github.io/unix/ncbi_eutils might save me
+
+
+
+
+
+### Parsing sequences from the net (page 54)
+
+```python
+from Bio import Entrez
+from Bio import SeqIO
+Entrez.email = "A.N.Other@example.com"
+with Entrez.efetch(
+	db="nucleotide", rettype="fasta", retmode="text", id="6273291") as handle:
+	seq_record = SeqIO.read(handle, "fasta")
+print("%s with %i features" % (seq_record.id, len(seq_record.features)))
+
+# for multiple records
+
+from Bio import Entrez
+from Bio import SeqIO
+Entrez.email = "remi.legrand38@gmail.com.com"
+with Entrez.efetch(
+	db="nucleotide", rettype="gb", retmode="text", id="6273291,6273290,6273289") as handle:
+	for seq_record in SeqIO.parse(handle, "gb"):
+		print("%s %s..." % (seq_record.id, seq_record.description[:50]))
+		print(
+			"Sequence length %i, %i features, from: %s"
+			% (
+				len(seq_record),
+				len(seq_record.features),
+				seq_record.annotations["source"],
+			)
+		)
+```
+
+```python
+# for SwissProt sequences
+
+from Bio import ExPASy
+from Bio import SeqIO
+with ExPASy.get_sprot_raw("O23729") as handle:
+seq_record = SeqIO.read(handle, "swiss")
+print(seq_record.id)
+print(seq_record.name)
+print(seq_record.description)
+print(repr(seq_record.seq))
+print("Length %i" % len(seq_record))
+print(seq_record.annotations["keywords"])
+```
+
+
+
+## Interest of Identical Protein Group
+
+In 2014 NCBI introduced the ‘Identical Protein Report’ to the Protein  database to clarify the relationships between WP sequences and the set  of individual Nucleotide CDS sequences they represent ([8](javascript:;)). Now these reports have been improved and collected in a new resource called Identical Protein Groups ([www.ncbi.nlm.nih.gov/ipg/](http://www.ncbi.nlm.nih.gov/ipg/)). This IPG resource includes all NCBI protein sequences, including  records from INSDC, RefSeq, Swiss-Prot, and PDB, with links to  nucleotide coding sequences from GenBank and RefSeq. The title of each  record is derived from the ‘best’ sequence in each group, where the  hierarchy for determining the best sequence is RefSeq > Swiss-Prot  > PIR, PDB > GenBank > patent ([www.ncbi.nlm.nih.gov/ipg/docs/faq/](http://www.ncbi.nlm.nih.gov/ipg/docs/faq/)). Searches in this database can be filtered by database source, taxonomy, and the number of sequences in the group. These reports continue to be  available through the E-utility EFetch with *&db = protein&rettype = ipg* ([eutils.ncbi.nlm.nih.gov](http://eutils.ncbi.nlm.nih.gov)).
 
 
 
