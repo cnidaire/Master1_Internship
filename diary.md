@@ -452,6 +452,81 @@ In 2014 NCBI introduced the ‘Identical Protein Report’ to the Protein  datab
 
 
 
+# Day 14: 05/05/2023
+
+I gave up on using IPG, I want to obtain some exploitable results first.
+
+
+
+## Gather ids of sequence of interest in the protein database
+
+```python
+from Bio import Entrez
+# function to search data on NCBI
+def search_ipg(query):
+    handle = Entrez.esearch(db="protein", term=query, retmax=20000) # number of sequences
+    record = Entrez.read(handle)
+    handle.close()
+    return record["IdList"]
+# create a list containing the ID
+query = "((nifH[Gene Name]) AND 100:350[Sequence Length]) NOT uncultured"
+id_list = search_ipg(query)
+print(result)
+```
+
+## Obtain the CDS (DNA) for a single sequence
+
+around 1Ko
+
+```python
+from Bio import SeqIO
+Entrez.email = "remi.legrand38@gmail.com"
+with Entrez.efetch(
+	db="protein", rettype="fasta_cds_na", retmode="text", id="2497592678") as handle:
+	seq_record = SeqIO.read(handle, "fasta")
+print("%s with %i features" % (seq_record.id, len(seq_record.features)))
+
+seq_record
+# in a function to make it cleaner and call it in a loop after:
+def fetch_cds_fasta(protein_id):
+    Entrez.email = "remi.legrand38@gmail.com"
+    handle = Entrez.efetch(db="protein", id=protein_id, rettype="fasta_cds_na", retmode="text")
+    record = SeqIO.read(handle, "fasta")
+    handle.close()
+    return record
+
+# Usage
+protein_id = "2497592678"  # Replace with the protein ID you want to retrieve
+result = fetch_cds_fasta(protein_id)
+print(result)
+result.seq # to obtain only the sequence
+```
+
+# Obtain the taxonomy for a single sequence
+
+around 2Ko for a genpept file
+
+```python
+from Bio import Entrez
+from Bio import SeqIO
+
+def fetch_cds_fasta(protein_id):
+    Entrez.email = "remi.legrand38@gmail.com"
+    handle = Entrez.efetch(db="protein", id=protein_id, rettype="gp", retmode="text")
+    # genpept_data = handle.read()
+    record = SeqIO.read(handle, "gb")
+    handle.close()
+    return record
+
+# Usage
+protein_id = "2497592678"  # Replace with the protein ID you want to retrieve
+result = fetch_cds_fasta(protein_id)
+# print(result)
+result.annotations["taxonomy"]
+```
+
+
+
 # Pipeline
 
 - [ ] Collect marine? nifH amplicon sequences from NCBI and ENA
