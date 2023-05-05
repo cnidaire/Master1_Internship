@@ -525,7 +525,25 @@ result = fetch_cds_fasta(protein_id)
 result.annotations["taxonomy"]
 ```
 
+## Organization of code:
 
+- search all id
+- def functions: get_seq and get_tax
+- for sequence in seq_id:
+  - seq = get_seq(sequence)
+  - tax = get_tax(sequence)
+  - add_in_file(parse(">","tax"))
+  - add_in_file(seq)
+
+Some sequences don't have an associated CDS sequence (like: "2154555316") so I have to make sure that I don't include these ones in my
+
+when the file is empty, the length of the file is 1 because there is only a "\n" inside. 
+
+**It takes around 15 min to treat 300 sequences and as there is 17k and around half of it that has not CDS... Hnec it should take around 7 hours !!!! HAAAAAAAAAAAAAAAAAAAAAAAAAA!!!!!**
+
+I can be reduced by nearly a third if I succed to ask for the CDS fasta file only once. and depending on when I compute how much time is needed, it's around 5-6 so going to 3-4 is still a lot but more acceptable. It's still way faster than making it by hand.
+
+It seems like it's working but I will have to get rid of the sub classes. luckily, they contain all group at the end so I should be able to get rid of it with a regular expression. like : ";something/something group;" -> ";"
 
 # Pipeline
 
