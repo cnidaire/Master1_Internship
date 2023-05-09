@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+178280531	RefSeq	NZ_CP024313.1	212665	213558	+	WP_104825721.1	nitrogenase iron protein	Rhizobium sp. NXC24	NXC24	GCF_002944315.1
+178280531	RefSeq	NZ_CP104160.1	253198	254091	+	WP_104825721.1	nitrogenase iron protein	Rhizobium tropici	CB3060	GCF_025200735.1
+178280531	INSDC	CP024313.1	212665	213558	+	AVA24167.1	nitrogenase iron protein NifH	Rhizobium sp. NXC24	NXC24	GCA_002944315.1
+178280531	INSDC	CP104160.1	253198	254091	+	UWU25807.1	nitrogenase iron protein	Rhizobium tropici	CB3060	GCA_025200735.1

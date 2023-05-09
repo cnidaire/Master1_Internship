@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+195498420	RefSeq	NZ_QNRK01000044.1	29330	30232	+	WP_113892793.1	nitrogenase iron protein	Roseiarcus fermentans	DSM 24875	GCF_003315135.1
+195498420	INSDC	QNRK01000044.1	29330	30232	+	RBP03474.1	Mo-nitrogenase iron protein subunit NifH	Roseiarcus fermentans	DSM 24875	GCA_003315135.1

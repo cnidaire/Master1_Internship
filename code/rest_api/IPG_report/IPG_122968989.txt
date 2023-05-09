@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+122968989	RefSeq	NZ_FNHQ01000044.1	8938	9699	-	WP_091652788.1	nitrogenase iron protein NifH	Megasphaera paucivorans	DSM 16981	GCF_900103535.1
+122968989	INSDC	FNHQ01000044.1	8938	9699	-	SDN38687.1	nitrogenase iron protein NifH	Megasphaera paucivorans	DSM 16981	GCA_900103535.1

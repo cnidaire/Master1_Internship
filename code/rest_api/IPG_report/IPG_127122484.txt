@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+127122484	RefSeq	NZ_FOVE01000009.1	53785	54663	-	WP_091193715.1	nitrogenase iron protein	Formivibrio citricus	DSM 6150	GCF_900115065.1
+127122484	INSDC	FOVE01000009.1	53785	54663	-	SFN43965.1	Mo-nitrogenase iron protein subunit NifH	Formivibrio citricus	DSM 6150	GCA_900115065.1

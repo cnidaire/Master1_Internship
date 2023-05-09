@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+27314643	RefSeq	NZ_AGRW01000050.1	18080	18931	-	WP_002705005.1	nitrogenase iron protein	Treponema saccharophilum DSM 2985	DSM 2985	GCF_000255555.1
+27314643	INSDC	AGRW01000050.1	18080	18931	-	EIC01336.1	Mo-nitrogenase iron protein subunit NifH	Treponema saccharophilum DSM 2985	DSM 2985	GCA_000255555.2
+27314643	INSDC	JAFNSC010000217.1	262	1113	+	MBQ5538336.1	nitrogenase iron protein	Treponema sp.		GCA_017385285.1

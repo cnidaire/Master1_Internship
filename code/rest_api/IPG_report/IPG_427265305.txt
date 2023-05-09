@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+427265305	RefSeq	NZ_JAGGLK010000001.1	97640	98434	-	WP_209677965.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanohalophilus levihalophilus	DSM 28452	GCF_017874375.1
+427265305	INSDC	JAGGLK010000001.1	97640	98434	-	MBP2029170.1	nitrogenase iron protein NifH	Methanohalophilus levihalophilus	DSM 28452	GCA_017874375.1

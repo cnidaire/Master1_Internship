@@ -1,0 +1,12 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+75003110	RefSeq	NZ_BBJH01000048.1	35463	36344	+	WP_042270746.1	nitrogenase iron protein	Paraburkholderia heleia NBRC 101817	NBRC 101817	GCF_000739775.1
+75003110	RefSeq	NZ_JACHVZ010000025.1	59328	60209	+	WP_042270746.1	nitrogenase iron protein	Paraburkholderia silvatlantica	SRMrh-85	GCF_014191065.1
+75003110	RefSeq	NZ_QEOL01000030.1	59328	60209	+	WP_042270746.1	nitrogenase iron protein	Paraburkholderia silvatlantica	PSCR-88	GCF_003096715.1
+75003110	RefSeq	NZ_QIMG01000030.1	59328	60209	+	WP_042270746.1	nitrogenase iron protein	Paraburkholderia silvatlantica	TPCrh-89	GCF_003201275.1
+75003110	RefSeq	NZ_QJSQ01000014.1	68163	69044	+	WP_042270746.1	nitrogenase iron protein	Paraburkholderia silvatlantica	SRCL-318	GCF_003217075.1
+75003110	RefSeq	NZ_SNYT01000012.1	92813	93694	-	WP_042270746.1	nitrogenase iron protein	Paraburkholderia silvatlantica	SRCL-319	GCF_004363225.1
+75003110	INSDC	JACHVZ010000025.1	59328	60209	+	MBB2932254.1	nitrogenase iron protein NifH	Paraburkholderia silvatlantica	SRMrh-85	GCA_014191065.1
+75003110	INSDC	QEOL01000030.1	59328	60209	+	PVY23288.1	Mo-nitrogenase iron protein subunit NifH	Paraburkholderia silvatlantica	PSCR-88	GCA_003096715.1
+75003110	INSDC	QIMG01000030.1	59328	60209	+	PXW29847.1	Mo-nitrogenase iron protein subunit NifH	Paraburkholderia silvatlantica	TPCrh-89	GCA_003201275.1
+75003110	INSDC	QJSQ01000014.1	68163	69044	+	PYE21441.1	Mo-nitrogenase iron protein subunit NifH	Paraburkholderia silvatlantica	SRCL-318	GCA_003217075.1
+75003110	INSDC	SNYT01000012.1	92813	93694	-	TDQ92319.1	Mo-nitrogenase iron protein subunit NifH	Paraburkholderia silvatlantica	SRCL-319	GCA_004363225.1

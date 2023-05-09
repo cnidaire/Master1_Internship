@@ -1,0 +1,31 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+41802330	RefSeq	NZ_CAKVRS010000010.1	53030	53848	-	WP_021717132.1	nitrogenase iron protein	Phascolarctobacterium faecium		GCF_934828915.1
+41802330	RefSeq	NZ_CAKVWA010000005.1	14604	15422	+	WP_021717132.1	nitrogenase iron protein	Phascolarctobacterium faecium		GCF_934834515.1
+41802330	RefSeq	NZ_CAKVWD010000013.1	26115	26933	-	WP_021717132.1	nitrogenase iron protein	Phascolarctobacterium faecium		GCF_934834575.1
+41802330	RefSeq	NZ_CAKVYV010000010.1	53030	53848	-	WP_021717132.1	nitrogenase iron protein	Phascolarctobacterium faecium		GCF_934835405.1
+41802330	RefSeq	NZ_CAKVZF010000010.1	53030	53848	-	WP_021717132.1	nitrogenase iron protein	Phascolarctobacterium faecium		GCF_934835505.1
+41802330	RefSeq	NZ_CAKWAV010000008.1	53595	54413	-	WP_021717132.1	nitrogenase iron protein	Phascolarctobacterium faecium		GCF_934836135.1
+41802330	RefSeq	NZ_CAKWAW010000006.1	14604	15422	+	WP_021717132.1	nitrogenase iron protein	Phascolarctobacterium faecium		GCF_934836145.1
+41802330	RefSeq	NZ_CAKWBH010000003.1	15049	15867	+	WP_021717132.1	nitrogenase iron protein	Phascolarctobacterium faecium		GCF_934836285.1
+41802330	RefSeq	NZ_CAKWCK010000009.1	14626	15444	+	WP_021717132.1	nitrogenase iron protein	Phascolarctobacterium faecium		GCF_934836725.1
+41802330	RefSeq	NZ_CAKWFJ010000009.1	14626	15444	+	WP_021717132.1	nitrogenase iron protein	Phascolarctobacterium faecium		GCF_934838615.1
+41802330	RefSeq	NZ_CAKWVP010000001.1	14604	15422	+	WP_021717132.1	nitrogenase iron protein	Phascolarctobacterium faecium		GCF_934855555.1
+41802330	RefSeq	NZ_CAKWWE010000005.1	104334	105152	-	WP_021717132.1	nitrogenase iron protein	Phascolarctobacterium faecium		GCF_934858825.1
+41802330	RefSeq	NZ_CAKXAA010000009.1	53030	53848	-	WP_021717132.1	nitrogenase iron protein	Phascolarctobacterium faecium		GCF_934868835.1
+41802330	RefSeq	NZ_CAKXAL010000006.1	104115	104933	-	WP_021717132.1	nitrogenase iron protein	Phascolarctobacterium faecium		GCF_934871275.1
+41802330	RefSeq	NZ_CAKXBU010000005.1	14626	15444	+	WP_021717132.1	nitrogenase iron protein	Phascolarctobacterium faecium		GCF_934871815.1
+41802330	RefSeq	NZ_CAKXBY010000005.1	14604	15422	+	WP_021717132.1	nitrogenase iron protein	Phascolarctobacterium faecium		GCF_934871885.1
+41802330	RefSeq	NZ_CAKXJF010000008.1	53052	53870	-	WP_021717132.1	nitrogenase iron protein	Phascolarctobacterium faecium		GCF_934875905.1
+41802330	RefSeq	NZ_CAKXKP010000005.1	14604	15422	+	WP_021717132.1	nitrogenase iron protein	Phascolarctobacterium faecium		GCF_934876255.1
+41802330	RefSeq	NZ_CAKXKT010000005.1	14604	15422	+	WP_021717132.1	nitrogenase iron protein	Phascolarctobacterium faecium		GCF_934876295.1
+41802330	RefSeq	NZ_CAKXPI010000006.1	104115	104933	-	WP_021717132.1	nitrogenase iron protein	Phascolarctobacterium faecium		GCF_934879555.1
+41802330	RefSeq	NZ_CAKXRC010000007.1	43800	44618	+	WP_021717132.1	nitrogenase iron protein	Phascolarctobacterium faecium		GCF_934880295.1
+41802330	RefSeq	NZ_CAKXWL010000010.1	53030	53848	-	WP_021717132.1	nitrogenase iron protein	Phascolarctobacterium faecium		GCF_934883095.1
+41802330	RefSeq	NZ_CAKXWO010000006.1	14626	15444	+	WP_021717132.1	nitrogenase iron protein	Phascolarctobacterium faecium		GCF_934883115.1
+41802330	RefSeq	NZ_CALXOS010000001.1	824684	825502	-	WP_021717132.1	nitrogenase iron protein	Phascolarctobacterium faecium		GCF_944390075.1
+41802330	RefSeq	NZ_CP061002.1	1767092	1767910	-	WP_021717132.1	nitrogenase iron protein	Phascolarctobacterium faecium	G104	GCF_014489955.1
+41802330	RefSeq	NZ_FR885200.1	26189	27007	-	WP_021717132.1	nitrogenase iron protein	Phascolarctobacterium faecium		GCF_000436295.1
+41802330	RefSeq	NZ_QLTS01000011.1	14683	15501	+	WP_021717132.1	nitrogenase iron protein	Phascolarctobacterium faecium DSM 14760	DSM 14760	GCF_003269275.1
+41802330	INSDC	CBDS010000012.1	26189	27007	-	CDB45091.1	putative nitrogenase iron protein	Phascolarctobacterium faecium		GCA_000436295.1
+41802330	INSDC	FR885200.1	26189	27007	-	CDB45091.1	putative nitrogenase iron protein	Phascolarctobacterium faecium		GCA_000436295.1
+41802330	INSDC	QLTS01000011.1	14683	15501	+	RAS52376.1	nitrogenase iron protein NifH	Phascolarctobacterium faecium DSM 14760	DSM 14760	GCA_003269275.1

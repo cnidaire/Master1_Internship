@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+19764320	RefSeq	NC_014002.1	1416144	1416941	+	WP_013037853.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanohalophilus mahii DSM 5219	DSM 5219	GCF_000025865.1
+19764320	INSDC	CP001994.1	1416144	1416941	+	ADE36911.1	Mo-nitrogenase iron protein subunit NifH	Methanohalophilus mahii DSM 5219	DSM 5219	GCA_000025865.1
+19764320	PAT	N/A				QPZ16248.1	Sequence 73 from patent US 10793863	Unknown		

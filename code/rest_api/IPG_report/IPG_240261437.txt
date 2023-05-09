@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+240261437	RefSeq	NZ_SOBM01000006.1	310372	311262	+	WP_133865881.1	nitrogenase iron protein	Azorhizobium sp. AG788	AG788	GCF_004364705.1
+240261437	INSDC	SOBM01000006.1	310372	311262	+	TDT92756.1	Mo-nitrogenase iron protein subunit NifH	Azorhizobium sp. AG788	AG788	GCA_004364705.1

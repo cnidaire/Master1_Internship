@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+127125494	RefSeq	NZ_FOTI01000014.1	22821	23660	-	WP_089861114.1	nitrogenase iron protein	Halanaerobium salsuginis	ATCC 51327	GCF_900114545.1
+127125494	INSDC	FOTI01000014.1	22821	23660	-	SFL48112.1	nitrogenase iron protein NifH	Halanaerobium salsuginis	ATCC 51327	GCA_900114545.1

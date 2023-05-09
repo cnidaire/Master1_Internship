@@ -539,11 +539,102 @@ Some sequences don't have an associated CDS sequence (like: "2154555316") so I h
 
 when the file is empty, the length of the file is 1 because there is only a "\n" inside. 
 
-**It takes around 15 min to treat 300 sequences and as there is 17k and around half of it that has not CDS... Hnec it should take around 7 hours !!!! HAAAAAAAAAAAAAAAAAAAAAAAAAA!!!!!**
+**It takes around 15 min to treat 300 sequences and as there is 17k and around half of it that has not CDS... Hnec it should take around 7 hours !!!! HAAAAAAAAAAAAAAAAAAAAAAAAAA!!!!!** (plot twist, it took 12  -_-'' )
 
 I can be reduced by nearly a third if I succed to ask for the CDS fasta file only once. and depending on when I compute how much time is needed, it's around 5-6 so going to 3-4 is still a lot but more acceptable. It's still way faster than making it by hand.
 
 It seems like it's working but I will have to get rid of the sub classes. luckily, they contain all group at the end so I should be able to get rid of it with a regular expression. like : ";something/something group;" -> ";"
+
+
+
+# Day 15: 09/05/2023
+
+Try to understand rest ful API of NCBI to make requests on IPG
+
+I know now how to access XML file, should use way less time, even for the previous program if the API doesn't work.
+
+Normally I should only need the get request
+
+```perl
+esearch.fcgi?db=<database>&term=<query>
+```
+
+I have no idea how to code in perl...
+
+
+
+Only focussing in IPG, if I can use it correctly, I'm done.
+
+My problem is that the thing I want to obtain is not possible to research on NCBI with a query research, so I have to use the direct link
+
+## obtain all the IPG report for the 
+
+```python
+from Bio import Entrez
+
+ipg_accession = "127971653"
+
+# Use the efetch function to retrieve the IPG record in XML format
+handle = Entrez.efetch(db="ipg", id=ipg_accession, rettype="ipg", retmode="text")
+ipg_record = handle.read()
+
+# Save the IPG record to a file
+filename = f"IPG_{ipg_accession}.txt"
+with open(filename, "wb") as file:
+    file.write(ipg_record)
+
+print(f"IPG record saved to '{filename}'")
+```
+
+```python
+# In a function:
+from Bio import Entrez
+
+# ipg_accession = "127971653"  # Replace with the desired IPG accession number
+
+def ipg_report(ipg_accession):
+    # Use the efetch function to retrieve the IPG record in XML format
+    handle = Entrez.efetch(db="ipg", id=ipg_accession, rettype="ipg", retmode="text")
+    ipg_record = handle.read()
+
+    # Save the IPG record to a file
+    filename = f"IPG_report/IPG_{ipg_accession}.txt"
+    with open(filename, "wb") as file:
+        file.write(ipg_record)
+
+    print(f"IPG record saved to '{filename}'")
+
+for id in seq_id:
+    ipg_report(id)
+```
+
+
+
+I can reconstruct a direct link with this as a template: "https://www.ncbi.nlm.nih.gov/nuccore/NZ_MLQR01000001.1?from=372833&to=373708&strand=2" meaning : "https://ncbi.nlm.nih.gov/nuccore/gene_name?from=start&to=stop&strand=1_if_+,_2_if_-": can make a function If and only if I'm able to retrieve the CDS region in nucleotide
+
+```python
+import requests
+
+url = "https://www.ncbi.nlm.nih.gov/nuccore/NZ_MLQR01000001.1?from=372833&to=373708&strand=2"
+
+# Send a GET request to the URL
+response = requests.get(url)
+
+# Check if the request was successful (status code 200)
+if response.status_code == 200:
+    # Extract the content of the response (XML file)
+    xml_content = response.text
+
+    # Save the XML content to a file
+    with open("result.xml", "w") as file:
+        file.write(xml_content)
+        
+    print("XML file downloaded successfully.")
+else:
+    print("Failed to download the XML file.")
+```
+
+
 
 # Pipeline
 

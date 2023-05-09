@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+44492778	RefSeq	NZ_KB906916.1	33558	34376	-	WP_022819822.1	nitrogenase iron protein NifH	Fusobacterium russii ATCC 25533	593A	GCF_000381725.1

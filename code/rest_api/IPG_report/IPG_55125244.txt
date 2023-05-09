@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+55125244	RefSeq	NZ_AUCX01000020.1	22656	23423	+	WP_027179338.1	Mo-nitrogenase iron protein subunit NifH	Maridesulfovibrio bastinii DSM 16055	DSM 16055	GCF_000429985.1

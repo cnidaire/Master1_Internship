@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+107895	RefSeq	NC_003551.1	1444991	1445791	-	WP_011019784.1	AAA family ATPase	Methanopyrus kandleri AV19	AV19	GCF_000007185.1
+107895	RefSeq	NZ_DUJS01000003.1	30290	31090	+	WP_011019784.1	AAA family ATPase	Methanopyrus kandleri		GCF_013329715.1
+107895	INSDC	AE009439.1	1444991	1445791	-	AAM02629.1	Nitrogenase subunit NifH (ATPase)	Methanopyrus kandleri AV19	AV19	GCA_000007185.1
+107895	INSDC	DUJS01000003.1	30290	31090	+	HII70252.1	AAA family ATPase	Methanopyrus kandleri		GCA_013329715.1
+107895	PAT	N/A				QPZ16255.1	Sequence 80 from patent US 10793863	Unknown		

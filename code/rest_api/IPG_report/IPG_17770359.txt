@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+17770359	RefSeq	NZ_GG694006.1	503372	504184	-	WP_006689841.1	nitrogenase iron protein NifH	Selenomonas flueggei ATCC 43531	ATCC 43531	GCF_000160695.1
+17770359	INSDC	ACLA01000014.1	76841	77653	-	EEQ48627.1	putative nitrogenase iron protein	Selenomonas flueggei ATCC 43531	ATCC 43531	GCA_000160695.1
+17770359	INSDC	GG694006.1	503372	504184	-	EEQ48627.1	putative nitrogenase iron protein	Selenomonas flueggei ATCC 43531	ATCC 43531	GCA_000160695.1

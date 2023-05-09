@@ -1,0 +1,447 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+296546	RefSeq	NC_003037.1	453556	454449	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti 1021	1021	GCF_000006965.1
+296546	RefSeq	NC_015591.1	1074880	1075773	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti AK83	AK83	GCF_000147795.2
+296546	RefSeq	NC_017324.1	943763	944656	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti BL225C	BL225C	GCF_000147775.2
+296546	RefSeq	NC_017327.1	1026390	1027283	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti SM11	SM11	GCF_000218265.1
+296546	RefSeq	NC_018683.1	731265	732158	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti Rm41	Rm41	GCF_000304415.1
+296546	RefSeq	NC_019848.2	1014541	1015434	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti GR4	GR4	GCF_000320385.2
+296546	RefSeq	NC_020527.1	453216	454109	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti 2011	2011	GCF_000346065.1
+296546	RefSeq	NZ_AGVV01000058.1	12682	13575	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti CCNWSX0020	CCNWSX0020	GCF_000236945.1
+296546	RefSeq	NZ_AKZW01000008.1	11294	12187	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti AE608H	AE608H	GCF_000287555.1
+296546	RefSeq	NZ_ATTK01000080.1	10488	11381	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti MVII-I	MVII-I	GCF_000419645.1
+296546	RefSeq	NZ_ATYH01000047.1	8527	9420	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti CIAM1775	CIAM1775	GCF_000427585.1
+296546	RefSeq	NZ_ATYP01000039.1	35203	36096	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti RRl128	RRl128	GCF_000427745.1
+296546	RefSeq	NZ_AZNW01000086.1	681	1574	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti WSM1022	WSM1022	GCF_000510665.1
+296546	RefSeq	NZ_BJNJ01000131.1	4983	5876	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	NBRC 14782	GCF_006539625.1
+296546	RefSeq	NZ_CP009145.1	1065410	1066303	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	RMO17	GCF_000747295.1
+296546	RefSeq	NZ_CP019483.1	417923	418816	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	B401	GCF_002302355.1
+296546	RefSeq	NZ_CP019486.1	393740	394633	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	B399	GCF_002302375.1
+296546	RefSeq	NZ_CP019585.1	569670	570563	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	CCMM B554 (FSM-MA)	GCF_002215195.1
+296546	RefSeq	NZ_CP021217.1	612788	613681	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti RU11/001	RU11/001	GCF_001050915.2
+296546	RefSeq	NZ_CP021794.1	105853	106746	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1157	GCF_002197025.1
+296546	RefSeq	NZ_CP021798.1	262829	263722	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1106	GCF_002197065.1
+296546	RefSeq	NZ_CP021801.1	969986	970879	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1021	GCF_002197445.1
+296546	RefSeq	NZ_CP021805.1	805858	806751	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	T073	GCF_002197145.1
+296546	RefSeq	NZ_CP021809.1	1442880	1443773	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	Rm41	GCF_002197045.1
+296546	RefSeq	NZ_CP021824.1	944040	944933	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	KH46	GCF_002197465.1
+296546	RefSeq	NZ_CP021827.1	642032	642925	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	KH35c	GCF_002197105.1
+296546	RefSeq	NZ_CP021830.1	465456	466349	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	HM006	GCF_002197165.1
+296546	RefSeq	NZ_CP026526.1	790586	791479	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	AK21	GCF_009664245.1
+296546	RefSeq	NZ_CP054392.1	1008730	1009623	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti WSM1022	WSM1022	GCF_013315775.1
+296546	RefSeq	NZ_CP065021.1	400500	401393	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	S35m	GCF_015689095.1
+296546	RefSeq	NZ_CP066361.1	923576	924469	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	AK76	GCF_016406285.1
+296546	RefSeq	NZ_CP085527.1	405058	405951	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	L6-AK89	GCF_020684825.1
+296546	RefSeq	NZ_CP088115.1	582525	583418	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	RRI128	GCF_021052665.1
+296546	RefSeq	NZ_CP123005.1	456915	457808	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	BIM B-442D	GCF_029854455.1
+296546	RefSeq	NZ_FNOO01000067.1	2280	3173	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	DSM 23914	GCF_900107055.1
+296546	RefSeq	NZ_FNYP01000081.1	382	1275	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	AK83	GCF_900108935.1
+296546	RefSeq	NZ_JADZOA010000003.1	374281	375174	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	T073	GCF_028888085.1
+296546	RefSeq	NZ_JADZOB010000003.1	910219	911112	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	NRG-185	GCF_028888105.1
+296546	RefSeq	NZ_JADZOC010000005.1	493586	494479	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	H1	GCF_028888125.1
+296546	RefSeq	NZ_JADZOD010000001.1	745704	746597	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	CL374FF	GCF_028888155.1
+296546	RefSeq	NZ_JADZOE010000004.1	997236	998129	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	CE480L	GCF_028888165.1
+296546	RefSeq	NZ_JADZOF010000003.1	693588	694481	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	BE31LL	GCF_028888205.1
+296546	RefSeq	NZ_JADZOG010000001.1	1496708	1497601	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	AO641M	GCF_028888265.1
+296546	RefSeq	NZ_JADZOH010000002.1	60862	61755	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	AL703H	GCF_028888255.1
+296546	RefSeq	NZ_JADZOI010000007.1	792596	793489	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	AL703GG	GCF_028888245.1
+296546	RefSeq	NZ_JADZOJ010000002.1	939453	940346	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	AE608H	GCF_028888225.1
+296546	RefSeq	NZ_JADZOK010000003.1	852596	853489	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	8A52	GCF_028888305.1
+296546	RefSeq	NZ_JADZOL010000003.1	824603	825496	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	7B22	GCF_028888325.1
+296546	RefSeq	NZ_JADZOM010000002.1	714051	714944	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	4B41	GCF_028888345.1
+296546	RefSeq	NZ_JADZON010000002.1	495375	496268	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	1A42	GCF_028888395.1
+296546	RefSeq	NZ_JAFFTL010000069.1	1563	2456	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	LPU63	GCF_024102695.1
+296546	RefSeq	NZ_JAFNII010000002.1	680461	681354	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	FSM-MA_3	GCF_023118985.1
+296546	RefSeq	NZ_JAFNIJ010000002.1	647764	648657	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	FSM-MA_2	GCF_023119045.1
+296546	RefSeq	NZ_JAFNIK010000002.1	777624	778517	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	FSM-MA_1	GCF_023118975.1
+296546	RefSeq	NZ_JAFNIL010000003.1	66761	67654	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	2011_3	GCF_023118995.1
+296546	RefSeq	NZ_JAFNIM010000002.1	439202	440095	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	2011_2	GCF_023119065.1
+296546	RefSeq	NZ_JAFNIN010000002.1	22522	23415	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	2011_1	GCF_023119085.1
+296546	RefSeq	NZ_JAGIOS010000003.1	602943	603836	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA 1002	GCF_017876815.1
+296546	RefSeq	NZ_JAJJBH010000005.1	616641	617534	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti SM11	SM11	GCF_028894985.1
+296546	RefSeq	NZ_JAJJBI010000002.1	1022247	1023140	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	CO438LL	GCF_028895005.1
+296546	RefSeq	NZ_JAJJBJ010000002.1	981118	982011	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	CO431A	GCF_028895025.1
+296546	RefSeq	NZ_JAJJBK010000002.1	874813	875706	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	BO21CC	GCF_028895055.1
+296546	RefSeq	NZ_JAJJBL010000002.1	926139	927032	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	BL225C	GCF_028895125.1
+296546	RefSeq	NZ_JAJJBM010000002.1	499181	500074	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	AO643DD	GCF_028895045.1
+296546	RefSeq	NZ_JAJJBN010000002.1	1076458	1077351	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	AK83	GCF_028895065.1
+296546	RefSeq	NZ_JAJJBO010000004.1	918793	919686	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	AK75	GCF_028895105.1
+296546	RefSeq	NZ_JAJJBP010000003.1	581742	582635	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	AK58	GCF_028895165.1
+296546	RefSeq	NZ_JAMKQB010000102.1	143108	144001	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	CE52G	GCF_023733835.1
+296546	RefSeq	NZ_JZXD01000084.1	10096	10989	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	L5-30	GCF_000968555.1
+296546	RefSeq	NZ_KI421519.1	277079	277972	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti BO21CC	BO21CC	GCF_000473405.1
+296546	RefSeq	NZ_KI421522.1	1276073	1276966	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti AK58	AK58	GCF_000473425.1
+296546	RefSeq	NZ_PZMI02000003.1	434578	435471	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	AK555	GCF_003044175.2
+296546	RefSeq	NZ_PZMJ02000003.1	1251529	1252422	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	CXM1-105	GCF_003044215.2
+296546	RefSeq	NZ_RPHK01000056.1	1122	2015	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1919	GCF_004001365.1
+296546	RefSeq	NZ_RPHL01000064.1	18538	19431	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1883	GCF_004001385.1
+296546	RefSeq	NZ_RPHM01000069.1	18538	19431	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1819	GCF_004001625.1
+296546	RefSeq	NZ_RPHN01000040.1	36365	37258	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1810	GCF_004001395.1
+296546	RefSeq	NZ_RPHO01000066.1	13480	14373	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1808	GCF_004001375.1
+296546	RefSeq	NZ_RPHR01000081.1	1246	2139	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1796	GCF_004001485.1
+296546	RefSeq	NZ_RPHS01000096.1	102	995	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1795	GCF_004001495.1
+296546	RefSeq	NZ_RPHT01000048.1	13584	14477	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1794	GCF_004001635.1
+296546	RefSeq	NZ_RPHU01000133.1	12222	13115	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1793	GCF_004001465.1
+296546	RefSeq	NZ_RPHV01000049.1	18978	19871	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1792	GCF_004001505.1
+296546	RefSeq	NZ_RPHW01000042.1	13560	14453	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1791	GCF_004001675.1
+296546	RefSeq	NZ_RPHX01000040.1	36778	37671	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1790	GCF_004001575.1
+296546	RefSeq	NZ_RPHY01000088.1	15779	16672	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1788	GCF_004001565.1
+296546	RefSeq	NZ_RPHZ01000081.1	10345	11238	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1787	GCF_004001735.1
+296546	RefSeq	NZ_RPIA01000073.1	12691	13584	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1777	GCF_004001585.1
+296546	RefSeq	NZ_RPIC01000063.1	7639	8532	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1767	GCF_004001665.1
+296546	RefSeq	NZ_RPID01000099.1	8495	9388	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1760	GCF_004001725.1
+296546	RefSeq	NZ_RPIE01000061.1	8340	9233	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1751	GCF_004001715.1
+296546	RefSeq	NZ_RPIF01000104.1	559	1452	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1742	GCF_004001745.1
+296546	RefSeq	NZ_RPIG01000059.1	18538	19431	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1734	GCF_004001805.1
+296546	RefSeq	NZ_RPIH01000088.1	16211	17104	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1730	GCF_004001815.1
+296546	RefSeq	NZ_RPII01000103.1	365	1258	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1724	GCF_004002045.1
+296546	RefSeq	NZ_RPIJ01000053.1	18791	19684	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1719	GCF_004001825.1
+296546	RefSeq	NZ_RPIK01000097.1	410	1303	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1710	GCF_004001855.1
+296546	RefSeq	NZ_RPIL01000090.1	14469	15362	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1708	GCF_004001835.1
+296546	RefSeq	NZ_RPIN01000081.1	19262	20155	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1703	GCF_004002185.1
+296546	RefSeq	NZ_RPIO01000016.1	13986	14879	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1702	GCF_004002055.1
+296546	RefSeq	NZ_RPIP01000073.1	18512	19405	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1700	GCF_004001915.1
+296546	RefSeq	NZ_RPIQ01000080.1	24425	25318	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1699	GCF_004001925.1
+296546	RefSeq	NZ_RPIR01000093.1	10346	11239	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1696	GCF_004001965.1
+296546	RefSeq	NZ_RPIS01000147.1	1661	2554	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1695	GCF_004002495.1
+296546	RefSeq	NZ_RPIU01000053.1	18493	19386	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1692	GCF_004001995.1
+296546	RefSeq	NZ_RPIV01000034.1	18610	19503	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1691	GCF_004002015.1
+296546	RefSeq	NZ_RPIW01000040.1	19367	20260	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1688	GCF_004002035.1
+296546	RefSeq	NZ_RPIZ01000060.1	11900	12793	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1676	GCF_004002165.1
+296546	RefSeq	NZ_RPJA01000066.1	10304	11197	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1666	GCF_004002535.1
+296546	RefSeq	NZ_RPJC01000113.1	18843	19736	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1661	GCF_004002545.1
+296546	RefSeq	NZ_RPJD01000123.1	18322	19215	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1660	GCF_004002175.1
+296546	RefSeq	NZ_RPJE01000174.1	224	1117	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1659	GCF_004002195.1
+296546	RefSeq	NZ_RPJF01000130.1	13765	14658	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1656	GCF_004002125.1
+296546	RefSeq	NZ_RPJG01000032.1	21685	22578	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1655	GCF_004002255.1
+296546	RefSeq	NZ_RPJR01000068.1	10414	11307	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1617	GCF_004002605.1
+296546	RefSeq	NZ_RPKA01000071.1	24440	25333	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1603	GCF_004002705.1
+296546	RefSeq	NZ_RPKB01000142.1	10238	11131	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1594	GCF_004002715.1
+296546	RefSeq	NZ_RPKC01000055.1	19661	20554	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1593	GCF_004002615.1
+296546	RefSeq	NZ_RPKD01000060.1	19330	20223	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1591	GCF_004003215.1
+296546	RefSeq	NZ_RPKE01000049.1	13719	14612	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1590	GCF_004002425.1
+296546	RefSeq	NZ_RPKF01000039.1	36713	37606	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1589	GCF_004003095.1
+296546	RefSeq	NZ_RPKG01000177.1	50	943	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1583	GCF_004003075.1
+296546	RefSeq	NZ_RPKH01000046.1	42580	43473	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1581	GCF_004002635.1
+296546	RefSeq	NZ_RPKI01000041.1	19069	19962	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1580	GCF_004002795.1
+296546	RefSeq	NZ_RPKJ01000086.1	18977	19870	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1571	GCF_004002455.1
+296546	RefSeq	NZ_RPKK01000043.1	34418	35311	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1566	GCF_004002825.1
+296546	RefSeq	NZ_RPKL01000063.1	25045	25938	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1565	GCF_004002835.1
+296546	RefSeq	NZ_RPKM01000055.1	5085	5978	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1562	GCF_004003085.1
+296546	RefSeq	NZ_RPKN01000035.1	41382	42275	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1561	GCF_004017605.1
+296546	RefSeq	NZ_RPKO01000109.1	18910	19803	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1550	GCF_004002675.1
+296546	RefSeq	NZ_RPKP01000093.1	18524	19417	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1533	GCF_004002845.1
+296546	RefSeq	NZ_RPKQ01000043.1	24411	25304	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1530	GCF_004002805.1
+296546	RefSeq	NZ_RPKR01000057.1	24338	25231	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1520	GCF_004003105.1
+296546	RefSeq	NZ_RPKS01000083.1	11358	12251	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1519	GCF_004002895.1
+296546	RefSeq	NZ_RPKT01000100.1	18902	19795	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1508	GCF_004002915.1
+296546	RefSeq	NZ_RPKU01000042.1	34418	35311	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1501	GCF_004003165.1
+296546	RefSeq	NZ_RPKV01000012.1	15751	16644	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1497	GCF_004003155.1
+296546	RefSeq	NZ_RPKW01000151.1	50	943	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1496	GCF_004017615.1
+296546	RefSeq	NZ_RPKX01000047.1	24671	25564	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1491	GCF_004002905.1
+296546	RefSeq	NZ_RPKY01000098.1	8356	9249	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1467	GCF_004002925.1
+296546	RefSeq	NZ_RPKZ01000061.1	13746	14639	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1464	GCF_004002465.1
+296546	RefSeq	NZ_RPLA01000096.1	14340	15233	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1463	GCF_004003605.1
+296546	RefSeq	NZ_RPLB01000128.1	1662	2555	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1462	GCF_004002945.1
+296546	RefSeq	NZ_RPLC01000190.1	10069	10962	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1456	GCF_004003265.1
+296546	RefSeq	NZ_RPLD01000073.1	8275	9168	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1416	GCF_004003235.1
+296546	RefSeq	NZ_RPLE01000112.1	1662	2555	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1415	GCF_004003245.1
+296546	RefSeq	NZ_RPLF01000076.1	5249	6142	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1397	GCF_004003275.1
+296546	RefSeq	NZ_RPLG01000089.1	13818	14711	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1389	GCF_004022085.1
+296546	RefSeq	NZ_RPLH01000117.1	1661	2554	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1379	GCF_004002995.1
+296546	RefSeq	NZ_RPLI01000077.1	13217	14110	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1357	GCF_004022115.1
+296546	RefSeq	NZ_RPLJ01000072.1	12708	13601	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1336	GCF_004003795.1
+296546	RefSeq	NZ_RPLK01000030.1	47653	48546	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1335	GCF_004003005.1
+296546	RefSeq	NZ_RPLL01000033.1	36042	36935	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1325	GCF_004003255.1
+296546	RefSeq	NZ_RPLM01000035.1	21745	22638	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1320	GCF_004003615.1
+296546	RefSeq	NZ_RPLN01000073.1	20132	21025	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1308	GCF_004003335.1
+296546	RefSeq	NZ_RPLO01000035.1	21745	22638	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1302	GCF_004022075.1
+296546	RefSeq	NZ_RPLP01000038.1	34439	35332	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1289	GCF_004003645.1
+296546	RefSeq	NZ_RPLQ01000048.1	42485	43378	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1280	GCF_004003345.1
+296546	RefSeq	NZ_RPLR01000091.1	15752	16645	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1264	GCF_004003365.1
+296546	RefSeq	NZ_RPLS01000033.1	21745	22638	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1248	GCF_004003175.1
+296546	RefSeq	NZ_RPLT01000028.1	21448	22341	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1237	GCF_004017665.1
+296546	RefSeq	NZ_RPLU01000086.1	2252	3145	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1235	GCF_004003685.1
+296546	RefSeq	NZ_RPLV01000050.1	18414	19307	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1232	GCF_004003675.1
+296546	RefSeq	NZ_RPLW01000062.1	25045	25938	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1227	GCF_004003355.1
+296546	RefSeq	NZ_RPLX01000058.1	34929	35822	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1225	GCF_004003395.1
+296546	RefSeq	NZ_RPLY01000048.1	24509	25402	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1222	GCF_004003435.1
+296546	RefSeq	NZ_RPLZ01000072.1	18409	19302	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1221	GCF_004003445.1
+296546	RefSeq	NZ_RPMA01000146.1	1904	2797	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1220	GCF_004003815.1
+296546	RefSeq	NZ_RPMB01000067.1	18541	19434	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1215	GCF_004003705.1
+296546	RefSeq	NZ_RPMD01000071.1	13217	14110	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1212	GCF_004003475.1
+296546	RefSeq	NZ_RPME01000018.1	18749	19642	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1211	GCF_004003495.1
+296546	RefSeq	NZ_RPMF01000076.1	18804	19697	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1210	GCF_004003515.1
+296546	RefSeq	NZ_RPMG01000047.1	12821	13714	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1208	GCF_004003505.1
+296546	RefSeq	NZ_RPMH01000071.1	8275	9168	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1206	GCF_004003555.1
+296546	RefSeq	NZ_RPMI01000093.1	15752	16645	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1205	GCF_004003745.1
+296546	RefSeq	NZ_RPMJ01000122.1	727	1620	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1204	GCF_004003835.1
+296546	RefSeq	NZ_RPMK01000155.1	5846	6739	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1203	GCF_004003765.1
+296546	RefSeq	NZ_RPML01000184.1	10069	10962	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1202	GCF_004003565.1
+296546	RefSeq	NZ_RPMM01000068.1	4569	5462	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1200	GCF_004003845.1
+296546	RefSeq	NZ_RPMN01000216.1	6785	7678	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1199	GCF_004003595.1
+296546	RefSeq	NZ_RPMO01000091.1	10346	11239	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1198	GCF_004004265.1
+296546	RefSeq	NZ_RPMP01000047.1	20230	21123	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1195	GCF_004003825.1
+296546	RefSeq	NZ_RPMQ01000067.1	25223	26116	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1191	GCF_004004235.1
+296546	RefSeq	NZ_RPMR01000102.1	10344	11237	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1187	GCF_004004255.1
+296546	RefSeq	NZ_RPMS01000047.1	36388	37281	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1186	GCF_004004315.1
+296546	RefSeq	NZ_RPMT01000065.1	18493	19386	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1184	GCF_004017685.1
+296546	RefSeq	NZ_RPMU01000076.1	18805	19698	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1183	GCF_004003855.1
+296546	RefSeq	NZ_RPMV01000071.1	73	966	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1180	GCF_004003915.1
+296546	RefSeq	NZ_RPMZ01000038.1	13034	13927	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1163	GCF_004004355.1
+296546	RefSeq	NZ_RPNA01000041.1	13742	14635	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1162	GCF_004003965.1
+296546	RefSeq	NZ_RPNB01000041.1	18542	19435	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1161	GCF_004004345.1
+296546	RefSeq	NZ_RPNC01000108.1	11195	12088	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1158	GCF_004003985.1
+296546	RefSeq	NZ_RPNF01000051.1	25479	26372	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1146	GCF_004004375.1
+296546	RefSeq	NZ_RPNI01000056.1	12903	13796	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1035	GCF_004004405.1
+296546	RefSeq	NZ_RPNJ01000051.1	15678	16571	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1031	GCF_004004075.1
+296546	RefSeq	NZ_RPNK01000050.1	25364	26257	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1027	GCF_004004445.1
+296546	RefSeq	NZ_RPNM01000035.1	52681	53574	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1024A	GCF_004004115.1
+296546	RefSeq	NZ_RPNN01000050.1	12710	13603	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1023	GCF_004004155.1
+296546	RefSeq	NZ_RPNO01000076.1	1685	2578	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1022	GCF_004004435.1
+296546	RefSeq	NZ_RPNP01000052.1	18482	19375	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1018	GCF_004004135.1
+296546	RefSeq	NZ_RPNQ01000051.1	36291	37184	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1008	GCF_004004455.1
+296546	RefSeq	NZ_RPNR01000053.1	11446	12339	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1007	GCF_004004145.1
+296546	RefSeq	NZ_RPNS01000089.1	18880	19773	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1006	GCF_004004215.1
+296546	RefSeq	NZ_RPNT01000042.1	46404	47297	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1005	GCF_004004225.1
+296546	RefSeq	NZ_RPNX01000086.1	10485	11378	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	3011	GCF_004017705.1
+296546	RefSeq	NZ_RPNY01000055.1	18414	19307	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	2119	GCF_004004685.1
+296546	RefSeq	NZ_WIRI01000450.1	3390	4283	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	HM006-1	GCF_009599635.1
+296546	RefSeq	NZ_WIRJ01000075.1	9146	10039	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	HM007-10	GCF_009600055.1
+296546	RefSeq	NZ_WIRK01000026.1	14151	15044	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	HM007-12	GCF_009599605.1
+296546	RefSeq	NZ_WIRL01000049.1	22892	23785	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	HM007-17	GCF_009600005.1
+296546	RefSeq	NZ_WIRM01000140.1	41539	42432	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	HM013-1	GCF_009599645.1
+296546	RefSeq	NZ_WIRN01000198.1	776	1669	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	HM015-1	GCF_009599615.1
+296546	RefSeq	NZ_WIRO01000159.1	26772	27665	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	KH12g	GCF_009599625.1
+296546	RefSeq	NZ_WIRP01000087.1	19987	20880	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	KH16b	GCF_009599845.1
+296546	RefSeq	NZ_WIRQ01000135.1	20276	21169	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	KH30a	GCF_009599805.1
+296546	RefSeq	NZ_WIRR01000010.1	15120	16013	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	KH35b	GCF_009599725.1
+296546	RefSeq	NZ_WIRS01000076.1	274	1167	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	KH35c	GCF_009599715.1
+296546	RefSeq	NZ_WIRW01000152.1	23342	24235	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	KH46b	GCF_009599835.1
+296546	RefSeq	NZ_WIRX01000061.1	20464	21357	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	KH46c	GCF_009599925.1
+296546	RefSeq	NZ_WIRY01000188.1	16895	17788	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	KH48e	GCF_009599945.1
+296546	RefSeq	NZ_WISC01000126.1	1360	2253	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	M10	GCF_009601325.1
+296546	RefSeq	NZ_WISH01000014.1	13168	14061	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	M195	GCF_009601525.1
+296546	RefSeq	NZ_WISJ01000062.1	20765	21658	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	M210	GCF_009601615.1
+296546	RefSeq	NZ_WISL01000004.1	2134	3027	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	M243	GCF_009601185.1
+296546	RefSeq	NZ_WISM01000152.1	12040	12933	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	M249	GCF_009601205.1
+296546	RefSeq	NZ_WISN01000159.1	11207	12100	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	M268	GCF_009601115.1
+296546	RefSeq	NZ_WISP01000103.1	25309	26202	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	M30	GCF_009599735.1
+296546	RefSeq	NZ_WISR01000137.1	10891	11784	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	N6B1	GCF_009601195.1
+296546	RefSeq	NZ_WISS01000255.1	18839	19732	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	N6B7	GCF_009601235.1
+296546	RefSeq	NZ_WIST01000067.1	16344	17237	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	Rm41	GCF_009601625.1
+296546	RefSeq	NZ_WISU01000124.1	11679	12572	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	T027	GCF_009601605.1
+296546	RefSeq	NZ_WISV01000167.1	11797	12690	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	T073	GCF_009601355.1
+296546	RefSeq	NZ_WISW01000086.1	30608	31501	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	T094	GCF_009601415.1
+296546	RefSeq	NZ_WISX01000103.1	11293	12186	+	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1002	GCF_009601385.1
+296546	RefSeq	NZ_WISY01000126.1	14475	15368	-	WP_003532770.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1021	GCF_009601435.1
+296546	Swiss-Prot	N/A				P00460.2	Nitrogenase iron protein	Sinorhizobium meliloti 1021		
+296546	INSDC	AE006469.1	453556	454449	+	AAK65107.1	NifH nitrogenase iron protein	Sinorhizobium meliloti 1021	1021	GCA_000006965.1
+296546	INSDC	CP002741.1	943763	944656	+	AEG07185.1	Nitrogenase iron protein	Sinorhizobium meliloti BL225C	BL225C	GCA_000147775.3
+296546	INSDC	CP002783.1	1074880	1075773	-	AEG57822.1	Nitrogenase iron protein	Sinorhizobium meliloti AK83	AK83	GCA_000147795.3
+296546	INSDC	CP001831.1	1026390	1027283	-	AEH82198.1	NifH nitrogenase iron protein	Sinorhizobium meliloti SM11	SM11	GCA_000218265.1
+296546	INSDC	CP003936.2	1014541	1015434	-	AGA09729.1	nitrogenase iron protein	Sinorhizobium meliloti GR4	GR4	GCA_000320385.2
+296546	INSDC	CP004138.1	453216	454109	+	AGG70134.1	NifH nitrogenase iron protein	Sinorhizobium meliloti 2011	2011	GCA_000346065.1
+296546	INSDC	CP009145.1	1065410	1066303	-	AIM02188.1	nitrogenase reductase	Sinorhizobium meliloti	RMO17	GCA_000747295.1
+296546	INSDC	CP021217.1	612788	613681	-	ARS66775.1	nitrogenase iron protein	Sinorhizobium meliloti RU11/001	RU11/001	GCA_001050915.2
+296546	INSDC	CP019585.1	569670	570563	+	ASJ61590.1	nitrogenase iron protein	Sinorhizobium meliloti	CCMM B554 (FSM-MA)	GCA_002215195.1
+296546	INSDC	CP021794.1	105853	106746	-	ASP53805.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1157	GCA_002197025.1
+296546	INSDC	CP021798.1	262829	263722	-	ASP60466.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1106	GCA_002197065.1
+296546	INSDC	CP021801.1	969986	970879	-	ASP67229.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1021	GCA_002197445.1
+296546	INSDC	CP021805.1	805858	806751	+	ASP74299.1	nitrogenase iron protein	Sinorhizobium meliloti	T073	GCA_002197145.1
+296546	INSDC	CP021809.1	1442880	1443773	-	ASP81247.1	nitrogenase iron protein	Sinorhizobium meliloti	Rm41	GCA_002197045.1
+296546	INSDC	CP021824.1	944040	944933	-	ASQ01833.1	nitrogenase iron protein	Sinorhizobium meliloti	KH46	GCA_002197465.1
+296546	INSDC	CP021827.1	642032	642925	+	ASQ06590.1	nitrogenase iron protein	Sinorhizobium meliloti	KH35c	GCA_002197105.1
+296546	INSDC	CP021830.1	465456	466349	-	ASQ12549.1	nitrogenase iron protein	Sinorhizobium meliloti	HM006	GCA_002197165.1
+296546	INSDC	CP019483.1	417923	418816	+	ATA95316.1	nitrogenase iron protein	Sinorhizobium meliloti	B401	GCA_002302355.1
+296546	INSDC	CP019486.1	393740	394633	+	ATB01023.1	nitrogenase iron protein	Sinorhizobium meliloti	B399	GCA_002302375.1
+296546	INSDC	HE995407.1	731265	732158	+	CCM70519.1	Nitrogenase iron protein	Sinorhizobium meliloti Rm41	Rm41	GCA_000304415.1
+296546	INSDC	AGVV01000058.1	12682	13575	+	EHK75464.1	nitrogenase reductase	Sinorhizobium meliloti CCNWSX0020	CCNWSX0020	GCA_000236945.2
+296546	INSDC	BJNJ01000131.1	4983	5876	-	GEC41727.1	nitrogenase iron protein	Sinorhizobium meliloti	NBRC 14782	GCA_006539625.1
+296546	INSDC	JZXD01000084.1	10096	10989	-	KKA10207.1	nitrogenase reductase	Sinorhizobium meliloti	L5-30	GCA_000968555.1
+296546	INSDC	JAGIOS010000003.1	602943	603836	-	MBP2469958.1	nitrogenase iron protein NifH	Sinorhizobium meliloti	USDA 1002	GCA_017876815.1
+296546	INSDC	JAFNII010000002.1	680461	681354	-	MCK3785353.1	nitrogenase iron protein	Sinorhizobium meliloti	FSM-MA_3	GCA_023118985.1
+296546	INSDC	JAFNIK010000002.1	777624	778517	-	MCK3791479.1	nitrogenase iron protein	Sinorhizobium meliloti	FSM-MA_1	GCA_023118975.1
+296546	INSDC	JAFNIJ010000002.1	647764	648657	+	MCK3797391.1	nitrogenase iron protein	Sinorhizobium meliloti	FSM-MA_2	GCA_023119045.1
+296546	INSDC	JAFNIM010000002.1	439202	440095	-	MCK3803206.1	nitrogenase iron protein	Sinorhizobium meliloti	2011_2	GCA_023119065.1
+296546	INSDC	JAFNIN010000002.1	22522	23415	+	MCK3808832.1	nitrogenase iron protein	Sinorhizobium meliloti	2011_1	GCA_023119085.1
+296546	INSDC	JAFNIL010000003.1	66761	67654	+	MCK3816351.1	nitrogenase iron protein	Sinorhizobium meliloti	2011_3	GCA_023118995.1
+296546	INSDC	JAMKQB010000102.1	143108	144001	+	MCM5690924.1	nitrogenase iron protein	Sinorhizobium meliloti	CE52G	GCA_023733835.1
+296546	INSDC	JAFFTL010000069.1	1563	2456	+	MCO6425860.1	nitrogenase iron protein	Sinorhizobium meliloti	LPU63	GCA_024102695.1
+296546	INSDC	WIRJ01000075.1	9146	10039	-	MQU68567.1	nitrogenase iron protein	Sinorhizobium meliloti	HM007-10	GCA_009600055.1
+296546	INSDC	WIRI01000450.1	3390	4283	-	MQU84963.1	nitrogenase iron protein	Sinorhizobium meliloti	HM006-1	GCA_009599635.1
+296546	INSDC	WIRK01000026.1	14151	15044	-	MQU87332.1	nitrogenase iron protein	Sinorhizobium meliloti	HM007-12	GCA_009599605.1
+296546	INSDC	WIRM01000140.1	41539	42432	+	MQU98395.1	nitrogenase iron protein	Sinorhizobium meliloti	HM013-1	GCA_009599645.1
+296546	INSDC	WIRN01000198.1	776	1669	+	MQV05788.1	nitrogenase iron protein	Sinorhizobium meliloti	HM015-1	GCA_009599615.1
+296546	INSDC	WIRO01000159.1	26772	27665	-	MQV11962.1	nitrogenase iron protein	Sinorhizobium meliloti	KH12g	GCA_009599625.1
+296546	INSDC	WIRL01000049.1	22892	23785	-	MQV14250.1	nitrogenase iron protein	Sinorhizobium meliloti	HM007-17	GCA_009600005.1
+296546	INSDC	WIRQ01000135.1	20276	21169	-	MQV24556.1	nitrogenase iron protein	Sinorhizobium meliloti	KH30a	GCA_009599805.1
+296546	INSDC	WIRP01000087.1	19987	20880	-	MQV26881.1	nitrogenase iron protein	Sinorhizobium meliloti	KH16b	GCA_009599845.1
+296546	INSDC	WIRR01000010.1	15120	16013	-	MQV31789.1	nitrogenase iron protein	Sinorhizobium meliloti	KH35b	GCA_009599725.1
+296546	INSDC	WIRS01000076.1	274	1167	+	MQV40072.1	nitrogenase iron protein	Sinorhizobium meliloti	KH35c	GCA_009599715.1
+296546	INSDC	WIRY01000188.1	16895	17788	-	MQV63123.1	nitrogenase iron protein	Sinorhizobium meliloti	KH48e	GCA_009599945.1
+296546	INSDC	WIRX01000061.1	20464	21357	-	MQV65265.1	nitrogenase iron protein	Sinorhizobium meliloti	KH46c	GCA_009599925.1
+296546	INSDC	WIRW01000152.1	23342	24235	-	MQV82100.1	nitrogenase iron protein	Sinorhizobium meliloti	KH46b	GCA_009599835.1
+296546	INSDC	WISP01000103.1	25309	26202	+	MQW04785.1	nitrogenase iron protein	Sinorhizobium meliloti	M30	GCA_009599735.1
+296546	INSDC	WISU01000124.1	11679	12572	-	MQW12628.1	nitrogenase iron protein	Sinorhizobium meliloti	T027	GCA_009601605.1
+296546	INSDC	WIST01000067.1	16344	17237	-	MQW17122.1	nitrogenase iron protein	Sinorhizobium meliloti	Rm41	GCA_009601625.1
+296546	INSDC	WISR01000137.1	10891	11784	-	MQW33923.1	nitrogenase iron protein	Sinorhizobium meliloti	N6B1	GCA_009601195.1
+296546	INSDC	WISS01000255.1	18839	19732	+	MQW47420.1	nitrogenase iron protein	Sinorhizobium meliloti	N6B7	GCA_009601235.1
+296546	INSDC	WISV01000167.1	11797	12690	-	MQW51899.1	nitrogenase iron protein	Sinorhizobium meliloti	T073	GCA_009601355.1
+296546	INSDC	WISN01000159.1	11207	12100	+	MQW57840.1	nitrogenase iron protein	Sinorhizobium meliloti	M268	GCA_009601115.1
+296546	INSDC	WISL01000004.1	2134	3027	+	MQW61181.1	nitrogenase iron protein	Sinorhizobium meliloti	M243	GCA_009601185.1
+296546	INSDC	WISX01000103.1	11293	12186	+	MQW79750.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1002	GCA_009601385.1
+296546	INSDC	WISY01000126.1	14475	15368	-	MQX02409.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1021	GCA_009601435.1
+296546	INSDC	WISW01000086.1	30608	31501	+	MQX22842.1	nitrogenase iron protein	Sinorhizobium meliloti	T094	GCA_009601415.1
+296546	INSDC	WISC01000126.1	1360	2253	+	MQX31856.1	nitrogenase iron protein	Sinorhizobium meliloti	M10	GCA_009601325.1
+296546	INSDC	WISH01000014.1	13168	14061	+	MQX61912.1	nitrogenase iron protein	Sinorhizobium meliloti	M195	GCA_009601525.1
+296546	INSDC	WISJ01000062.1	20765	21658	-	MQX70413.1	nitrogenase iron protein	Sinorhizobium meliloti	M210	GCA_009601615.1
+296546	INSDC	WISM01000152.1	12040	12933	-	MQX91634.1	nitrogenase iron protein	Sinorhizobium meliloti	M249	GCA_009601205.1
+296546	INSDC	PVNM01000212.1	12938	13831	-	PTD30321.1	nitrogenase iron protein	Sinorhizobium meliloti	BM806	GCA_003034185.1
+296546	INSDC	CP026526.1	790586	791479	+	QGJ76825.1	nitrogenase iron protein	Sinorhizobium meliloti	AK21	GCA_009664245.1
+296546	INSDC	CP054392.1	1008730	1009623	-	QKN18597.1	nitrogenase iron protein	Sinorhizobium meliloti WSM1022	WSM1022	GCA_013315775.1
+296546	INSDC	CP050513.1	1306705	1307598	-	QND30488.1	nitrogenase iron protein	Sinorhizobium meliloti	RCAM1750	GCA_014189615.1
+296546	INSDC	CP050559.1	1719584	1720477	-	QND35590.1	nitrogenase iron protein	Sinorhizobium meliloti	RCAM1115	GCA_014189595.1
+296546	INSDC	CP065021.1	400500	401393	+	QPI28279.1	nitrogenase iron protein	Sinorhizobium meliloti	S35m	GCA_015689095.1
+296546	INSDC	CP066361.1	923576	924469	-	QQF06404.1	nitrogenase iron protein	Sinorhizobium meliloti	AK76	GCA_016406285.1
+296546	INSDC	PZMJ02000003.1	1251529	1252422	-	RMI06238.1	nitrogenase iron protein	Sinorhizobium meliloti	CXM1-105	GCA_003044215.2
+296546	INSDC	PZMI02000003.1	434578	435471	+	RMI15982.1	nitrogenase iron protein	Sinorhizobium meliloti	AK555	GCA_003044175.2
+296546	INSDC	RPHK01000056.1	1122	2015	-	RVE77796.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1919	GCA_004001365.1
+296546	INSDC	RPHL01000064.1	18538	19431	-	RVE81581.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1883	GCA_004001385.1
+296546	INSDC	RPHM01000069.1	18538	19431	-	RVE86895.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1819	GCA_004001625.1
+296546	INSDC	RPHR01000081.1	1246	2139	+	RVG02689.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1796	GCA_004001485.1
+296546	INSDC	RPHN01000040.1	36365	37258	+	RVG09181.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1810	GCA_004001395.1
+296546	INSDC	RPHS01000096.1	102	995	+	RVG22191.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1795	GCA_004001495.1
+296546	INSDC	RPHO01000066.1	13480	14373	-	RVG26361.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1808	GCA_004001375.1
+296546	INSDC	RPHV01000049.1	18978	19871	-	RVG28913.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1792	GCA_004001505.1
+296546	INSDC	RPHT01000048.1	13584	14477	-	RVG41873.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1794	GCA_004001635.1
+296546	INSDC	RPHU01000133.1	12222	13115	-	RVG43156.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1793	GCA_004001465.1
+296546	INSDC	RPHW01000042.1	13560	14453	-	RVG57679.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1791	GCA_004001675.1
+296546	INSDC	RPHY01000088.1	15779	16672	-	RVG58590.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1788	GCA_004001565.1
+296546	INSDC	RPIA01000073.1	12691	13584	+	RVG62265.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1777	GCA_004001585.1
+296546	INSDC	RPHX01000040.1	36778	37671	+	RVG73847.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1790	GCA_004001575.1
+296546	INSDC	RPHZ01000081.1	10345	11238	+	RVG86901.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1787	GCA_004001735.1
+296546	INSDC	RPIC01000063.1	7639	8532	-	RVG88055.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1767	GCA_004001665.1
+296546	INSDC	RPIK01000097.1	410	1303	+	RVG97315.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1710	GCA_004001855.1
+296546	INSDC	RPID01000099.1	8495	9388	-	RVH01420.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1760	GCA_004001725.1
+296546	INSDC	RPIE01000061.1	8340	9233	-	RVH12556.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1751	GCA_004001715.1
+296546	INSDC	RPIF01000104.1	559	1452	+	RVH17407.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1742	GCA_004001745.1
+296546	INSDC	RPIG01000059.1	18538	19431	-	RVH22737.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1734	GCA_004001805.1
+296546	INSDC	RPIJ01000053.1	18791	19684	-	RVH25720.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1719	GCA_004001825.1
+296546	INSDC	RPII01000103.1	365	1258	+	RVH40848.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1724	GCA_004002045.1
+296546	INSDC	RPIH01000088.1	16211	17104	-	RVH52135.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1730	GCA_004001815.1
+296546	INSDC	RPIL01000090.1	14469	15362	-	RVH57928.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1708	GCA_004001835.1
+296546	INSDC	RPIW01000040.1	19367	20260	-	RVH64256.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1688	GCA_004002035.1
+296546	INSDC	RPIR01000093.1	10346	11239	+	RVH71843.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1696	GCA_004001965.1
+296546	INSDC	RPIQ01000080.1	24425	25318	+	RVH81804.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1699	GCA_004001925.1
+296546	INSDC	RPIV01000034.1	18610	19503	-	RVH95408.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1691	GCA_004002015.1
+296546	INSDC	RPIP01000073.1	18512	19405	-	RVI02260.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1700	GCA_004001915.1
+296546	INSDC	RPIO01000016.1	13986	14879	-	RVI14629.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1702	GCA_004002055.1
+296546	INSDC	RPIU01000053.1	18493	19386	-	RVI16790.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1692	GCA_004001995.1
+296546	INSDC	RPIN01000081.1	19262	20155	-	RVI23137.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1703	GCA_004002185.1
+296546	INSDC	RPIS01000147.1	1661	2554	+	RVI24634.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1695	GCA_004002495.1
+296546	INSDC	RPIZ01000060.1	11900	12793	+	RVI51343.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1676	GCA_004002165.1
+296546	INSDC	RPJE01000174.1	224	1117	+	RVI55431.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1659	GCA_004002195.1
+296546	INSDC	RPJG01000032.1	21685	22578	-	RVI65704.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1655	GCA_004002255.1
+296546	INSDC	RPJF01000130.1	13765	14658	-	RVI73041.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1656	GCA_004002125.1
+296546	INSDC	RPJC01000113.1	18843	19736	-	RVI76811.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1661	GCA_004002545.1
+296546	INSDC	RPJD01000123.1	18322	19215	-	RVI78352.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1660	GCA_004002175.1
+296546	INSDC	RPJA01000066.1	10304	11197	+	RVI99438.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1666	GCA_004002535.1
+296546	INSDC	RPJR01000068.1	10414	11307	+	RVJ87590.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1617	GCA_004002605.1
+296546	INSDC	RPKA01000071.1	24440	25333	-	RVK06517.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1603	GCA_004002705.1
+296546	INSDC	RPKH01000046.1	42580	43473	+	RVK25664.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1581	GCA_004002635.1
+296546	INSDC	RPKB01000142.1	10238	11131	-	RVK25751.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1594	GCA_004002715.1
+296546	INSDC	RPKD01000060.1	19330	20223	-	RVK27722.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1591	GCA_004003215.1
+296546	INSDC	RPKE01000049.1	13719	14612	-	RVK45958.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1590	GCA_004002425.1
+296546	INSDC	RPKC01000055.1	19661	20554	-	RVK51969.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1593	GCA_004002615.1
+296546	INSDC	RPKI01000041.1	19069	19962	-	RVK54051.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1580	GCA_004002795.1
+296546	INSDC	RPKG01000177.1	50	943	+	RVK63316.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1583	GCA_004003075.1
+296546	INSDC	RPKF01000039.1	36713	37606	+	RVK64683.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1589	GCA_004003095.1
+296546	INSDC	RPKJ01000086.1	18977	19870	-	RVK67207.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1571	GCA_004002455.1
+296546	INSDC	RPKK01000043.1	34418	35311	+	RVK83337.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1566	GCA_004002825.1
+296546	INSDC	RPKL01000063.1	25045	25938	+	RVK92563.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1565	GCA_004002835.1
+296546	INSDC	RPKN01000035.1	41382	42275	+	RVK94343.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1561	GCA_004017605.1
+296546	INSDC	RPKM01000055.1	5085	5978	-	RVL01090.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1562	GCA_004003085.1
+296546	INSDC	RPKO01000109.1	18910	19803	-	RVL06896.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1550	GCA_004002675.1
+296546	INSDC	RPKU01000042.1	34418	35311	+	RVL18294.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1501	GCA_004003165.1
+296546	INSDC	RPKT01000100.1	18902	19795	-	RVL25069.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1508	GCA_004002915.1
+296546	INSDC	RPKQ01000043.1	24411	25304	+	RVL26343.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1530	GCA_004002805.1
+296546	INSDC	RPKP01000093.1	18524	19417	-	RVL29290.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1533	GCA_004002845.1
+296546	INSDC	RPKR01000057.1	24338	25231	+	RVL40732.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1520	GCA_004003105.1
+296546	INSDC	RPKS01000083.1	11358	12251	-	RVL46305.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1519	GCA_004002895.1
+296546	INSDC	RPKW01000151.1	50	943	+	RVL47840.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1496	GCA_004017615.1
+296546	INSDC	RPKZ01000061.1	13746	14639	-	RVL59276.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1464	GCA_004002465.1
+296546	INSDC	RPKY01000098.1	8356	9249	-	RVL64597.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1467	GCA_004002925.1
+296546	INSDC	RPLB01000128.1	1662	2555	+	RVL71361.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1462	GCA_004002945.1
+296546	INSDC	RPKX01000047.1	24671	25564	+	RVL81217.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1491	GCA_004002905.1
+296546	INSDC	RPLE01000112.1	1662	2555	+	RVL85762.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1415	GCA_004003245.1
+296546	INSDC	RPLA01000096.1	14340	15233	-	RVL91176.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1463	GCA_004003605.1
+296546	INSDC	RPLC01000190.1	10069	10962	-	RVM03058.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1456	GCA_004003265.1
+296546	INSDC	RPLK01000030.1	47653	48546	+	RVM05433.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1335	GCA_004003005.1
+296546	INSDC	RPKV01000012.1	15751	16644	-	RVM18796.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1497	GCA_004003155.1
+296546	INSDC	RPLD01000073.1	8275	9168	-	RVM23804.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1416	GCA_004003235.1
+296546	INSDC	RPLF01000076.1	5249	6142	-	RVM25807.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1397	GCA_004003275.1
+296546	INSDC	RPLG01000089.1	13818	14711	-	RVM26856.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1389	GCA_004022085.1
+296546	INSDC	RPLO01000035.1	21745	22638	-	RVM44370.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1302	GCA_004022075.1
+296546	INSDC	RPLI01000077.1	13217	14110	+	RVM44462.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1357	GCA_004022115.1
+296546	INSDC	RPLH01000117.1	1661	2554	+	RVM46138.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1379	GCA_004002995.1
+296546	INSDC	RPLL01000033.1	36042	36935	+	RVM60921.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1325	GCA_004003255.1
+296546	INSDC	RPLM01000035.1	21745	22638	-	RVM65722.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1320	GCA_004003615.1
+296546	INSDC	RPLJ01000072.1	12708	13601	+	RVM71951.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1336	GCA_004003795.1
+296546	INSDC	RPLS01000033.1	21745	22638	-	RVM82639.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1248	GCA_004003175.1
+296546	INSDC	RPLN01000073.1	20132	21025	-	RVM84321.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1308	GCA_004003335.1
+296546	INSDC	RPLQ01000048.1	42485	43378	+	RVM91767.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1280	GCA_004003345.1
+296546	INSDC	RPLP01000038.1	34439	35332	+	RVN03266.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1289	GCA_004003645.1
+296546	INSDC	RPLX01000058.1	34929	35822	+	RVN06099.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1225	GCA_004003395.1
+296546	INSDC	RPLU01000086.1	2252	3145	-	RVN07098.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1235	GCA_004003685.1
+296546	INSDC	RPLV01000050.1	18414	19307	-	RVN21197.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1232	GCA_004003675.1
+296546	INSDC	RPLT01000028.1	21448	22341	-	RVN26218.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1237	GCA_004017665.1
+296546	INSDC	RPLR01000091.1	15752	16645	-	RVN32720.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1264	GCA_004003365.1
+296546	INSDC	RPLY01000048.1	24509	25402	+	RVN39264.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1222	GCA_004003435.1
+296546	INSDC	RPLW01000062.1	25045	25938	+	RVN41065.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1227	GCA_004003355.1
+296546	INSDC	RPMB01000067.1	18541	19434	-	RVN52028.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1215	GCA_004003705.1
+296546	INSDC	RPMF01000076.1	18804	19697	-	RVN61121.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1210	GCA_004003515.1
+296546	INSDC	RPMD01000071.1	13217	14110	+	RVN64688.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1212	GCA_004003475.1
+296546	INSDC	RPLZ01000072.1	18409	19302	-	RVN69508.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1221	GCA_004003445.1
+296546	INSDC	RPMI01000093.1	15752	16645	-	RVN84308.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1205	GCA_004003745.1
+296546	INSDC	RPME01000018.1	18749	19642	+	RVN96480.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1211	GCA_004003495.1
+296546	INSDC	RPMK01000155.1	5846	6739	+	RVO00299.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1203	GCA_004003765.1
+296546	INSDC	RPMH01000071.1	8275	9168	-	RVO03347.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1206	GCA_004003555.1
+296546	INSDC	RPMG01000047.1	12821	13714	+	RVO09808.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1208	GCA_004003505.1
+296546	INSDC	RPMJ01000122.1	727	1620	+	RVO18319.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1204	GCA_004003835.1
+296546	INSDC	RPML01000184.1	10069	10962	-	RVO21161.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1202	GCA_004003565.1
+296546	INSDC	RPMN01000216.1	6785	7678	-	RVO24489.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1199	GCA_004003595.1
+296546	INSDC	RPMP01000047.1	20230	21123	-	RVO31794.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1195	GCA_004003825.1
+296546	INSDC	RPMS01000047.1	36388	37281	+	RVO46213.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1186	GCA_004004315.1
+296546	INSDC	RPMQ01000067.1	25223	26116	+	RVO51377.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1191	GCA_004004235.1
+296546	INSDC	RPMO01000091.1	10346	11239	+	RVO56424.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1198	GCA_004004265.1
+296546	INSDC	RPMV01000071.1	73	966	+	RVO59632.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1180	GCA_004003915.1
+296546	INSDC	RPMR01000102.1	10344	11237	+	RVO69121.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1187	GCA_004004255.1
+296546	INSDC	RPMU01000076.1	18805	19698	-	RVO76634.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1183	GCA_004003855.1
+296546	INSDC	RPMT01000065.1	18493	19386	-	RVO87872.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1184	GCA_004017685.1
+296546	INSDC	RPMZ01000038.1	13034	13927	-	RVP04867.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1163	GCA_004004355.1
+296546	INSDC	RPNC01000108.1	11195	12088	-	RVP15425.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1158	GCA_004003985.1
+296546	INSDC	RPNA01000041.1	13742	14635	-	RVP24518.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1162	GCA_004003965.1
+296546	INSDC	RPNB01000041.1	18542	19435	-	RVP33697.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1161	GCA_004004345.1
+296546	INSDC	RPMA01000146.1	1904	2797	-	RVP35171.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1220	GCA_004003815.1
+296546	INSDC	RPNF01000051.1	25479	26372	-	RVP52623.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1146	GCA_004004375.1
+296546	INSDC	RPNK01000050.1	25364	26257	+	RVP56998.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1027	GCA_004004445.1
+296546	INSDC	RPNJ01000051.1	15678	16571	-	RVP80835.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1031	GCA_004004075.1
+296546	INSDC	RPNI01000056.1	12903	13796	+	RVP84236.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1035	GCA_004004405.1
+296546	INSDC	RPNM01000035.1	52681	53574	+	RVP97848.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1024A	GCA_004004115.1
+296546	INSDC	RPNQ01000051.1	36291	37184	-	RVQ08696.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1008	GCA_004004455.1
+296546	INSDC	RPNO01000076.1	1685	2578	-	RVQ12183.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1022	GCA_004004435.1
+296546	INSDC	RPMM01000068.1	4569	5462	-	RVQ15679.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1200	GCA_004003845.1
+296546	INSDC	RPNR01000053.1	11446	12339	-	RVQ25511.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1007	GCA_004004145.1
+296546	INSDC	RPNP01000052.1	18482	19375	-	RVQ29365.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1018	GCA_004004135.1
+296546	INSDC	RPNN01000050.1	12710	13603	+	RVQ31817.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1023	GCA_004004155.1
+296546	INSDC	RPNT01000042.1	46404	47297	+	RVQ54193.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1005	GCA_004004225.1
+296546	INSDC	RPNS01000089.1	18880	19773	-	RVQ66730.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1006	GCA_004004215.1
+296546	INSDC	RPNY01000055.1	18414	19307	-	RVQ89505.1	nitrogenase iron protein	Sinorhizobium meliloti	2119	GCA_004004685.1
+296546	INSDC	RPNX01000086.1	10485	11378	+	RVR02373.1	nitrogenase iron protein	Sinorhizobium meliloti	3011	GCA_004017705.1
+296546	INSDC	FNOO01000067.1	2280	3173	+	SDZ50891.1	Mo-nitrogenase iron protein subunit NifH	Sinorhizobium meliloti	DSM 23914	GCA_900107055.1
+296546	INSDC	FNYP01000081.1	382	1275	+	SEJ79892.1	Mo-nitrogenase iron protein subunit NifH	Sinorhizobium meliloti	AK83	GCA_900108935.1
+296546	INSDC	VITP01000044.1	18410	19303	-	TWB25216.1	Mo-nitrogenase iron protein subunit NifH	Ensifer sp. SEMIA 135	SEMIA 135	GCA_007827895.1
+296546	INSDC	CP085527.1	405058	405951	+	UDU22230.1	nitrogenase iron protein	Sinorhizobium meliloti	L6-AK89	GCA_020684825.1
+296546	INSDC	CP088115.1	582525	583418	+	UFX12618.1	nitrogenase iron protein	Sinorhizobium meliloti	RRI128	GCA_021052665.1
+296546	INSDC	CP090104.1	1197144	1198037	-	UIJ90933.1	nitrogenase iron protein	Sinorhizobium meliloti	Ak57	GCA_021391635.1
+296546	INSDC	CP123005.1	456915	457808	+	WGI77358.1	nitrogenase iron protein	Sinorhizobium meliloti	BIM B-442D	GCA_029854455.1

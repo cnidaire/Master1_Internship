@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+23507715	RefSeq	NC_015578.1	625411	626178	+	WP_015706755.1	nitrogenase iron protein NifH	Treponema primitia ZAS-2	ZAS-2	GCF_000214375.1
+23507715	INSDC	CP001843.1	625411	626178	+	AEF84422.1	nitrogenase iron protein	Treponema primitia ZAS-2	ZAS-2	GCA_000214375.1

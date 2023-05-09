@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+328571347	RefSeq	NZ_JAGGLN010000004.1	105391	106218	-	WP_209584153.1	nitrogenase iron protein	Methanobacterium aggregans	DSM 29428	GCF_017874455.1
+328571347	INSDC	JABNAD010000010.1	220781	221608	+	KAF5089325.1	Nitrogenase iron protein 1	anaerobic digester metagenome		GCA_013282525.1
+328571347	INSDC	JAGGLN010000004.1	105391	106218	-	MBP2046240.1	nitrogenase iron protein NifH	Methanobacterium aggregans	DSM 29428	GCA_017874455.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+22405568	RefSeq	NC_015152.1	783016	784032	+	WP_013606416.1	nitrogenase subunit NifH (ATPase)-like protein	Sphaerochaeta globosa str. Buddy	Buddy	GCF_000190435.1
+22405568	INSDC	CP002541.1	783016	784032	+	ADY12563.1	nitrogenase subunit NifH (ATPase)-like protein	Sphaerochaeta globosa str. Buddy	Buddy	GCA_000190435.1

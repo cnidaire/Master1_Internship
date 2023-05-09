@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+123485017	RefSeq	NZ_FNJI01000011.1	40059	40886	-	WP_092222117.1	nitrogenase iron protein	Desulforhopalus singaporensis	DSM 12130	GCF_900104445.1
+123485017	INSDC	FNJI01000011.1	40059	40886	-	SDP12985.1	nitrogenase iron protein NifH	Desulforhopalus singaporensis	DSM 12130	GCA_900104445.1

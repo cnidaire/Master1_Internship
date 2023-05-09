@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+124605006	RefSeq	NZ_FNOW01000025.1	23764	24648	-	WP_091333977.1	nitrogenase iron protein	Allochromatium warmingii	DSM 173	GCF_900107145.1
+124605006	INSDC	FNOW01000025.1	23764	24648	-	SDY03376.1	nitrogenase iron protein NifH	Allochromatium warmingii	DSM 173	GCA_900107145.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+27789054	RefSeq	NZ_JH651384.1	4062427	4063302	+	WP_002710379.1	nitrogenase iron protein	Thiothrix nivea DSM 5205	DSM 5205	GCF_000260135.1
+27789054	INSDC	JH651384.1	4062427	4063302	+	EIJ36507.1	Mo-nitrogenase iron protein subunit NifH	Thiothrix nivea DSM 5205	DSM 5205	GCA_000260135.1

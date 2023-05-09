@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+32423034	RefSeq	NC_019977.1	540415	541209	-	WP_015323976.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanomethylovorans hollandica DSM 15978	DSM 15978	GCF_000328665.1
+32423034	INSDC	CP003362.1	540415	541209	-	AGB48807.1	nitrogenase subunit NifH (ATPase)	Methanomethylovorans hollandica DSM 15978	DSM 15978	GCA_000328665.1
+32423034	PAT	N/A				QPZ16252.1	Sequence 77 from patent US 10793863	Unknown		

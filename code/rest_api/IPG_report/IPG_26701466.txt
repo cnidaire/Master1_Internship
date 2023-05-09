@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+26701466	RefSeq	NZ_CM001436.1	2955604	2956428	+	WP_004079587.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanoplanus limicola DSM 2279	DSM 2279	GCF_000243255.1
+26701466	INSDC	CM001436.1	2955604	2956428	+	EHQ36875.1	Mo-nitrogenase iron protein subunit NifH	Methanoplanus limicola DSM 2279	DSM 2279	GCA_000243255.1
+26701466	PAT	N/A				QPZ16254.1	Sequence 79 from patent US 10793863	Unknown		

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+238099139	RefSeq	NZ_SMBK01000018.1	35780	36673	-	WP_132553346.1	nitrogenase iron protein	Rhizobium azibense	IE4868	GCF_004342645.1
+238099139	INSDC	SMBK01000018.1	35780	36673	-	TCU32813.1	Mo-nitrogenase iron protein subunit NifH	Rhizobium azibense	IE4868	GCA_004342645.1

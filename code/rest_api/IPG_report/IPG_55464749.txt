@@ -1,0 +1,11 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+55464749	RefSeq	NZ_ATZB01000070.1	876	1769	+	WP_027513822.1	nitrogenase iron protein	Rhizobium sullae WSM1592	WSM1592	GCF_000427985.1
+55464749	RefSeq	NZ_CP104145.1	279607	280500	+	WP_027513822.1	nitrogenase iron protein	Rhizobium sullae	WSM1592	GCF_025200715.1
+55464749	RefSeq	NZ_FNXB01000077.1	10586	11479	-	WP_027513822.1	nitrogenase iron protein	Rhizobium tibeticum		GCF_900108425.1
+55464749	RefSeq	NZ_FOCV01000063.1	10681	11574	-	WP_027513822.1	nitrogenase iron protein	Rhizobium tibeticum	CGMCC 1.7071	GCF_900110205.1
+55464749	RefSeq	NZ_FWER01000106.1	7782	8675	-	WP_027513822.1	nitrogenase iron protein	Rhizobium sullae		GCF_900169785.1
+55464749	RefSeq	NZ_SMBH01000051.1	7878	8771	-	WP_027513822.1	nitrogenase iron protein	Rhizobium sullae	Hc14	GCF_004342945.1
+55464749	INSDC	FNXB01000077.1	10586	11479	-	SEI20951.1	Nitrogenase iron protein	Rhizobium tibeticum		GCA_900108425.1
+55464749	INSDC	FOCV01000063.1	10681	11574	-	SEP26318.1	Mo-nitrogenase iron protein subunit NifH	Rhizobium tibeticum	CGMCC 1.7071	GCA_900110205.1
+55464749	INSDC	SMBH01000051.1	7878	8771	-	TCU03010.1	Mo-nitrogenase iron protein subunit NifH	Rhizobium sullae	Hc14	GCA_004342945.1
+55464749	INSDC	CP104145.1	279607	280500	+	UWU19111.1	nitrogenase iron protein	Rhizobium sullae	WSM1592	GCA_025200715.1

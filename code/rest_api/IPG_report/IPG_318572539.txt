@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+318572539	RefSeq	NZ_JAGGLT010000020.1	43974	44792	-	WP_209454169.1	nitrogenase iron protein	Thermoanaerobacterium butyriciformans	DSM 101588	GCF_017874545.1
+318572539	INSDC	DUMG01000045.1	12169	12987	-	HHV75125.1	nitrogenase iron protein	Thermoanaerobacterium sp.		GCA_012839995.1
+318572539	INSDC	JAGGLT010000020.1	43974	44792	-	MBP2072408.1	nitrogenase iron protein NifH	Thermoanaerobacterium butyriciformans	DSM 101588	GCA_017874545.1

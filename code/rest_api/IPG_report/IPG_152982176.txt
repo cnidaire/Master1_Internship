@@ -1,0 +1,8 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+152982176	RefSeq	NZ_FYDG01000041.1	4107	4973	-	WP_088522711.1	nitrogenase iron protein	Rhodoblastus acidophilus	DSM 137	GCF_900187365.1
+152982176	RefSeq	NZ_JAOQNY010000011.1	108728	109594	-	WP_088522711.1	nitrogenase iron protein	Rhodoblastus acidophilus	FL	GCF_025961595.1
+152982176	RefSeq	NZ_NPET01000116.1	4997	5863	+	WP_088522711.1	nitrogenase iron protein	Rhodoblastus acidophilus	DSM 137	GCF_003258765.1
+152982176	RefSeq	NZ_NRRJ01000022.1	5047	5913	+	WP_088522711.1	nitrogenase iron protein	Rhodoblastus acidophilus	DSM 137	GCF_002937135.1
+152982176	INSDC	NRRJ01000022.1	5047	5913	+	PPQ36802.1	nitrogenase iron protein	Rhodoblastus acidophilus	DSM 137	GCA_002937135.1
+152982176	INSDC	NPET01000116.1	4997	5863	+	RAI16500.1	nitrogenase iron protein	Rhodoblastus acidophilus	DSM 137	GCA_003258765.1
+152982176	INSDC	FYDG01000041.1	4107	4973	-	SNB84920.1	nitrogenase iron protein NifH	Rhodoblastus acidophilus	DSM 137	GCA_900187365.1

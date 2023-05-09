@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+227006154	RefSeq	NZ_RZNF01000012.1	1287207	1288079	+	WP_127079012.1	nitrogenase iron protein NifH	Rhodomicrobium lacus	JA980	GCF_003992725.1

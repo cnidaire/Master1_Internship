@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+23278482	RefSeq	NC_015500.1	1450118	1451011	+	WP_013758357.1	nitrogenase iron protein NifH	Treponema brennaborense DSM 12168	DSM 12168	GCF_000212415.1
+23278482	INSDC	CP002696.1	1450118	1451011	+	AEE16650.1	Nitrogenase	Treponema brennaborense DSM 12168	DSM 12168	GCA_000212415.1

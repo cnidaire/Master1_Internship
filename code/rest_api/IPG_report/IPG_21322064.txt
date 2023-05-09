@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+21322064	RefSeq	NC_014658.1	367541	368353	+	WP_013413460.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanothermus fervidus DSM 2088	DSM 2088	GCF_000166095.1
+21322064	INSDC	CP002278.1	367541	368353	+	ADP77182.1	Mo-nitrogenase iron protein subunit NifH	Methanothermus fervidus DSM 2088	DSM 2088	GCA_000166095.1
+21322064	PAT	N/A				QPZ16265.1	Sequence 90 from patent US 10793863	Unknown		

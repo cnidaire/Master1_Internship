@@ -1,0 +1,9 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+52404005	RefSeq	NZ_AZUO01000001.1	3506315	3507202	-	WP_024881133.1	nitrogenase iron protein	Methylosinus sp. LW3	LW3	GCF_000527115.1
+52404005	RefSeq	NZ_JADNQW010000005.1	2088910	2089797	+	WP_024881133.1	nitrogenase iron protein	Methylosinus sp. H3A	H3A	GCF_015709455.1
+52404005	RefSeq	NZ_JMKQ01000006.1	1966501	1967388	-	WP_024881133.1	nitrogenase iron protein	Methylocystis sp. LW5	LW5	GCF_000685825.1
+52404005	RefSeq	NZ_LUUM01000261.1	43099	43986	+	WP_024881133.1	nitrogenase iron protein	Methylosinus sp. R-45379	R-45379	GCF_001644125.1
+52404005	RefSeq	NZ_SOEJ01000001.1	1170903	1171790	+	WP_024881133.1	nitrogenase iron protein	Methylosinus sp. sav-2	sav-2	GCF_004366495.1
+52404005	INSDC	JADNQW010000005.1	2088910	2089797	+	MBG0810264.1	nitrogenase iron protein	Methylosinus sp. H3A	H3A	GCA_015709455.1
+52404005	INSDC	LUUM01000261.1	43099	43986	+	OAI26557.1	nitrogenase reductase	Methylosinus sp. R-45379	R-45379	GCA_001644125.1
+52404005	INSDC	SOEJ01000001.1	1170903	1171790	+	TDX67565.1	Mo-nitrogenase iron protein subunit NifH	Methylosinus sp. sav-2	sav-2	GCA_004366495.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+21516054	RefSeq	NC_014762.1	1518753	1519670	-	WP_013460359.1	nitrogenase iron protein	Sulfuricurvum kujiense DSM 16994	DSM 16994	GCF_000183725.1
+21516054	INSDC	CP002355.1	1518753	1519670	-	ADR34162.1	Mo-nitrogenase iron protein subunit NifH	Sulfuricurvum kujiense DSM 16994	DSM 16994	GCA_000183725.1

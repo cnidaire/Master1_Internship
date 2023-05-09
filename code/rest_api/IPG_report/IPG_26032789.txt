@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+26032789	RefSeq	NC_016633.1	2155678	2156661	+	WP_014270590.1	nitrogenase subunit NifH	Sphaerochaeta pleomorpha str. Grapes	Grapes	GCF_000236685.1
+26032789	INSDC	CP003155.1	2155678	2156661	+	AEV29747.1	hypothetical protein	Sphaerochaeta pleomorpha str. Grapes	Grapes	GCA_000236685.1

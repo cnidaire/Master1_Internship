@@ -1,0 +1,15 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+199647670	RefSeq	NZ_LT976979.1	91086	91967	+	WP_115683819.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900249905.1
+199647670	RefSeq	NZ_LT976980.1	92303	93184	+	WP_115683819.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900249915.1
+199647670	RefSeq	NZ_LT976981.1	90773	91654	+	WP_115683819.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900249925.1
+199647670	RefSeq	NZ_LT976994.1	115534	116415	+	WP_115683819.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900249965.1
+199647670	RefSeq	NZ_LT976998.1	60328	61209	-	WP_115683819.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900250005.1
+199647670	RefSeq	NZ_LT977072.1	47453	48334	+	WP_115683819.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900250075.1
+199647670	RefSeq	NZ_LT984809.1	95660	96541	+	WP_115683819.1	nitrogenase iron protein	Cupriavidus taiwanensis		
+199647670	INSDC	LT976979.1	91086	91967	+	SOZ71103.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249905.1
+199647670	INSDC	LT976980.1	92303	93184	+	SOZ72211.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249915.1
+199647670	INSDC	LT976981.1	90773	91654	+	SOZ74514.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249925.1
+199647670	INSDC	LT976994.1	115534	116415	+	SPA03439.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249965.1
+199647670	INSDC	LT976998.1	60328	61209	-	SPA11330.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900250005.1
+199647670	INSDC	LT977072.1	47453	48334	+	SPA57181.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900250075.1
+199647670	INSDC	LT984809.1	95660	96541	+	SPD48792.1	Nitrogenase iron protein 2	Cupriavidus taiwanensis		

@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+194947467	RefSeq	NZ_SNXY01000009.1	59779	60675	+	WP_126537809.1	nitrogenase iron protein	Oharaeibacter diazotrophicus	DSM 102969	GCF_004362745.1
+194947467	RefSeq	NZ_WUJM01000074.1	5860	6756	-	WP_126537809.1	nitrogenase iron protein	Oharaeibacter diazotrophicus	SM30	GCF_011317485.1
+194947467	INSDC	AP017626.1	1660418	1661314	+	BBE71951.1	nitrogenase iron protein	Pleomorphomonas sp. SM30	SM30	GCA_003966995.1
+194947467	INSDC	BSPM01000009.1	59437	60333	+	GLS78715.1	nitrogenase reductase	Oharaeibacter diazotrophicus	NBRC 111955	
+194947467	INSDC	SNXY01000009.1	59779	60675	+	TDP83121.1	Mo-nitrogenase iron protein subunit NifH	Oharaeibacter diazotrophicus	DSM 102969	GCA_004362745.1

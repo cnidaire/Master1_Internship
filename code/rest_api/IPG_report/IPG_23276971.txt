@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+23276971	RefSeq	NC_015499.1	1566074	1566829	+	WP_013756847.1	nitrogenase iron protein NifH	Thermodesulfobium narugense DSM 14796	DSM 14796	GCF_000212395.1
+23276971	INSDC	CP002690.1	1566074	1566829	+	AEE15126.1	Nitrogenase	Thermodesulfobium narugense DSM 14796	DSM 14796	GCA_000212395.1

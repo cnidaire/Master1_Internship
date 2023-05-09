@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+23437708	RefSeq	NZ_GL892076.1	2080698	2081510	-	WP_006307037.1	nitrogenase iron protein NifH	Centipeda periodontii DSM 2778	DSM 2778	GCF_000213975.1
+23437708	INSDC	AFHQ01000047.1	50574	51386	-	EGK58386.1	nitrogenase iron protein	Centipeda periodontii DSM 2778	DSM 2778	GCA_000213975.1
+23437708	INSDC	GL892076.1	2080698	2081510	-	EGK58386.1	nitrogenase iron protein	Centipeda periodontii DSM 2778	DSM 2778	GCA_000213975.1

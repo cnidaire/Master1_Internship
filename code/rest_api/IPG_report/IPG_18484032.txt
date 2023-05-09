@@ -1,0 +1,20 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+18484032	RefSeq	NZ_CABKNW010000004.1	573583	574344	-	WP_005979452.1	nitrogenase iron protein NifH	Fusobacterium ulcerans		GCF_902373815.1
+18484032	RefSeq	NZ_CP028105.1	2051158	2051919	-	WP_005979452.1	nitrogenase iron protein NifH	Fusobacterium ulcerans	ATCC 49185	GCF_003019675.1
+18484032	RefSeq	NZ_JAJDKT010000007.1	35146	35907	+	WP_005979452.1	nitrogenase iron protein NifH	Fusobacterium ulcerans	DFI.2.86	GCF_020590195.1
+18484032	RefSeq	NZ_JAJDLR010000007.1	96470	97231	-	WP_005979452.1	nitrogenase iron protein NifH	Fusobacterium ulcerans	DFI.2.87	GCF_020593925.1
+18484032	RefSeq	NZ_JARXXN010000004.1	205607	206368	-	WP_005979452.1	nitrogenase iron protein NifH	Fusobacterium sp. PH5-7	PH5-7	GCF_029894495.1
+18484032	RefSeq	NZ_JH815231.1	573583	574344	-	WP_005979452.1	nitrogenase iron protein NifH	Fusobacterium ulcerans ATCC 49185	ATCC 49185	GCF_000158315.2
+18484032	RefSeq	NZ_KE161009.1	479154	479915	-	WP_005979452.1	nitrogenase iron protein NifH	Fusobacterium ulcerans 12-1B	12_1B	GCF_000242995.2
+18484032	RefSeq	NZ_LS483487.1	500137	500898	-	WP_005979452.1	nitrogenase iron protein NifH	Fusobacterium ulcerans	NCTC12112	GCF_900478315.1
+18484032	RefSeq	NZ_QSDE01000042.1	13899	14660	+	WP_005979452.1	nitrogenase iron protein NifH	Fusobacterium ulcerans	OF01-15LB	GCF_003463295.1
+18484032	INSDC	CP028105.1	2051158	2051919	-	AVQ28317.1	nitrogenase iron protein	Fusobacterium ulcerans	ATCC 49185	GCA_003019675.1
+18484032	INSDC	ACDH02000024.1	261126	261887	-	EFS25785.1	nitrogenase iron protein	Fusobacterium ulcerans ATCC 49185	ATCC 49185	GCA_000158315.2
+18484032	INSDC	JH815231.1	573583	574344	-	EFS25785.1	nitrogenase iron protein	Fusobacterium ulcerans ATCC 49185	ATCC 49185	GCA_000158315.2
+18484032	INSDC	AGWJ02000024.1	126657	127418	-	EHO79997.1	nitrogenase iron protein	Fusobacterium ulcerans 12-1B	12_1B	GCA_000242995.2
+18484032	INSDC	KE161009.1	479154	479915	-	EHO79997.1	nitrogenase iron protein	Fusobacterium ulcerans 12-1B	12_1B	GCA_000242995.2
+18484032	INSDC	DYTW01000200.1	1693	2454	+	HJH07228.1	nitrogenase iron protein NifH	Fusobacterium ulcerans		GCA_020743985.1
+18484032	INSDC	JAJDKT010000007.1	35146	35907	+	MCB8564700.1	nitrogenase iron protein NifH	Fusobacterium ulcerans	DFI.2.86	GCA_020590195.1
+18484032	INSDC	JAJDLR010000007.1	96470	97231	-	MCB8648918.1	nitrogenase iron protein NifH	Fusobacterium ulcerans	DFI.2.87	GCA_020593925.1
+18484032	INSDC	QSDE01000042.1	13899	14660	+	RGY58673.1	nitrogenase iron protein	Fusobacterium ulcerans	OF01-15LB	GCA_003463295.1
+18484032	INSDC	LS483487.1	500137	500898	-	SQJ00116.1	Nitrogenase iron protein 1	Fusobacterium ulcerans	NCTC12112	GCA_900478315.1

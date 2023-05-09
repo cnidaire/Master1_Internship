@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+195996521	RefSeq	NZ_JAMXLD010000002.1	134097	134987	+	WP_112691676.1	nitrogenase iron protein	Ciceribacter sp. RN22	RN22	GCF_024054295.1
+195996521	RefSeq	NZ_QPIX01000006.1	196006	196896	-	WP_112691676.1	nitrogenase iron protein	Ciceribacter lividus	DSM 25528	GCF_003337715.1
+195996521	RefSeq	NZ_SDVB01000191.1	139024	139914	+	WP_112691676.1	nitrogenase iron protein	Ciceribacter ferrooxidans	F8825	GCF_004137355.1
+195996521	INSDC	JAMXLD010000002.1	134097	134987	+	MCO6179551.1	nitrogenase iron protein	Ciceribacter sp. RN22	RN22	GCA_024054295.1
+195996521	INSDC	QPIX01000006.1	196006	196896	-	RCW24050.1	Mo-nitrogenase iron protein subunit NifH	Ciceribacter lividus	DSM 25528	GCA_003337715.1
+195996521	INSDC	SDVB01000191.1	139024	139914	+	RYC15685.1	nitrogenase iron protein	Ciceribacter ferrooxidans	F8825	GCA_004137355.1

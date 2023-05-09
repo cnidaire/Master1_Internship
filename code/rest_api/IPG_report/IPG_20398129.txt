@@ -1,0 +1,20 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+20398129	RefSeq	NZ_ADWO01000022.1	45001	45852	-	WP_006281725.1	nitrogenase iron protein	Prevotella bryantii B14	B14	GCF_000179055.1
+20398129	RefSeq	NZ_BPTR01000001.1	3066549	3067400	-	WP_006281725.1	nitrogenase iron protein	Prevotella bryantii	DSM 11371	GCF_019973295.1
+20398129	RefSeq	NZ_CAJOJX010000041.1	2557	3408	+	WP_006281725.1	nitrogenase iron protein	Prevotella bryantii		GCF_905235005.1
+20398129	RefSeq	NZ_CAMHCI010000036.1	14292	15143	-	WP_006281725.1	nitrogenase iron protein	Prevotella bryantii		GCF_946183655.1
+20398129	RefSeq	NZ_CAMHUK010000050.1	14609	15460	-	WP_006281725.1	nitrogenase iron protein	Prevotella bryantii		GCF_946188295.1
+20398129	RefSeq	NZ_CP091797.1	1001111	1001962	-	WP_006281725.1	nitrogenase iron protein	Prevotella bryantii	TS1-5	GCF_022024215.1
+20398129	RefSeq	NZ_CP091800.1	276899	277750	+	WP_006281725.1	nitrogenase iron protein	Prevotella bryantii B14	B14	GCF_022024235.1
+20398129	RefSeq	NZ_CP091802.1	94723	95574	+	WP_006281725.1	nitrogenase iron protein	Prevotella bryantii	TC1-1	GCF_022024255.1
+20398129	RefSeq	NZ_DGWU01000006.1	11517	12368	-	WP_006281725.1	nitrogenase iron protein	Prevotella bryantii		GCF_002395335.1
+20398129	RefSeq	NZ_FOEM01000019.1	47597	48448	+	WP_006281725.1	nitrogenase iron protein	Prevotella bryantii B14	B14	GCF_900110745.1
+20398129	RefSeq	NZ_NPJF01000009.1	91938	92789	+	WP_006281725.1	nitrogenase iron protein	Prevotella bryantii	TC1-1	GCF_002251425.1
+20398129	INSDC	ADWO01000022.1	45001	45852	-	EFI72879.1	nitrogenase iron protein	Prevotella bryantii B14	B14	GCA_000179055.1
+20398129	INSDC	BPTR01000001.1	3066549	3067400	-	GJG28717.1	nitrogenase iron protein	Prevotella bryantii	DSM 11371	GCA_019973295.1
+20398129	INSDC	JAFPSL010000051.1	335	1186	+	MBQ3857650.1	nitrogenase iron protein	Prevotella sp.		GCA_017400565.1
+20398129	INSDC	NPJF01000009.1	91938	92789	+	OYP57178.1	nitrogenase iron protein	Prevotella bryantii	TC1-1	GCA_002251425.1
+20398129	INSDC	FOEM01000019.1	47597	48448	+	SEQ99546.1	Mo-nitrogenase iron protein subunit NifH	Prevotella bryantii B14	B14	GCA_900110745.1
+20398129	INSDC	CP091797.1	1001111	1001962	-	UKK74829.1	nitrogenase iron protein	Prevotella bryantii	TS1-5	GCA_022024215.1
+20398129	INSDC	CP091800.1	276899	277750	+	UKK79764.1	nitrogenase iron protein	Prevotella bryantii B14	B14	GCA_022024235.1
+20398129	INSDC	CP091802.1	94723	95574	+	UKK82288.1	nitrogenase iron protein	Prevotella bryantii	TC1-1	GCA_022024255.1

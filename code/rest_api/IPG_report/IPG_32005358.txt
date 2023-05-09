@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+32005358	RefSeq	NC_019757.1	631000	631890	+	WP_015206159.1	nitrogenase iron protein	Cylindrospermum stagnale PCC 7417	PCC 7417	GCF_000317535.1
+32005358	INSDC	CP003642.1	631000	631890	+	AFZ22902.1	Mo-nitrogenase iron protein subunit NifH	Cylindrospermum stagnale PCC 7417	PCC 7417	GCA_000317535.1

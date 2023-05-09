@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+72843271	RefSeq	NZ_JH417605.1	795	1556	+	WP_040347443.1	nitrogenase iron protein NifH	Anaeroglobus geminatus F0357	F0357	GCF_000239275.1

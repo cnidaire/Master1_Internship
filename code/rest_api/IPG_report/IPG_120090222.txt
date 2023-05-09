@@ -1,0 +1,10 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+120090222	RefSeq	NZ_CACZYW010000003.1	35211	36059	-	WP_078786071.1	nitrogenase iron protein	Eubacterium ruminantium		GCF_902785545.1
+120090222	RefSeq	NZ_CAJOJK010000001.1	113665	114513	-	WP_078786071.1	nitrogenase iron protein	Eubacterium ruminantium		GCF_905234945.1
+120090222	RefSeq	NZ_FMTO01000003.1	111855	112703	+	WP_078786071.1	nitrogenase iron protein	Eubacterium ruminantium	HUN269	GCF_900100105.1
+120090222	RefSeq	NZ_FNHR01000002.1	112029	112877	+	WP_078786071.1	nitrogenase iron protein	Eubacterium ruminantium	2388	GCF_900103685.1
+120090222	RefSeq	NZ_FUXA01000004.1	112139	112987	+	WP_078786071.1	nitrogenase iron protein	Eubacterium ruminantium	ATCC 17233	GCF_900167085.1
+120090222	INSDC	JAILJU010000071.1	4613	5461	-	MCR5368673.1	nitrogenase iron protein	Eubacterium sp.		GCA_024694425.1
+120090222	INSDC	FMTO01000003.1	111855	112703	+	SCW32186.1	nitrogenase iron protein NifH	Eubacterium ruminantium	HUN269	GCA_900100105.1
+120090222	INSDC	FNHR01000002.1	112029	112877	+	SDM27440.1	nitrogenase iron protein NifH	Eubacterium ruminantium	2388	GCA_900103685.1
+120090222	INSDC	FUXA01000004.1	112139	112987	+	SJZ41994.1	nitrogenase iron protein NifH	Eubacterium ruminantium	ATCC 17233	GCA_900167085.1

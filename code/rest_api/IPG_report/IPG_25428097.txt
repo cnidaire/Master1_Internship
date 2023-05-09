@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+25428097	RefSeq	NZ_JH376800.1	371189	372001	+	WP_006693446.1	nitrogenase iron protein NifH	Selenomonas infelix ATCC 43532	ATCC 43532	GCF_000234095.1
+25428097	INSDC	ACZM01000019.1	131916	132728	+	EHG18873.1	hypothetical protein	Selenomonas infelix ATCC 43532	ATCC 43532	GCA_000234095.1
+25428097	INSDC	JH376800.1	371189	372001	+	EHG18873.1	hypothetical protein	Selenomonas infelix ATCC 43532	ATCC 43532	GCA_000234095.1

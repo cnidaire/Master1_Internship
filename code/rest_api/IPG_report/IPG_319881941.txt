@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+319881941	RefSeq	NZ_JABBNI010000026.1	27298	28059	+	WP_169298503.1	nitrogenase iron protein NifH	Clostridium muellerianum	P21	GCF_012926525.1
+319881941	INSDC	JABBNI010000026.1	27298	28059	+	NMM63907.1	AAA family ATPase	Clostridium muellerianum	P21	GCA_012926525.1

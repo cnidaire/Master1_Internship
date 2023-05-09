@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+23505988	RefSeq	NC_015577.1	647477	648352	+	WP_015710303.1	nitrogenase iron protein NifH	Leadbettera azotonutricia ZAS-9	ZAS-9	GCF_000214355.1
+23505988	INSDC	CP001841.1	647477	648352	+	AEF82684.1	nitrogenase iron protein 2 (Nitrogenase component II)(Nitrogenase Fe protein 2) (Nitrogenase reductase)	Leadbettera azotonutricia ZAS-9	ZAS-9	GCA_000214355.1

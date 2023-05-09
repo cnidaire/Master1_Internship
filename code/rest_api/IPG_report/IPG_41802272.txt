@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+41802272	RefSeq	NZ_FR885203.1	5150	5962	+	WP_021717178.1	nitrogenase iron protein NifH	Phascolarctobacterium faecium		GCF_000436295.1
+41802272	INSDC	CBDS010000017.1	5150	5962	+	CDB45137.1	putative nitrogenase iron protein	Phascolarctobacterium faecium		GCA_000436295.1
+41802272	INSDC	FR885203.1	5150	5962	+	CDB45137.1	putative nitrogenase iron protein	Phascolarctobacterium faecium		GCA_000436295.1

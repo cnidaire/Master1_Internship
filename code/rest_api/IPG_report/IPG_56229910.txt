@@ -1,0 +1,14 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+56229910	RefSeq	NZ_BAYB01000013.1	217269	218150	-	WP_028226428.1	nitrogenase iron protein	Paraburkholderia ferrariae NBRC 106233	NBRC 106233	GCF_000685035.1
+56229910	RefSeq	NZ_JACHWC010000032.1	29058	29939	+	WP_028226428.1	nitrogenase iron protein	Paraburkholderia tropica	MTo-16	GCF_014191085.1
+56229910	RefSeq	NZ_JACHWD010000033.1	46974	47855	-	WP_028226428.1	nitrogenase iron protein	Paraburkholderia tropica	TSj-832	GCF_014191145.1
+56229910	RefSeq	NZ_JACIIS010000031.1	41934	42815	-	WP_028226428.1	nitrogenase iron protein	Paraburkholderia tropica	MCu-82	GCF_014206835.1
+56229910	RefSeq	NZ_QJJV01000028.1	71658	72539	+	WP_028226428.1	nitrogenase iron protein	Paraburkholderia tropica	SIr-6563	GCF_003201665.1
+56229910	RefSeq	NZ_QKZC01000028.1	71658	72539	+	WP_028226428.1	nitrogenase iron protein	Paraburkholderia tropica	SIr-6529	GCF_003253955.1
+56229910	RefSeq	NZ_RQIY01000034.1	35250	36131	+	WP_028226428.1	nitrogenase iron protein	Paraburkholderia bannensis	BE22	GCF_003849705.1
+56229910	INSDC	JACHWD010000033.1	46974	47855	-	MBB2983990.1	nitrogenase iron protein NifH	Paraburkholderia tropica	TSj-832	GCA_014191145.1
+56229910	INSDC	JACHWC010000032.1	29058	29939	+	MBB3004781.1	nitrogenase iron protein NifH	Paraburkholderia tropica	MTo-16	GCA_014191085.1
+56229910	INSDC	JACIIS010000031.1	41934	42815	-	MBB6323813.1	nitrogenase iron protein NifH	Paraburkholderia tropica	MCu-82	GCA_014206835.1
+56229910	INSDC	QJJV01000028.1	71658	72539	+	PXX07922.1	Mo-nitrogenase iron protein subunit NifH	Paraburkholderia tropica	SIr-6563	GCA_003201665.1
+56229910	INSDC	QKZC01000028.1	71658	72539	+	PZW73342.1	Mo-nitrogenase iron protein subunit NifH	Paraburkholderia tropica	SIr-6529	GCA_003253955.1
+56229910	INSDC	RQIY01000034.1	35250	36131	+	RQM44597.1	nitrogenase iron protein	Paraburkholderia bannensis	BE22	GCA_003849705.1

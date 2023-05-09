@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+214571338	RefSeq	NZ_JACIIW010000004.1	147169	148047	+	WP_121621370.1	nitrogenase iron protein	Xanthobacter tagetidis	DSM 11105	GCF_014206845.1
+214571338	RefSeq	NZ_RCTF01000001.1	147201	148079	+	WP_121621370.1	nitrogenase iron protein	Xanthobacter tagetidis	ATCC 700314	GCF_003667445.1
+214571338	INSDC	JACIIW010000004.1	147169	148047	+	MBB6307900.1	nitrogenase iron protein NifH	Xanthobacter tagetidis	DSM 11105	GCA_014206845.1
+214571338	INSDC	RCTF01000001.1	147201	148079	+	RLP81555.1	nitrogenase iron protein	Xanthobacter tagetidis	ATCC 700314	GCA_003667445.1

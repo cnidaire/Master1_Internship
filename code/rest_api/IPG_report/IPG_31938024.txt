@@ -1,0 +1,12 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+31938024	RefSeq	NC_019695.1	5153907	5154797	-	WP_015156515.1	nitrogenase iron protein	Chroococcidiopsis thermalis PCC 7203	PCC 7203	GCF_000317125.1
+31938024	RefSeq	NZ_CP097480.1	5186656	5187546	-	WP_015156515.1	nitrogenase iron protein	Chroococcidiopsis sp. CCNUC1	CCNUC1	GCF_023546805.1
+31938024	RefSeq	NZ_PVWM01000728.1	27	917	-	WP_015156515.1	nitrogenase iron protein	Chroococcidiopsis cubana CCALA 043	CCALA 043	GCF_003003835.1
+31938024	RefSeq	NZ_PYCI01000115.1	21737	22627	+	WP_015156515.1	nitrogenase iron protein	Chroococcidiopsis sp. CCALA 051	CCALA 051	GCF_003015105.1
+31938024	RefSeq	NZ_RSCK01000007.1	35803	36693	-	WP_015156515.1	nitrogenase iron protein	Chroococcidiopsis cubana SAG 39.79	SAG 39.79	GCF_003991895.1
+31938024	INSDC	CP003597.1	5153907	5154797	-	AFY89975.1	Mo-nitrogenase iron protein subunit NifH	Chroococcidiopsis thermalis PCC 7203	PCC 7203	GCA_000317125.1
+31938024	INSDC	PVWL01000013.1	82287	83177	+	PSB48207.1	nitrogenase iron protein	Cyanosarcina cf. burmensis CCALA 770	CCALA 770	GCA_003004015.1
+31938024	INSDC	PVWM01000728.1	27	917	-	PSB54899.1	nitrogenase iron protein	Chroococcidiopsis cubana CCALA 043	CCALA 043	GCA_003003835.1
+31938024	INSDC	PYCI01000115.1	21737	22627	+	PSM46877.1	nitrogenase iron protein	Chroococcidiopsis sp. CCALA 051	CCALA 051	GCA_003015105.1
+31938024	INSDC	RSCK01000007.1	35803	36693	-	RUT13332.1	nitrogenase iron protein	Chroococcidiopsis cubana SAG 39.79	SAG 39.79	GCA_003991895.1
+31938024	INSDC	CP097480.1	5186656	5187546	-	URD49374.1	nitrogenase iron protein	Chroococcidiopsis sp. CCNUC1	CCNUC1	GCA_023546805.1

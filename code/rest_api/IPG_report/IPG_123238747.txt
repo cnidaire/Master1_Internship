@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+123238747	RefSeq	NZ_FNHB01000005.1	87072	87845	-	WP_092072876.1	nitrogenase iron protein NifH	Dendrosporobacter quercicolus	DSM 1736	GCF_900104455.1
+123238747	RefSeq	NZ_JABTVI010000005.1	134514	135287	+	WP_092072876.1	nitrogenase iron protein NifH	Dendrosporobacter quercicolus DSM 1736	DSM 1736	GCF_013303165.1
+123238747	INSDC	JABTVI010000005.1	134514	135287	+	NSL48858.1	AAA family ATPase	Dendrosporobacter quercicolus DSM 1736	DSM 1736	GCA_013303165.1
+123238747	INSDC	FNHB01000005.1	87072	87845	-	SDM50943.1	nitrogenase iron protein NifH	Dendrosporobacter quercicolus	DSM 1736	GCA_900104455.1

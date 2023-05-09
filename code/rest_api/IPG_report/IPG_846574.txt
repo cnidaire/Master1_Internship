@@ -1,0 +1,8 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+846574	RefSeq	NC_009937.1	3959441	3960331	+	WP_012171966.1	nitrogenase iron protein	Azorhizobium caulinodans ORS 571	ORS 571	GCF_000010525.1
+846574	RefSeq	NZ_SOBM01000001.1	804678	805568	-	WP_012171966.1	nitrogenase iron protein	Azorhizobium sp. AG788	AG788	GCF_004364705.1
+846574	Swiss-Prot	N/A				P26251.1	Nitrogenase iron protein 1	Azorhizobium caulinodans ORS 571		
+846574	INSDC	M16709.1	520	1410	+	AAA26316.1	nitrogenase (nifH1)	Rhizobium sp.		
+846574	INSDC	AB303393.1	1001	1891	+	BAF75941.1	nitrogenase iron protein	Azorhizobium caulinodans ORS 571	ORS 571	
+846574	INSDC	AP009384.1	3959441	3960331	+	BAF89441.1	nitrogenase iron protein 1	Azorhizobium caulinodans ORS 571	ORS 571	GCA_000010525.1
+846574	INSDC	SOBM01000001.1	804678	805568	-	TDU01229.1	Mo-nitrogenase iron protein subunit NifH	Azorhizobium sp. AG788	AG788	GCA_004364705.1

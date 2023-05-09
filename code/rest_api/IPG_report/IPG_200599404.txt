@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+200599404	RefSeq	NZ_CP025086.1	1678845	1679729	+	WP_115834770.1	nitrogenase iron protein	Methylovirgula ligni	BW863	GCF_004135935.1
+200599404	RefSeq	NZ_QUMO01000001.1	145146	146030	-	WP_115834770.1	nitrogenase iron protein	Methylovirgula ligni	BW863	GCF_003387225.1
+200599404	INSDC	CP025086.1	1678845	1679729	+	QAY95701.1	nitrogenase iron protein	Methylovirgula ligni	BW863	GCA_004135935.1
+200599404	INSDC	QUMO01000001.1	145146	146030	-	REF88934.1	Mo-nitrogenase iron protein subunit NifH	Methylovirgula ligni	BW863	GCA_003387225.1

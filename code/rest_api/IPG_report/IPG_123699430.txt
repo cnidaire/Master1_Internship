@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+123699430	RefSeq	NZ_FNAM01000008.1	13134	13949	-	WP_093793587.1	nitrogenase iron protein NifH	Sporomusa acidovorans	Mol	GCF_900101845.1
+123699430	RefSeq	NZ_LSLL01000076.1	13262	14077	-	WP_093793587.1	nitrogenase iron protein NifH	Sporomusa acidovorans DSM 3132	DSM 3132	GCF_002257695.1
+123699430	INSDC	LSLL01000076.1	13262	14077	-	OZC17639.1	nitrogenase iron protein 1	Sporomusa acidovorans DSM 3132	DSM 3132	GCA_002257695.1
+123699430	INSDC	FNAM01000008.1	13134	13949	-	SDE10409.1	nitrogenase iron protein NifH	Sporomusa acidovorans	Mol	GCA_900101845.1

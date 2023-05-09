@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+159366625	RefSeq	NZ_CP023065.1	411649	412539	-	WP_095678133.1	nitrogenase iron protein	Sinorhizobium sp. CCBAU 05631	CCBAU 05631	GCF_002288505.1
+159366625	INSDC	CP023065.1	411649	412539	-	ASY60989.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Sinorhizobium sp. CCBAU 05631	CCBAU 05631	GCA_002288505.1
