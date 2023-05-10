@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+53500706	RefSeq	NZ_ASSC01000842.1	71	937	+	WP_025702772.1	nitrogenase iron protein NifH	Paenibacillus forsythiae T98	T98	GCF_000520735.1

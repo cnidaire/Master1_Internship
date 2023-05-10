@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+193389855	RefSeq	NZ_QKZK01000008.1	27022	27846	+	WP_111444968.1	nitrogenase iron protein	Breznakibacter xylanolyticus	DSM 6779	GCF_003254275.1
+193389855	INSDC	QKZK01000008.1	27022	27846	+	PZX17850.1	nitrogenase iron protein NifH	Breznakibacter xylanolyticus	DSM 6779	GCA_003254275.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+23836015	RefSeq	NZ_AFGF01000186.1	6594	7337	-	WP_004097964.1	nitrogenase iron protein NifH	Acetonema longum DSM 6540	DSM 6540	GCF_000219125.1
+23836015	INSDC	AFGF01000186.1	6594	7337	-	EGO62663.1	nitrogenase	Acetonema longum DSM 6540	DSM 6540	GCA_000219125.2

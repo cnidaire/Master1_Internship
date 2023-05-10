@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+147160545	RefSeq	NZ_JAGGMY010000002.1	221914	222795	-	WP_084879064.1	nitrogenase iron protein	Pantoea cypripedii	WS4375	GCF_017875755.1
+147160545	RefSeq	NZ_MLJI01000002.1	274914	275795	-	WP_084879064.1	nitrogenase iron protein	Pantoea cypripedii	LMG 2657	GCF_002095535.1
+147160545	INSDC	JAGGMY010000002.1	221914	222795	-	MBP2198911.1	nitrogenase iron protein NifH	Pantoea cypripedii	WS4375	GCA_017875755.1
+147160545	INSDC	MLJI01000002.1	274914	275795	-	ORM89354.1	nitrogenase iron protein	Pantoea cypripedii	LMG 2657	GCA_002095535.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+18140253	INSDC	GQ289579.1	1	460	-	ACT67988.1	NifH	Bradyrhizobium japonicum		

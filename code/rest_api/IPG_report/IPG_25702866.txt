@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+25702866	RefSeq	NC_016641.1	2821548	2822414	+	WP_014280096.1	nitrogenase iron protein	Paenibacillus terrae HPL-003	HPL-003	GCF_000235585.1
+25702866	INSDC	CP003107.1	2821548	2822414	+	AET59369.1	nitrogenase iron protein subunit NifH	Paenibacillus terrae HPL-003	HPL-003	GCA_000235585.1

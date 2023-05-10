@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+123252967	RefSeq	NZ_FMWT01000023.1	3831	4688	-	WP_072419231.1	nitrogenase iron protein	Ruminococcus sp. YE78	YE78	GCF_900103235.1
+123252967	RefSeq	NZ_FPIR01000022.1	52792	53649	+	WP_072419231.1	nitrogenase iron protein	Ruminococcus sp. YE71	YE71	GCF_900119155.1
+123252967	INSDC	FMWT01000023.1	3831	4688	-	SDA30571.1	nitrogenase iron protein NifH	Ruminococcus sp. YE78	YE78	GCA_900103235.1
+123252967	INSDC	FPIR01000022.1	52792	53649	+	SFW50196.1	nitrogenase iron protein NifH	Ruminococcus sp. YE71	YE71	GCA_900119155.1

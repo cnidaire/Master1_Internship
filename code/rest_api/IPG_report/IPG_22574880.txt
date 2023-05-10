@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+22574880	INSDC	HQ231525.1	1	710	+	ADZ23540.1	NifH	Bradyrhizobium liaoningense	CCBAU 25562	
+22574880	INSDC	HQ231526.1	1	710	+	ADZ23541.1	NifH	Bradyrhizobium liaoningense	CCBAU 25538	
+22574880	INSDC	HQ231534.1	1	710	+	ADZ23549.1	NifH	Bradyrhizobium japonicum	CCBAU 25532	
+22574880	INSDC	HQ231546.1	1	710	+	ADZ23561.1	NifH	Bradyrhizobium sp. CCBAU 03335	CCBAU 03335	
+22574880	INSDC	HQ231551.1	1	710	+	ADZ23566.1	NifH	Bradyrhizobium huanghuaihaiense	CCBAU 23303	
+22574880	INSDC	KF749190.1	1	710	+	AHL17206.1	nitrogenase iron protein	Bradyrhizobium sp. SDD14-1	SDD14-1	

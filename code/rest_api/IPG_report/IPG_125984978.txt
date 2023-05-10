@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+125984978	INSDC	FOGZ01000032.1	4018	4968	+	SES02316.1	nitrogenase iron protein NifH	Propionibacterium cyclohexanicum	DSM 16859	GCA_900111365.1

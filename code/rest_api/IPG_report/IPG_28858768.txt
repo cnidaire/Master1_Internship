@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+28858768	RefSeq	NZ_AKFU01000032.1	45755	46513	+	WP_009062805.1	nitrogenase iron protein NifH	Clostridium sp. MSTE9	MSTE9	GCF_000277625.1
+28858768	RefSeq	NZ_JAAVNF010000025.1	250745	251503	+	WP_009062805.1	nitrogenase iron protein NifH	Clostridium jeddahense	EE-R19	GCF_012923585.1
+28858768	INSDC	AKFU01000032.1	45755	46513	+	EJF40737.1	putative nitrogenase iron protein	Clostridium sp. MSTE9	MSTE9	GCA_000277625.1
+28858768	INSDC	SVQD01000005.1	215605	216363	-	MBE6743871.1	nitrogenase iron protein	Oscillospiraceae bacterium		GCA_015065515.1
+28858768	INSDC	JAHALH010000001.1	233730	234488	+	MBS5781450.1	AAA family ATPase	Clostridium sp.		GCA_018371215.1

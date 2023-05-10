@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+105042238	RefSeq	NZ_KQ968486.1	8877	9746	+	WP_197457913.1	nitrogenase iron protein NifH	Sutterella sp. KLE1602	KLE1602	GCF_001578585.1
+105042238	INSDC	KQ968486.1	8877	9746	+	KXT39419.1	putative nitrogenase iron protein	Sutterella sp. KLE1602	KLE1602	GCA_001578585.1
+105042238	INSDC	LTDB01000008.1	8877	9746	+	KXT39419.1	putative nitrogenase iron protein	Sutterella sp. KLE1602	KLE1602	GCA_001578585.1

@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+125981184	RefSeq	NZ_FOFO01000003.1	54203	55084	+	WP_090203314.1	nitrogenase iron protein	Ectothiorhodospira magna	B7-7	GCF_900110965.1
+125981184	RefSeq	NZ_JAJMLZ010000011.1	75588	76469	+	WP_090203314.1	nitrogenase iron protein	Ectothiorhodospira shaposhnikovii	beta1	GCF_022227765.1
+125981184	INSDC	JAJMLZ010000011.1	75588	76469	+	MCG5514313.1	nitrogenase iron protein	Ectothiorhodospira shaposhnikovii	beta1	GCA_022227765.1
+125981184	INSDC	FOFO01000003.1	54203	55084	+	SEP67793.1	Mo-nitrogenase iron protein subunit NifH	Ectothiorhodospira magna	B7-7	GCA_900110965.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+260276710	RefSeq	NZ_CABFVD010000008.1	91136	91885	-	WP_142415555.1	nitrogenase iron protein NifH	Hathewaya massiliensis	Marseille-P3545	GCF_902143515.1

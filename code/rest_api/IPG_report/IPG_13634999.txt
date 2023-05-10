@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+13634999	INSDC	EF620512.1	1	337	+	ABU49171.1	NifH	Ralstonia sp. ISSDS-784	ISSDS-784	
+13634999	INSDC	EF620513.1	1	336	+	ABU49172.1	NifH	Paenibacillus polymyxa	ISSDS-792	
+13634999	INSDC	EF620514.1	1	337	+	ABU49173.1	NifH	Paenibacillus polymyxa	ISSDS-793	
+13634999	INSDC	EF620516.1	1	336	+	ABU49175.1	NifH	Paenibacillus polymyxa	ISSDS-795	
+13634999	INSDC	EF620517.1	1	336	+	ABU49176.1	NifH	Paenibacillus polymyxa	ISSDS-796	

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+23116186	INSDC	JF701923.1	1	418	+	AEC46862.1	NifH	Celerinatantimonas yamalensis	DSM 21888	

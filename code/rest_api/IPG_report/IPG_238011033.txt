@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+238011033	RefSeq	NZ_SLZR01000012.1	19115	19993	-	WP_132702268.1	nitrogenase iron protein	Reinekea marinisedimentorum	DSM 15388	GCF_004341165.1
+238011033	INSDC	SLZR01000012.1	19115	19993	-	TCS39737.1	nitrogenase iron protein NifH	Reinekea marinisedimentorum	DSM 15388	GCA_004341165.1

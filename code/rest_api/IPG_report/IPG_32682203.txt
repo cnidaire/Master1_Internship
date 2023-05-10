@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+32682203	INSDC	CP004044.1	2099306	2099623	-	AGC68891.1	nitrogenase iron protein NifH	Thermoclostridium stercorarium subsp. stercorarium DSM 8532	DSM 8532	GCA_000331995.1
+32682203	INSDC	CP003992.2	2095058	2095375	-	AGI39882.1	NifH	Thermoclostridium stercorarium subsp. stercorarium DSM 8532	DSM 8532	GCA_000349885.2
+32682203	INSDC	CP014672.1	2155544	2155861	-	ANW99192.1	nitrogen fixation protein NifH	Thermoclostridium stercorarium subsp. thermolacticum DSM 2910	DSM 2910	GCA_001697245.1
+32682203	INSDC	CP014673.1	2174018	2174335	-	ANX01749.1	nitrogen fixation protein NifH	Thermoclostridium stercorarium subsp. leptospartum DSM 9219	DSM 9219	GCA_001697285.1

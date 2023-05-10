@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+55473691	RefSeq	NZ_JJMI01000025.1	333301	334128	-	WP_036109879.1	nitrogenase iron protein	Mangrovibacter sp. MFB070	MFB070	GCF_000705335.1
+55473691	RefSeq	NZ_QGTS01000007.1	206406	207233	-	WP_036109879.1	nitrogenase iron protein	Mangrovibacter plantisponsor	DSM 19579	GCF_003182475.1
+55473691	INSDC	JJMI01000025.1	333301	334128	-	KEA52103.1	nitrogenase reductase	Mangrovibacter sp. MFB070	MFB070	GCA_000705335.1
+55473691	INSDC	QGTS01000007.1	206406	207233	-	PWW08149.1	nitrogenase iron protein NifH	Mangrovibacter plantisponsor	DSM 19579	GCA_003182475.1

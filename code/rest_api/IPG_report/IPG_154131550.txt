@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+154131550	INSDC	FZOC01000004.1	375169	376008	-	SNS02243.1	Mo-nitrogenase iron protein subunit NifH	Humidesulfovibrio mexicanus	DSM 13116	GCA_900188225.1

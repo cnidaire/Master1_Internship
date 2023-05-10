@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+562976532	RefSeq	NZ_JAHLPG010000003.1	64937	65779	-	WP_253288137.1	nitrogenase iron protein NifH	Paraeggerthella hongkongensis	N94	GCF_018917785.1
+562976532	RefSeq	NZ_JAJNOQ010000003.1	180197	181039	+	WP_253288137.1	nitrogenase iron protein NifH	Paraeggerthella hominis	NSJ-152	GCF_021044775.1

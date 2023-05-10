@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+322517717	RefSeq	NZ_WIPK01000001.1	76114	76857	+	WP_170074338.1	nitrogenase iron protein NifH	Paraclostridium dentum	SKVG24	GCF_012922555.1

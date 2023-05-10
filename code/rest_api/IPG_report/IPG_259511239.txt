@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+259511239	RefSeq	NZ_CABFUZ020000014.1	65	952	-	WP_142524257.1	nitrogenase iron protein	Methylacidimicrobium cyclopophantes		GCF_902143385.2
+259511239	INSDC	CABFUZ020000014.1	65	952	-	VVM04537.1	nitrogenase iron protein NifH	Methylacidimicrobium cyclopophantes		GCA_902143385.2

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+518353328	INSDC	MZ803186.1	1	737	+	UJP38455.1	dinitrogenase reductase NifH	Bradyrhizobium sp.	Bra4	

@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+329191214	RefSeq	NZ_JAAIMM010000014.1	51744	52511	-	WP_173688627.1	nitrogenase iron protein NifH	Coprococcus comes	MSK.16.63	GCF_013300725.1
+329191214	RefSeq	NZ_JADMYO010000019.1	10193	10960	-	WP_173688627.1	nitrogenase iron protein NifH	Coprococcus comes	J1101004_170508_C2	GCF_015549285.1
+329191214	INSDC	JAAIMM010000014.1	51744	52511	-	NSG33290.1	P-loop NTPase	Coprococcus comes	MSK.16.63	GCA_013300725.1

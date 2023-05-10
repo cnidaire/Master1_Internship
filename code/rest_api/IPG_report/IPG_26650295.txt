@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+26650295	RefSeq	NC_018017.1	1440069	1440827	+	WP_014793341.1	nitrogenase iron protein NifH	Desulfitobacterium dehalogenans ATCC 51507	ATCC 51507	GCF_000243155.2
+26650295	INSDC	CP003348.1	1440069	1440827	+	AFL99851.1	nitrogenase subunit NifH (ATPase)	Desulfitobacterium dehalogenans ATCC 51507	ATCC 51507	GCA_000243155.3

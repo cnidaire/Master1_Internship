@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+19812786	INSDC	HM019531.1	1	855	+	ADE45497.1	NifH	Paraburkholderia phymatum	GR05	

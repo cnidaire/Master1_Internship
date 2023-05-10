@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+132512495	RefSeq	NZ_FSRS01000001.1	97213	98097	+	WP_074218330.1	nitrogenase iron protein	Rhodovulum sp. ES.010	ES.010	GCF_900142935.1
+132512495	INSDC	FSRS01000001.1	97213	98097	+	SIO01297.1	nitrogenase iron protein NifH	Rhodovulum sp. ES.010	ES.010	GCA_900142935.1

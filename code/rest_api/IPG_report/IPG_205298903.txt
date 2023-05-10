@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+205298903	INSDC	DNAC01000225.1	261	1013	-	HAV91070.1	nitrogen fixation protein NifH	Eubacterium sp.		GCA_003543615.1

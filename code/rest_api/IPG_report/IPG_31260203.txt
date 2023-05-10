@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+31260203	INSDC	JX524438.1	1	690	+	AFV52055.1	NifH	Ensifer adhaerens	CCNWSX1108	

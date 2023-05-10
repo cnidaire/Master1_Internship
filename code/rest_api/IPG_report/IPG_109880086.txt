@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+109880086	INSDC	KX013241.1	1	636	+	ANE20390.1	NifH	Ensifer sp. X873B	X873B	

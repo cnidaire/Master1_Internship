@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+153026552	RefSeq	NZ_AP018248.1	2378877	2379770	-	WP_096575122.1	nitrogenase iron protein	Tolypothrix tenuis PCC 7101	NIES-37	GCF_002368295.1
+153026552	INSDC	AP018180.1	5914511	5915404	+	BAY32941.1	nitrogenase iron protein subunit NifH	Nostoc carneum NIES-2107	NIES-2107	GCA_002368155.1
+153026552	INSDC	AP018248.1	2378877	2379770	-	BAY98019.1	nitrogenase iron protein subunit NifH	Tolypothrix tenuis PCC 7101	NIES-37	GCA_002368295.1
+153026552	INSDC	AP018307.1	18933	19826	+	BAZ71474.1	nitrogenase iron protein subunit NifH	Aulosira laxa NIES-50	NIES-50	GCA_002368055.1
+153026552	INSDC	JACJQI010000051.1	38666	39559	-	MBD2240474.1	nitrogenase iron protein	Aulosira sp. FACHB-113	FACHB-113	GCA_014696595.1

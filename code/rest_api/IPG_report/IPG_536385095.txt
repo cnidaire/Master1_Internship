@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+536385095	INSDC	JALEQK010000046.1	88783	89577	-	MCI5567406.1	nitrogenase iron protein NifH	Veillonellaceae bacterium		GCA_022764485.1

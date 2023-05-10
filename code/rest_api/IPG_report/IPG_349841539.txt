@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+349841539	RefSeq	NZ_JACHGR010000001.1	116930	117814	-	WP_188025072.1	nitrogenase iron protein	Tolumonas osonensis	DSM 22975	GCF_014202415.1
+349841539	INSDC	JACHGR010000001.1	116930	117814	-	MBB6054245.1	nitrogenase iron protein NifH	Tolumonas osonensis	DSM 22975	GCA_014202415.1

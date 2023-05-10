@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+172265825	INSDC	PHFD01000186.1	303	1343	-	PKH46675.1	nitrogenase subunit NifH	Dehalococcoides mccartyi	H1-3-2.001	GCA_002835895.1

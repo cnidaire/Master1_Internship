@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+23455320	INSDC	HQ836201.1	1	659	+	AEF33308.1	NifH	Cyanothece sp. LCRNK_21	LCRNK_21	

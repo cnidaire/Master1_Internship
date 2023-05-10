@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+124589000	RefSeq	NZ_FNNG01000007.1	108203	108952	-	WP_093753019.1	nitrogenase iron protein NifH	Tepidimicrobium xylanilyticum	DSM 23310	GCF_900106765.1
+124589000	INSDC	FNNG01000007.1	108203	108952	-	SDX17188.1	nitrogenase iron protein NifH	Tepidimicrobium xylanilyticum	DSM 23310	GCA_900106765.1

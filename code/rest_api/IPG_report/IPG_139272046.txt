@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+139272046	INSDC	FUXD01000019.1	33694	34431	+	SJZ88664.1	Mo-nitrogenase iron protein subunit NifH	Megasphaera cerevisiae DSM 20462	DSM 20462	GCA_900167325.1

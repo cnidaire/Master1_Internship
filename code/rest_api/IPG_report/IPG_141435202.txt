@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+141435202	RefSeq	NZ_LWIG01000010.1	281718	282602	-	WP_080136150.1	nitrogenase iron protein	Bradyrhizobium sacchari	p9-20	GCF_002068095.1
+141435202	RefSeq	NZ_VITU01000006.1	271470	272354	-	WP_080136150.1	nitrogenase iron protein	Bradyrhizobium sacchari	BR 10555	GCF_007828015.1
+141435202	RefSeq	NZ_VITW01000007.1	271470	272354	-	WP_080136150.1	nitrogenase iron protein	Bradyrhizobium sacchari	BR 10556	GCF_007828095.1
+141435202	INSDC	LWIG01000010.1	281718	282602	-	OPY98520.1	nitrogenase reductase	Bradyrhizobium sacchari	p9-20	GCA_002068095.1
+141435202	INSDC	VITU01000006.1	271470	272354	-	TWB56999.1	Mo-nitrogenase iron protein subunit NifH	Bradyrhizobium sacchari	BR 10555	GCA_007828015.1
+141435202	INSDC	VITW01000007.1	271470	272354	-	TWB71276.1	Mo-nitrogenase iron protein subunit NifH	Bradyrhizobium sacchari	BR 10556	GCA_007828095.1

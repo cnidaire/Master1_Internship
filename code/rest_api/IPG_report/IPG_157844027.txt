@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+157844027	RefSeq	NZ_NPML01000019.1	440300	441121	-	WP_094550765.1	nitrogenase iron protein	Petroclostridium xylanilyticum	SK-Y3	GCF_002252565.1
+157844027	INSDC	JAIHAJ010000027.1	27508	28329	+	MBZ4645939.1	Mo-nitrogenase iron protein subunit NifH	Clostridia bacterium		GCA_020054655.1

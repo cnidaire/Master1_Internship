@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+4360438	INSDC	AY937260.1	1	332	+	AAY83287.1	NifH	Methylobacter tundripaludum SV96	SV96	

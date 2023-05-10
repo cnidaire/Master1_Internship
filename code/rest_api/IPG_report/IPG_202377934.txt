@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+202377934	RefSeq	NZ_QSRA01000007.1	80192	80938	+	WP_117659577.1	AAA family ATPase	Dorea formicigenerans	TF09-3	GCF_003436945.1
+202377934	INSDC	QSRA01000007.1	80192	80938	+	RGK84382.1	nitrogen fixation protein NifH	Dorea formicigenerans	TF09-3	GCA_003436945.1
+202377934	INSDC	QSAJ01000030.1	7776	8522	-	RGW51460.1	nitrogen fixation protein NifH	Dorea formicigenerans	AF12-11	GCA_003465045.1

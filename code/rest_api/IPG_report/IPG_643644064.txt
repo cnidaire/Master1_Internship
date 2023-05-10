@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+643644064	INSDC	FXUF01000008.1	180492	181403	+	SMP60642.1	nitrogenase iron protein NifH	Anoxynatronum buryatiense	Su22	

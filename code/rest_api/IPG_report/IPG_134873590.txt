@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+134873590	RefSeq	NZ_MLBF01000024.1	41532	42359	-	WP_075365591.1	nitrogenase iron protein	Desulfosporosinus metallidurans	OL	GCF_001936615.1
+134873590	INSDC	MLBF01000024.1	41532	42359	-	OLN30497.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Desulfosporosinus metallidurans	OL	GCA_001936615.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+1049660	INSDC	U23649.1	1	324	+	AAA65418.1	nifH	Paenibacillus durus	ATCC35681	
+1049660	INSDC	AJ224419.1	1	324	+	CAA11929.1	nitrogenase	Paenibacillus durus	2RC1	

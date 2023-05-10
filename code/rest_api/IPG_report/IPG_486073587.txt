@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+486073587	INSDC	JAIHAR010000004.1	75469	76338	+	MBZ4642867.1	Mo-nitrogenase iron protein subunit NifH	Deferribacteraceae bacterium		GCA_020054865.1

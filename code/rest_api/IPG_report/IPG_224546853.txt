@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+224546853	INSDC	MH339851.1	1	690	+	AZM65172.1	NifH	Bradyrhizobium sp.	TUTVUSA48	

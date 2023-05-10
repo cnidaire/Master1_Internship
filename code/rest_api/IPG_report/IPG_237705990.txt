@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+237705990	RefSeq	NZ_SLWK01000010.1	143617	144441	+	WP_132434461.1	nitrogenase iron protein	Natronoflexus pectinivorans	DSM 24179	GCF_004345615.1
+237705990	INSDC	SLWK01000010.1	143617	144441	+	TCO07129.1	nitrogenase iron protein NifH	Natronoflexus pectinivorans	DSM 24179	GCA_004345615.1

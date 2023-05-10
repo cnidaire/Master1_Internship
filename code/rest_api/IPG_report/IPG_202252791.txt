@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+202252791	RefSeq	NZ_QTXU01000014.1	40993	41757	+	WP_118124528.1	nitrogenase iron protein NifH	Ruminococcus sp. AM43-6	AM43-6	GCF_003461785.1
+202252791	INSDC	QTXU01000014.1	40993	41757	+	RGH35545.1	nitrogenase iron protein	Ruminococcus sp. AM43-6	AM43-6	GCA_003461785.1
+202252791	INSDC	CP107206.1	1197838	1198602	+	UYJ32985.1	nitrogenase iron protein NifH	Oscillospiraceae bacterium		GCA_025757945.1

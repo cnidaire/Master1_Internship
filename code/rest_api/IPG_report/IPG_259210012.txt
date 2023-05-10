@@ -1,0 +1,13 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+259210012	RefSeq	NZ_BROK01000044.1	11576	12319	-	WP_142730352.1	nitrogenase iron protein NifH	Paraclostridium bifermentans	ANS014	GCF_024345245.1
+259210012	RefSeq	NZ_BROL01000044.1	48964	49707	+	WP_142730352.1	nitrogenase iron protein NifH	Paraclostridium bifermentans	ANS015	GCF_024345265.1
+259210012	RefSeq	NZ_BROM01000144.1	1318	2061	+	WP_142730352.1	nitrogenase iron protein NifH	Paraclostridium bifermentans	ANS017	GCF_024345285.1
+259210012	RefSeq	NZ_JANKBO010000001.1	836791	837534	-	WP_142730352.1	nitrogenase iron protein NifH	Paraclostridium bifermentans	DSM 29423	GCF_024622085.1
+259210012	RefSeq	NZ_JAQCPM010000063.1	11779	12522	-	WP_142730352.1	nitrogenase iron protein NifH	Paraclostridium bifermentans	AF05-15B	GCF_027688135.1
+259210012	RefSeq	NZ_JAQCQN010000085.1	11881	12624	-	WP_142730352.1	nitrogenase iron protein NifH	Paraclostridium bifermentans	AF07-31B	GCF_027687525.1
+259210012	RefSeq	NZ_QZNC01000006.1	638863	639606	-	WP_142730352.1	nitrogenase iron protein NifH	Paraclostridium bifermentans	ATCC 638	GCF_006802875.1
+259210012	INSDC	BROK01000044.1	11576	12319	-	GKZ03037.1	nitrogenase iron protein	Paraclostridium bifermentans	ANS014	GCA_024345245.1
+259210012	INSDC	BROL01000044.1	48964	49707	+	GKZ06510.1	nitrogenase iron protein	Paraclostridium bifermentans	ANS015	GCA_024345265.1
+259210012	INSDC	BROM01000144.1	1318	2061	+	GKZ11609.1	nitrogenase iron protein	Paraclostridium bifermentans	ANS017	GCA_024345285.1
+259210012	INSDC	JANKBO010000001.1	836791	837534	-	MCR1875015.1	nitrogenase iron protein NifH	Paraclostridium bifermentans	DSM 29423	GCA_024622085.1
+259210012	INSDC	QZNC01000006.1	638863	639606	-	TQO58008.1	nitrogenase iron protein	Paraclostridium bifermentans	ATCC 638	GCA_006802875.1

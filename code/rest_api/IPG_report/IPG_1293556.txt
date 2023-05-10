@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+1293556	INSDC	AF107621.1	1	558	+	AAD26118.1	nitrogenase reductase	Rhizobium etli bv. mimosae	Mim2	
+1293556	INSDC	EU291978.1	1	558	+	ABZ89805.1	NifH	Rhizobium sp. CFN ESH34	CFN ESH34	

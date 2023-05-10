@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+13635014	INSDC	EF620492.1	1	318	+	ABU49160.1	NifH	Azotobacter vinelandii	ISSDS-423	

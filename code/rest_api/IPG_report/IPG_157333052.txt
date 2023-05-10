@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+157333052	INSDC	JAAXVI010000070.1	406	1206	+	NTV76793.1	P-loop NTPase	Methanothrix sp.		GCA_013335585.1
+157333052	INSDC	NOLC01000103.1	13009	13809	+	OYV09795.1	nitrogenase iron protein NifH	Methanosaeta sp. NSP1		GCA_002256595.1
+157333052	INSDC	NOLE01000228.1	2657	3457	-	OYV10391.1	nitrogenase iron protein NifH	Methanosaeta sp. ASO1		GCA_002256715.1
+157333052	INSDC	NOLD01000169.1	7208	8008	-	OYV13077.1	nitrogenase iron protein NifH	Methanosaeta sp. NSM2		GCA_002256575.1

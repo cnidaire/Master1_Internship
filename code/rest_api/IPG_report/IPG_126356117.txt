@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+126356117	RefSeq	NZ_AP025284.1	3358037	3358909	-	WP_091356304.1	nitrogenase iron protein	Amphritea atlantica	JCM 14776	GCF_024347255.1
+126356117	RefSeq	NZ_FOGB01000004.1	6848	7720	+	WP_091356304.1	nitrogenase iron protein	Amphritea atlantica	DSM 18887	GCF_900111095.1
+126356117	INSDC	FOGB01000004.1	6848	7720	+	SEQ47070.1	Mo-nitrogenase iron protein subunit NifH	Amphritea atlantica	DSM 18887	GCA_900111095.1

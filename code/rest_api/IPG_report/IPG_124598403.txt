@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+124598403	RefSeq	NZ_FNPV01000012.1	27235	28038	-	WP_093315464.1	AAA family ATPase	Tindallia californiensis	APO	GCF_900107405.1
+124598403	INSDC	FNPV01000012.1	27235	28038	-	SDZ20898.1	nitrogenase iron protein NifH	Tindallia californiensis	APO	GCA_900107405.1

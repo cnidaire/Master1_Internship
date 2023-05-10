@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+29805486	RefSeq	NC_018485.1	2740561	2741448	+	WP_014892102.1	nitrogenase iron protein	Methylocystis sp. SC2	SC2	GCF_000304315.1
+29805486	INSDC	HE956757.1	2712923	2713810	+	CCJ08074.1	Nitrogenase iron protein 2, NifH	Methylocystis sp. SC2	SC2	GCA_000304315.1
+29805486	INSDC	HE956757.1	2740561	2741448	+	CCJ08116.1	Nitrogenase iron protein 2, NifH	Methylocystis sp. SC2	SC2	GCA_000304315.1

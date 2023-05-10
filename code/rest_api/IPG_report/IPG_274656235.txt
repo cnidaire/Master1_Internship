@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+274656235	RefSeq	NZ_WAJR01000004.1	96327	97106	+	WP_158048981.1	nitrogenase iron protein NifH	Ellagibacter isourolithinifaciens	DSM 104140	GCF_008831035.1
+274656235	INSDC	WAJR01000004.1	96327	97106	+	KAB1641813.1	AAA family ATPase	Ellagibacter isourolithinifaciens	DSM 104140	GCA_008831035.1

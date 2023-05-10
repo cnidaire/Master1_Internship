@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+123866180	RefSeq	NZ_FMYQ01000010.1	30775	31656	-	WP_091997115.1	nitrogenase iron protein	Paraburkholderia lycopersici	TNe-862	GCF_900096975.1
+123866180	INSDC	FMYQ01000010.1	30775	31656	-	SDC75438.1	Mo-nitrogenase iron protein subunit NifH	Paraburkholderia lycopersici	TNe-862	GCA_900096975.1

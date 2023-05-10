@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+98849622	RefSeq	NZ_CP011307.1	1352444	1353229	-	WP_058117549.1	nitrogenase iron protein NifH	Intestinimonas butyriciproducens	AF211	GCF_001454945.1
+98849622	INSDC	CP011307.1	1352444	1353229	-	ALP93767.1	Nitrogenase subunit NifH like, type 1	Intestinimonas butyriciproducens	AF211	GCA_001454945.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+126405387	RefSeq	NZ_FNYO01000027.1	18547	19425	+	WP_090899895.1	nitrogenase iron protein	Azotobacter beijerinckii	DSM 1041	GCF_900108965.1
+126405387	INSDC	FNYO01000027.1	18547	19425	+	SEI93063.1	Mo-nitrogenase iron protein subunit NifH	Azotobacter beijerinckii	DSM 1041	GCA_900108965.1

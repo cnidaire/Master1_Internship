@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+155638063	RefSeq	NZ_FNCP01000002.1	76817	77662	+	WP_092329905.1	nitrogenase iron protein NifH	Desulfosporosinus hippei DSM 8344	DSM 8344	GCF_900100785.1

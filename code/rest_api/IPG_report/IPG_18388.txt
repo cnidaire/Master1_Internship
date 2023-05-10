@@ -1,0 +1,12 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+18388	RefSeq	NC_014408.1	151908	152735	+	WP_013294983.1	nitrogenase iron protein	Methanothermobacter marburgensis str. Marburg	Marburg	GCF_000145295.1
+18388	RefSeq	NZ_CP042937.1	711627	712454	-	WP_013294983.1	nitrogenase iron protein	Methanothermobacter sp. KEPCO-1	KEPCO-1	GCF_008033705.1
+18388	RefSeq	NZ_CP043480.1	1050669	1051496	+	WP_013294983.1	nitrogenase iron protein	Methanothermobacter sp. THM-2		GCF_009917665.1
+18388	RefSeq	NZ_CP069376.1	151908	152735	+	WP_013294983.1	nitrogenase iron protein	Methanothermobacter marburgensis	Marburg	GCF_027555065.1
+18388	Swiss-Prot	N/A				Q50785.1	Nitrogenase iron protein 1	Methanothermobacter marburgensis str. Marburg		
+18388	PIR	N/A				S63548	nitrogenase iron protein nifH	Methanothermobacter thermautotrophicus		
+18388	INSDC	CP001710.1	151908	152735	+	ADL57755.1	nitrogenase iron protein	Methanothermobacter marburgensis str. Marburg	Marburg	GCA_000145295.1
+18388	INSDC	X87971.1	263	1090	+	CAA61216.1	nitrogenase	Methanothermobacter thermautotrophicus	Marburg / DSM 2133	
+18388	INSDC	CP042937.1	711627	712454	-	QEF94360.1	nitrogenase iron protein	Methanothermobacter sp. KEPCO-1	KEPCO-1	GCA_008033705.1
+18388	INSDC	CP043480.1	1050669	1051496	+	QHN08227.1	nitrogenase iron protein	Methanothermobacter sp. THM-2		GCA_009917665.1
+18388	INSDC	CP069376.1	151908	152735	+	WBF09974.1	nitrogenase iron protein	Methanothermobacter marburgensis	Marburg	GCA_027555065.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+170303095	INSDC	PETQ01000146.1	2865	3872	-	PIV54518.1	nitrogen fixation protein NifH	Candidatus Desantisbacteria bacterium CG02_land_8_20_14_3_00_49_13		GCA_002781065.1
+170303095	INSDC	PFMR01000313.1	12189	13196	-	PIZ14708.1	nitrogen fixation protein NifH	Candidatus Desantisbacteria bacterium CG_4_10_14_0_8_um_filter_48_22		GCA_002785465.1

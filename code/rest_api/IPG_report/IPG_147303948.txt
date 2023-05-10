@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+147303948	INSDC	FWZU01000001.1	968112	968951	+	SME97199.1	Mo-nitrogenase iron protein subunit NifH	Desulfovibrio gilichinskyi	K3S	GCA_900177375.1

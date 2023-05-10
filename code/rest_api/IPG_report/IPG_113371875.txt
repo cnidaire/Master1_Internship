@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+113371875	INSDC	KT832416.1	1	310	+	ANS71379.1	NifH	Stigonema hormoides WYS4		

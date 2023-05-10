@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+6143874	INSDC	AJ968689.1	1	342	+	CAI91558.1	NifH protein	Phyllobacterium sp. ORS 1402	ORS 1402	

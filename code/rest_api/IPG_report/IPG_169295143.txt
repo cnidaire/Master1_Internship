@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+169295143	RefSeq	NZ_LT860099.1	544860	545594	+	WP_099468039.1	nitrogenase iron protein NifH	Konateibacter massiliensis	Marseille-P3773	GCF_900184995.1

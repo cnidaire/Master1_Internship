@@ -1,0 +1,10 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+27230606	INSDC	JN991106.1	1	687	+	AFD62624.1	NifH	Mesorhizobium sp. CCBAU 01577		
+27230606	INSDC	JN991109.1	1	687	+	AFD62627.1	NifH	Mesorhizobium sp. CCBAU 01597		
+27230606	INSDC	JN991111.1	1	687	+	AFD62629.1	NifH	Mesorhizobium amorphae		
+27230606	INSDC	JN991112.1	1	687	+	AFD62630.1	NifH	Mesorhizobium amorphae		
+27230606	INSDC	JN991115.1	1	687	+	AFD62633.1	NifH	Mesorhizobium sp. CCBAU 01557		
+27230606	INSDC	JN991117.1	1	687	+	AFD62635.1	NifH	Mesorhizobium temperatum		
+27230606	INSDC	JN991118.1	1	687	+	AFD62636.1	NifH	Mesorhizobium temperatum		
+27230606	INSDC	JN991119.1	1	687	+	AFD62637.1	NifH	Mesorhizobium amorphae		
+27230606	INSDC	JN991120.1	1	687	+	AFD62638.1	NifH	Mesorhizobium temperatum		

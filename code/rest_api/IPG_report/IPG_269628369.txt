@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+269628369	RefSeq	NZ_RXYA01000002.1	55619	56614	-	WP_148565778.1	terpene cyclase/mutase family protein	Acetobacterium paludosum	DSM 8237	GCF_008086595.1
+269628369	RefSeq	NZ_WJBD01000003.1	55619	56614	-	WP_148565778.1	terpene cyclase/mutase family protein	Acetobacterium paludosum	DER-2019	GCF_014284455.1
+269628369	INSDC	WJBD01000003.1	55619	56614	-	MBC3887395.1	nitrogen fixation protein NifH	Acetobacterium paludosum	DER-2019	GCA_014284455.1

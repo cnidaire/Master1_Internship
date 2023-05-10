@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+497738985	RefSeq	NZ_JAJCLQ010000002.1	44786	45547	+	WP_227195143.1	nitrogenase iron protein NifH	Blautia glucerasea	DFI.5.14	GCF_020559725.1
+497738985	INSDC	JAJCLQ010000002.1	44786	45547	+	MCB6544270.1	nitrogenase iron protein NifH	Blautia glucerasea	DFI.5.14	GCA_020559725.1

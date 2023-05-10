@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+121255849	INSDC	MEXX01000019.1	787	1818	+	OGD11897.1	nitrogen fixation protein NifH	Candidatus Aminicenantes bacterium RBG_13_62_12		GCA_001775695.1

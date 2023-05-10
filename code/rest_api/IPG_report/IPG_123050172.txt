@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+123050172	RefSeq	NZ_FNJQ01000024.1	46320	47177	-	WP_073090165.1	nitrogenase iron protein	Selenomonas ruminantium	S137	GCF_900104055.1
+123050172	RefSeq	NZ_FRBC01000015.1	49294	50151	-	WP_073090165.1	nitrogenase iron protein	Selenomonas ruminantium	HD4	GCF_900142515.1
+123050172	INSDC	FNJQ01000024.1	46320	47177	-	SDP54797.1	nitrogenase iron protein NifH	Selenomonas ruminantium	S137	GCA_900104055.1
+123050172	INSDC	FRBC01000015.1	49294	50151	-	SHK74124.1	Mo-nitrogenase iron protein subunit NifH	Selenomonas ruminantium	HD4	GCA_900142515.1

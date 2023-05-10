@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+248056051	RefSeq	NZ_SWJZ01000026.1	43338	44210	+	WP_136905814.1	nitrogenase iron protein NifH	Rhodobacter capsulatus	SP108	GCF_005144475.1
+248056051	INSDC	SWJZ01000026.1	43338	44210	+	TKD21707.1	nitrogenase iron protein	Rhodobacter capsulatus	SP108	GCA_005144475.1

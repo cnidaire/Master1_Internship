@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+196918074	RefSeq	NZ_QMDO01000001.1	693320	694084	-	WP_113671602.1	nitrogenase iron protein NifH	Vallitalea guaymasensis	L81	GCF_003313305.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+300404468	INSDC	JAAFHB010000376.1	42	572	+	NEW85276.1	nitrogen fixation protein NifH	Mariniphaga sp.		GCA_010906965.1

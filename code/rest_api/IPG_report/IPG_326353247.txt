@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+326353247	INSDC	JABLXV010000030.1	17235	18200	-	NPV01503.1	nitrogen fixation protein NifH	Brevinematales bacterium		GCA_013177895.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+121849761	INSDC	MGMM01000080.1	17850	18875	+	OGN88838.1	nitrogen fixation protein NifH	Chloroflexi bacterium RBG_13_46_9		GCA_001794985.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+73898866	RefSeq	NZ_CABKUA010000004.1	192762	193508	+	WP_041138658.1	nitrogenase iron protein NifH	Beduini massiliensis		GCF_902375445.1
+73898866	RefSeq	NZ_CDPP01000004.1	192762	193508	+	WP_041138658.1	nitrogenase iron protein NifH	Beduini massiliensis	GM1	GCF_000829905.1

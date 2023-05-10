@@ -1,0 +1,14 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+14939321	RefSeq	NZ_CABKNI010000001.1	945854	946603	+	WP_003488770.1	nitrogenase iron protein NifH	Clostridium sporogenes		GCF_902373725.1
+14939321	RefSeq	NZ_CP022405.1	825322	826071	+	WP_003488770.1	nitrogenase iron protein NifH	Clostridium sporogenes	AM553	GCF_007833475.1
+14939321	RefSeq	NZ_DS981518.1	945854	946603	+	WP_003488770.1	nitrogenase iron protein NifH	Clostridium sporogenes ATCC 15579	ATCC 15579	GCF_000155085.1
+14939321	RefSeq	NZ_JXSU01000007.1	318478	319227	+	WP_003488770.1	nitrogenase iron protein NifH	Clostridium botulinum B2 450	B2 450	GCF_000876495.2
+14939321	RefSeq	NZ_LFPK01000005.1	318207	318956	+	WP_003488770.1	nitrogenase iron protein NifH	Clostridium sporogenes	AM553	GCF_001573775.1
+14939321	RefSeq	NZ_NKQO01000088.1	7610	8359	+	WP_003488770.1	nitrogenase iron protein NifH	Clostridium sp. cpc1	cpc1	GCF_026168345.1
+14939321	RefSeq	NZ_SWOJ01000001.1	23446	24195	-	WP_003488770.1	nitrogenase iron protein NifH	Clostridium sporogenes	IFR 18/045	GCF_011012985.1
+14939321	INSDC	ABKW02000003.1	945854	946603	+	EDU38536.1	putative nitrogenase iron protein	Clostridium sporogenes ATCC 15579	ATCC 15579	GCA_000155085.1
+14939321	INSDC	DS981518.1	945854	946603	+	EDU38536.1	putative nitrogenase iron protein	Clostridium sporogenes ATCC 15579	ATCC 15579	GCA_000155085.1
+14939321	INSDC	JXSU01000007.1	318478	319227	+	KIS22703.1	nitrogenase iron protein	Clostridium botulinum B2 450	B2 450	GCA_000876495.2
+14939321	INSDC	SVCH01000001.1	1828571	1829320	-	MBE6077157.1	nitrogenase iron protein	Clostridium lundense		GCA_015058495.1
+14939321	INSDC	SWOJ01000001.1	23446	24195	-	NFE65175.1	nitrogenase iron protein	Clostridium sporogenes	IFR 18/045	GCA_011012985.1
+14939321	INSDC	CP022405.1	825322	826071	+	QDY31502.1	nitrogenase iron protein	Clostridium sporogenes	AM553	GCA_007833475.1

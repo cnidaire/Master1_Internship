@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+16450040	INSDC	FJ619300.1	1	555	+	ACM66893.1	NifH protein	Mesorhizobium tianshanense	CCNWSX543	

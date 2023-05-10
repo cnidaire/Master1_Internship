@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+20835004	INSDC	HM583798.1	2476	3354	+	ADM52725.1	NifH	Paenibacillus sabinae	T27	

@@ -1,0 +1,8 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+61856521	RefSeq	NZ_BIMG01000072.1	21636	22499	-	WP_036623760.1	nitrogenase iron protein	Paenibacillus macerans NBRC 15307	NBRC 15307	GCF_004000965.1
+61856521	RefSeq	NZ_JAKOBR010000035.1	39609	40472	-	WP_036623760.1	nitrogenase iron protein	Paenibacillus macerans	NRRL B-00394	GCF_026786785.1
+61856521	RefSeq	NZ_KN125580.1	4326476	4327339	-	WP_036623760.1	nitrogenase iron protein	Paenibacillus macerans	ATCC 8244	GCF_000746875.1
+61856521	RefSeq	NZ_UGSI01000001.1	1996557	1997420	-	WP_036623760.1	nitrogenase iron protein	Paenibacillus macerans	NCTC6355	GCF_900454495.1
+61856521	INSDC	JMQA01000041.1	21614	22477	-	KFM95798.1	nitrogenase iron protein	Paenibacillus macerans	ATCC 8244	GCA_000746875.1
+61856521	INSDC	KN125580.1	4326476	4327339	-	KFM95798.1	nitrogenase iron protein	Paenibacillus macerans	ATCC 8244	GCA_000746875.1
+61856521	INSDC	UGSI01000001.1	1996557	1997420	-	SUA83904.1	nitrogenase iron protein subunit NifH	Paenibacillus macerans	NCTC6355	GCA_900454495.1

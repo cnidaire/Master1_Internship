@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+325588607	RefSeq	NZ_JABGCB010000025.1	44562	45437	-	WP_172342934.1	nitrogenase iron protein	Novosphingobium sp. SG751A	SG751A	GCF_013149295.1
+325588607	INSDC	JABGCB010000025.1	44562	45437	-	NOW48494.1	nitrogenase iron protein NifH	Novosphingobium sp. SG751A	SG751A	GCA_013149295.1

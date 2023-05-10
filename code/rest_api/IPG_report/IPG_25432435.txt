@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+25432435	RefSeq	NZ_JH376861.1	113141	113953	-	WP_006697020.1	nitrogenase iron protein NifH	Selenomonas noxia F0398	F0398	GCF_000234135.1
+25432435	INSDC	ADGH01000018.1	104616	105428	-	EHG23561.1	hypothetical protein	Selenomonas noxia F0398	F0398	GCA_000234135.1
+25432435	INSDC	JH376861.1	113141	113953	-	EHG23561.1	hypothetical protein	Selenomonas noxia F0398	F0398	GCA_000234135.1

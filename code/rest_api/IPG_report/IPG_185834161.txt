@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+185834161	RefSeq	NZ_CP020921.1	1001478	1002233	-	WP_108309190.1	nitrogenase iron protein NifH	Thermodesulfobium acidiphilum	3127-1	GCF_003057965.1
+185834161	INSDC	CP020921.1	1001478	1002233	-	AWB10386.1	nitrogenase iron protein NifH	Thermodesulfobium acidiphilum	3127-1	GCA_003057965.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+127415575	INSDC	FOSY01000015.1	64101	64859	+	SFL23808.1	nitrogenase iron protein NifH	Lachnospiraceae bacterium KH1T2	KH1T2	GCA_900114405.1

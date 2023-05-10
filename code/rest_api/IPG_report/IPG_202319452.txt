@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+202319452	RefSeq	NZ_QSOV01000003.1	168808	169575	+	WP_117556662.1	nitrogenase iron protein NifH	Coprococcus comes	TM07-19	GCF_003436145.1
+202319452	INSDC	QSOV01000003.1	168808	169575	+	RGJ25058.1	nitrogenase iron protein	Coprococcus comes	TM07-19	GCA_003436145.1

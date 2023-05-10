@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+236515173	RefSeq	NZ_LR215982.1	340502	341272	-	WP_130921135.1	nitrogenase iron protein NifH	Phascolarctobacterium faecium		GCF_900683765.1
+236515173	INSDC	JAGZTP010000010.1	9294	10064	-	MBS6905259.1	AAA family ATPase	Phascolarctobacterium sp.		GCA_018380425.1

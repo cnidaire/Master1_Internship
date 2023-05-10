@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+588318284	INSDC	BNUT01000121.1	4050	4823	-	GHV55791.1	nitrogenase subunit nifH	Spirochaetia bacterium	MS495-79	GCA_025997555.1

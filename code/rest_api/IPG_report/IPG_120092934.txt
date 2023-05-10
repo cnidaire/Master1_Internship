@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+120092934	INSDC	JAILAY010000048.1	25752	26606	-	MCR4868340.1	nitrogenase iron protein	Lachnospiraceae bacterium		GCA_024681355.1
+120092934	INSDC	FMTN01000009.1	119281	120135	-	SCW39921.1	nitrogenase iron protein NifH	Lachnospiraceae bacterium C10	C10	GCA_900100095.1
+120092934	INSDC	FNOC01000011.1	49850	50704	+	SDW57506.1	Mo-nitrogenase iron protein subunit NifH	Lachnospiraceae bacterium KHCPX20	KHCPX20	GCA_900106615.1

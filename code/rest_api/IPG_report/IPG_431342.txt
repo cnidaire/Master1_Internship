@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+431342	INSDC	AF487824.1	1	384	-	AAM10967.1	NifH	Devosia neptuniae	J1	

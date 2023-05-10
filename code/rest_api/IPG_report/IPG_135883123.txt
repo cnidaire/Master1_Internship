@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+135883123	RefSeq	NZ_FTMD01000016.1	44446	45327	-	WP_076603833.1	nitrogenase iron protein	Aromatoleum tolulyticum	ATCC 51758	GCF_900156155.1
+135883123	INSDC	JAHHGN010000002.1	121013	121894	-	MCK9983968.1	nitrogenase iron protein NifH	Azoarcus sp.		GCA_023252295.1
+135883123	INSDC	FTMD01000016.1	44446	45327	-	SIR46281.1	Mo-nitrogenase iron protein subunit NifH	Aromatoleum tolulyticum	ATCC 51758	GCA_900156155.1

@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+20538021	RefSeq	NC_014328.1	2528052	2528822	-	WP_013238953.1	nitrogenase iron protein NifH	Clostridium ljungdahlii DSM 13528	DSM 13528	GCF_000143685.1
+20538021	RefSeq	NZ_LITS01000004.1	72298	73068	-	WP_013238953.1	nitrogenase iron protein NifH	Clostridium ljungdahlii DSM 13528	PETC	GCF_001636855.1
+20538021	INSDC	CP001666.1	2528052	2528822	-	ADK15363.1	nitrogenase iron protein	Clostridium ljungdahlii DSM 13528	DSM 13528	GCA_000143685.1
+20538021	INSDC	LITS01000004.1	72298	73068	-	OAA88463.1	Nitrogenase iron protein 1	Clostridium ljungdahlii DSM 13528	PETC	GCA_001636855.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+3966472	INSDC	AB100833.1	1	363	+	BAD80875.1	nifH	Heliorestis baculata	DSM 13446	

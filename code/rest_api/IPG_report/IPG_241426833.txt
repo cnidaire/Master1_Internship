@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+241426833	RefSeq	NZ_JAFHCH010000080.1	6563	7324	+	WP_134108080.1	nitrogenase iron protein NifH	Ruthenibacterium lactatiformans	Sm3426	GCF_016937475.1
+241426833	RefSeq	NZ_JAFHCI010000084.1	6606	7367	+	WP_134108080.1	nitrogenase iron protein NifH	Ruthenibacterium lactatiformans	2773	GCF_016937375.1
+241426833	RefSeq	NZ_LR215981.1	1666240	1667001	+	WP_134108080.1	nitrogenase iron protein NifH	Ruthenibacterium lactatiformans		GCF_900683755.1
+241426833	INSDC	JAFHCH010000080.1	6563	7324	+	MBN3014054.1	AAA family ATPase	Ruthenibacterium lactatiformans	Sm3426	GCA_016937475.1
+241426833	INSDC	JAFHCI010000084.1	6606	7367	+	MBN3018214.1	AAA family ATPase	Ruthenibacterium lactatiformans	2773	GCA_016937375.1

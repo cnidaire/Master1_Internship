@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+309984342	INSDC	WWBG01000782.1	406	1431	-	NIN66850.1	nitrogen fixation protein NifH	Anaerolineae bacterium		GCA_011771555.1
+309984342	INSDC	WWAS01000736.1	406	1431	-	NIN96984.1	nitrogen fixation protein NifH	Anaerolineae bacterium		GCA_011771845.1
+309984342	INSDC	WVYK01000672.1	406	1431	-	NIQ79935.1	nitrogen fixation protein NifH	Anaerolineae bacterium		GCA_011773025.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+576845789	INSDC	CP103804.1	2759900	2760649	-	UWD47465.1	nitrogenase iron protein NifH	Clostridioides difficile	ST632	GCA_024919175.1

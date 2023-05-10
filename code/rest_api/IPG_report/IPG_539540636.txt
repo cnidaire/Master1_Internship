@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+539540636	RefSeq	NZ_CABJAI010000008.1	36968	37825	-	WP_243128668.1	nitrogenase iron protein NifH	Eubacterium callanderi		GCF_902363505.1
+539540636	RefSeq	NZ_JAHMUG010000004.1	207641	208498	+	WP_243128668.1	nitrogenase iron protein NifH	Eubacterium callanderi	KGMB02377	GCF_019075835.1
+539540636	RefSeq	NZ_JAQDDJ010000001.1	591900	592757	-	WP_243128668.1	nitrogenase iron protein NifH	Eubacterium limosum	AF73-07pH9A	GCF_027680525.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+525265070	INSDC	OK507080.1	1	759	+	ULE30081.1	NifH	Sinorhizobium meliloti	FRNB_82	

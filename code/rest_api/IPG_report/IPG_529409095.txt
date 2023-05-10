@@ -1,0 +1,8 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+529409095	INSDC	JAKVOB010000001.1	161653	162417	-	MCH3967163.1	nitrogenase iron protein NifH	Atopobiaceae bacterium		GCA_022483015.1
+529409095	INSDC	JAKVKL010000001.1	169518	170282	-	MCH4179905.1	nitrogenase iron protein NifH	Atopobiaceae bacterium		GCA_022486505.1
+529409095	INSDC	JAKVJX010000001.1	315319	316083	-	MCH4213656.1	nitrogenase iron protein NifH	Atopobiaceae bacterium		GCA_022486805.1
+529409095	INSDC	JAKVJK010000049.1	4845	5609	+	MCH4230521.1	nitrogenase iron protein NifH	Atopobiaceae bacterium		GCA_022487045.1
+529409095	INSDC	JAKVIT010000003.1	103492	104256	+	MCH4275987.1	nitrogenase iron protein NifH	Atopobiaceae bacterium		GCA_022487385.1
+529409095	INSDC	JALCCP010000001.1	103492	104256	+	MCI1225744.1	nitrogenase iron protein NifH	Atopobiaceae bacterium		GCA_022640895.1
+529409095	INSDC	JALCDI010000016.1	10216	10980	-	MCI1259755.1	nitrogenase iron protein NifH	Atopobiaceae bacterium		GCA_022641435.1

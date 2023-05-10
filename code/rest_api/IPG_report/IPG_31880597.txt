@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+31880597	RefSeq	NC_019676.1	1189909	1190799	+	WP_015111910.1	nitrogenase iron protein	Nostoc sp. PCC 7107	PCC 7107	GCF_000316625.1
+31880597	INSDC	CP003548.1	1189909	1190799	+	AFY41676.1	Mo-nitrogenase iron protein subunit NifH	Nostoc sp. PCC 7107	PCC 7107	GCA_000316625.1

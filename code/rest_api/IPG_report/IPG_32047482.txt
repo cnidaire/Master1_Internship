@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+32047482	RefSeq	NC_019779.1	1952094	1952972	+	WP_015225829.1	nitrogenase iron protein	Halothece sp. PCC 7418	PCC 7418	GCF_000317635.1
+32047482	INSDC	CP003945.1	1952094	1952972	+	AFZ43954.1	Mo-nitrogenase iron protein subunit NifH	Halothece sp. PCC 7418	PCC 7418	GCA_000317635.1

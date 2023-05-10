@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+3369817	INSDC	AY533864.1	1	658	+	AAT06091.1	NifH	Paraburkholderia mimosarum	MAP3-5	
+3369817	INSDC	AY533865.1	1	658	+	AAT06092.1	NifH	Paraburkholderia mimosarum	Br3454	

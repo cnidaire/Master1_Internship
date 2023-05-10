@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+237631717	RefSeq	NZ_SLVM01000008.1	78864	79739	-	WP_132694348.1	nitrogenase iron protein	Rhodovulum steppense	DSM 21153	GCF_004339675.1
+237631717	INSDC	SLVM01000008.1	78864	79739	-	TCM85229.1	Mo-nitrogenase iron protein subunit NifH	Rhodovulum steppense	DSM 21153	GCA_004339675.1

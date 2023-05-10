@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+161734440	RefSeq	NZ_OAOQ01000003.1	201824	202699	-	WP_097029814.1	nitrogenase iron protein	Cereibacter ovatus	JA234	GCF_900207575.1
+161734440	INSDC	OAOQ01000003.1	201824	202699	-	SNX69203.1	Mo-nitrogenase iron protein subunit NifH	Cereibacter ovatus	JA234	GCA_900207575.1

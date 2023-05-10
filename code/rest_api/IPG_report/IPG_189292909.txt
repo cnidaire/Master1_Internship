@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+189292909	INSDC	MF461637.1	1	645	+	AWP45422.1	NifH	Mesorhizobium zhangyense	23-3-2	

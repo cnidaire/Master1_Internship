@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+881421	INSDC	Z95228.1	1	558	+	CAB08532.1	nifH	Mesorhizobium sp. INPA78B	INPA78B	

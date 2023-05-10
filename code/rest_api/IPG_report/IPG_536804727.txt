@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+536804727	INSDC	JALEOZ010000019.1	117607	118380	-	MCI5635798.1	nitrogenase iron protein NifH	Sarcina ventriculi		GCA_022766505.1

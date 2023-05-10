@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+122931342	RefSeq	NZ_FNAQ01000008.1	88970	89848	+	WP_281241629.1	nitrogenase iron protein	Desulfuromonas thiophila	DSM 8987	GCF_900101955.1
+122931342	INSDC	FNAQ01000008.1	88970	89848	+	SDE34483.1	Mo-nitrogenase iron protein subunit NifH	Desulfuromonas thiophila	DSM 8987	GCA_900101955.1

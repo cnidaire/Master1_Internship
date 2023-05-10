@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+20572387	INSDC	HM193519.1	1	391	+	ADK34021.1	NifH	Azospirillum formosense	CC-Nfb-7	

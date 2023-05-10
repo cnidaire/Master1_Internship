@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+122685489	RefSeq	NZ_LT629751.1	2658827	2659708	-	WP_090349186.1	nitrogenase iron protein	Pseudomonas oryzae	KCTC 32247	GCF_900104805.1
+122685489	INSDC	LT629751.1	2658827	2659708	-	SDS70900.1	Mo-nitrogenase iron protein subunit NifH	Pseudomonas oryzae	KCTC 32247	GCA_900104805.1

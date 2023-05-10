@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+18140184	INSDC	GQ167296.1	1	789	+	ACT67961.1	NifH	Mesorhizobium caraganae	CCBAU 11299	

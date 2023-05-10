@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+127867972	RefSeq	NZ_JAMDQB010000002.1	97191	98072	+	WP_090084487.1	nitrogenase iron protein	Escherichia coli	KUIP-5	GCF_023483505.1
+127867972	INSDC	JAMDQB010000002.1	97191	98072	+	MCL5497535.1	nitrogenase iron protein	Escherichia coli	KUIP-5	GCA_023483505.1
+127867972	INSDC	FONB01000005.1	306503	307384	+	SFE45815.1	Mo-nitrogenase iron protein subunit NifH	Phytobacter palmae	S29	GCA_900112785.1

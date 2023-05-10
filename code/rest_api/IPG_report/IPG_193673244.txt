@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+193673244	RefSeq	NZ_QLME01000002.1	104966	105805	+	WP_243834219.1	nitrogenase iron protein	Halanaerobium saccharolyticum	MSL 17.2	GCF_003259895.1
+193673244	RefSeq	NZ_SODA01000001.1	104966	105805	+	WP_243834219.1	nitrogenase iron protein	Halanaerobium saccharolyticum	MSL9.2	GCF_004365235.1
+193673244	RefSeq	NZ_SOEH01000001.1	104966	105805	+	WP_243834219.1	nitrogenase iron protein	Halanaerobium saccharolyticum	MSL 19.2	GCF_004368825.1
+193673244	INSDC	QLME01000002.1	104966	105805	+	RAK11787.1	Mo-nitrogenase iron protein subunit NifH	Halanaerobium saccharolyticum	MSL 17.2	GCA_003259895.1
+193673244	INSDC	SODA01000001.1	104966	105805	+	TDW07628.1	Mo-nitrogenase iron protein subunit NifH	Halanaerobium saccharolyticum	MSL9.2	GCA_004365235.1
+193673244	INSDC	SOEH01000001.1	104966	105805	+	TDX64549.1	Mo-nitrogenase iron protein subunit NifH	Halanaerobium saccharolyticum	MSL 19.2	GCA_004368825.1

@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+264571125	RefSeq	NZ_JARPAF010000001.1	455972	456856	+	WP_145612717.1	nitrogenase iron protein	Nitrospirillum amazonense	Y1	GCF_029594735.1
+264571125	RefSeq	NZ_VITV01000008.1	330016	330900	-	WP_145612717.1	nitrogenase iron protein	Nitrospirillum amazonense	BR 12005	GCF_007828035.1
+264571125	INSDC	VITV01000008.1	330016	330900	-	TWB69999.1	Mo-nitrogenase iron protein subunit NifH	Nitrospirillum amazonense	BR 12005	GCA_007828035.1

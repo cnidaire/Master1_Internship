@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+130392522	RefSeq	NZ_FQYT01000018.1	45925	46743	+	WP_073994074.1	nitrogenase iron protein	Parasporobacterium paucivorans DSM 15970	DSM 15970	GCF_900141895.1
+130392522	INSDC	FQYT01000018.1	45925	46743	+	SHJ34234.1	nitrogenase iron protein NifH	Parasporobacterium paucivorans DSM 15970	DSM 15970	GCA_900141895.1

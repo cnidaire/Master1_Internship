@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+129785952	INSDC	LT634362.1	2153064	2153828	-	SFZ88961.1	Nitrogenase subunit NifH paralog, type 2	Loigolactobacillus rennini	ACA-DC 565	

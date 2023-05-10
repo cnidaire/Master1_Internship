@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+16450043	INSDC	FJ619303.1	1	558	+	ACM66896.1	NifH protein	Sinorhizobium meliloti	CCNWXJ209	

@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+509951811	RefSeq	NZ_AP014722.1	1411512	1412549	-	WP_231854698.1	nitrogen fixation protein NifH	Dehalococcoides sp. UCH007	UCH007	GCF_001010485.1
+509951811	RefSeq	NZ_CP080651.1	1375845	1376882	-	WP_231854698.1	nitrogen fixation protein NifH	Dehalococcoides mccartyi	CWV2	GCF_019614295.1
+509951811	INSDC	CP080651.2	1375845	1376882	-	QYY58820.2	nitrogen fixation protein NifH	Dehalococcoides mccartyi	CWV2	GCA_019614295.2

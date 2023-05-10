@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+148791367	RefSeq	NZ_CP020910.1	244088	244981	-	WP_086084010.1	nitrogenase iron protein	Rhizobium etli	NXC12	GCF_002119845.1
+148791367	INSDC	CP020910.1	244088	244981	-	ARQ13340.1	nitrogenase iron protein NifH 1	Rhizobium etli	NXC12	GCA_002119845.1

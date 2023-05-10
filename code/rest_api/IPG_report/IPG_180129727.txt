@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+180129727	RefSeq	NZ_PTJA01000002.1	72134	72952	+	WP_104434792.1	nitrogenase iron protein	Hungatella xylanolytica	DSM 3808	GCF_002934545.1
+180129727	INSDC	SVDV01000019.1	44959	45777	-	MBE5988140.1	nitrogenase iron protein	Paenibacillaceae bacterium		GCA_015057745.1
+180129727	INSDC	PTJA01000002.1	72134	72952	+	PPK82381.1	Mo-nitrogenase iron protein subunit NifH	Hungatella xylanolytica	DSM 3808	GCA_002934545.1

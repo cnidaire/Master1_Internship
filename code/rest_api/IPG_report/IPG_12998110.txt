@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+12998110	RefSeq	NC_009445.1	5627718	5628605	-	WP_012029033.1	nitrogenase iron protein	Bradyrhizobium sp. ORS 278	ORS278	GCF_000026145.1
+12998110	INSDC	CU234118.1	5627718	5628605	-	CAL79117.1	nitrogenase iron protein, nifH; dinitrogenase reductase	Bradyrhizobium sp. ORS 278	ORS278	GCA_000026145.1

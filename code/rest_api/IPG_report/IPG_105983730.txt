@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+105983730	INSDC	KR137635.1	1	325	+	AMQ98997.1	NifH	Nostocaceae cyanobacterium CENA388	CENA388	

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+200623251	RefSeq	NZ_QUNA01000001.1	1451069	1451950	-	WP_116117448.1	nitrogenase iron protein	Paraburkholderia sp. BL6669N2	BL6669N2	GCF_003387275.1
+200623251	INSDC	QUNA01000001.1	1451069	1451950	-	REG58685.1	Mo-nitrogenase iron protein subunit NifH	Paraburkholderia sp. BL6669N2	BL6669N2	GCA_003387275.1

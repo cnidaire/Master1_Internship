@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+19701577	INSDC	FP929053.1	1813754	1814431	-	CBL20128.1	Mo-nitrogenase iron protein subunit NifH	Ruminococcus sp. SR1/5	SR1/5	GCA_000209835.1

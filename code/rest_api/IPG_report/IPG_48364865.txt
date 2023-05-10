@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+48364865	RefSeq	NZ_CP007201.1	1249604	1250515	+	WP_025344427.1	nitrogenase iron protein	Sulfurospirillum multivorans DSM 12446	DSM 12446	GCF_000568815.1
+48364865	RefSeq	NZ_CP017111.1	1288344	1289255	+	WP_025344427.1	nitrogenase iron protein	Sulfurospirillum halorespirans DSM 13726	PCE-M2	GCF_001723605.1
+48364865	RefSeq	NZ_CP042966.1	1251545	1252456	+	WP_025344427.1	nitrogenase iron protein	Sulfurospirillum multivorans	N	GCF_008083195.1
+48364865	INSDC	CP007201.1	1249604	1250515	+	AHJ12546.1	nitrogenase iron protein NifH	Sulfurospirillum multivorans DSM 12446	DSM 12446	GCA_000568815.1
+48364865	INSDC	CP017111.1	1288344	1289255	+	AOO65043.1	nitrogenase iron protein NifH	Sulfurospirillum halorespirans DSM 13726	DSM 13726; PCE-M2	GCA_001723605.1
+48364865	INSDC	CP042966.1	1251545	1252456	+	QEH06041.1	nitrogenase iron protein NifH	Sulfurospirillum multivorans	N	GCA_008083195.1

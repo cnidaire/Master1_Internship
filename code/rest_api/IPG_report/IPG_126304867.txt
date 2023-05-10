@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+126304867	RefSeq	NZ_FODY01000016.1	45973	46848	-	WP_091748268.1	nitrogenase iron protein	Propionispora vibrioides	DSM 13305	GCF_900110485.1
+126304867	INSDC	FODY01000016.1	45973	46848	-	SEP27973.1	nitrogenase iron protein NifH	Propionispora vibrioides	DSM 13305	GCA_900110485.1

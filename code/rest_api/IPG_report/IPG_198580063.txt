@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+198580063	RefSeq	NZ_CP094929.1	933878	934900	+	WP_244773862.1	nitrogen fixation protein NifH	Sphaerochaeta associata	GLS2T	GCF_022869165.1
+198580063	INSDC	FXUH01000011.1	4230	5252	+	SMP59394.1	hypothetical protein	Sphaerochaeta associata	GLS2	
+198580063	INSDC	CP094929.1	933878	934900	+	UOM51995.1	nitrogen fixation protein NifH	Sphaerochaeta associata	GLS2T	GCA_022869165.1

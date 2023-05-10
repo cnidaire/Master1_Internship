@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+281098028	RefSeq	NZ_VUNQ01000043.1	5149	5904	-	WP_154441917.1	nitrogenase iron protein NifH	Tissierella pigra	WCA3-693-APC-4	GCF_009695605.1
+281098028	INSDC	VUNQ01000043.1	5149	5904	-	MSU02776.1	AAA family ATPase	Tissierella pigra	WCA3-693-APC-4	GCA_009695605.1

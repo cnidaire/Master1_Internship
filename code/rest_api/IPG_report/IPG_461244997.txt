@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+461244997	RefSeq	NZ_JAHGVE010000002.1	39767	40594	+	WP_215828039.1	nitrogenase iron protein	Pelorhabdus rhamnosifermentans	BoRhaA	GCF_018835585.1
+461244997	INSDC	JAHGVE010000002.1	39767	40594	+	MBU2699607.1	nitrogenase iron protein NifH	Pelorhabdus rhamnosifermentans	BoRhaA	GCA_018835585.1

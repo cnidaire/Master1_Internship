@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+183529552	RefSeq	NZ_CP027777.1	2424569	2425318	-	WP_159035269.1	nitrogenase iron protein NifH	Clostridium botulinum	Mfbjulcb8	GCF_003017145.1
+183529552	RefSeq	NZ_CP027778.1	3413541	3414290	+	WP_159035269.1	nitrogenase iron protein NifH	Clostridium botulinum	Mfbjulcb6	GCF_003017195.1
+183529552	INSDC	CP027777.1	2424569	2425318	-	AVQ39239.1	nitrogenase iron protein	Clostridium botulinum	Mfbjulcb8	GCA_003017145.1
+183529552	INSDC	CP027778.1	3413541	3414290	+	AVQ43680.1	nitrogenase iron protein	Clostridium botulinum	Mfbjulcb6	GCA_003017195.1

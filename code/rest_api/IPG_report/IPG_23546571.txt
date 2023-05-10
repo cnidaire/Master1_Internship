@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+23546571	RefSeq	NC_015574.1	1108639	1109517	+	WP_013825545.1	nitrogenase iron protein NifH	Methanobacterium paludis	SWAN1	GCF_000214725.1
+23546571	INSDC	CP002772.1	1108639	1109517	+	AEG18043.1	Nitrogenase	Methanobacterium paludis	SWAN1	GCA_000214725.1

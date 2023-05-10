@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+127920778	RefSeq	NZ_FOTS01000001.1	71642	72463	-	WP_090931824.1	nitrogenase iron protein	Pelosinus propionicus DSM 13327	DSM 13327	GCF_900114615.1
+127920778	INSDC	FOTS01000001.1	71642	72463	-	SFL31561.1	Mo-nitrogenase iron protein subunit NifH	Pelosinus propionicus DSM 13327	DSM 13327	GCA_900114615.1

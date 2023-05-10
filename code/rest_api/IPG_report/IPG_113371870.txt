@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+113371870	INSDC	KT832406.1	1	315	+	ANS71369.1	NifH	Stigonema sp. LS9-1		

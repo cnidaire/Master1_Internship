@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+185651107	INSDC	CP020114.1	4632213	4632623	-	AVZ31400.1	nitrogenase iron protein NifH	Nodularia spumigena UHCC 0039	UHCC 0039	GCA_003054475.1

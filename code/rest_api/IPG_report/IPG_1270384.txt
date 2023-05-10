@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+1270384	INSDC	AF302905.1	1	372	+	AAL78767.1	NifH	Xanthobacter autotrophicus	7c; DSMZ 432	

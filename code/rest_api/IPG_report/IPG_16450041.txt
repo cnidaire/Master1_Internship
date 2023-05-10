@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+16450041	INSDC	FJ619301.1	1	555	+	ACM66894.1	NifH protein	Sinorhizobium fredii	CCNWNX165	

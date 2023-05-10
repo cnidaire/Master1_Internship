@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+210835451	RefSeq	NZ_CP032416.1	729609	730370	+	WP_119970486.1	nitrogenase iron protein NifH	Clostridium fermenticellae	JN500901	GCF_003600355.1
+210835451	INSDC	CP032416.1	729609	730370	+	AYD39670.1	nitrogen fixation protein NifH	Clostridium fermenticellae	JN500901	GCA_003600355.1

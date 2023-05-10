@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+22574877	INSDC	HQ231516.1	1	700	+	ADZ23531.1	NifH	Sinorhizobium fredii	CCBAU 051149	
+22574877	INSDC	HQ231524.1	1	700	+	ADZ23539.1	NifH	Sinorhizobium fredii	CCBAU 45428	
+22574877	INSDC	HQ231527.1	1	699	+	ADZ23542.1	NifH	Sinorhizobium fredii	CCBAU 25382	
+22574877	INSDC	HQ231536.1	1	700	+	ADZ23551.1	NifH	Sinorhizobium fredii	CCBAU 25608	

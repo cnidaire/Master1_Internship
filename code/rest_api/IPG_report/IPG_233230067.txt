@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+233230067	RefSeq	NZ_BFAX01000003.1	101048	101896	+	WP_131007156.1	nitrogenase iron protein	Methanofervidicoccus abyssi	HHB	GCF_004310395.1
+233230067	INSDC	BFAX01000003.1	101048	101896	+	GBF36374.1	nitrogenase iron protein NifH	Methanofervidicoccus abyssi	HHB	GCA_004310395.1
+233230067	INSDC	DQSW01000226.1	1354	2202	-	HIP16531.1	nitrogenase iron protein	Methanothermococcus okinawensis		GCA_015663055.1

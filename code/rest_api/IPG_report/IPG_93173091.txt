@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+93173091	RefSeq	NZ_CP010869.1	960696	961580	+	WP_054538234.1	nitrogenase iron protein	Actibacterium sp. EMB200-NS6	EMBL200_NS6	GCF_001305615.1
+93173091	RefSeq	NZ_JACIEQ010000001.1	507083	507967	-	WP_054538234.1	nitrogenase iron protein	Actibacterium naphthalenivorans	DSM 105040	GCF_014196965.1
+93173091	INSDC	CP010869.1	960696	961580	+	ALG89632.1	nitrogenase reductase	Actibacterium sp. EMB200-NS6	EMB200-NS6	GCA_001305615.1
+93173091	INSDC	JACIEQ010000001.1	507083	507967	-	MBB4020699.1	nitrogenase iron protein NifH	Actibacterium naphthalenivorans	DSM 105040	GCA_014196965.1

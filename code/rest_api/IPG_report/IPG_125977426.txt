@@ -1,0 +1,8 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+125977426	RefSeq	NZ_FNZX01000011.1	56820	57698	+	WP_074791288.1	nitrogenase iron protein NifH	Pseudobutyrivibrio ruminis	ACV-9	GCF_900109715.1
+125977426	RefSeq	NZ_FOWB01000011.1	43648	44526	-	WP_074791288.1	nitrogenase iron protein NifH	Pseudobutyrivibrio sp. JW11	JW11	GCF_900115355.1
+125977426	RefSeq	NZ_OBMR01000007.1	62260	63138	-	WP_074791288.1	nitrogenase iron protein NifH	Pseudobutyrivibrio ruminis DSM 9787	DSM 9787	GCF_900218035.1
+125977426	INSDC	SVET01000003.1	43912	44790	-	MBE5913179.1	nitrogenase iron protein	Pseudobutyrivibrio ruminis		GCA_015057245.1
+125977426	INSDC	FNZX01000011.1	56820	57698	+	SEK80450.1	nitrogenase iron protein NifH	Pseudobutyrivibrio ruminis	ACV-9	GCA_900109715.1
+125977426	INSDC	FOWB01000011.1	43648	44526	-	SFO46890.1	nitrogenase iron protein NifH	Pseudobutyrivibrio sp. JW11	JW11	GCA_900115355.1
+125977426	INSDC	OBMR01000007.1	62260	63138	-	SOC06057.1	nitrogenase iron protein NifH	Pseudobutyrivibrio ruminis DSM 9787	DSM 9787	GCA_900218035.1

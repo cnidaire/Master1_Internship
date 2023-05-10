@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+213714533	INSDC	QMXG01000006.1	2672	3670	+	RLG97332.1	nitrogen fixation protein NifH	Candidatus Bathyarchaeota archaeon		GCA_003662025.1

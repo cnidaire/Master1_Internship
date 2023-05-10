@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+126067024	RefSeq	NZ_FOFU01000003.1	98943	99794	+	WP_074642152.1	nitrogenase iron protein	Treponema bryantii	B25	GCF_900111035.1
+126067024	INSDC	JAGAZB010000054.1	3158	4009	+	MBP3743456.1	nitrogenase iron protein	Treponema sp.		GCA_017940255.1
+126067024	INSDC	JAIKXC010000284.1	2718	3569	+	MCR4632331.1	nitrogenase iron protein	Treponema sp.		GCA_024684315.1
+126067024	INSDC	FOFU01000003.1	98943	99794	+	SEQ22938.1	nitrogenase iron protein NifH	Treponema bryantii	B25	GCA_900111035.1

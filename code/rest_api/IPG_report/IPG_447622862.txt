@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+447622862	RefSeq	NZ_JAGTTT010000030.1	9305	10066	+	WP_212385386.1	nitrogenase iron protein NifH	Anaerostipes sp. Marseille-Q3525	Marseille-Q3525	GCF_018223505.1
+447622862	INSDC	JAGTTT010000030.1	9305	10066	+	MBR9961986.1	P-loop NTPase	Anaerostipes sp. Marseille-Q3525	Marseille-Q3525	GCA_018223505.1

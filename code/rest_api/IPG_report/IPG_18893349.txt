@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+18893349	INSDC	GU001626.1	1	694	-	ACY38122.1	NifH	Bradyrhizobium japonicum	CTAW56	
+18893349	INSDC	GU001628.1	1	694	-	ACY38124.1	NifH	Bradyrhizobium japonicum	CTFI12	
+18893349	INSDC	GU001631.1	1	694	-	ACY38127.1	NifH	Bradyrhizobium japonicum	CTFI32	

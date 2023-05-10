@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+537006163	INSDC	JALEZB010000174.1	7293	8045	-	MCI6288447.1	nitrogenase iron protein NifH	Lentisphaeria bacterium		GCA_022772925.1

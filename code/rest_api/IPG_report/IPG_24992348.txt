@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+24992348	RefSeq	NZ_HF536778.1	81924	82817	-	WP_007539047.1	nitrogenase iron protein	Rhizobium mesoamericanum STM3625	STM3625	GCF_000312665.1
+24992348	INSDC	JN021929.1	1	894	+	AEQ16446.1	nitrogenase Fe protein	Rhizobium mesoamericanum CCGE 501	CCGE 501	
+24992348	INSDC	CANI01000088.1	22219	23112	-	CCM80304.1	nitrogenase iron protein, nifH; dinitrogenase reductase	Rhizobium mesoamericanum STM3625	STM3625	GCA_000312665.1
+24992348	INSDC	HF536778.1	81924	82817	-	CCM80304.1	nitrogenase iron protein, nifH; dinitrogenase reductase	Rhizobium mesoamericanum STM3625	STM3625	GCA_000312665.1

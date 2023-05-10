@@ -1,0 +1,20 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+1572872	RefSeq	NC_009012.1	1901492	1902346	+	WP_003517348.1	nitrogenase iron protein	Acetivibrio thermocellus ATCC 27405	ATCC 27405	GCF_000015865.1
+1572872	RefSeq	NC_017304.1	2746927	2747781	+	WP_003517348.1	nitrogenase iron protein	Acetivibrio thermocellus DSM 1313	DSM 1313	GCF_000184925.1
+1572872	RefSeq	NZ_AJGT01000035.1	41512	42366	+	WP_003517348.1	nitrogenase iron protein	Acetivibrio thermocellus YS	YS	GCF_000255575.1
+1572872	RefSeq	NZ_CP013828.1	2752492	2753346	+	WP_003517348.1	nitrogenase iron protein	Acetivibrio thermocellus AD2	AD2	GCF_000255615.2
+1572872	RefSeq	NZ_CP016502.1	2751782	2752636	+	WP_003517348.1	nitrogenase iron protein	Acetivibrio thermocellus DSM 2360	LQRI	GCF_001692755.1
+1572872	RefSeq	NZ_CP104195.1	2811884	2812738	+	WP_003517348.1	nitrogenase iron protein	Acetivibrio thermocellus	M3	GCF_025213355.1
+1572872	RefSeq	NZ_OCMV01000002.1	1277407	1278261	-	WP_003517348.1	nitrogenase iron protein	Acetivibrio thermocellus	LQRI	GCF_900215405.1
+1572872	RefSeq	NZ_PDBW01000001.1	2752492	2753346	+	WP_003517348.1	nitrogenase iron protein	Acetivibrio thermocellus AD2	AD2	GCF_002564085.1
+1572872	RefSeq	NZ_SBHL01000059.1	36802	37656	-	WP_003517348.1	nitrogenase iron protein	Acetivibrio thermocellus	PAL5	GCF_004803955.1
+1572872	INSDC	CP000568.1	1901492	1902346	+	ABN52799.1	nitrogenase iron protein	Acetivibrio thermocellus ATCC 27405	ATCC 27405	GCA_000015865.1
+1572872	INSDC	CP002416.1	2746927	2747781	+	ADU75361.1	nitrogenase iron protein	Acetivibrio thermocellus DSM 1313	DSM 1313	GCA_000184925.1
+1572872	INSDC	CP013828.1	2752492	2753346	+	ALX09355.1	Nitrogenase iron protein	Acetivibrio thermocellus AD2	AD2	GCA_000255615.3
+1572872	INSDC	CP016502.1	2751782	2752636	+	ANV77109.1	Nitrogenase iron protein	Acetivibrio thermocellus DSM 2360	LQRI	GCA_001692755.1
+1572872	INSDC	AJGT01000035.1	41512	42366	+	EIC04682.1	Nitrogenase iron protein	Acetivibrio thermocellus YS	YS	GCA_000255575.2
+1572872	INSDC	JAAYXD010000144.1	18057	18911	-	NLG88925.1	nitrogenase iron protein	Clostridiaceae bacterium		GCA_012516065.1
+1572872	INSDC	PDBW01000001.1	2752492	2753346	+	PFH03632.1	Mo-nitrogenase iron protein subunit NifH	Acetivibrio thermocellus AD2	AD2	GCA_002564085.1
+1572872	INSDC	OCMV01000002.1	1277407	1278261	-	SOD23513.1	Mo-nitrogenase iron protein subunit NifH	Acetivibrio thermocellus	LQRI	GCA_900215405.1
+1572872	INSDC	SBHL01000059.1	36802	37656	-	THJ77660.1	nitrogenase iron protein	Acetivibrio thermocellus	PAL5	GCA_004803955.1
+1572872	INSDC	CP104195.1	2811884	2812738	+	UWV46326.1	nitrogenase iron protein	Acetivibrio thermocellus	M3	GCA_025213355.1

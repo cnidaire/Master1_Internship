@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+138786653	RefSeq	NZ_MUHX01000005.1	8343	9098	-	WP_078015460.1	nitrogenase iron protein NifH	Pyramidobacter sp. C12-8	C12-8	GCF_002007215.1
+138786653	RefSeq	NZ_RAWT01000033.1	13122	13877	-	WP_078015460.1	nitrogenase iron protein NifH	Pyramidobacter sp. CG50-2	CG50-2	GCF_003612005.1
+138786653	INSDC	MUHX01000005.1	8343	9098	-	OON89512.1	nitrogenase iron protein	Pyramidobacter sp. C12-8	C12-8	GCA_002007215.1
+138786653	INSDC	RAWT01000033.1	13122	13877	-	RKJ77900.1	nitrogenase iron protein	Pyramidobacter sp. CG50-2	CG50-2	GCA_003612005.1

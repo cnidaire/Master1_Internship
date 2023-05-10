@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+157035209	INSDC	KX683406.1	1	328	+	ASU06192.1	NifH	Bradyrhizobium zhanjiangense	CCBAU 51787	

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+123246407	RefSeq	NZ_FNAP01000008.1	137212	138096	-	WP_092786517.1	nitrogenase iron protein	Rhodospira trueperi	ATCC 700224	GCF_900101965.1
+123246407	INSDC	FNAP01000008.1	137212	138096	-	SDE57452.1	Mo-nitrogenase iron protein subunit NifH	Rhodospira trueperi	ATCC 700224	GCA_900101965.1

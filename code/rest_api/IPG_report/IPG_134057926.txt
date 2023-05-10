@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+134057926	INSDC	MSDW01000001.1	891310	892104	+	OKY78439.1	Nitrogenase subunit NifH, ATPase	Candidatus Methanohalarchaeum thermophilum		GCA_001914405.1

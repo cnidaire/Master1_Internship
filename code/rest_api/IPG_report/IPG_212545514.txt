@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+212545514	RefSeq	NZ_JAANMQ010000005.1	115451	116332	+	WP_121459392.1	nitrogenase iron protein	Azonexus fungiphilus	MM2020_3	GCF_011250475.1
+212545514	RefSeq	NZ_RBXP01000019.1	116534	117415	+	WP_121459392.1	nitrogenase iron protein	Azonexus fungiphilus	DSM 23841	GCF_003634965.1
+212545514	INSDC	JAANMQ010000005.1	115451	116332	+	NHC07377.1	nitrogenase iron protein	Azonexus fungiphilus	MM2020_3	GCA_011250475.1
+212545514	INSDC	RBXP01000019.1	116534	117415	+	RKT49979.1	Mo-nitrogenase iron protein subunit NifH	Azonexus fungiphilus	DSM 23841	GCA_003634965.1

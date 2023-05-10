@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+237534645	RefSeq	NZ_CP075169.1	2900621	2901505	+	WP_132921731.1	nitrogenase iron protein	Sodalis ligni	dw23	GCF_016865525.2
+237534645	RefSeq	NZ_SJOI01000001.1	913858	914742	-	WP_132921731.1	nitrogenase iron protein	Sodalis ligni	159R	GCF_004346745.1
+237534645	INSDC	CP075169.1	2900621	2901505	+	QWA13502.1	nitrogenase iron protein	Sodalis ligni	dw23	GCA_016865525.2
+237534645	INSDC	SJOI01000001.1	913858	914742	-	TCL02806.1	Mo-nitrogenase iron protein subunit NifH	Sodalis ligni	159R	GCA_004346745.1

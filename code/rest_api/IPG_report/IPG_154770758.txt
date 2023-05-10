@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+154770758	INSDC	KX686983.1	1	380	-	ASM93535.1	NifH	Stutzerimonas stutzeri	ISE-12	

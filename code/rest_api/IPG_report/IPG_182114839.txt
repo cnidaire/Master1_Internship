@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+182114839	RefSeq	NZ_OLMH01000002.1	2196750	2197508	-	WP_105304837.1	nitrogenase iron protein NifH	Anaerolactibacter massiliensis	Marseille-P4302	GCF_900290205.1

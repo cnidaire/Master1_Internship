@@ -1,0 +1,33 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+24188088	RefSeq	NC_015873.1	525649	526404	-	WP_014015422.1	nitrogenase iron protein NifH	Megasphaera elsdenii DSM 20460	DSM 20460	GCF_000283495.2
+24188088	RefSeq	NZ_CABMON010000019.1	33379	34134	-	WP_014015422.1	nitrogenase iron protein NifH	Megasphaera elsdenii		GCF_902388255.1
+24188088	RefSeq	NZ_CALDUZ010000021.1	27266	28021	-	WP_014015422.1	nitrogenase iron protein NifH	Megasphaera elsdenii		GCF_937923835.1
+24188088	RefSeq	NZ_CAMDUG010000065.1	2908	3663	+	WP_014015422.1	nitrogenase iron protein NifH	Megasphaera elsdenii		GCF_945877845.1
+24188088	RefSeq	NZ_CAMFOL010000034.1	20145	20900	-	WP_014015422.1	nitrogenase iron protein NifH	Megasphaera elsdenii		GCF_945970865.1
+24188088	RefSeq	NZ_CAMIZF010000017.1	2827	3582	+	WP_014015422.1	nitrogenase iron protein NifH	Megasphaera elsdenii		GCF_946403225.1
+24188088	RefSeq	NZ_CP027570.1	791064	791819	-	WP_014015422.1	nitrogenase iron protein NifH	Megasphaera elsdenii DSM 20460	ATCC 25940	GCF_003010495.1
+24188088	RefSeq	NZ_FOQP01000026.1	3023	3778	+	WP_014015422.1	nitrogenase iron protein NifH	Megasphaera elsdenii	YE34	GCF_900113775.1
+24188088	RefSeq	NZ_FRAK01000018.1	37325	38080	-	WP_014015422.1	nitrogenase iron protein NifH	Megasphaera elsdenii	J1	GCF_900142305.1
+24188088	RefSeq	NZ_JABAFH010000021.1	39256	40011	-	WP_014015422.1	nitrogenase iron protein NifH	Megasphaera elsdenii	PG-130-P53-9	GCF_012843515.1
+24188088	RefSeq	NZ_JABBJH010000014.1	3394	4149	+	WP_014015422.1	nitrogenase iron protein NifH	Megasphaera elsdenii	WCA-386-APC-2A	GCF_012928525.1
+24188088	RefSeq	NZ_JANFQH010000011.1	22995	23750	-	WP_014015422.1	nitrogenase iron protein NifH	Megasphaera sp. SC8-1	SC8-1	GCF_024436295.1
+24188088	RefSeq	NZ_JAQEIB010000022.1	15501	16256	-	WP_014015422.1	nitrogenase iron protein NifH	Megasphaera elsdenii	AM83-12b2A	GCF_027665885.1
+24188088	RefSeq	NZ_JRPS01000011.1	47519	48274	-	WP_014015422.1	nitrogenase iron protein NifH	Megasphaera elsdenii	24-50	GCF_000763195.1
+24188088	RefSeq	NZ_NQMW01000019.1	33379	34134	-	WP_014015422.1	nitrogenase iron protein NifH	Megasphaera elsdenii	indica	GCF_002276195.1
+24188088	INSDC	CP027570.1	791064	791819	-	AVO74120.1	nitrogen fixation protein NifH	Megasphaera elsdenii DSM 20460	ATCC 25940	GCA_003010495.1
+24188088	INSDC	HE576794.1	525649	526404	-	CCC72677.1	Mo-nitrogenase iron protein subunit NifH	Megasphaera elsdenii DSM 20460	DSM 20460	GCA_000283495.2
+24188088	INSDC	JRPS01000011.1	47519	48274	-	KGI89906.1	Mo-nitrogenase iron protein subunit NifH	Megasphaera elsdenii	24-50	GCA_000763195.1
+24188088	INSDC	JALEOR010000043.1	2723	3478	+	MCI5657483.1	nitrogenase iron protein NifH	Megasphaera elsdenii		GCA_022766585.1
+24188088	INSDC	JALFAU010000006.1	46711	47466	-	MCI6191503.1	nitrogenase iron protein NifH	Megasphaera elsdenii		GCA_022773445.1
+24188088	INSDC	JALEYF010000026.1	3859	4614	+	MCI6750355.1	nitrogenase iron protein NifH	Megasphaera elsdenii		GCA_022779625.1
+24188088	INSDC	JALFMG010000057.1	18756	19511	-	MCI7049199.1	nitrogenase iron protein NifH	Megasphaera elsdenii		GCA_022782985.1
+24188088	INSDC	JALFLF010000021.1	4911	5666	-	MCI7110435.1	nitrogenase iron protein NifH	Megasphaera elsdenii		GCA_022774525.1
+24188088	INSDC	JALFQM010000028.1	20017	20772	-	MCI7431417.1	nitrogenase iron protein NifH	Megasphaera elsdenii		GCA_022785305.1
+24188088	INSDC	JALFRM010000014.1	17024	17779	-	MCI7543548.1	nitrogenase iron protein NifH	Megasphaera elsdenii		GCA_022785145.1
+24188088	INSDC	JALFWQ010000046.1	19782	20537	-	MCI7667389.1	nitrogenase iron protein NifH	Megasphaera elsdenii		GCA_022787375.1
+24188088	INSDC	JANFQH010000011.1	22995	23750	-	MCQ4112322.1	nitrogenase iron protein NifH	Megasphaera sp. SC8-1	SC8-1	GCA_024436295.1
+24188088	INSDC	JABAFH010000021.1	39256	40011	-	NME19266.1	AAA family ATPase	Megasphaera elsdenii	PG-130-P53-9	GCA_012843515.1
+24188088	INSDC	JABBJH010000014.1	3394	4149	+	NMK39605.1	AAA family ATPase	Megasphaera elsdenii	WCA-386-APC-2A	GCA_012928525.1
+24188088	INSDC	NQMW01000019.1	33379	34134	-	PAK18876.1	nitrogen fixation protein NifH	Megasphaera elsdenii	indica	GCA_002276195.1
+24188088	INSDC	FOQP01000026.1	3023	3778	+	SFI53139.1	nitrogenase iron protein NifH	Megasphaera elsdenii	YE34	GCA_900113775.1
+24188088	INSDC	FRAK01000018.1	37325	38080	-	SHK56650.1	nitrogenase iron protein NifH	Megasphaera elsdenii	J1	GCA_900142305.1

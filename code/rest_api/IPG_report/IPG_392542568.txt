@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+392542568	INSDC	JADJBX010000001.1	22100	23119	-	MBK6661216.1	nitrogen fixation protein NifH	Thermoflexaceae bacterium		GCA_016703545.1

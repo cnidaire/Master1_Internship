@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+291275992	RefSeq	NZ_WWVT01000023.1	17654	18421	+	WP_161209773.1	nitrogenase iron protein NifH	Blautia massiliensis	BIOML-A4	GCF_009876855.1
+291275992	RefSeq	NZ_WWVU01000009.1	53118	53885	-	WP_161209773.1	nitrogenase iron protein NifH	Blautia massiliensis	BIOML-A3	GCF_009876875.1
+291275992	INSDC	WWVU01000009.1	53118	53885	-	MZL52924.1	AAA family ATPase	Blautia massiliensis	BIOML-A3	GCA_009876875.1
+291275992	INSDC	WWVT01000023.1	17654	18421	+	MZL63017.1	AAA family ATPase	Blautia massiliensis	BIOML-A4	GCA_009876855.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+126091454	RefSeq	NZ_FOHN01000005.1	51261	52109	-	WP_092476915.1	nitrogenase iron protein	[Clostridium] polysaccharolyticum	DSM 1801	GCF_900111595.1
+126091454	INSDC	FOHN01000005.1	51261	52109	-	SES91004.1	nitrogenase iron protein NifH	[Clostridium] polysaccharolyticum	DSM 1801	GCA_900111595.1

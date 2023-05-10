@@ -1,0 +1,9 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+33841511	INSDC	CP004080.1	1390105	1391145	-	AGG08571.1	prenyltransferase-like domain-containing protein	Dehalococcoides mccartyi BTF08	BTF08	GCA_000341695.1
+33841511	INSDC	CP019867.1	1366229	1367269	-	AQU06498.1	nitrogen fixation protein NifH	Dehalococcoides mccartyi	KBDCA1	GCA_002007845.1
+33841511	INSDC	CP019868.1	1332085	1333125	-	AQU08060.1	nitrogen fixation protein NifH	Dehalococcoides mccartyi	KBDCA2	GCA_002007865.1
+33841511	INSDC	CP019946.1	1275251	1276291	-	AQW62962.1	nitrogen fixation protein NifH	Dehalococcoides mccartyi	KBDCA3	GCA_002021775.1
+33841511	INSDC	CP019969.1	1275509	1276549	-	AQX75242.1	nitrogen fixation protein NifH	Dehalococcoides mccartyi	KBVC2	GCA_002024205.1
+33841511	INSDC	CP019999.1	1326677	1327717	-	AQY73819.1	nitrogen fixation protein NifH	Dehalococcoides mccartyi	KBTCE1	GCA_002028285.1
+33841511	INSDC	JGVX01000001.1	118622	119662	+	KSV18258.1	nitrogenase subunit NifH	Dehalococcoides mccartyi	11a	GCA_001460955.1
+33841511	INSDC	LZFK01000007.1	109228	110268	+	OBW62737.1	nitrogen fixation protein NifH	Dehalococcoides mccartyi		GCA_001678035.1

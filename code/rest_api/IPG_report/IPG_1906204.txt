@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+1906204	INSDC	AY458402.1	1	430	+	AAR27012.1	NifH	Brucella lupini	LUP21	

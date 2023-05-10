@@ -1,0 +1,16 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+253041312	RefSeq	NZ_JAJBMB010000001.1	446091	446945	+	WP_138342284.1	nitrogenase iron protein NifH	Intestinibacter bartlettii	MSK.17.68	GCF_020537215.1
+253041312	RefSeq	NZ_JAJBMC010000001.1	446091	446945	+	WP_138342284.1	nitrogenase iron protein NifH	Intestinibacter bartlettii	MSK.17.26	GCF_020537265.1
+253041312	RefSeq	NZ_JAJBMD010000001.1	446091	446945	+	WP_138342284.1	nitrogenase iron protein NifH	Intestinibacter bartlettii	MSK.17.25	GCF_020537285.1
+253041312	RefSeq	NZ_JAJBQA010000002.1	22514	23368	-	WP_138342284.1	nitrogenase iron protein NifH	Intestinibacter bartlettii	MSK.5.6	GCF_020539285.1
+253041312	RefSeq	NZ_JAJBQF010000001.1	22514	23368	-	WP_138342284.1	nitrogenase iron protein NifH	Intestinibacter bartlettii	MSK.17.41	GCF_020539635.1
+253041312	RefSeq	NZ_JAJFBU010000001.1	568404	569258	+	WP_138342284.1	nitrogenase iron protein NifH	Intestinibacter bartlettii	MSK.6.7	GCF_020708655.1
+253041312	RefSeq	NZ_JAJFCQ010000001.1	568404	569258	+	WP_138342284.1	nitrogenase iron protein NifH	Intestinibacter bartlettii	MSK.6.14	GCF_020708855.1
+253041312	RefSeq	NZ_SPHR01000001.1	315311	316165	-	WP_138342284.1	nitrogenase iron protein NifH	Intestinibacter bartlettii	BSD2780061688st1_A9	GCF_005845095.1
+253041312	INSDC	JAJBMD010000001.1	446091	446945	+	MCB5396186.1	nitrogenase iron protein NifH	Intestinibacter bartlettii	MSK.17.25	GCA_020537285.1
+253041312	INSDC	JAJBMC010000001.1	446091	446945	+	MCB5402735.1	nitrogenase iron protein NifH	Intestinibacter bartlettii	MSK.17.26	GCA_020537265.1
+253041312	INSDC	JAJBMB010000001.1	446091	446945	+	MCB5444991.1	nitrogenase iron protein NifH	Intestinibacter bartlettii	MSK.17.68	GCA_020537215.1
+253041312	INSDC	JAJBQA010000002.1	22514	23368	-	MCB5719458.1	nitrogenase iron protein NifH	Intestinibacter bartlettii	MSK.5.6	GCA_020539285.1
+253041312	INSDC	JAJBQF010000001.1	22514	23368	-	MCB5747395.1	nitrogenase iron protein NifH	Intestinibacter bartlettii	MSK.17.41	GCA_020539635.1
+253041312	INSDC	JAJFBU010000001.1	568404	569258	+	MCC2705574.1	nitrogenase iron protein NifH	Intestinibacter bartlettii	MSK.6.7	GCA_020708655.1
+253041312	INSDC	JAJFCQ010000001.1	568404	569258	+	MCC2761024.1	nitrogenase iron protein NifH	Intestinibacter bartlettii	MSK.6.14	GCA_020708855.1

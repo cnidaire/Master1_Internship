@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+87296223	INSDC	LN713505.1	1	720	+	CEK41203.1	NifH	Mesorhizobium ciceri	CCANP20	

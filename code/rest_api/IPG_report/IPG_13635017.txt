@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+13635017	INSDC	EF620515.1	1	329	+	ABU49174.1	NifH	Paenibacillus polymyxa	ISSDS-794	

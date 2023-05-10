@@ -1,0 +1,28 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+306911	RefSeq	NC_014323.1	3246308	3247186	-	WP_013234820.1	nitrogenase iron protein	Herbaspirillum seropedicae SmR1	SmR1	GCF_000143225.1
+306911	RefSeq	NZ_BADI01000083.1	4744	5622	+	WP_013234820.1	nitrogenase iron protein	Herbaspirillum sp. B65	B65	GCF_000333555.1
+306911	RefSeq	NZ_BCUJ01000013.1	22672	23550	+	WP_013234820.1	nitrogenase iron protein	Herbaspirillum rubrisubalbicans NBRC 102523	NBRC 102523	GCF_001591225.1
+306911	RefSeq	NZ_CP008956.1	2965848	2966726	-	WP_013234820.1	nitrogenase iron protein	Herbaspirillum rubrisubalbicans Os34	Os34	GCF_000300435.2
+306911	RefSeq	NZ_CP011930.1	3246834	3247712	-	WP_013234820.1	nitrogenase iron protein	Herbaspirillum seropedicae	Z67	GCF_001040945.1
+306911	RefSeq	NZ_CP013737.1	2774372	2775250	-	WP_013234820.1	nitrogenase iron protein	Herbaspirillum rubrisubalbicans M1	M1	GCF_001483945.1
+306911	RefSeq	NZ_CP024996.1	2859735	2860613	-	WP_013234820.1	nitrogenase iron protein	Herbaspirillum rubrisubalbicans	DSM 11543	GCF_003719195.1
+306911	RefSeq	NZ_CP049334.1	3246286	3247164	-	WP_013234820.1	nitrogenase iron protein	Herbaspirillum seropedicae	Z69	GCF_022493935.1
+306911	RefSeq	NZ_JALJXK010000001.1	984688	985566	-	WP_013234820.1	nitrogenase iron protein	Herbaspirillum rubrisubalbicans	SLBN-127	GCF_024170025.1
+306911	RefSeq	NZ_JUGD01000001.1	447426	448304	+	WP_013234820.1	nitrogenase iron protein	Herbaspirillum rubrisubalbicans	Os38	GCF_003263475.1
+306911	RefSeq	NZ_JWJC01000007.1	54758	55636	-	WP_013234820.1	nitrogenase iron protein	Herbaspirillum rubrisubalbicans	Os44	GCF_003263495.1
+306911	RefSeq	NZ_JWZY01000001.1	58166	59044	-	WP_013234820.1	nitrogenase iron protein	Herbaspirillum rubrisubalbicans	Os49	GCF_013180365.1
+306911	RefSeq	NZ_JWZZ01000017.1	304020	304898	+	WP_013234820.1	nitrogenase iron protein	Herbaspirillum seropedicae	Z67	GCF_013180375.1
+306911	Swiss-Prot	N/A				P77873.1	Nitrogenase iron protein	Herbaspirillum seropedicae		
+306911	INSDC	CP002039.1	3246308	3247186	-	ADJ64345.1	dinitrogenase reductase protein	Herbaspirillum seropedicae SmR1	SmR1	GCA_000143225.1
+306911	INSDC	CP011930.1	3246834	3247712	-	AKN66281.1	nitrogenase reductase	Herbaspirillum seropedicae	Z67	GCA_001040945.1
+306911	INSDC	CP013737.1	2774372	2775250	-	ALU89562.1	dinitrogenase reductase NifH protein	Herbaspirillum rubrisubalbicans M1	M1	GCA_001483945.1
+306911	INSDC	CP024996.1	2859735	2860613	-	AYR24643.1	nitrogenase iron protein	Herbaspirillum rubrisubalbicans	DSM 11543	GCA_003719195.1
+306911	INSDC	AB196476.1	655	1533	+	BAD77945.1	nitrogenase iron protein	Herbaspirillum sp. B501	B501	
+306911	INSDC	Z54207.1	565	1443	+	CAA90932.1	nitrogenase iron protein	Herbaspirillum seropedicae SmR1	Z78	
+306911	INSDC	JALJXK010000001.1	984688	985566	-	MCP1572565.1	nitrogenase iron protein NifH	Herbaspirillum rubrisubalbicans	SLBN-127	GCA_024170025.1
+306911	INSDC	JWZZ01000017.1	304020	304898	+	NQE30608.1	nitrogenase reductase	Herbaspirillum seropedicae	Z67	GCA_013180375.1
+306911	INSDC	JWZY01000001.1	58166	59044	-	NQE46945.1	nitrogenase reductase	Herbaspirillum rubrisubalbicans	Os49	GCA_013180365.1
+306911	INSDC	CP008956.1	2965848	2966726	-	QJQ01169.1	nitrogenase iron protein	Herbaspirillum rubrisubalbicans Os34	Os34	GCA_000300435.2
+306911	INSDC	JUGD01000001.1	447426	448304	+	RAM67097.1	nitrogenase reductase	Herbaspirillum rubrisubalbicans	Os38	GCA_003263475.1
+306911	INSDC	JWJC01000007.1	54758	55636	-	RAN49038.1	nitrogenase reductase	Herbaspirillum rubrisubalbicans	Os44	GCA_003263495.1
+306911	INSDC	CP049334.1	3246286	3247164	-	UMU22276.1	nitrogenase iron protein	Herbaspirillum seropedicae	Z69	GCA_022493935.1

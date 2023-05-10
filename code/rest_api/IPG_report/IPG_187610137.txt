@@ -1,0 +1,13 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+187610137	RefSeq	NZ_CP022364.1	877177	878058	+	WP_109068582.1	nitrogenase iron protein	Azospirillum sp. TSH58	TSH58	GCF_003119115.1
+187610137	RefSeq	NZ_JAEPIV010000002.1	64593	65474	+	WP_109068582.1	nitrogenase iron protein	Azospirillum sp. YIM DDC1	YIM DDC1	GCF_016632405.1
+187610137	RefSeq	NZ_LGQV01000020.1	100324	101205	+	WP_109068582.1	nitrogenase iron protein	Azospirillum sp. TSH58	TSH58	GCF_003115995.1
+187610137	RefSeq	NZ_VITF01000015.1	92510	93391	+	WP_109068582.1	nitrogenase iron protein	Azospirillum brasilense	BR 11796	GCF_007828645.1
+187610137	RefSeq	NZ_VITI01000001.1	69183	70064	+	WP_109068582.1	nitrogenase iron protein	Azospirillum brasilense	BR 11026	GCF_007827795.1
+187610137	RefSeq	NZ_WFKE01000131.1	11515	12396	-	WP_109068582.1	nitrogenase iron protein	Azospirillum brasilense	BR11669	GCF_016622085.1
+187610137	INSDC	CP022364.1	877177	878058	+	AWJ83412.1	nitrogenase iron protein	Azospirillum sp. TSH58	TSH58	GCA_003119115.1
+187610137	INSDC	WFKE01000131.1	11515	12396	-	MBK3776785.1	nitrogenase iron protein	Azospirillum brasilense	BR11669	GCA_016622085.1
+187610137	INSDC	JAEPIV010000002.1	64593	65474	+	MBK4718219.1	nitrogenase iron protein	Azospirillum sp. YIM DDC1	YIM DDC1	GCA_016632405.1
+187610137	INSDC	LGQV01000020.1	100324	101205	+	PWC73154.1	nitrogenase reductase	Azospirillum sp. TSH58	TSH58	GCA_003115995.1
+187610137	INSDC	VITF01000015.1	92510	93391	+	TWA62191.1	Mo-nitrogenase iron protein subunit NifH	Azospirillum brasilense	BR 11796	GCA_007828645.1
+187610137	INSDC	VITI01000001.1	69183	70064	+	TWA94838.1	Mo-nitrogenase iron protein subunit NifH	Azospirillum brasilense	BR 11026	GCA_007827795.1

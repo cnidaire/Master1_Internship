@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+31260204	INSDC	JX524439.1	1	690	+	AFV52056.1	NifH	Agrobacterium tumefaciens	CCNWSX1182	

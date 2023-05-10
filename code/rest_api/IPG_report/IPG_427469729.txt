@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+427469729	RefSeq	NZ_JAGINQ010000003.1	307791	308672	+	WP_209872947.1	nitrogenase iron protein	Azospirillum soli	CC-LY788	GCF_017876165.1
+427469729	INSDC	JAGINQ010000003.1	307791	308672	+	MBP2312100.1	nitrogenase iron protein NifH	Azospirillum soli	CC-LY788	GCA_017876165.1

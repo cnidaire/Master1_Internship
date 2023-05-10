@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+213989173	RefSeq	NZ_JFHL01000024.1	21997	22986	-	WP_121551719.1	terpene cyclase/mutase family protein	Mesotoga sp. BH458_6_3_2_1	BH458_6_3_2_1	GCF_003664995.1
+213989173	INSDC	JFHL01000024.1	21997	22986	-	RLL82498.1	nitrogenase subunit NifH	Mesotoga sp. BH458_6_3_2_1	BH458_6_3_2_1	GCA_003664995.1

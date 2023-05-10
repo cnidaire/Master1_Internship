@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+22017399	INSDC	CABR01000056.1	23658	24548	-	CBI09901.1	Nitrogenase iron protein (Nitrogenase component II) (Nitrogenase Fe protein) (Nitrogenase reductase) nifH; dinitrogenase reductase	mine drainage metagenome		
+22017399	INSDC	FN597537.1	65233	66123	-	CBI09901.1	Nitrogenase iron protein (Nitrogenase component II) (Nitrogenase Fe protein) (Nitrogenase reductase) nifH; dinitrogenase reductase	mine drainage metagenome		

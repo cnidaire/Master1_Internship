@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+304787673	INSDC	DUEW01000213.1	3911	4960	-	HEY45000.1	nitrogen fixation protein NifH	Anaerolineae bacterium		GCA_011174845.1

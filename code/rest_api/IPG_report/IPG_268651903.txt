@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+268651903	INSDC	VIKI01000182.1	196	1083	-	TXT35980.1	nitrogenase iron protein NifH	Comamonadaceae bacterium		GCA_008080595.1

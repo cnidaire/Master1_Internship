@@ -1,0 +1,9 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+135772817	RefSeq	NZ_FTOG01000008.1	115158	116045	+	WP_076485403.1	nitrogenase iron protein	Rhodobacter aestuarii	DSM 19945	GCF_900156655.1
+135772817	RefSeq	NZ_OBMP01000006.1	120764	121651	-	WP_076485403.1	nitrogenase iron protein	Rhodobacter sp. JA431	JA431	GCF_900217725.1
+135772817	RefSeq	NZ_OBMT01000006.1	77589	78476	+	WP_076485403.1	nitrogenase iron protein	Rhodobacter maris	JA276	GCF_900217815.1
+135772817	RefSeq	NZ_QAXT01000007.1	119727	120614	-	WP_076485403.1	nitrogenase iron protein	Rhodobacter aestuarii	JA296	GCF_003053525.1
+135772817	INSDC	QAXT01000007.1	119727	120614	-	PTV94584.1	Mo-nitrogenase iron protein subunit NifH	Rhodobacter aestuarii	JA296	GCA_003053525.1
+135772817	INSDC	FTOG01000008.1	115158	116045	+	SIT01108.1	Mo-nitrogenase iron protein subunit NifH	Rhodobacter aestuarii	DSM 19945	GCA_900156655.1
+135772817	INSDC	OBMT01000006.1	77589	78476	+	SOC07870.1	Mo-nitrogenase iron protein subunit NifH	Rhodobacter maris	JA276	GCA_900217815.1
+135772817	INSDC	OBMP01000006.1	120764	121651	-	SOC12567.1	Mo-nitrogenase iron protein subunit NifH	Rhodobacter sp. JA431	JA431	GCA_900217725.1

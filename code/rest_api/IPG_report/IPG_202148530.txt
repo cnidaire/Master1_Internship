@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+202148530	RefSeq	NZ_JAJCNG010000008.1	94006	94782	-	WP_117497395.1	nitrogenase iron protein NifH	Mediterraneibacter sp. 210702-DFI.3.120	DFI.3.120	GCF_020561005.1
+202148530	INSDC	JAJDFP010000003.1	307773	308549	-	MCB5938182.1	nitrogenase iron protein NifH	Lachnospiraceae bacterium 210521-DFI.3.107	DFI.3.107	GCA_020563765.1
+202148530	INSDC	JAJCNG010000008.1	94006	94782	-	MCB6486335.1	nitrogenase iron protein NifH	Mediterraneibacter sp. 210702-DFI.3.120	DFI.3.120	GCA_020561005.1
+202148530	INSDC	QTUR01000001.1	408988	409764	-	RGF13407.1	nitrogenase iron protein	Ruminococcus sp. AM16-34	AM16-34	GCA_003435635.1

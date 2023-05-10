@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+327292694	INSDC	JABMPV010000112.1	6808	7833	+	NQV05578.1	nitrogen fixation protein NifH	bacterium		GCA_013202595.1

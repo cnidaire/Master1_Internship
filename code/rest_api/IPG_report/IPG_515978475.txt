@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+515978475	INSDC	JABUTG010000006.1	15446	16192	+	MCF0152658.1	AAA family ATPase	Megasphaera sp.		GCA_021443775.1
+515978475	INSDC	JALFYI010000054.1	15251	15997	-	MCI7600513.1	nitrogenase iron protein NifH	Megasphaera sp.		GCA_022783705.1

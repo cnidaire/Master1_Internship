@@ -1,0 +1,8 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+123537395	RefSeq	NZ_FNBG01000009.1	109610	110473	-	WP_091229142.1	nitrogenase iron protein	Fontibacillus panacisegetis	DSM 28129	GCF_900102215.1
+123537395	RefSeq	NZ_JACJIP010000068.1	9333	10196	-	WP_091229142.1	nitrogenase iron protein	Fontibacillus solani	CECT 8693	GCF_014138385.1
+123537395	INSDC	JACJIP010000068.1	9333	10196	-	MBA9088751.1	nitrogenase iron protein NifH	Fontibacillus solani	CECT 8693	GCA_014138385.1
+123537395	INSDC	RCUN01008436.1	247	1110	-	MNI18209.1	Nitrogenase iron protein 1	compost metagenome		GCA_003941985.1
+123537395	INSDC	RCUU01003155.1	1758	2621	+	MNO53948.1	Nitrogenase iron protein 1	compost metagenome		GCA_003942045.1
+123537395	INSDC	RCUF01000231.1	15091	15954	+	MNW38038.1	Nitrogenase iron protein 1	compost metagenome		GCA_003942105.1
+123537395	INSDC	FNBG01000009.1	109610	110473	-	SDF35188.1	Mo-nitrogenase iron protein subunit NifH	Fontibacillus panacisegetis	DSM 28129	GCA_900102215.1

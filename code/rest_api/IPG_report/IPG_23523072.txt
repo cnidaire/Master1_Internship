@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+23523072	RefSeq	NZ_AFIJ01000026.1	27966	28718	-	WP_007391056.1	nitrogenase iron protein NifH	Megasphaera lornae	UPII 199-6	GCF_000214495.1
+23523072	INSDC	AFIJ01000026.1	27966	28718	-	EGL40472.1	putative nitrogenase iron protein	Megasphaera lornae	UPII 199-6	GCA_000214495.2
+23523072	INSDC	PTJT01000009.1	52664	53416	+	MUP50507.1	nitrogen fixation protein NifH	Veillonellaceae bacterium M1-70	M1-70	GCA_009735755.1

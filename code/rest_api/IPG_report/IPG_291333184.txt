@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+291333184	INSDC	WXFH01000020.1	6821	7810	+	MZQ97301.1	nitrogen fixation protein NifH	Acidaminobacter sp.		GCA_009881125.1

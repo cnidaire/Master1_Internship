@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+329282610	RefSeq	NZ_JAAWUR010000004.1	85783	86613	-	WP_173755506.1	nitrogenase iron protein NifH	Blautia schinkii	MSK.15.25	GCF_013304885.1
+329282610	RefSeq	NZ_JAAWUS010000003.1	85783	86613	-	WP_173755506.1	nitrogenase iron protein NifH	Blautia schinkii	MSK.14.32	GCF_013304935.1
+329282610	INSDC	JAAWUR010000004.1	85783	86613	-	NSK34517.1	P-loop NTPase	Blautia schinkii	MSK.15.25	GCA_013304885.1
+329282610	INSDC	JAAWUS010000003.1	85783	86613	-	NSK65010.1	P-loop NTPase	Blautia schinkii	MSK.14.32	GCA_013304935.1

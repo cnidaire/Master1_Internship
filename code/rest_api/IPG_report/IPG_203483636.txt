@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+203483636	INSDC	DMCY01000039.1	1512	2519	-	HAJ32541.1	nitrogen fixation protein NifH	Candidatus Atribacteria bacterium		GCA_003451675.1

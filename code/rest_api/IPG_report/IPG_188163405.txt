@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+188163405	RefSeq	NZ_QGDS01000018.1	28201	29019	+	WP_109714170.1	nitrogenase iron protein	Faecalicatena contorta	NLAE-zl-C134	GCF_003149105.1
+188163405	RefSeq	NZ_UHJJ01000018.1	28201	29019	+	WP_109714170.1	nitrogenase iron protein	Faecalicatena contorta	NLAE-zl-C134	GCF_900199395.1
+188163405	INSDC	JACERV010000025.1	7937	8755	-	MBA4700714.1	nitrogenase iron protein	Ruminococcus sp.		GCA_013911065.1
+188163405	INSDC	QGDS01000018.1	28201	29019	+	PWJ47531.1	Mo-nitrogenase iron protein subunit NifH	Faecalicatena contorta	NLAE-zl-C134	GCA_003149105.1
+188163405	INSDC	UHJJ01000018.1	28201	29019	+	SUQ15920.1	Mo-nitrogenase iron protein subunit NifH	Faecalicatena contorta	NLAE-zl-C134	GCA_900199395.1

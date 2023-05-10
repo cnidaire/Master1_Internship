@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+130375660	RefSeq	NZ_FQTU01000001.1	7819	8637	+	WP_073269025.1	nitrogenase iron protein	Alkalibacter saccharofermentans DSM 14828	DSM 14828	GCF_900128885.1
+130375660	INSDC	FQTU01000001.1	7819	8637	+	SHE27005.1	Mo-nitrogenase iron protein subunit NifH	Alkalibacter saccharofermentans DSM 14828	DSM 14828	GCA_900128885.1

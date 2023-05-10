@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+264576529	RefSeq	NZ_VITY01000016.1	150773	151657	+	WP_146991729.1	nitrogenase iron protein	Bradyrhizobium macuxiense	BR 10355	GCF_007993935.1
+264576529	INSDC	VITY01000016.1	150773	151657	+	TWB89421.1	Mo-nitrogenase iron protein subunit NifH	Bradyrhizobium macuxiense	BR 10355	GCA_007993935.1

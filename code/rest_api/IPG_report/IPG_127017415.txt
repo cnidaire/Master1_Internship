@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+127017415	RefSeq	NZ_FONL01000001.1	396787	397608	-	WP_093912542.1	nitrogenase iron protein NifH	Succiniclasticum ruminis DSM 9236	DSM 9236	GCF_900112895.1
+127017415	INSDC	FONL01000001.1	396787	397608	-	SFE09426.1	nitrogenase iron protein NifH	Succiniclasticum ruminis DSM 9236	DSM 9236	GCA_900112895.1

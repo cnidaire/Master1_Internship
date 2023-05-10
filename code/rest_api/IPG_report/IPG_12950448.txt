@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+12950448	RefSeq	NZ_JACDUL010000003.1	305999	306877	+	WP_011977525.1	nitrogenase iron protein	Methanococcus maripaludis	C8	GCF_013760955.1
+12950448	INSDC	JACDUL010000003.1	305999	306877	+	MBA2862518.1	nitrogenase iron protein NifH	Methanococcus maripaludis	C8	GCA_013760955.1
+12950448	PAT	N/A				QPZ16243.1	Sequence 68 from patent US 10793863	Unknown		

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+264864428	RefSeq	NZ_VLKC01000002.1	3027617	3028492	+	WP_145096946.1	nitrogenase iron protein	Sporomusa sp. KB1	KB1	GCF_007830295.1
+264864428	INSDC	VLKC01000002.1	3027617	3028492	+	TWH47622.1	nitrogenase iron protein NifH	Sporomusa sp. KB1	KB1	GCA_007830295.1

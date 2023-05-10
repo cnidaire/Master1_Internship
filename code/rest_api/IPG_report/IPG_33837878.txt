@@ -1,0 +1,119 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+33837878	RefSeq	NC_020389.1	718602	719423	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei Tuc01	Tuc01	GCF_000341715.1
+33837878	RefSeq	NZ_AP019780.1	4333988	4334809	-	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	TMA	GCF_019669945.1
+33837878	RefSeq	NZ_CP009509.1	721888	722709	-	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei WWM610	WWM610	GCF_000970165.1
+33837878	RefSeq	NZ_CP009510.1	1765175	1765996	-	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei TMA	TMA	GCF_025035885.1
+33837878	RefSeq	NZ_CP009512.1	719987	720808	-	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei S-6	S-6	GCF_000970205.1
+33837878	RefSeq	NZ_CP009514.1	724796	725617	-	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei C16	C16	GCF_000970245.1
+33837878	RefSeq	NZ_CP029709.1	312734	313555	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	JL01	GCF_005485005.1
+33837878	RefSeq	NZ_CP042908.1	714237	715058	-	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	zm-15	GCF_010706455.1
+33837878	RefSeq	NZ_JJOR01000048.1	6543	7364	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	2.F.A.2.3	GCF_000979335.1
+33837878	RefSeq	NZ_JJOS01000117.1	16147	16968	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	2.F.A.2.4	GCF_000979345.1
+33837878	RefSeq	NZ_JJOT01000098.1	16185	17006	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	2.F.T.0.2	GCF_000979375.1
+33837878	RefSeq	NZ_JJOU01000070.1	1588	2409	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	2.F.T.2.6	GCF_000978955.1
+33837878	RefSeq	NZ_JJPB01000027.1	46180	47001	-	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	3.F.A.1A.3	GCF_000978945.1
+33837878	RefSeq	NZ_JJPD01000025.1	1585	2406	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	3.F.A.2.12	GCF_000979515.1
+33837878	RefSeq	NZ_JJPE01000061.1	46354	47175	-	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	3.F.A.2.3	GCF_000979555.1
+33837878	RefSeq	NZ_JJPF01000121.1	54146	54967	-	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	3.F.A.2.5	GCF_000978935.1
+33837878	RefSeq	NZ_JJPG01000006.1	54139	54960	-	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	3.F.A.2.6	GCF_000979575.1
+33837878	RefSeq	NZ_JJPH01000142.1	54132	54953	-	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	3.F.A.2.7	GCF_000979585.1
+33837878	RefSeq	NZ_JJPI01000061.1	16145	16966	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	3.F.T.1A.1	GCF_000978965.1
+33837878	RefSeq	NZ_JJPJ01000038.1	16184	17005	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	3.F.T.1A.2	GCF_000979595.1
+33837878	RefSeq	NZ_JJPK01000059.1	16147	16968	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	3.F.T.1A.4	GCF_000979635.1
+33837878	RefSeq	NZ_JJPN01000180.1	27899	28720	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	3.H.A.1A.2	GCF_000979675.1
+33837878	RefSeq	NZ_JJPO01000145.1	17542	18363	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	3.H.A.2.1	GCF_000979015.1
+33837878	RefSeq	NZ_JJPP01000140.1	16130	16951	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	3.H.A.2.4	GCF_000979685.1
+33837878	RefSeq	NZ_JJPQ01000081.1	46229	47050	-	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	3.H.A.2.5	GCF_000979735.1
+33837878	RefSeq	NZ_JJPR01000029.1	46687	47508	-	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	3.H.A.2.6	GCF_000979025.1
+33837878	RefSeq	NZ_JJPS01000025.1	44344	45165	-	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	3.H.A.2.8	GCF_000979745.1
+33837878	RefSeq	NZ_JJPT01000031.1	16122	16943	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	3.H.M.1A.1	GCF_000979755.1
+33837878	RefSeq	NZ_JJPU01000140.1	39720	40541	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	3.H.M.1B.1	GCF_000979035.1
+33837878	RefSeq	NZ_JJPV01000001.1	24693	25514	-	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	3.H.M.1B.2	GCF_000979765.1
+33837878	RefSeq	NZ_JJPW01000128.1	16183	17004	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	3.H.M.1B.5	GCF_000979045.1
+33837878	RefSeq	NZ_JJPX01000142.1	46701	47522	-	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	3.H.M.2.7	GCF_000979095.1
+33837878	RefSeq	NZ_JJPY01000022.1	54154	54975	-	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	3.H.T.1A.1	GCF_000979815.1
+33837878	RefSeq	NZ_JJPZ01000044.1	1585	2406	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	3.H.T.1A.2	GCF_000979825.1
+33837878	RefSeq	NZ_JJQA01000122.1	66530	67351	-	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	1.F.A.1A.3	GCF_000979105.1
+33837878	RefSeq	NZ_JJQB01000117.1	47627	48448	-	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	1.F.A.1B.3	GCF_000979845.1
+33837878	RefSeq	NZ_JJQC01000070.1	38603	39424	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	1.F.A.1B.4	GCF_000979855.1
+33837878	RefSeq	NZ_JJQE01000097.1	54210	55031	-	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	1.F.M.0.5	GCF_000979125.1
+33837878	RefSeq	NZ_JJQF01000140.1	46691	47512	-	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	1.H.A.0.1	GCF_000979895.1
+33837878	RefSeq	NZ_JJQG01000118.1	6567	7388	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	1.H.A.1A.1	GCF_000979915.1
+33837878	RefSeq	NZ_JJQH01000062.1	6567	7388	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	1.H.A.1A.3	GCF_000979175.1
+33837878	RefSeq	NZ_JJQI01000119.1	46954	47775	-	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	1.H.A.1A.4	GCF_000979185.1
+33837878	RefSeq	NZ_JJQJ01000012.1	6567	7388	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	1.H.A.1A.6	GCF_000979925.1
+33837878	RefSeq	NZ_JJQK01000292.1	16095	16916	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	1.H.A.2.1	GCF_000979935.1
+33837878	RefSeq	NZ_JJQM01000152.1	6567	7388	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	1.H.A.2.3	GCF_000979195.1
+33837878	RefSeq	NZ_JJQN01000077.1	16176	16997	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	1.H.A.2.6	GCF_000979995.1
+33837878	RefSeq	NZ_JJQO01000297.1	6567	7388	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	1.H.A.2.7	GCF_000979205.1
+33837878	RefSeq	NZ_JJQP01000053.1	6641	7462	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	1.H.A.2.8	GCF_000980005.1
+33837878	RefSeq	NZ_JJQQ01000092.1	24694	25515	-	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	1.H.M.0.1	GCF_000980025.1
+33837878	RefSeq	NZ_JJQR01000134.1	6567	7388	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	1.H.M.1A.1	GCF_000980055.1
+33837878	RefSeq	NZ_JJQS01000051.1	24662	25483	-	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	1.H.M.1A.2	GCF_000979255.1
+33837878	RefSeq	NZ_JJQT01000021.1	2338	3159	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	1.H.M.1A.3	GCF_000980085.1
+33837878	RefSeq	NZ_JJQU01000118.1	16185	17006	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	1.H.M.2.1	GCF_000979265.1
+33837878	RefSeq	NZ_JJQV01000064.1	6567	7388	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	1.H.M.2.2	GCF_000979275.1
+33837878	RefSeq	NZ_JJQW01000136.1	16367	17188	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	1.H.M.2.3	GCF_000980075.1
+33837878	RefSeq	NZ_JJQX01000003.1	6536	7357	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	1.H.M.2.4	GCF_000980105.1
+33837878	RefSeq	NZ_JJQZ01000049.1	34772	35593	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	1.H.T.2.1	GCF_000980135.1
+33837878	RefSeq	NZ_JJRA01000035.1	6567	7388	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	1.H.T.2.3	GCF_000980155.1
+33837878	RefSeq	NZ_JJRB01000141.1	16337	17158	+	WP_015411304.1	nitrogenase iron protein	Methanosarcina mazei	1.H.T.2.5	GCF_000980175.1
+33837878	INSDC	CP004144.1	718602	719423	+	AGF96148.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Methanosarcina mazei Tuc01	Tuc01	GCA_000341715.1
+33837878	INSDC	CP009509.1	721888	722709	-	AKB39591.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Methanosarcina mazei WWM610	WWM610	GCA_000970165.1
+33837878	INSDC	CP009512.1	719987	720808	-	AKB63794.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Methanosarcina mazei S-6	S-6	GCA_000970205.1
+33837878	INSDC	CP009514.1	724796	725617	-	AKB70489.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Methanosarcina mazei C16	C16	GCA_000970245.1
+33837878	INSDC	AP019780.1	4333988	4334809	-	BBL66755.1	nitrogenase reductase	Methanosarcina mazei	TMA	GCA_019669945.1
+33837878	INSDC	JJOS01000117.1	16147	16968	+	KKF99359.1	nitrogenase reductase	Methanosarcina mazei	2.F.A.2.4	GCA_000979345.1
+33837878	INSDC	JJOT01000098.1	16185	17006	+	KKG00365.1	nitrogenase reductase	Methanosarcina mazei	2.F.T.0.2	GCA_000979375.1
+33837878	INSDC	JJOR01000048.1	6543	7364	+	KKG06677.1	nitrogenase reductase	Methanosarcina mazei	2.F.A.2.3	GCA_000979335.1
+33837878	INSDC	JJOU01000070.1	1588	2409	+	KKG16127.1	nitrogenase reductase	Methanosarcina mazei	2.F.T.2.6	GCA_000978955.1
+33837878	INSDC	JJPB01000027.1	46180	47001	-	KKG34239.1	nitrogenase reductase	Methanosarcina mazei	3.F.A.1A.3	GCA_000978945.1
+33837878	INSDC	JJPF01000121.1	54146	54967	-	KKG40120.1	nitrogenase reductase	Methanosarcina mazei	3.F.A.2.5	GCA_000978935.1
+33837878	INSDC	JJPD01000025.1	1585	2406	+	KKG44920.1	nitrogenase reductase	Methanosarcina mazei	3.F.A.2.12	GCA_000979515.1
+33837878	INSDC	JJPE01000061.1	46354	47175	-	KKG45120.1	nitrogenase reductase	Methanosarcina mazei	3.F.A.2.3	GCA_000979555.1
+33837878	INSDC	JJPH01000142.1	54132	54953	-	KKG47471.1	nitrogenase reductase	Methanosarcina mazei	3.F.A.2.7	GCA_000979585.1
+33837878	INSDC	JJPI01000061.1	16145	16966	+	KKG55087.1	nitrogenase reductase	Methanosarcina mazei	3.F.T.1A.1	GCA_000978965.1
+33837878	INSDC	JJPG01000006.1	54139	54960	-	KKG56482.1	nitrogenase reductase	Methanosarcina mazei	3.F.A.2.6	GCA_000979575.1
+33837878	INSDC	JJPK01000059.1	16147	16968	+	KKG61801.1	nitrogenase reductase	Methanosarcina mazei	3.F.T.1A.4	GCA_000979635.1
+33837878	INSDC	JJPJ01000038.1	16184	17005	+	KKG64279.1	nitrogenase reductase	Methanosarcina mazei	3.F.T.1A.2	GCA_000979595.1
+33837878	INSDC	JJPN01000180.1	27899	28720	+	KKG67401.1	nitrogenase reductase	Methanosarcina mazei	3.H.A.1A.2	GCA_000979675.1
+33837878	INSDC	JJPO01000145.1	17542	18363	+	KKG69634.1	nitrogenase reductase	Methanosarcina mazei	3.H.A.2.1	GCA_000979015.1
+33837878	INSDC	JJPP01000140.1	16130	16951	+	KKG76966.1	nitrogenase reductase	Methanosarcina mazei	3.H.A.2.4	GCA_000979685.1
+33837878	INSDC	JJPQ01000081.1	46229	47050	-	KKG81793.1	nitrogenase reductase	Methanosarcina mazei	3.H.A.2.5	GCA_000979735.1
+33837878	INSDC	JJPR01000029.1	46687	47508	-	KKG89291.1	nitrogenase reductase	Methanosarcina mazei	3.H.A.2.6	GCA_000979025.1
+33837878	INSDC	JJPS01000025.1	44344	45165	-	KKG94183.1	nitrogenase reductase	Methanosarcina mazei	3.H.A.2.8	GCA_000979745.1
+33837878	INSDC	JJPT01000031.1	16122	16943	+	KKG94199.1	nitrogenase reductase	Methanosarcina mazei	3.H.M.1A.1	GCA_000979755.1
+33837878	INSDC	JJPU01000140.1	39720	40541	+	KKG95134.1	nitrogenase reductase	Methanosarcina mazei	3.H.M.1B.1	GCA_000979035.1
+33837878	INSDC	JJPW01000128.1	16183	17004	+	KKG96449.1	nitrogenase reductase	Methanosarcina mazei	3.H.M.1B.5	GCA_000979045.1
+33837878	INSDC	JJPV01000001.1	24693	25514	-	KKH04301.1	nitrogenase reductase	Methanosarcina mazei	3.H.M.1B.2	GCA_000979765.1
+33837878	INSDC	JJPX01000142.1	46701	47522	-	KKH07048.1	nitrogenase reductase	Methanosarcina mazei	3.H.M.2.7	GCA_000979095.1
+33837878	INSDC	JJPY01000022.1	54154	54975	-	KKH11451.1	nitrogenase reductase	Methanosarcina mazei	3.H.T.1A.1	GCA_000979815.1
+33837878	INSDC	JJPZ01000044.1	1585	2406	+	KKH12615.1	nitrogenase reductase	Methanosarcina mazei	3.H.T.1A.2	GCA_000979825.1
+33837878	INSDC	JJQA01000122.1	66530	67351	-	KKH13051.1	nitrogenase reductase	Methanosarcina mazei	1.F.A.1A.3	GCA_000979105.1
+33837878	INSDC	JJQB01000117.1	47627	48448	-	KKH17279.1	nitrogenase reductase	Methanosarcina mazei	1.F.A.1B.3	GCA_000979845.1
+33837878	INSDC	JJQC01000070.1	38603	39424	+	KKH22156.1	nitrogenase reductase	Methanosarcina mazei	1.F.A.1B.4	GCA_000979855.1
+33837878	INSDC	JJQF01000140.1	46691	47512	-	KKH26850.1	nitrogenase reductase	Methanosarcina mazei	1.H.A.0.1	GCA_000979895.1
+33837878	INSDC	JJQE01000097.1	54210	55031	-	KKH28013.1	nitrogenase reductase	Methanosarcina mazei	1.F.M.0.5	GCA_000979125.1
+33837878	INSDC	JJQI01000119.1	46954	47775	-	KKH35475.1	nitrogenase reductase	Methanosarcina mazei	1.H.A.1A.4	GCA_000979185.1
+33837878	INSDC	JJQG01000118.1	6567	7388	+	KKH36441.1	nitrogenase reductase	Methanosarcina mazei	1.H.A.1A.1	GCA_000979915.1
+33837878	INSDC	JJQH01000062.1	6567	7388	+	KKH42281.1	nitrogenase reductase	Methanosarcina mazei	1.H.A.1A.3	GCA_000979175.1
+33837878	INSDC	JJQK01000292.1	16095	16916	+	KKH43672.1	nitrogenase reductase	Methanosarcina mazei	1.H.A.2.1	GCA_000979935.1
+33837878	INSDC	JJQM01000152.1	6567	7388	+	KKH52007.1	nitrogenase reductase	Methanosarcina mazei	1.H.A.2.3	GCA_000979195.1
+33837878	INSDC	JJQJ01000012.1	6567	7388	+	KKH53364.1	nitrogenase reductase	Methanosarcina mazei	1.H.A.1A.6	GCA_000979925.1
+33837878	INSDC	JJQN01000077.1	16176	16997	+	KKH60328.1	nitrogenase reductase	Methanosarcina mazei	1.H.A.2.6	GCA_000979995.1
+33837878	INSDC	JJQO01000297.1	6567	7388	+	KKH60382.1	nitrogenase reductase	Methanosarcina mazei	1.H.A.2.7	GCA_000979205.1
+33837878	INSDC	JJQQ01000092.1	24694	25515	-	KKH66468.1	nitrogenase reductase	Methanosarcina mazei	1.H.M.0.1	GCA_000980025.1
+33837878	INSDC	JJQP01000053.1	6641	7462	+	KKH69534.1	nitrogenase reductase	Methanosarcina mazei	1.H.A.2.8	GCA_000980005.1
+33837878	INSDC	JJQR01000134.1	6567	7388	+	KKH72393.1	nitrogenase reductase	Methanosarcina mazei	1.H.M.1A.1	GCA_000980055.1
+33837878	INSDC	JJQS01000051.1	24662	25483	-	KKH76298.1	nitrogenase reductase	Methanosarcina mazei	1.H.M.1A.2	GCA_000979255.1
+33837878	INSDC	JJQT01000021.1	2338	3159	+	KKH82633.1	nitrogenase reductase	Methanosarcina mazei	1.H.M.1A.3	GCA_000980085.1
+33837878	INSDC	JJQV01000064.1	6567	7388	+	KKH83635.1	nitrogenase reductase	Methanosarcina mazei	1.H.M.2.2	GCA_000979275.1
+33837878	INSDC	JJQW01000136.1	16367	17188	+	KKH84211.1	nitrogenase reductase	Methanosarcina mazei	1.H.M.2.3	GCA_000980075.1
+33837878	INSDC	JJQU01000118.1	16185	17006	+	KKH85738.1	nitrogenase reductase	Methanosarcina mazei	1.H.M.2.1	GCA_000979265.1
+33837878	INSDC	JJQZ01000049.1	34772	35593	+	KKH97702.1	nitrogenase reductase	Methanosarcina mazei	1.H.T.2.1	GCA_000980135.1
+33837878	INSDC	JJQX01000003.1	6536	7357	+	KKI00240.1	nitrogenase reductase	Methanosarcina mazei	1.H.M.2.4	GCA_000980105.1
+33837878	INSDC	JJRB01000141.1	16337	17158	+	KKI00510.1	nitrogenase reductase	Methanosarcina mazei	1.H.T.2.5	GCA_000980175.1
+33837878	INSDC	JJRA01000035.1	6567	7388	+	KKI05381.1	nitrogenase reductase	Methanosarcina mazei	1.H.T.2.3	GCA_000980155.1
+33837878	INSDC	CP029709.1	312734	313555	+	QCR14887.1	nitrogenase iron protein	Methanosarcina mazei	JL01	GCA_005485005.1
+33837878	INSDC	CP042908.1	714237	715058	-	QIB90171.1	nitrogenase iron protein	Methanosarcina mazei	zm-15	GCA_010706455.1
+33837878	INSDC	CP009510.1	1765175	1765996	-	UWJ21972.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Methanosarcina mazei TMA	TMA	GCA_025035885.1

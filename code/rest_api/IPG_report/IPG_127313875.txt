@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+127313875	RefSeq	NZ_FPCD01000004.1	198513	199361	+	WP_092337007.1	nitrogenase iron protein	Butyrivibrio sp. M55	M55	GCF_900116865.1
+127313875	INSDC	FPCD01000004.1	198513	199361	+	SFU60198.1	Mo-nitrogenase iron protein subunit NifH	Butyrivibrio sp. M55	M55	GCA_900116865.1

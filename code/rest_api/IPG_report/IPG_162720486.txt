@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+162720486	RefSeq	NZ_OAOF01000001.1	104084	104839	-	WP_097002282.1	nitrogenase iron protein NifH	Lacrimispora amygdalina		GCF_900205965.1

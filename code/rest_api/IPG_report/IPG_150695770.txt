@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+150695770	RefSeq	NZ_NFIR01000010.1	64221	64976	-	WP_087280610.1	nitrogenase iron protein NifH	Eubacterium sp. An3	An3	GCF_002159465.1
+150695770	INSDC	DXBR01000097.1	5240	5995	-	HIZ40330.1	AAA family ATPase	Candidatus Anaerobutyricum stercoris		GCA_019116455.1
+150695770	INSDC	NFIR01000010.1	64221	64976	-	OUO27637.1	nitrogen fixation protein NifH	Eubacterium sp. An3	An3	GCA_002159465.1

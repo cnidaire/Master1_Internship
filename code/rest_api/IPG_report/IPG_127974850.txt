@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+127974850	RefSeq	NZ_MLQS01000001.1	57281	58156	-	WP_071387877.1	nitrogenase iron protein	Anaerobacillus alkalidiazotrophicus	DSM 22531	GCF_001866055.1
+127974850	INSDC	MLQS01000001.1	57281	58156	-	OIJ21257.1	nitrogenase iron protein nifH	Anaerobacillus alkalidiazotrophicus	DSM 22531	GCA_001866055.1

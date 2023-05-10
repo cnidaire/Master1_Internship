@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+24795610	RefSeq	NZ_AGFG01000060.1	144361	145191	+	WP_007526558.1	nitrogenase iron protein	Desulfovibrio sp. A2	A2	GCF_000226255.1
+24795610	RefSeq	NZ_BDUJ01000004.1	51034	51864	+	WP_007526558.1	nitrogenase iron protein	Cupidesulfovibrio sp. HK-II	HK-II	GCF_003402415.1
+24795610	INSDC	AGFG01000060.1	144361	145191	+	EGY24836.1	nitrogenase iron protein	Desulfovibrio sp. A2	A2	GCA_000226255.2
+24795610	INSDC	BDUJ01000004.1	51034	51864	+	GBO98095.1	nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Cupidesulfovibrio sp. HK-II	HK-II	GCA_003402415.1
+24795610	INSDC	DPDZ01000239.1	9242	10072	+	HCG04810.1	nitrogenase iron protein	Desulfovibrio sp.		GCA_003534445.1

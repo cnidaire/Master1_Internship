@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+17136098	INSDC	FJ878718.1	1	689	+	ACP41208.1	nitrogenase reductase NifH	Rhizobium sp. RPJ3	RPJ3	
+17136098	INSDC	FJ878719.1	1	689	+	ACP41209.1	nitrogenase reductase NifH	Rhizobium sp. RPJ5	RPJ5	
+17136098	INSDC	FJ878720.1	1	689	+	ACP41210.1	nitrogenase reductase NifH	Rhizobium sp. RPJ6	RPJ6	
+17136098	INSDC	FJ878721.1	1	689	+	ACP41211.1	nitrogenase reductase NifH	Rhizobium sp. RPP14	RPP14	
+17136098	INSDC	FJ878722.1	1	689	+	ACP41212.1	nitrogenase reductase NifH	Rhizobium sp. RPJ16	RPJ16	

@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+45785413	INSDC	DQ085617.2	1	718	+	AAZ39042.2	nitrogenase Fe protein	Bradyrhizobium icense	LMTR 19	
+45785413	INSDC	DQ085618.2	1	718	+	AAZ39043.2	nitrogenase Fe protein	Bradyrhizobium paxllaeri	LMTR 14	
+45785413	INSDC	DQ085619.2	1	718	+	AAZ39044.2	nitrogenase Fe protein	Bradyrhizobium paxllaeri	LMTR 21	
+45785413	INSDC	KF896161.1	1	718	+	AHJ09822.1	nitrogenase reductase NifH	Bradyrhizobium icense	LMTR 13	

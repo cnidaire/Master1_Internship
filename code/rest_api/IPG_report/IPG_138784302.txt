@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+138784302	RefSeq	NZ_MUHW01000006.1	120502	121266	-	WP_078036781.1	nitrogenase iron protein NifH	Oribacterium sp. C9	C9	GCF_002007235.1
+138784302	INSDC	MUHW01000006.1	120502	121266	-	OON87030.1	nitrogenase iron protein	Oribacterium sp. C9	C9	GCA_002007235.1

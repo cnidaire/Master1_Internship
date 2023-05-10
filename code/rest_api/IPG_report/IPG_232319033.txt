@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+232319033	RefSeq	NZ_RCYH01000004.1	109630	110526	-	WP_129899453.1	nitrogenase iron protein NifH	Eubacterium ramulus	aa_0143	GCF_004167445.1
+232319033	INSDC	WKRC01000004.1	109630	110526	-	MSC77475.1	AAA family ATPase	Eubacterium ramulus	BIOML-A1	GCA_009680485.1
+232319033	INSDC	WKRB01000004.1	162490	163386	-	MSC93593.1	AAA family ATPase	Eubacterium ramulus	BIOML-A2	GCA_009680435.1
+232319033	INSDC	RCYH01000004.1	109630	110526	-	RYS98585.1	nitrogenase iron protein	Eubacterium ramulus	aa_0143	GCA_004167445.1

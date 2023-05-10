@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+237765080	RefSeq	NZ_SLXC01000024.1	444	1241	+	WP_131971928.1	nitrogenase iron protein NifH	Flavonifractor plautii DSM 6740	DSM 6740	GCF_004345805.1
+237765080	INSDC	SLXC01000024.1	444	1241	+	TCO91165.1	Mo-nitrogenase iron protein subunit NifH	Flavonifractor plautii DSM 6740	DSM 6740	GCA_004345805.1

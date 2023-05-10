@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+80097284	RefSeq	NZ_CP009508.1	4480076	4480897	+	WP_048184679.1	nitrogenase iron protein	Methanosarcina siciliae C2J	C2J	GCF_000970145.1
+80097284	INSDC	CP009508.1	4480076	4480897	+	AKB38222.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Methanosarcina siciliae C2J	C2J	GCA_000970145.1

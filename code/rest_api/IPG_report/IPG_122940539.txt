@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+122940539	RefSeq	NZ_FNCA01000003.1	234386	235207	+	WP_091709557.1	nitrogenase iron protein	Methanolobus vulcani	PL 12/M	GCF_900100715.1
+122940539	INSDC	FNCA01000003.1	234386	235207	+	SDF71398.1	Mo-nitrogenase iron protein subunit NifH	Methanolobus vulcani	PL 12/M	GCA_900100715.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+101156955	RefSeq	NZ_BCNO01000003.1	13748	14572	+	WP_059176981.1	nitrogenase iron protein	Thermodesulfovibrio aggregans	TGE-P1	GCF_001514535.1
+101156955	INSDC	BCNO01000003.1	13748	14572	+	GAQ95545.1	nitrogenase iron protein NifH	Thermodesulfovibrio aggregans	TGE-P1	GCA_001514535.1

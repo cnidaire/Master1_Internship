@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+203989152	RefSeq	NZ_QRUK01000002.1	86105	86860	+	WP_118358252.1	nitrogenase iron protein NifH	Dorea formicigenerans	AF25-11	GCF_003458475.1
+203989152	RefSeq	NZ_QSHK01000001.1	442456	443211	-	WP_118358252.1	nitrogenase iron protein NifH	Dorea formicigenerans	AM37-5	GCF_003467665.1
+203989152	RefSeq	NZ_QSHP01000001.1	439801	440556	-	WP_118358252.1	nitrogenase iron protein NifH	Dorea formicigenerans	AM37-11	GCF_003467735.1
+203989152	INSDC	QRUK01000002.1	86105	86860	+	RGR61223.1	nitrogen fixation protein NifH	Dorea formicigenerans	AF25-11	GCA_003458475.1
+203989152	INSDC	QSHK01000001.1	442456	443211	-	RHC10851.1	nitrogen fixation protein NifH	Dorea formicigenerans	AM37-5	GCA_003467665.1
+203989152	INSDC	QSHP01000001.1	439801	440556	-	RHC23851.1	nitrogen fixation protein NifH	Dorea formicigenerans	AM37-11	GCA_003467735.1

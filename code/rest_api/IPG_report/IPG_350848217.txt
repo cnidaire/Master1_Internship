@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+350848217	RefSeq	NZ_JACIIL010000032.1	18518	19411	-	WP_184805620.1	nitrogenase iron protein	Rhizobium leucaenae	SEMIA 4015	GCF_014207015.1
+350848217	INSDC	JACIIL010000032.1	18518	19411	-	MBB6304979.1	nitrogenase iron protein NifH	Rhizobium leucaenae	SEMIA 4015	GCA_014207015.1

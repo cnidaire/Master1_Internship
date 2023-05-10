@@ -1,0 +1,10 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+206731762	RefSeq	NZ_JADMNX010000013.1	30786	31550	-	WP_195552237.1	nitrogenase iron protein NifH	Ruminococcus bicirculans	D59t2_181005_B8	GCF_015558365.1
+206731762	RefSeq	NZ_JAGZTK010000018.1	22597	23361	+	WP_195552237.1	nitrogenase iron protein NifH	Ruminococcus bicirculans		GCF_018380525.1
+206731762	RefSeq	NZ_JAQMLS010000013.1	30786	31550	-	WP_195552237.1	nitrogenase iron protein NifH	Ruminococcus bicirculans	D59st1_B8_D59t2_181005	GCF_028327565.1
+206731762	RefSeq	NZ_JAQMLT010000009.1	47277	48041	-	WP_195552237.1	nitrogenase iron protein NifH	Ruminococcus bicirculans	D59st1_B5_D59t2_181005	GCF_028327595.1
+206731762	INSDC	DODV01000019.1	27583	28347	-	HBO20728.1	nitrogenase iron protein	Ruminococcus sp.		GCA_003508815.1
+206731762	INSDC	DPQV01000041.1	9654	10418	+	HCY66854.1	nitrogenase iron protein	Ruminococcus sp.		GCA_003538935.1
+206731762	INSDC	JAGZVO010000021.1	30749	31513	-	MBS6786148.1	AAA family ATPase	Ruminococcus sp.		GCA_018379455.1
+206731762	INSDC	JAGZTK010000018.1	22597	23361	+	MBS6919889.1	AAA family ATPase	Ruminococcus bicirculans		GCA_018380525.1
+206731762	INSDC	JAJGAL010000014.1	23402	24166	+	MCC3660108.1	nitrogenase iron protein NifH	Ruminococcus albus	MSK.6.9	GCA_020740265.1

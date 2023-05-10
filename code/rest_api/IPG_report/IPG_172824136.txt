@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+172824136	INSDC	PHBU01000004.1	102935	103966	-	PKN94052.1	nitrogen fixation protein NifH	Chloroflexi bacterium HGW-Chloroflexi-6		GCA_002840685.1

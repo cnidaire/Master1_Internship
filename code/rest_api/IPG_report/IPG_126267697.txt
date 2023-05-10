@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+126267697	INSDC	FNZK01000013.1	61238	62095	-	SEJ67024.1	nitrogenase iron protein NifH	Propionispira arboris	DSM 2179	GCA_900109225.1

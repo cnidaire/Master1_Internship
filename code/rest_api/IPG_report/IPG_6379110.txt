@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+6379110	INSDC	EF079967.1	1	807	+	ABK78681.1	NifH	hyperthermophilic methanogen FS406-22		

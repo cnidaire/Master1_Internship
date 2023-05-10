@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+184638275	RefSeq	NZ_CP029462.1	1343028	1343783	-	WP_107196074.1	nitrogenase iron protein NifH	Megasphaera stantonii	AJH120	GCF_003367905.1
+184638275	RefSeq	NZ_PSNP01000020.1	23058	23813	+	WP_107196074.1	nitrogenase iron protein NifH	Megasphaera stantonii	AJH120	GCF_003030445.1
+184638275	INSDC	CP029462.1	1343028	1343783	-	AXL21194.1	nitrogenase iron protein	Megasphaera stantonii	AJH120	GCA_003367905.1

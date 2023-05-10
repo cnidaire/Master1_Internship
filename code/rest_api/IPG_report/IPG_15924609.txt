@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+15924609	RefSeq	NC_011832.1	105806	106705	+	WP_012616808.1	nitrogenase iron protein NifH	Methanosphaerula palustris E1-9c	E1-9c	GCF_000021965.1
+15924609	INSDC	CP001338.1	105806	106705	+	ACL15489.1	Nitrogenase	Methanosphaerula palustris E1-9c	E1-9c	GCA_000021965.1

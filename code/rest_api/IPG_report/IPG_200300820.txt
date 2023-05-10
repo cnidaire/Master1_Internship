@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+200300820	RefSeq	NZ_AP018437.1	3298920	3299948	-	WP_116225767.1	nitrogen fixation protein NifH	Pelolinea submarina	MO-CFX1	GCF_003966975.1
+200300820	RefSeq	NZ_QUMS01000003.1	395078	396106	-	WP_116225767.1	nitrogen fixation protein NifH	Pelolinea submarina	DSM 23923	GCF_003385075.1
+200300820	INSDC	AP018437.1	3298920	3299948	-	BBB49598.1	hypothetical protein	Pelolinea submarina	MO-CFX1	GCA_003966975.1
+200300820	INSDC	QUMS01000003.1	395078	396106	-	REG07297.1	hypothetical protein	Pelolinea submarina	DSM 23923	GCA_003385075.1

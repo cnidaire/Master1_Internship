@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+134157804	INSDC	JAJCHP010000017.1	69480	70229	+	MCB7126131.1	nitrogenase iron protein NifH	Lachnoclostridium sp. 210928-DFI.6.3	DFI.6.3	GCA_020554625.1
+134157804	INSDC	MNST01000030.1	6551	7300	+	OLA29890.1	nitrogenase iron protein	Firmicutes bacterium CAG_194_44_15		GCA_001916615.1

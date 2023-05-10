@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+304821125	INSDC	DUEL01000076.1	1	648	+	HEY76867.1	nitrogen fixation protein NifH	Thermoflexia bacterium		GCA_011192125.1

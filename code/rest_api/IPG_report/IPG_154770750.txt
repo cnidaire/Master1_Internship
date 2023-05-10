@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+154770750	INSDC	KX686984.1	1	378	+	ASM93536.1	NifH	Azospirillum brasilense	ATCC 29710	

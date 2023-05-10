@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+122911460	RefSeq	NZ_FNBX01000016.1	16519	17340	+	WP_092154604.1	nitrogenase iron protein	Desulfovibrio legallii	KHC7	GCF_900102485.1
+122911460	INSDC	FNBX01000016.1	16519	17340	+	SDF85774.1	Mo-nitrogenase iron protein subunit NifH	Desulfovibrio legallii	KHC7	GCA_900102485.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+19305708	INSDC	GU256446.1	1	376	+	ADB57026.1	NifH	Azospirillum canadense	LMG 23617	

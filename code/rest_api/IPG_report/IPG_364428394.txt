@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+364428394	INSDC	RKGJ01000135.1	5446	6225	+	MBD8968487.1	nitrogen fixation protein NifH	Ruminococcus sp. SR1/5		GCA_014848595.1

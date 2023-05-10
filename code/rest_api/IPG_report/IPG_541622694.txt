@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+541622694	INSDC	JALHUW010000353.1	1	942	-	MCJ7611700.1	nitrogen fixation protein NifH	Candidatus Aminicenantes bacterium		GCA_022866725.1

@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+14178485	RefSeq	NZ_DS499566.1	484208	485062	-	WP_007287116.1	nitrogenase iron protein NifH	Intestinibacter bartlettii DSM 16795	DSM 16795	GCF_000154445.1
+14178485	RefSeq	NZ_FUXV01000001.1	606593	607447	-	WP_007287116.1	nitrogenase iron protein NifH	Intestinibacter bartlettii DSM 16795	DSM 16795	GCF_900167285.1
+14178485	INSDC	ABEZ02000019.1	484208	485062	-	EDQ96257.1	putative nitrogenase iron protein	Intestinibacter bartlettii DSM 16795	DSM 16795	GCA_000154445.1
+14178485	INSDC	DS499566.1	484208	485062	-	EDQ96257.1	putative nitrogenase iron protein	Intestinibacter bartlettii DSM 16795	DSM 16795	GCA_000154445.1
+14178485	INSDC	FUXV01000001.1	606593	607447	-	SKA52102.1	nitrogenase iron protein NifH	Intestinibacter bartlettii DSM 16795	DSM 16795	GCA_900167285.1
+14178485	INSDC	CP102273.1	1562779	1563633	+	UWO79749.1	nitrogenase iron protein NifH	Intestinibacter bartlettii	DSM 16795	GCA_025148965.1

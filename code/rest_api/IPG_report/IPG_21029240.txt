@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+21029240	RefSeq	NZ_JH109153.1	308495	309376	+	WP_006892491.1	nitrogenase iron protein	Methylobacter tundripaludum SV96	SV96	GCF_000190755.2
+21029240	RefSeq	NZ_PTIZ01000012.1	52966	53847	-	WP_006892491.1	nitrogenase iron protein	Methylobacter tundripaludum	OWC-DMM	GCF_002934385.1
+21029240	INSDC	JH109153.1	308495	309376	+	EGW20197.1	Nitrogenase iron protein	Methylobacter tundripaludum SV96	SV96	GCA_000190755.3
+21029240	INSDC	PTIZ01000012.1	52966	53847	-	PPK74018.1	nitrogenase iron protein NifH	Methylobacter tundripaludum	OWC-DMM	GCA_002934385.1

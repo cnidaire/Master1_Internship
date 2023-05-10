@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+132095142	RefSeq	NZ_CP018335.1	2292365	2293237	-	WP_073538863.1	nitrogenase iron protein NifH	Clostridium kluyveri	JZZ	GCF_001902295.1
+132095142	RefSeq	NZ_CP110856.1	1146646	1147518	-	WP_073538863.1	nitrogenase iron protein NifH	Clostridium kluyveri	BJN0002	GCF_026240615.1
+132095142	INSDC	CP018335.1	2292365	2293237	-	APM39229.1	nitrogenase iron protein	Clostridium kluyveri	JZZ	GCA_001902295.1
+132095142	INSDC	CP110856.1	1146646	1147518	-	UZQ51558.1	nitrogenase iron protein NifH	Clostridium kluyveri	BJN0002	GCA_026240615.1

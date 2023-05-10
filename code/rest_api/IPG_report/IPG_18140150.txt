@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+18140150	INSDC	GQ167283.1	1	828	+	ACT67922.1	NifH	Mesorhizobium ciceri	USDA 3378	
+18140150	INSDC	SUHS01000205.1	1	829	+	TIP36227.1	nitrogenase iron protein	Mesorhizobium sp.		GCA_004962395.1

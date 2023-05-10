@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+585483216	INSDC	MZ401090.1	1	317	+	UXR27171.1	NifH	Rhizobium sp.	268	
+585483216	INSDC	MZ401091.1	1	317	+	UXR27172.1	nifH	Rhizobium sp.	314	
+585483216	INSDC	MZ401092.1	1	317	+	UXR27173.1	NifH	Rhizobium sp.	1116	

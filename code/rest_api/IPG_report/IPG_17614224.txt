@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+17614224	INSDC	FJ347428.1	1	591	+	ACQ84523.1	NifH	Bradyrhizobium sp. ORS 304	ORS304	
+17614224	INSDC	FJ347429.1	1	591	+	ACQ84524.1	NifH	Bradyrhizobium sp. ORS 305	ORS305	

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+5478427	INSDC	DQ413015.1	1	715	+	ABD73332.1	NifH	Rhizobium leguminosarum bv. viciae		

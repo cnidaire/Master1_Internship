@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+182365228	INSDC	JALCPJ010000020.1	45737	46609	-	MCI1945373.1	nitrogenase iron protein NifH	Clostridium luticellarii		GCA_022650245.1
+182365228	INSDC	JALCQA010000019.1	1561	2433	+	MCI1968662.1	nitrogenase iron protein NifH	Clostridium luticellarii		GCA_022650915.1
+182365228	INSDC	JALCQO010000073.1	7170	8042	-	MCI1996995.1	nitrogenase iron protein NifH	Clostridium luticellarii		GCA_022651945.1
+182365228	INSDC	JALCRC010000028.1	35615	36487	-	MCI2040422.1	nitrogenase iron protein NifH	Clostridium luticellarii		GCA_022652355.1
+182365228	INSDC	PVXP01000012.1	57391	58263	+	PRR85784.1	Nitrogenase iron protein 1	Clostridium luticellarii	DSM 29923	GCA_002995845.1

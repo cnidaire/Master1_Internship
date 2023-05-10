@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+31373190	INSDC	AJUB01000019.1	669443	670339	+	EKQ67142.1	Mo-nitrogenase iron protein subunit NifH	Leptolyngbyaceae cyanobacterium JSC-12	JSC-12	GCA_000309945.1
+31373190	INSDC	CM001633.1	5423235	5424131	+	EKQ67142.1	Mo-nitrogenase iron protein subunit NifH	Leptolyngbyaceae cyanobacterium JSC-12	JSC-12	GCA_000309945.1

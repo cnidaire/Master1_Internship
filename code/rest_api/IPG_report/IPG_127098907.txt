@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+127098907	RefSeq	NZ_FOQA01000010.1	317	1111	-	WP_093373315.1	AAA family ATPase	Tindallia magadiensis	Z-7934	GCF_900113635.1
+127098907	INSDC	FOQA01000010.1	317	1111	-	SFI25466.1	nitrogenase iron protein NifH	Tindallia magadiensis	Z-7934	GCA_900113635.1

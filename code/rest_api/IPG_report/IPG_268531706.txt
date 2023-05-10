@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+268531706	RefSeq	NZ_JACOQH010000004.1	211971	212735	-	WP_147619437.1	nitrogenase iron protein NifH	Roseburia sp. BX0805	BX0805	GCF_014297335.1
+268531706	INSDC	JACOQH010000004.1	211971	212735	-	MBC5753907.1	AAA family ATPase	Roseburia sp. BX0805	BX0805	GCA_014297335.1
+268531706	INSDC	JALEKH010000100.1	15220	15984	-	MCI5879077.1	nitrogenase iron protein NifH	Lachnospiraceae bacterium		GCA_022769045.1

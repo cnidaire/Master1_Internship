@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+517498019	RefSeq	NZ_JAFBIX010000017.1	40474	41241	-	WP_235233024.1	nitrogenase iron protein NifH	Faecalicatena contorta	ET55	GCF_021531895.1
+517498019	INSDC	JAFBIX010000017.1	40474	41241	-	MCF2668521.1	AAA family ATPase	Faecalicatena contorta	ET55	GCA_021531895.1
+517498019	INSDC	JALFCC010000142.1	8741	9508	+	MCI6122585.1	nitrogenase iron protein NifH	Lachnospiraceae bacterium		GCA_022771105.1

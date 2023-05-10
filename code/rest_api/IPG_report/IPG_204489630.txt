@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+204489630	RefSeq	NZ_JAQDZC010000006.1	60323	61144	+	WP_118228767.1	nitrogenase iron protein	Desulfovibrio legallii	AM18-2-M	GCF_027671995.1
+204489630	RefSeq	NZ_SIXC01000007.1	117183	118004	+	WP_118228767.1	nitrogenase iron protein	Desulfovibrio legallii	H1T	GCF_004309735.1
+204489630	INSDC	OX346397.1	483091	483912	-	CAI3222549.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Desulfovibrio diazotrophicus		GCA_902498985.2
+204489630	INSDC	QRJJ01000001.1	71561	72382	-	RHH26039.1	nitrogenase iron protein	Desulfovibrio sp. AM18-2	AM18-2	GCA_003470605.1
+204489630	INSDC	SIXC01000007.1	117183	118004	+	TBH79695.1	nitrogenase iron protein	Desulfovibrio legallii	H1T	GCA_004309735.1

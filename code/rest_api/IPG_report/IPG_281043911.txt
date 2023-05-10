@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+281043911	RefSeq	NZ_VUMN01000034.1	22652	23410	-	WP_154505760.1	nitrogenase iron protein NifH	Stecheria intestinalis	Oil+RF-744-GAM-WT-6	GCF_009696165.1
+281043911	INSDC	JALCTL010000009.1	58447	59205	-	MCI2153966.1	nitrogenase iron protein NifH	Solobacterium sp.		GCA_022654375.1
+281043911	INSDC	VUMN01000034.1	22652	23410	-	MSS59505.1	AAA family ATPase	Stecheria intestinalis	Oil+RF-744-GAM-WT-6	GCA_009696165.1

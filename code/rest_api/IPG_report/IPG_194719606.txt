@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+194719606	RefSeq	NZ_QMFA01000043.1	34464	35204	+	WP_113022950.1	nitrogenase iron protein NifH	Paenibacillus sp. YN15	YN15	GCF_003285005.1
+194719606	INSDC	QMFA01000043.1	34464	35204	+	RAU93691.1	nitrogenase iron protein	Paenibacillus sp. YN15	YN15	GCA_003285005.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+18037284	INSDC	FJ514068.1	1	720	+	ACS89059.1	NifH	Bradyrhizobium yuanmingense	SR50	

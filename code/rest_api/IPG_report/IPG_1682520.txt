@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+1682520	INSDC	AY313947.1	1	386	+	AAP79449.1	NifH	Paraburkholderia tropica	Aa1	

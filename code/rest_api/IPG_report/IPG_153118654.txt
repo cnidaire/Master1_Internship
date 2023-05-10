@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+153118654	INSDC	AP018298.1	4840953	4841462	-	BAZ69419.1	nitrogenase iron protein subunit NifH	Fischerella sp. NIES-4106	NIES-4106	GCA_002368315.1

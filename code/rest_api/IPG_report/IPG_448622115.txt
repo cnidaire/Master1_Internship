@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+448622115	INSDC	JAGTRJ010000011.1	71183	72058	+	MBS1186892.1	nifH	Burkholderiaceae bacterium		GCA_018261755.1

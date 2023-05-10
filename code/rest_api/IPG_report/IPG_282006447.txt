@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+282006447	RefSeq	NZ_JAETGO010000048.1	42565	43314	-	WP_202709506.1	nitrogenase iron protein NifH	Sporosalibacterium faouarense	SOL3f37	GCF_016765695.1
+282006447	INSDC	VENL01000005.1	255786	256535	+	MTI47577.1	nitrogenase iron protein	Bacillota bacterium		GCA_009711605.1

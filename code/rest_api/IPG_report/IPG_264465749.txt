@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+264465749	INSDC	VISH01000002.1	2031022	2031909	+	TVZ38784.1	Mo-nitrogenase iron protein subunit NifH	Alteromonadaceae bacterium 2753L.S.0a.02	2753L.S.0a.02	GCA_007827375.1

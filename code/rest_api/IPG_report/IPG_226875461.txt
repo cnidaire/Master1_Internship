@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+226875461	RefSeq	NZ_RSCL01000035.1	65375	66349	-	WP_127086675.1	nitrogenase iron protein	Calothrix desertica PCC 7102	PCC 7102	GCF_003991905.1
+226875461	RefSeq	NZ_VLKB01000007.1	1964366	1965340	+	WP_127086675.1	nitrogenase iron protein	Calothrix desertica PCC 7102	PCC 7102	GCF_007830875.1
+226875461	INSDC	RSCL01000035.1	65375	66349	-	RUS96653.1	nitrogenase iron protein	Calothrix desertica PCC 7102	PCC 7102	GCA_003991905.1
+226875461	INSDC	VLKB01000007.1	1964366	1965340	+	TWH54874.1	nitrogenase iron protein NifH	Calothrix desertica PCC 7102	PCC 7102	GCA_007830875.1

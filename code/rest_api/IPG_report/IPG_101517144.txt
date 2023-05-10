@@ -1,0 +1,10 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+101517144	RefSeq	NZ_FNDX01000013.1	89640	90506	-	WP_068728337.1	nitrogenase iron protein	Paenibacillus typhae	CGMCC 1.11012	GCF_900099765.1
+101517144	RefSeq	NZ_JAQFIU010000024.1	54480	55346	+	WP_068728337.1	nitrogenase iron protein	Paenibacillus sp. PastF-1	PastF-1	GCF_029504835.1
+101517144	RefSeq	NZ_JAQFIV010000024.1	43204	44070	-	WP_068728337.1	nitrogenase iron protein	Paenibacillus sp. PastF-2	PastF-2	GCF_029504855.1
+101517144	RefSeq	NZ_JAQFIW010000024.1	54480	55346	+	WP_068728337.1	nitrogenase iron protein	Paenibacillus sp. PastM-2	PastM-2	GCF_029504865.1
+101517144	RefSeq	NZ_JARXXO010000024.1	43204	44070	-	WP_068728337.1	nitrogenase iron protein	Paenibacillus sp. PastH-2	PastH-2	GCF_029894005.1
+101517144	RefSeq	NZ_JARXXP010000023.1	43204	44070	-	WP_068728337.1	nitrogenase iron protein	Paenibacillus sp. PastM-3	PastM-3	GCF_029893965.1
+101517144	RefSeq	NZ_LRAC01000151.1	33607	34473	+	WP_068728337.1	nitrogenase iron protein	Paenibacillus sp. DMB5	DMB5	GCF_001517085.1
+101517144	INSDC	LRAC01000151.1	33607	34473	+	KUP21558.1	nitrogenase reductase	Paenibacillus sp. DMB5	DMB5	GCA_001517085.1
+101517144	INSDC	FNDX01000013.1	89640	90506	-	SDJ21569.1	Mo-nitrogenase iron protein subunit NifH	Paenibacillus typhae	CGMCC 1.11012	GCA_900099765.1

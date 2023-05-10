@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+105983716	INSDC	KR137611.1	1	325	+	AMQ98974.1	NifH	Leptolyngbya sp. CENA350	CENA350	

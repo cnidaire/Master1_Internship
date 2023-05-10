@@ -1,0 +1,9 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+49064160	RefSeq	NZ_SWAD01000077.1	3257	4165	+	WP_034952043.1	nitrogenase iron protein	Candidatus Accumulibacter phosphatis	Bin19	GCF_005889575.1
+49064160	INSDC	JDST02000091.1	3205	4113	+	KFB75359.1	Nitrogenase iron protein 1	Candidatus Accumulibacter cognatus		GCA_000584975.2
+49064160	INSDC	JAEUOO010000296.1	3275	4183	+	MBL8402823.1	nitrogenase iron protein	Candidatus Accumulibacter sp.		GCA_016790805.1
+49064160	INSDC	JAFLDP010000069.1	1465	2373	+	MBN8519597.1	nitrogenase iron protein	Candidatus Accumulibacter sp.		GCA_017302385.1
+49064160	INSDC	JAJFEY010000039.1	2417	3325	+	MCC2866585.1	nitrogenase iron protein	Candidatus Accumulibacter phosphatis		GCA_020709745.1
+49064160	INSDC	JANFDF010000016.1	7380	8288	+	MCQ1547507.1	nitrogenase iron protein	Candidatus Accumulibacter phosphatis		GCA_024380085.1
+49064160	INSDC	CP058708.1	1740678	1741586	-	QLH49720.1	nitrogenase iron protein	Candidatus Accumulibacter cognatus		GCA_013414765.1
+49064160	INSDC	SWAD01000077.1	3257	4165	+	TMQ75750.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Candidatus Accumulibacter phosphatis	Bin19	GCA_005889575.1

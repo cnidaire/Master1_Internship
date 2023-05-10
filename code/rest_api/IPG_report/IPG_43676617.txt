@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+43676617	RefSeq	NZ_CAQK01000388.1	805	1695	-	WP_021830465.1	nitrogenase iron protein	Crocosphaera watsonii WH 8502	WH 8502	GCF_001039555.1
+43676617	RefSeq	NZ_CAQM01000768.1	16914	17804	-	WP_021830465.1	nitrogenase iron protein	Crocosphaera watsonii WH 0401	WH 0401	GCF_001039615.1
+43676617	INSDC	CAQK01000388.1	805	1695	-	CCQ50988.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Crocosphaera watsonii WH 8502	WH 8502	GCA_001039555.1
+43676617	INSDC	CAQM01000768.1	16914	17804	-	CCQ63770.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Crocosphaera watsonii WH 0401	WH 0401	GCA_001039615.1

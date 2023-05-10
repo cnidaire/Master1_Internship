@@ -1,0 +1,10 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+255116654	RefSeq	NZ_BAPK01000044.1	16128	17021	+	WP_141376974.1	nitrogenase iron protein	Acetobacter peroxydans NBRC 13755	NBRC 13755	GCF_025995515.1
+255116654	RefSeq	NZ_BAPL01000012.1	106230	107123	+	WP_141376974.1	nitrogenase iron protein	Acetobacter peroxydans	NRIC 0475	GCF_025995495.1
+255116654	RefSeq	NZ_BJMV01000010.1	41943	42836	-	WP_141376974.1	nitrogenase iron protein	Acetobacter peroxydans	NBRC 13755	GCF_006539345.1
+255116654	RefSeq	NZ_WOSZ01000003.1	106283	107176	+	WP_141376974.1	nitrogenase iron protein	Acetobacter peroxydans	LMG 1635	GCF_011516745.1
+255116654	INSDC	BAPK01000044.1	16128	17021	+	GBR34903.1	nitrogenase reductase	Acetobacter peroxydans NBRC 13755	NBRC 13755	GCA_025995515.1
+255116654	INSDC	BAPL01000012.1	106230	107123	+	GBR40518.1	nitrogenase reductase	Acetobacter peroxydans	NRIC 0475	GCA_025995495.1
+255116654	INSDC	BJMV01000010.1	41943	42836	-	GEB86124.1	nitrogenase reductase	Acetobacter peroxydans	NBRC 13755	GCA_006539345.1
+255116654	INSDC	WOSZ01000003.1	106283	107176	+	NHO16139.1	nitrogenase iron protein	Acetobacter peroxydans	LMG 1635	GCA_011516745.1
+255116654	INSDC	VLTI01000007.1	106364	107257	+	TYQ20770.1	Mo-nitrogenase iron protein subunit NifH	Acetobacter peroxydans	ATCC 12874	GCA_008125125.1

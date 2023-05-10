@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+18833452	INSDC	GQ907226.1	1	332	+	ACY02882.1	NifH	Sinorhizobium sp. DASA 68012	DASA 68012	

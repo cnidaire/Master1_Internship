@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+114516038	RefSeq	NZ_FMAI01000005.1	296802	297686	+	WP_091956652.1	nitrogenase iron protein	Bradyrhizobium shewense	ERR11	GCF_900094605.1
+114516038	INSDC	FMAI01000005.1	296802	297686	+	SCB31296.1	Mo-nitrogenase iron protein subunit NifH	Bradyrhizobium shewense	ERR11	GCA_900094605.1

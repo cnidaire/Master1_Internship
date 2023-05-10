@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+22808577	INSDC	HQ322614.1	1	391	+	AEA48237.1	NifH	Azospirillum sp. CC-RW20-51	CC-RW20-51	

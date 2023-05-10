@@ -1,0 +1,9 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+3358640	RefSeq	NC_005863.1	18877	19710	-	WP_011176593.1	nitrogenase iron protein	Desulfovibrio vulgaris str. Hildenborough	Hildenborough	GCF_000195755.1
+3358640	RefSeq	NC_008741.1	181537	182370	+	WP_011176593.1	nitrogenase iron protein	Desulfovibrio vulgaris DP4	DP4	GCF_000015485.1
+3358640	RefSeq	NC_017311.1	13433	14266	-	WP_011176593.1	nitrogenase iron protein	Desulfovibrio vulgaris RCH1	RCH1	GCF_000166115.1
+3358640	RefSeq	NZ_CABHLV010000002.1	68937	69770	+	WP_011176593.1	nitrogenase iron protein	Desulfovibrio vulgaris str. Hildenborough	Hildenborough	GCF_902167245.1
+3358640	INSDC	AE017286.1	18877	19710	-	AAS94434.1	nitrogenase iron protein	Desulfovibrio vulgaris str. Hildenborough	Hildenborough	GCA_000195755.1
+3358640	INSDC	CP000528.1	181537	182370	+	ABM30101.1	Mo-nitrogenase iron protein subunit NifH	Desulfovibrio vulgaris DP4	DP4	GCA_000015485.1
+3358640	INSDC	CP002298.1	13433	14266	-	ADP88250.1	nitrogenase iron protein	Desulfovibrio vulgaris RCH1	RCH1	GCA_000166115.1
+3358640	INSDC	DOQA01000016.1	19382	20215	+	HBW15681.1	nitrogenase iron protein	Desulfovibrio sp.		GCA_003513425.1

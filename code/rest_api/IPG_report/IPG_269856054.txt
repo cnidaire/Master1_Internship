@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+269856054	INSDC	VLTH01000002.1	2525595	2526413	-	TYQ16496.1	Mo-nitrogenase iron protein subunit NifH	Acetivibrio alkalicellulosi	DSM 17461	GCA_008125075.1

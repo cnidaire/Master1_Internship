@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+269629323	RefSeq	NZ_RXYA01000006.1	18776	19525	+	WP_148566796.1	nitrogenase iron protein NifH	Acetobacterium paludosum	DSM 8237	GCF_008086595.1
+269629323	RefSeq	NZ_WJBD01000016.1	18776	19525	+	WP_148566796.1	nitrogenase iron protein NifH	Acetobacterium paludosum	DER-2019	GCF_014284455.1
+269629323	INSDC	WJBD01000016.1	18776	19525	+	MBC3889200.1	AAA family ATPase	Acetobacterium paludosum	DER-2019	GCA_014284455.1

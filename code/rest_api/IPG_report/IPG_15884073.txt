@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+15884073	RefSeq	NC_011565.1	782754	783578	+	WP_012573569.1	nitrogenase iron protein	Candidatus Azobacteroides pseudotrichonymphae genomovar. CFP2	CfPt1-2	GCF_000010645.1
+15884073	Swiss-Prot	N/A				B6YRI6.1	Nitrogenase iron protein	Candidatus Azobacteroides pseudotrichonymphae genomovar. CFP2		
+15884073	INSDC	AP010656.1	782754	783578	+	BAG83808.1	nitrogenase iron protein NifH	Candidatus Azobacteroides pseudotrichonymphae genomovar. CFP2	CfPt1-2	GCA_000010645.1

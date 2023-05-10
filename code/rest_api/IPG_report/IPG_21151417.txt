@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+21151417	INSDC	CP002273.2	1619471	1620340	+	ADO36703.1	putative nitrogenase subunit nifH	Eubacterium callanderi	KIST612	GCA_000152245.2
+21151417	INSDC	BMAX01000001.1	125847	126716	+	GFZ22205.1	putative nitrogenase iron protein	[Clostridium] methoxybenzovorans	ATCC 700855	GCA_017312465.1

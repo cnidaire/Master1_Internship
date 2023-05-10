@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+100807103	RefSeq	NZ_BCMV01000066.1	35474	36247	+	WP_058992854.1	nitrogenase iron protein NifH	Sarcina ventriculi	14	GCF_001485165.1
+100807103	RefSeq	NZ_BCMW01000009.1	120655	121428	+	WP_058992854.1	nitrogenase iron protein NifH	Sarcina ventriculi	17	GCF_001485185.1

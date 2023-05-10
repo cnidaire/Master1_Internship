@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+109880082	INSDC	KX013237.1	1	716	+	ANE20386.1	NifH	Bradyrhizobium sp. F86-1-2	F86-1-2	

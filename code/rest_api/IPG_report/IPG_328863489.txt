@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+328863489	RefSeq	NZ_CACWHD010000012.1	13440	14192	-	WP_173326846.1	nitrogenase iron protein NifH	Sharpea azabuensis		GCF_902760635.1
+328863489	RefSeq	NZ_CADCIG010000005.1	43627	44379	-	WP_173326846.1	nitrogenase iron protein NifH	Sharpea azabuensis		GCF_902801545.1

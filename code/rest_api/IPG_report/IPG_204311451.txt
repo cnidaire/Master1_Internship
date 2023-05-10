@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+204311451	RefSeq	NZ_QSFA01000014.1	7024	7770	-	WP_118022999.1	nitrogenase iron protein NifH	Megasphaera sp. AM44-1BH	AM44-1BH	GCF_003467125.1
+204311451	INSDC	QSFA01000014.1	7024	7770	-	RHA10882.1	nitrogen fixation protein NifH	Megasphaera sp. AM44-1BH	AM44-1BH	GCA_003467125.1

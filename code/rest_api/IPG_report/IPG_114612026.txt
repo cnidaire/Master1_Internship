@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+114612026	RefSeq	NZ_CP016757.1	2652951	2653706	-	WP_066746653.1	nitrogenase iron protein NifH	Cloacibacillus porcorum	CL-84 (T)	GCF_001701045.1
+114612026	RefSeq	NZ_JAQDAY010000001.1	155364	156119	-	WP_066746653.1	nitrogenase iron protein NifH	Cloacibacillus porcorum	AF57-4A	GCF_027681765.1
+114612026	INSDC	CP016757.1	2652951	2653706	-	ANZ45756.1	nitrogenase iron protein	Cloacibacillus porcorum	CL-84	GCA_001701045.1

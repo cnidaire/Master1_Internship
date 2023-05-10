@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+329201828	RefSeq	NZ_JAAIOE010000001.1	359964	360719	-	WP_173820869.1	nitrogenase iron protein NifH	Dorea formicigenerans	MSK.23.29	GCF_013301365.1
+329201828	INSDC	JAAIOE010000001.1	359964	360719	-	NSE46053.1	AAA family ATPase	Dorea formicigenerans	MSK.23.29	GCA_013301365.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+23455312	INSDC	HQ836193.1	1	623	+	AEF33300.1	NifH	Nostoc sp. LCRNK_29	LCRNK_29	

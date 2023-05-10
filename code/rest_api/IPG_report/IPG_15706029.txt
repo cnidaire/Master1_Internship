@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+15706029	INSDC	EU698002.1	1	510	+	ACI47353.1	NifH	Mesorhizobium septentrionale	CCNWNX0058	
+15706029	INSDC	EU698006.1	1	511	+	ACI47357.1	NifH	Mesorhizobium septentrionale	CCNWNX0143	

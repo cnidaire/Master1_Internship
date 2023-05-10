@@ -1,0 +1,9 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+208877860	RefSeq	NZ_CAJPSS010000002.1	80848	81666	-	WP_227137072.1	nitrogenase iron protein NifH	Dialister invisus		GCF_905373435.1
+208877860	RefSeq	NZ_CALUCG010000001.1	73695	74513	-	WP_227137072.1	nitrogenase iron protein NifH	Dialister invisus		GCF_943914495.1
+208877860	RefSeq	NZ_JAJCRT010000001.1	255289	256107	-	WP_227137072.1	nitrogenase iron protein NifH	Dialister invisus	SL.1.06	GCF_020564385.1
+208877860	RefSeq	NZ_WHHU01000001.1	461044	461862	-	WP_227137072.1	nitrogenase iron protein NifH	Dialister invisus		GCF_014872435.1
+208877860	INSDC	DPRY01000001.1	468831	469649	-	HCY50806.1	nitrogenase iron protein	Dialister sp.		GCA_003537535.1
+208877860	INSDC	RKAJ01000068.1	3099	3917	+	MBD9084988.1	nitrogenase iron protein	Dialister invisus		GCA_014845955.1
+208877860	INSDC	JAHADJ010000019.1	2472	3290	-	MBS6296035.1	AAA family ATPase	Dialister sp.		GCA_018375345.1
+208877860	INSDC	JAJCRT010000001.1	255289	256107	-	MCB6180510.1	nitrogenase iron protein NifH	Dialister invisus	SL.1.06	GCA_020564385.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+262486470	RefSeq	NZ_MWLL01000178.1	44259	45272	-	WP_143447802.1	nitrogen fixation protein NifH	Kineosporia sp. R_H_3	R_H_3	GCF_002198675.1

@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+190369338	RefSeq	NZ_QJTI01000004.1	177292	178191	-	WP_110780135.1	nitrogenase iron protein	Rhodopseudomonas faecalis	JCM 11668	GCF_003217325.1
+190369338	INSDC	QJTI01000004.1	177292	178191	-	PYF04197.1	Mo-nitrogenase iron protein subunit NifH /V-nitrogenase iron protein subunit VnfH	Rhodopseudomonas faecalis	JCM 11668	GCA_003217325.1
+190369338	INSDC	SHOF01000032.1	29339	30238	-	TAH65820.1	nitrogenase iron protein	Rhodopseudomonas palustris		GCA_004294885.1

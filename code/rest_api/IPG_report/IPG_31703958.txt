@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+31703958	RefSeq	NZ_JH992902.1	907863	908672	-	WP_009728439.1	nitrogenase iron protein NifH	Selenomonas sp. F0473	F0473	GCF_000315545.1
+31703958	INSDC	AGZT01000003.1	872584	873393	-	EKU72150.1	nitrogenase iron protein	Selenomonas sp. F0473	F0473	GCA_000315545.1
+31703958	INSDC	JH992902.1	907863	908672	-	EKU72150.1	nitrogenase iron protein	Selenomonas sp. F0473	F0473	GCA_000315545.1

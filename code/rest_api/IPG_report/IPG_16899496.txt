@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+16899496	INSDC	FJ348677.1	1	705	+	ACO58686.1	NifH	Bradyrhizobium algeriense	RST88bis	

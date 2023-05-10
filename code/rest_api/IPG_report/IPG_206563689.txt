@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+206563689	RefSeq	NZ_DCDX01000126.1	15627	16385	-	WP_276620496.1	nitrogenase iron protein NifH	Syntrophomonas wolfei		GCF_002316655.1
+206563689	RefSeq	NZ_DHSN01000056.1	76617	77375	+	WP_276620496.1	nitrogenase iron protein NifH	Syntrophomonas wolfei		GCF_002410515.1
+206563689	RefSeq	NZ_DLIJ01000015.1	90855	91613	-	WP_276620496.1	nitrogenase iron protein NifH	Syntrophomonas wolfei		GCF_002483685.1
+206563689	INSDC	DNZF01000243.1	7972	8730	-	HBK54498.1	nitrogen fixation protein NifH	Syntrophomonas wolfei		GCA_003504835.1

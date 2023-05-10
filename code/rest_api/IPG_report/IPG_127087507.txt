@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+127087507	RefSeq	NZ_FOUJ01000005.1	127351	128172	+	WP_091937231.1	nitrogenase iron protein	Methanolobus profundi	Mob M	GCF_900114835.1
+127087507	INSDC	FOUJ01000005.1	127351	128172	+	SFM79059.1	Mo-nitrogenase iron protein subunit NifH	Methanolobus profundi	Mob M	GCA_900114835.1

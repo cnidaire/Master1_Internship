@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+180171254	RefSeq	NZ_JACIGC010000027.1	18324	19151	-	WP_104507665.1	nitrogenase iron protein	Rhodoblastus sphagnicola	DSM 16996	GCF_014197735.1
+180171254	RefSeq	NZ_NHSJ01000060.1	18379	19206	-	WP_104507665.1	nitrogenase iron protein	Rhodoblastus sphagnicola	DSM 16996	GCF_002937075.1
+180171254	INSDC	JACIGC010000027.1	18324	19151	-	MBB4200423.1	nitrogenase iron protein NifH	Rhodoblastus sphagnicola	DSM 16996	GCA_014197735.1
+180171254	INSDC	NHSJ01000060.1	18379	19206	-	PPQ31299.1	nitrogenase iron protein	Rhodoblastus sphagnicola	DSM 16996	GCA_002937075.1

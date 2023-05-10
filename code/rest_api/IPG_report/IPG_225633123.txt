@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+225633123	INSDC	MK211498.1	1	336	+	AZQ00511.1	NifH	Fischerella sp. LSKH	LSKH	

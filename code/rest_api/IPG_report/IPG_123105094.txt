@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+123105094	RefSeq	NZ_CDAA01000001.1	1898094	1898867	-	WP_092724962.1	nitrogenase iron protein NifH	Romboutsia lituseburensis	A25K	GCF_900002825.1
+123105094	RefSeq	NZ_FNGW01000003.1	282332	283105	+	WP_092724962.1	nitrogenase iron protein NifH	Romboutsia lituseburensis DSM 797	DSM 797	GCF_900103615.1
+123105094	INSDC	CDAA01000001.1	1898094	1898867	-	CEH34414.1	Nitrogenase iron protein	Romboutsia lituseburensis	A25K	GCA_900002825.1
+123105094	INSDC	FNGW01000003.1	282332	283105	+	SDL74814.1	nitrogenase iron protein NifH	Romboutsia lituseburensis DSM 797	DSM 797	GCA_900103615.1

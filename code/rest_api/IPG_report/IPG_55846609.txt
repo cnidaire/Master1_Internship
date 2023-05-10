@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+55846609	INSDC	JFGP01000014.1	38697	39656	-	KEC70650.1	nitrogenase reductase	Rhizobium leguminosarum bv. phaseoli CCGM1	CCGM1	GCA_000705615.1
+55846609	INSDC	JFGP01000013.1	31	990	+	KEC70696.1	nitrogenase reductase	Rhizobium leguminosarum bv. phaseoli CCGM1	CCGM1	GCA_000705615.1
+55846609	INSDC	JACIGQ010000010.1	4969	5928	+	MBB4300154.1	nitrogenase iron protein NifH	Rhizobium leguminosarum	SEMIA 421	GCA_014198005.1
+55846609	INSDC	JACIHU010000025.1	772	1731	+	MBB4483489.1	nitrogenase iron protein NifH	Rhizobium etli	SEMIA 471	GCA_014198605.1
+55846609	INSDC	JACIHW010000032.1	773	1732	+	MBB4511197.1	nitrogenase iron protein NifH	Rhizobium leguminosarum	SEMIA 475	GCA_014198665.1
+55846609	INSDC	JACIID010000025.1	772	1731	+	MBB4539313.1	nitrogenase iron protein NifH	Rhizobium etli	SEMIA 489	GCA_014198755.1

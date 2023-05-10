@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+328864595	RefSeq	NZ_CACWQI010000015.1	36518	37294	-	WP_173327916.1	nitrogenase iron protein NifH	Eubacterium pyruvativorans		GCF_902762915.1

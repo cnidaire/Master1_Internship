@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+674026	INSDC	U68183.1	1123	1450	+	AAB09060.1	unknown protein	Megalodesulfovibrio gigas		
+674026	PRF	N/A				1613194B	nifH assocd ORF 2	Megalodesulfovibrio gigas		

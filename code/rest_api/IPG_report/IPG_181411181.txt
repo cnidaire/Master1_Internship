@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+181411181	RefSeq	NZ_PVBU01000001.1	88309	89106	-	WP_105459938.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanohalophilus euhalobius	DSM 10369	GCF_002973515.1
+181411181	RefSeq	NZ_RJJF01000001.1	113546	114343	-	WP_105459938.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanohalophilus euhalobius	DSM 10369	GCF_003722155.1
+181411181	INSDC	PVBU01000001.1	88309	89106	-	PQV43685.1	Mo-nitrogenase iron protein subunit NifH	Methanohalophilus euhalobius	DSM 10369	GCA_002973515.1
+181411181	INSDC	RJJF01000001.1	113546	114343	-	RNI12681.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanohalophilus euhalobius	DSM 10369	GCA_003722155.1

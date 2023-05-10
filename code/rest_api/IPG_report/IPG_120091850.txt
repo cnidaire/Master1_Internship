@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+120091850	INSDC	FMTN01000019.1	25146	25964	+	SCW62998.1	nitrogenase iron protein NifH	Lachnospiraceae bacterium C10	C10	GCA_900100095.1
+120091850	INSDC	FNOC01000015.1	20149	20967	-	SDW71382.1	nitrogenase iron protein NifH	Lachnospiraceae bacterium KHCPX20	KHCPX20	GCA_900106615.1

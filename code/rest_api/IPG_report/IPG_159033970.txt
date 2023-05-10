@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+159033970	RefSeq	NZ_NPKJ01000057.1	96824	97717	+	WP_095494267.1	nitrogenase iron protein	Mesorhizobium temperatum	SDW018	GCF_002284575.1
+159033970	RefSeq	NZ_VLKT01000071.1	24060	24953	-	WP_095494267.1	nitrogenase iron protein	Mesorhizobium tianshanense	CGMCC 1.2546	GCF_007830515.1
+159033970	INSDC	BSPF01000063.1	8513	9406	+	GLS37260.1	nitrogenase iron protein	Mesorhizobium tianshanense	NBRC 102499	
+159033970	INSDC	NPKJ01000057.1	96824	97717	+	PAQ07717.1	nitrogenase iron protein	Mesorhizobium temperatum	SDW018	GCA_002284575.1
+159033970	INSDC	VLKT01000071.1	24060	24953	-	TWI21518.1	Mo-nitrogenase iron protein subunit NifH	Mesorhizobium tianshanense	CGMCC 1.2546	GCA_007830515.1

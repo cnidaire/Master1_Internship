@@ -1,0 +1,33 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+26752311	RefSeq	NZ_CM001442.1	1469902	1470792	+	WP_007600043.1	nitrogenase iron protein	Bradyrhizobium sp. WSM471	WSM471	GCF_000244915.1
+26752311	RefSeq	NZ_CP088086.1	1469110	1470000	+	WP_007600043.1	nitrogenase iron protein	Bradyrhizobium canariense	WSM471	GCF_021052245.1
+26752311	RefSeq	NZ_CP088089.1	7043560	7044450	-	WP_007600043.1	nitrogenase iron protein	Bradyrhizobium canariense	WU425	GCF_021052305.1
+26752311	RefSeq	NZ_JAFBBN010000001.1	6832773	6833663	+	WP_007600043.1	nitrogenase iron protein	Bradyrhizobium canariense	USDA 3040	GCF_016907215.1
+26752311	RefSeq	NZ_JANUBX010000003.1	1422307	1423197	+	WP_007600043.1	nitrogenase iron protein	Bradyrhizobium centrosematis	SEMIA 424	GCF_024809395.1
+26752311	RefSeq	NZ_JANUBY010000003.1	49723	50613	-	WP_007600043.1	nitrogenase iron protein	Bradyrhizobium centrosematis	SEMIA 431	GCF_024809475.1
+26752311	RefSeq	NZ_JH600073.1	5707292	5708182	+	WP_007600043.1	nitrogenase iron protein	Bradyrhizobium sp. WSM1253	WSM1253	GCF_000244935.1
+26752311	RefSeq	NZ_NAEX01000182.1	280509	281399	+	WP_007600043.1	nitrogenase iron protein	Bradyrhizobium canariense	UBMA050	GCF_002108675.1
+26752311	RefSeq	NZ_NAEY01000172.1	399558	400448	+	WP_007600043.1	nitrogenase iron protein	Bradyrhizobium canariense	UBMA051	GCF_002108695.1
+26752311	RefSeq	NZ_NAEZ01000178.1	37535	38425	-	WP_007600043.1	nitrogenase iron protein	Bradyrhizobium canariense	UBMA052	GCF_002108745.1
+26752311	RefSeq	NZ_NAFA01000198.1	37535	38425	-	WP_007600043.1	nitrogenase iron protein	Bradyrhizobium canariense	UBMA060	GCF_002108725.1
+26752311	RefSeq	NZ_NAFB01000169.1	37535	38425	-	WP_007600043.1	nitrogenase iron protein	Bradyrhizobium canariense	UBMA061	GCF_002108755.1
+26752311	RefSeq	NZ_NAFC01000141.1	43110	44000	+	WP_007600043.1	nitrogenase iron protein	Bradyrhizobium canariense	UBMA122	GCF_002108825.1
+26752311	RefSeq	NZ_NAFJ01000105.1	16150	17040	-	WP_007600043.1	nitrogenase iron protein	Bradyrhizobium canariense	UBMA510	GCF_002108905.1
+26752311	RefSeq	NZ_NAFK01000124.1	15015	15905	+	WP_007600043.1	nitrogenase iron protein	Bradyrhizobium canariense	UBMAN05	GCF_002108805.1
+26752311	RefSeq	NZ_VSST01000027.1	63277	64167	+	WP_007600043.1	nitrogenase iron protein	Bradyrhizobium canariense	BTA-1	GCF_019402665.1
+26752311	INSDC	CM001442.1	1469902	1470792	+	EHR00803.1	nitrogenase iron protein	Bradyrhizobium sp. WSM471	WSM471	GCA_000244915.1
+26752311	INSDC	JH600073.1	5707292	5708182	+	EIG61139.1	nitrogenase iron protein	Bradyrhizobium sp. WSM1253	WSM1253	GCA_000244935.1
+26752311	INSDC	JAFBBN010000001.1	6832773	6833663	+	MBM7487667.1	nitrogenase iron protein NifH	Bradyrhizobium canariense	USDA 3040	GCA_016907215.1
+26752311	INSDC	VSST01000027.1	63277	64167	+	MBW5436169.1	nitrogenase iron protein	Bradyrhizobium canariense	BTA-1	GCA_019402665.1
+26752311	INSDC	JANUBX010000003.1	1422307	1423197	+	MCS3764798.1	nitrogenase iron protein NifH	Bradyrhizobium centrosematis	SEMIA 424	GCA_024809395.1
+26752311	INSDC	JANUBY010000003.1	49723	50613	-	MCS3776150.1	nitrogenase iron protein NifH	Bradyrhizobium centrosematis	SEMIA 431	GCA_024809475.1
+26752311	INSDC	NAEX01000182.1	280509	281399	+	OSI22352.1	nitrogenase iron protein	Bradyrhizobium canariense	UBMA050	GCA_002108675.1
+26752311	INSDC	NAEY01000172.1	399558	400448	+	OSI26950.1	nitrogenase iron protein	Bradyrhizobium canariense	UBMA051	GCA_002108695.1
+26752311	INSDC	NAEZ01000178.1	37535	38425	-	OSI39541.1	nitrogenase iron protein	Bradyrhizobium canariense	UBMA052	GCA_002108745.1
+26752311	INSDC	NAFA01000198.1	37535	38425	-	OSI46006.1	nitrogenase iron protein	Bradyrhizobium canariense	UBMA060	GCA_002108725.1
+26752311	INSDC	NAFB01000169.1	37535	38425	-	OSI55511.1	nitrogenase iron protein	Bradyrhizobium canariense	UBMA061	GCA_002108755.1
+26752311	INSDC	NAFC01000141.1	43110	44000	+	OSI72208.1	nitrogenase iron protein	Bradyrhizobium canariense	UBMA122	GCA_002108825.1
+26752311	INSDC	NAFJ01000105.1	16150	17040	-	OSJ19177.1	nitrogenase iron protein	Bradyrhizobium canariense	UBMA510	GCA_002108905.1
+26752311	INSDC	NAFK01000124.1	15015	15905	+	OSJ34399.1	nitrogenase iron protein	Bradyrhizobium canariense	UBMAN05	GCA_002108805.1
+26752311	INSDC	CP088086.1	1469110	1470000	+	UFW42884.1	nitrogenase iron protein	Bradyrhizobium canariense	WSM471	GCA_021052245.1
+26752311	INSDC	CP088089.1	7043560	7044450	-	UFW71512.1	nitrogenase iron protein	Bradyrhizobium canariense	WU425	GCA_021052305.1

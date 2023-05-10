@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+141384146	INSDC	JALNZN010000060.1	1770	2513	-	MCK9406288.1	nitrogenase iron protein NifH	Methanothrix sp.		GCA_023229265.1
+141384146	INSDC	JALOBJ010000146.1	3158	3901	+	MCK9565839.1	nitrogenase iron protein NifH	Methanothrix sp.		GCA_023228345.1
+141384146	INSDC	MVRL01000072.1	2757	3500	+	OPY55539.1	protochlorophyllide reductase iron-sulfur ATP-binding protein	Methanosaeta sp. PtaU1.Bin112		GCA_002067705.1

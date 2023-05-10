@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+298427	INSDC	AF227925.1	1	321	+	AAG23892.1	dinitrogenase reductase NifH	Desulfosporosinus orientis		

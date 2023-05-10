@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+123257938	RefSeq	NZ_FNFZ01000011.1	44431	45312	+	WP_092993133.1	AAA family ATPase	Sarcina sp. DSM 11001	DSM 11001	GCF_900101015.1
+123257938	INSDC	FNFZ01000011.1	44431	45312	+	SDL03246.1	nitrogenase iron protein NifH	Sarcina sp. DSM 11001	DSM 11001	GCA_900101015.1

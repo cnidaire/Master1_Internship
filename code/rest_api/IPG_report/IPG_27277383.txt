@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+27277383	RefSeq	NC_018068.1	4197414	4198241	-	WP_014828887.1	nitrogenase iron protein	Desulfosporosinus acidiphilus SJ4	SJ4	GCF_000255115.2
+27277383	INSDC	CP003639.1	4197414	4198241	-	AFM42901.1	Mo-nitrogenase iron protein subunit NifH	Desulfosporosinus acidiphilus SJ4	SJ4	GCA_000255115.3

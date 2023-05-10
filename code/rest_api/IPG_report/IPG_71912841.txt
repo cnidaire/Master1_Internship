@@ -1,0 +1,12 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+71912841	RefSeq	NZ_AYSO01000017.1	332455	333303	+	WP_039633801.1	nitrogenase iron protein NifH	Clostridium argentinense CDC 2741	CDC 2741	GCF_000816675.1
+71912841	RefSeq	NZ_CP014176.1	3370083	3370931	-	WP_039633801.1	nitrogenase iron protein NifH	Clostridium argentinense	89G	GCF_002074155.1
+71912841	RefSeq	NZ_SWMY01000005.1	16604	17452	-	WP_039633801.1	nitrogenase iron protein NifH	Clostridium argentinense	GH	GCF_011012255.1
+71912841	RefSeq	NZ_SXBY01000001.1	240418	241266	+	WP_039633801.1	nitrogenase iron protein NifH	Clostridium argentinense	113/33	GCF_011018775.1
+71912841	RefSeq	NZ_SXBZ01000001.1	122073	122921	-	WP_039633801.1	nitrogenase iron protein NifH	Clostridium argentinense	113/31	GCF_011018805.1
+71912841	RefSeq	NZ_SXCA01000004.1	52739	53587	-	WP_039633801.1	nitrogenase iron protein NifH	Clostridium argentinense	113/29	GCF_011018825.1
+71912841	INSDC	CP014176.1	3370083	3370931	-	ARC85908.1	nitrogenase iron protein	Clostridium argentinense	89G	GCA_002074155.1
+71912841	INSDC	SWMY01000005.1	16604	17452	-	NFF38836.1	nitrogenase iron protein	Clostridium argentinense	GH	GCA_011012255.1
+71912841	INSDC	SXBZ01000001.1	122073	122921	-	NFP48628.1	nitrogenase iron protein	Clostridium argentinense	113/31	GCA_011018805.1
+71912841	INSDC	SXBY01000001.1	240418	241266	+	NFP71104.1	nitrogenase iron protein	Clostridium argentinense	113/33	GCA_011018775.1
+71912841	INSDC	SXCA01000004.1	52739	53587	-	NFP75880.1	nitrogenase iron protein	Clostridium argentinense	113/29	GCA_011018825.1

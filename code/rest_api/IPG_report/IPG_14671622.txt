@@ -1,0 +1,18 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+14671622	RefSeq	NC_010520.1	826585	827334	+	WP_012344305.1	nitrogenase iron protein NifH	Clostridium botulinum A3 str. Loch Maree	Loch Maree	GCF_000019545.1
+14671622	RefSeq	NZ_JACBCG010000003.1	345489	346238	+	WP_012344305.1	nitrogenase iron protein NifH	Clostridium botulinum	Gav79A-KM63-1	GCF_019837745.1
+14671622	RefSeq	NZ_JACBCQ010000007.1	159560	160309	-	WP_012344305.1	nitrogenase iron protein NifH	Clostridium botulinum	CDC-CR2	GCF_019838095.1
+14671622	RefSeq	NZ_NQVW01000004.1	207774	208523	-	WP_012344305.1	nitrogenase iron protein NifH	Clostridium botulinum	It386	GCF_016990395.1
+14671622	INSDC	CP000962.1	826585	827334	+	ACA56432.1	nitrogenase iron protein	Clostridium botulinum A3 str. Loch Maree	Loch Maree	GCA_000019545.1
+14671622	INSDC	DAEWWY010000005.1	67779	68528	-	HBJ2608581.1	AAA family ATPase	Clostridium botulinum	Tochigi2008	GCA_020017395.1
+14671622	INSDC	NQVW01000004.1	207774	208523	-	MBN3409714.1	nitrogenase iron protein	Clostridium botulinum	It386	GCA_016990395.1
+14671622	INSDC	JACBCG010000003.1	345489	346238	+	MBY6873219.1	AAA family ATPase	Clostridium botulinum	Gav79A-KM63-1	GCA_019837745.1
+14671622	INSDC	JACBCQ010000007.1	159560	160309	-	MBY6888447.1	AAA family ATPase	Clostridium botulinum	CDC-CR2	GCA_019838095.1
+14671622	INSDC	SWRD01000001.1	397596	398345	-	NFH64226.1	nitrogenase iron protein	Clostridium botulinum	NCTC 2012 (2)	GCA_011014425.1
+14671622	INSDC	SWSP01000005.1	259358	260107	+	NFI46388.1	nitrogenase iron protein	Clostridium botulinum	1391/01	GCA_011015195.1
+14671622	INSDC	SWQE01000001.1	318627	319376	+	NFJ07195.1	nitrogenase iron protein	Clostridium botulinum	Colworth BL30	GCA_011013935.1
+14671622	INSDC	SWSY01000006.1	259394	260143	+	NFJ90970.1	nitrogenase iron protein	Clostridium botulinum	NCTC 11199	GCA_011015335.1
+14671622	INSDC	SWTA01000002.1	318723	319472	+	NFK14167.1	nitrogenase iron protein	Clostridium botulinum	NCTC 2012	GCA_011015425.1
+14671622	INSDC	SWYC01000001.1	94684	95433	-	NFM92177.1	nitrogenase iron protein	Clostridium botulinum	NCTC 2012 (4)	GCA_011017755.1
+14671622	INSDC	SWYP01000001.1	160905	161654	+	NFO15946.1	nitrogenase iron protein	Clostridium botulinum	NCTC 2012 (3)	GCA_011017975.1
+14671622	INSDC	SXCO01000001.1	328900	329649	-	NFR64177.1	nitrogenase iron protein	Clostridium botulinum	IFR 18/110	GCA_011019055.1

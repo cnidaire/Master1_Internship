@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+35398102	INSDC	KC768856.1	1	575	+	AGJ83827.1	NifH	Microvirga vignae	BR3299	

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+19545335	RefSeq	NZ_ADGP01000013.1	20909	21661	-	WP_009369589.1	nitrogenase iron protein NifH	Megasphaera genomosp. type_1 str. 28L	28L	GCF_000177555.1
+19545335	INSDC	ADGP01000013.1	20909	21661	-	EFD94380.1	putative nitrogenase iron protein	Megasphaera genomosp. type_1 str. 28L	28L	GCA_000177555.1

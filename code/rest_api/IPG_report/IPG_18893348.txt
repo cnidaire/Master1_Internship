@@ -1,0 +1,11 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+18893348	INSDC	GU001620.1	1	698	+	ACY38116.1	NifH	Bradyrhizobium canariense	CTAW25	
+18893348	INSDC	GU001621.1	1	698	+	ACY38117.1	NifH	Bradyrhizobium canariense	CTAW31	
+18893348	INSDC	GU001622.1	1	698	+	ACY38118.1	NifH	Bradyrhizobium canariense	CTAW33	
+18893348	INSDC	GU001623.1	1	698	+	ACY38119.1	NifH	Bradyrhizobium canariense	CTAW36	
+18893348	INSDC	GU001625.1	1	698	+	ACY38121.1	NifH	Bradyrhizobium canariense	CTAW43	
+18893348	INSDC	GU001629.1	1	698	+	ACY38125.1	NifH	Bradyrhizobium canariense	CTFI26	
+18893348	INSDC	GU001630.1	1	698	+	ACY38126.1	NifH	Bradyrhizobium canariense	CTFI28	
+18893348	INSDC	GU001632.1	1	698	+	ACY38128.1	NifH	Bradyrhizobium canariense	CTFI410	
+18893348	INSDC	GU001634.1	1	698	+	ACY38130.1	NifH	Bradyrhizobium canariense	CTFI52	
+18893348	INSDC	GU001635.1	1	698	+	ACY38131.1	NifH	Bradyrhizobium canariense	CTFI54	

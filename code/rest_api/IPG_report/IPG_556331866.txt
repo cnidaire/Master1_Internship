@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+556331866	RefSeq	NZ_JAMHFZ010000009.1	749	1564	+	WP_250724899.1	nitrogenase iron protein NifH	Sporomusa sphaeroides DSM 2875	DSM 2875	GCF_023660125.1
+556331866	INSDC	JAMHFZ010000009.1	749	1564	+	MCM0757332.1	nitrogenase iron protein NifH	Sporomusa sphaeroides DSM 2875	DSM 2875	GCA_023660125.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+571355968	RefSeq	NZ_JANKBM010000002.1	587724	588473	-	WP_257461351.1	nitrogenase iron protein NifH	Paeniclostridium sordellii	DSM 29974	GCF_024622135.1
+571355968	INSDC	JANKBM010000002.1	587724	588473	-	MCR1849198.1	nitrogenase iron protein NifH	Paeniclostridium sordellii	DSM 29974	GCA_024622135.1

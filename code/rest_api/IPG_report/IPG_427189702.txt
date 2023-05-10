@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+427189702	INSDC	JAGGKD010000008.1	71420	72211	-	MBP1909938.1	nitrogenase iron protein NifH	Methanolobus bombayensis	DSM 7082	GCA_017873415.1

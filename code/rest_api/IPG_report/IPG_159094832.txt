@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+159094832	RefSeq	NZ_LT906662.1	2702289	2703116	+	WP_096232324.1	nitrogenase iron protein	Thermoanaerobacterium sp. RBIITD	RBIITD	GCF_900205865.1
+159094832	INSDC	LT906662.1	2702289	2703116	+	SNX54938.1	nitrogenase iron protein NifH	Thermoanaerobacterium sp. RBIITD	RBIITD	GCA_900205865.1

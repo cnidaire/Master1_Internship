@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+20805769	RefSeq	NZ_GL397087.1	876337	877149	-	WP_009442811.1	nitrogenase iron protein NifH	Selenomonas sp. oral taxon 149 str. 67H29BP	67H29BP	GCF_000146365.1
+20805769	INSDC	AEEJ01000033.1	25094	25906	-	EFM23483.1	putative nitrogenase iron protein	Selenomonas sp. oral taxon 149 str. 67H29BP	67H29BP	GCA_000146365.1
+20805769	INSDC	GL397087.1	876337	877149	-	EFM23483.1	putative nitrogenase iron protein	Selenomonas sp. oral taxon 149 str. 67H29BP	67H29BP	GCA_000146365.1

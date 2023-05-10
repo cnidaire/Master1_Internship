@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+3369820	INSDC	AY533867.1	1	658	+	AAT06094.1	NifH	Paraburkholderia sabiae	Br3407	

@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+31513351	RefSeq	NZ_CAOS01000003.1	472115	472933	-	WP_008410403.1	nitrogenase iron protein	Desulforamulus hydrothermalis Lam5 = DSM 18033	type strain: Lam5 = DSM 18033	GCF_000315365.1
+31513351	RefSeq	NZ_FQXF01000014.1	20641	21459	+	WP_008410403.1	nitrogenase iron protein	Desulforamulus hydrothermalis Lam5 = DSM 18033	DSM 18033	GCF_900129895.1
+31513351	INSDC	CAOS01000003.1	472115	472933	-	CCO07505.1	Nitrogenase iron protein	Desulforamulus hydrothermalis Lam5 = DSM 18033	Lam5	GCA_000315365.1
+31513351	INSDC	HF586926.1	476933	477751	-	CCO07505.1	Nitrogenase iron protein	Desulforamulus hydrothermalis Lam5 = DSM 18033	Lam5	
+31513351	INSDC	FQXF01000014.1	20641	21459	+	SHH16986.1	Mo-nitrogenase iron protein subunit NifH	Desulforamulus hydrothermalis Lam5 = DSM 18033	DSM 18033	GCA_900129895.1

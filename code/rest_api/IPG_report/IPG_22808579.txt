@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+22808579	INSDC	HQ322616.1	1	402	+	AEA48239.1	NifH	Rhodospirillum centenum	JCM 21060	

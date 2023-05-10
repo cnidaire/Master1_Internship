@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+124664001	RefSeq	NZ_FNQZ01000003.1	104657	105532	+	WP_090298052.1	nitrogenase iron protein NifH	Pseudobutyrivibrio sp. ACV-2	ACV-2	GCF_900107545.1
+124664001	INSDC	FNQZ01000003.1	104657	105532	+	SEA20138.1	nitrogenase iron protein NifH	Pseudobutyrivibrio sp. ACV-2	ACV-2	GCA_900107545.1

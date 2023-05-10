@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+259729600	INSDC	LVVP01000001.1	22319	23116	-	TQS83073.1	nitrogen fixation protein NifH	Candidatus Methanomethylophilus alvus		GCA_006954385.1

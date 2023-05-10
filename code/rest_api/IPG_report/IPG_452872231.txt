@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+452872231	INSDC	JAGZVF010000007.1	60923	61720	+	MBS6801286.1	P-loop NTPase	Clostridiales bacterium		GCA_018379635.1
+452872231	INSDC	JAJBSA010000016.1	36396	37193	-	MCB5853984.1	nitrogenase iron protein NifH	Flavonifractor plautii	MSK.14.42	GCA_020540535.1

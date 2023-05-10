@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+209222282	INSDC	MH196527.1	1	388	+	AXY65052.1	NifH	Rhizobium sp.	SCAUf73	
+209222282	INSDC	MK645635.1	1	388	+	QFF92954.1	nitrogenase iron protein	Rhizobium sp.	SCAUf8	
+209222282	INSDC	MK645636.1	1	388	+	QFF92955.1	nitrogenase iron protein	Rhizobium sp.	SCAUf13	
+209222282	INSDC	MK645639.1	1	388	+	QFF92958.1	nitrogenase iron protein	Rhizobium sp.	SCAUf118	

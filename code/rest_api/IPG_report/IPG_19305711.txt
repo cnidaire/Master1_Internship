@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+19305711	INSDC	GU256449.1	1	383	+	ADB57029.1	NifH	Azospirillum lipoferum	DSM 1691	

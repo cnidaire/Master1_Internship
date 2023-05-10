@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+537823794	INSDC	JALFYL010000176.1	6744	7499	-	MCI7404555.1	nitrogenase iron protein NifH	Pyramidobacter sp.		GCA_022786165.1

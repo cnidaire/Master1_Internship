@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+124060829	RefSeq	NZ_FNCU01000003.1	201645	202529	+	WP_091882104.1	nitrogenase iron protein	Bradyrhizobium sp. Rc2d	Rc2d	GCF_900099855.1
+124060829	RefSeq	NZ_PSRT01000006.1	62224	63108	+	WP_091882104.1	nitrogenase iron protein	Bradyrhizobium genosp. SA-3	Rp7b	GCF_004212635.1
+124060829	INSDC	PSRT01000006.1	62224	63108	+	RZN12722.1	nitrogenase iron protein	Bradyrhizobium genosp. SA-3	Rp7b	GCA_004212635.1
+124060829	INSDC	FNCU01000003.1	201645	202529	+	SDG84786.1	Mo-nitrogenase iron protein subunit NifH	Bradyrhizobium sp. Rc2d	Rc2d	GCA_900099855.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+23455333	INSDC	HQ836214.1	1	322	+	AEF33321.1	NifH	Tolypothrix sp. LCRNK_8	LCRNK_8	

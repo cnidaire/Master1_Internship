@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+229589680	INSDC	JACIVO010000006.1	94652	95437	-	MBC7127094.1	P-loop NTPase	Candidatus Methanosuratincola sp.		GCA_014361425.1
+229589680	INSDC	JANIHJ010000079.1	2975	3760	+	MCQ8892609.1	P-loop NTPase	Candidatus Methanosuratincola sp.		GCA_024518645.1
+229589680	INSDC	RXGA01000001.1	171652	172437	+	RWX74157.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Candidatus Methanosuratincola subterraneus		GCA_004028775.1

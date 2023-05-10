@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+126318187	RefSeq	NZ_FOJI01000005.1	244526	245374	+	WP_092452826.1	nitrogenase iron protein	[Clostridium] fimetarium	DSM 9179	GCF_900111235.1
+126318187	INSDC	FOJI01000005.1	244526	245374	+	SEW16012.1	nitrogenase iron protein NifH	[Clostridium] fimetarium	DSM 9179	GCA_900111235.1

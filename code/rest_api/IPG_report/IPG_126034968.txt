@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+126034968	RefSeq	NZ_FOAA01000001.1	382442	383326	+	WP_090250046.1	nitrogenase iron protein	Ectothiorhodospira marina	DSM 241	GCF_900109495.1
+126034968	RefSeq	NZ_JAJNAM010000031.1	13364	14248	+	WP_090250046.1	nitrogenase iron protein	Ectothiorhodospira sp. 9905	9905	GCF_022227695.1
+126034968	RefSeq	NZ_JAJNAN010000028.1	23284	24168	-	WP_090250046.1	nitrogenase iron protein	Ectothiorhodospira sp. 9100	9100	GCF_022227565.1
+126034968	INSDC	JAJNAN010000028.1	23284	24168	-	MCG5516439.1	nitrogenase iron protein	Ectothiorhodospira sp. 9100	9100	GCA_022227565.1
+126034968	INSDC	JAJNAM010000031.1	13364	14248	+	MCG5519467.1	nitrogenase iron protein	Ectothiorhodospira sp. 9905	9905	GCA_022227695.1
+126034968	INSDC	FOAA01000001.1	382442	383326	+	SEK30060.1	nitrogenase iron protein NifH	Ectothiorhodospira marina	DSM 241	GCA_900109495.1

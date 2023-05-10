@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+140669911	RefSeq	NZ_MZGT01000035.1	46868	47740	-	WP_079440385.1	nitrogenase iron protein NifH	Clostridium chromiireducens	DSM 23318	GCF_002029255.1
+140669911	RefSeq	NZ_QXDJ01000001.1	663481	664353	-	WP_079440385.1	nitrogenase iron protein NifH	Clostridium chromiireducens	C1	GCF_003575225.1
+140669911	RefSeq	NZ_WSRQ01000002.1	213050	213922	-	WP_079440385.1	nitrogenase iron protein NifH	Clostridium chromiireducens	NM79_F5	GCF_009767885.1
+140669911	INSDC	WSRQ01000002.1	213050	213922	-	MVX62505.1	AAA family ATPase	Clostridium chromiireducens	NM79_F5	GCA_009767885.1
+140669911	INSDC	MZGT01000035.1	46868	47740	-	OPJ60937.1	nitrogenase iron protein 1	Clostridium chromiireducens	DSM 23318	GCA_002029255.1
+140669911	INSDC	QXDJ01000001.1	663481	664353	-	RII36321.1	nitrogenase iron protein	Clostridium chromiireducens	C1	GCA_003575225.1

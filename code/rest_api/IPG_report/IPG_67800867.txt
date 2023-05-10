@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+67800867	RefSeq	NZ_JSEH01000002.1	133635	134459	-	WP_043631127.1	nitrogenase iron protein	Desulfovibrio sp. TomC	TomC	GCF_000801335.2
+67800867	INSDC	JSEH01000002.1	133635	134459	-	KHK04014.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Desulfovibrio sp. TomC	TomC	GCA_000801335.2

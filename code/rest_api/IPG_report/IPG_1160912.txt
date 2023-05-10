@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+1160912	INSDC	AE000666.1	1032131	1032952	+	AAB85609.1	nifH / minD related protein	Methanothermobacter thermautotrophicus str. Delta H	Delta H	GCA_000008645.1
+1160912	INSDC	AP011952.1	1006255	1007076	+	BAM70261.1	cobyrinic acid a,c-diamide synthase	Methanothermobacter sp. CaT2	CaT2	GCA_000828575.1

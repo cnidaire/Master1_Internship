@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+27149889	INSDC	JQ309915.1	1	493	+	AFD04545.1	NifH	Burkholderia sp. mpud4.5	mpud4.5	
+27149889	INSDC	JQ309916.1	1	493	+	AFD04546.1	NifH	Burkholderia sp. mpud5.2	mpud5.2	
+27149889	INSDC	JQ309917.1	1	493	+	AFD04547.1	NifH	Burkholderia sp. mpp4	mpp4	
+27149889	INSDC	JQ309918.1	1	493	+	AFD04548.1	NifH	Burkholderia sp. mpp5	mpp5	
+27149889	INSDC	JQ309919.1	1	493	+	AFD04549.1	NifH	Burkholderia sp. mpig8.9	mpig8.9	

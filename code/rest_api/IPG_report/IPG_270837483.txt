@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+270837483	RefSeq	NZ_JALJXJ010000001.1	200584	201480	-	WP_149230617.1	nitrogenase iron protein	Azospirillum lipoferum	Sp59b	GCF_024170005.1
+270837483	RefSeq	NZ_VTTN01000002.1	200569	201465	-	WP_149230617.1	nitrogenase iron protein	Azospirillum lipoferum	59b	GCF_008364955.1
+270837483	INSDC	VTTN01000002.1	200569	201465	-	KAA0597077.1	nitrogenase iron protein	Azospirillum lipoferum	59b	GCA_008364955.1
+270837483	INSDC	JALJXJ010000001.1	200584	201480	-	MCP1608567.1	nitrogenase iron protein NifH	Azospirillum lipoferum	Sp59b	GCA_024170005.1

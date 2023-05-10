@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+527332225	RefSeq	NZ_AP025591.1	1597794	1598669	-	WP_248360009.1	nitrogenase iron protein NifH	Anaeromyxobacter oryzae	Red232	GCF_023169945.1
+527332225	INSDC	AP025591.1	1597794	1598669	-	BDG02388.1	nitrogenase iron protein	Anaeromyxobacter oryzae	Red232	GCA_023169945.1

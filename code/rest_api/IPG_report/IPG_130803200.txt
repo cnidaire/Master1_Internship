@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+130803200	RefSeq	NZ_CABMML010000058.1	10177	11022	+	WP_072854335.1	nitrogenase iron protein NifH	Lactonifactor longoviformis		GCF_902387505.1
+130803200	RefSeq	NZ_FQVI01000029.1	38689	39534	-	WP_072854335.1	nitrogenase iron protein NifH	Lactonifactor longoviformis DSM 17459	DSM 17459	GCF_900129135.1
+130803200	RefSeq	NZ_PQGC01000058.1	10177	11022	+	WP_072854335.1	nitrogenase iron protein NifH	Lactonifactor longoviformis	DSM 17459	GCF_002915525.1
+130803200	INSDC	PQGC01000058.1	10177	11022	+	POP33703.1	nitrogenase iron protein	Lactonifactor longoviformis	DSM 17459	GCA_002915525.1
+130803200	INSDC	FQVI01000029.1	38689	39534	-	SHF44928.1	nitrogenase iron protein NifH	Lactonifactor longoviformis DSM 17459	DSM 17459	GCA_900129135.1

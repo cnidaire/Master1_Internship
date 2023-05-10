@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+13634994	INSDC	EF620497.1	1	340	+	ABU49164.1	NifH	Stenotrophomonas maltophilia	ISSDS-429	

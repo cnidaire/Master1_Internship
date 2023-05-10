@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+148686006	RefSeq	NZ_AP023213.1	1329414	1330283	-	WP_085813405.1	nitrogenase iron protein	Citrifermentans bremense	R4	GCF_014218275.1
+148686006	RefSeq	NZ_BDQG01000001.1	2146550	2147419	+	WP_085813405.1	nitrogenase iron protein	Geoanaerobacter pelophilus	Dfr2	GCF_002117975.1
+148686006	INSDC	AP023213.1	1329414	1330283	-	BCG46395.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Citrifermentans bremense	R4	GCA_014218275.1

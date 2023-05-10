@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+26269277	RefSeq	NZ_CP048436.1	728153	728950	-	WP_007493948.1	nitrogenase iron protein NifH	Flavonifractor plautii	JCM 32125	GCF_010508875.1
+26269277	RefSeq	NZ_JH417826.1	21563	22360	-	WP_007493948.1	nitrogenase iron protein NifH	Flavonifractor plautii ATCC 29863	ATCC 29863	GCF_000239295.1
+26269277	INSDC	AGCK01000274.1	1760	2557	-	EHM41339.1	putative nitrogenase iron protein	Flavonifractor plautii ATCC 29863	ATCC 29863	GCA_000239295.1
+26269277	INSDC	JH417826.1	21563	22360	-	EHM41339.1	putative nitrogenase iron protein	Flavonifractor plautii ATCC 29863	ATCC 29863	GCA_000239295.1
+26269277	INSDC	CP048436.1	728153	728950	-	QIA29681.1	P-loop NTPase	Flavonifractor plautii	JCM 32125	GCA_010508875.1

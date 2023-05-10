@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+189745099	RefSeq	NZ_QJJS01000014.1	48306	49187	-	WP_110401547.1	nitrogenase iron protein	Sphaerotilus hippei	DSM 566	GCF_003201595.1
+189745099	INSDC	QJJS01000014.1	48306	49187	-	PXW94357.1	Mo-nitrogenase iron protein subunit NifH	Sphaerotilus hippei	DSM 566	GCA_003201595.1

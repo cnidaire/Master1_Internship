@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+200502038	RefSeq	NZ_QREL01000001.1	666081	666893	+	WP_115892232.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanothermobacter defluvii	DSM 7466	GCF_003385755.1
+200502038	INSDC	QREL01000001.1	666081	666893	+	REE28713.1	nitrogenase iron protein NifH	Methanothermobacter defluvii	DSM 7466	GCA_003385755.1

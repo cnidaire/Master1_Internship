@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+1212720	INSDC	Z95214.1	1	558	+	CAB08518.1	nifH	Sinorhizobium arboris LMG 14919	HAMBI 1552	
+1212720	INSDC	Z95215.1	1	558	+	CAB08519.1	nifH	Sinorhizobium arboris	HAMBI1700	
+1212720	INSDC	Z95216.1	1	558	+	CAB08520.1	nifH	Sinorhizobium kostiense	HAMBI1489	
+1212720	INSDC	Z95222.1	1	558	+	CAB08526.1	nifH	Sinorhizobium sp. HAMBI 1478	HAMBI1478	
+1212720	INSDC	Z95224.1	1	558	+	CAB08528.1	nifH	Sinorhizobium sp. HAMBI 1499	HAMBI1499	

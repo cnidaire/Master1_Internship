@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+123145504	INSDC	FMXS01000004.1	408350	409117	+	SDB17043.1	nitrogenase iron protein NifH	Ruminococcaceae bacterium FB2012	FB2012	GCA_900104495.1

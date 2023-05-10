@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+22048464	RefSeq	NC_014972.1	3518933	3519760	+	WP_015725710.1	nitrogenase iron protein	Desulfobulbus propionicus DSM 2032	DSM 2032	GCF_000186885.1
+22048464	INSDC	CP002364.1	3518933	3519760	+	ADW19185.1	Mo-nitrogenase iron protein subunit NifH	Desulfobulbus propionicus DSM 2032	DSM 2032	GCA_000186885.1

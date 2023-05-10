@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+18487902	INSDC	GQ443450.1	1	350	+	ACV60614.1	NifH	Desmonostoc muscorum UTAD_N213	UTAD_N213	

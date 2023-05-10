@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+333306970	INSDC	QENJ01000246.1	7795	8193	-	KAF5428408.1	nitrogenase iron protein NifH	Methanophagales archaeon		GCA_013374505.1

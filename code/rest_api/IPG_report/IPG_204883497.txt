@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+204883497	INSDC	QUIQ01000014.1	18071	18823	-	RHS97821.1	nitrogen fixation protein NifH	Firmicutes bacterium AM41-11	AM41-11	GCA_003480165.1

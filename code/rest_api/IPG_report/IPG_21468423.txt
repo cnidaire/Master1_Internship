@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+21468423	RefSeq	NC_014734.1	1691203	1692027	+	WP_013444938.1	nitrogenase iron protein	Paludibacter propionicigenes WB4	WB4	GCF_000183135.1
+21468423	INSDC	CP002345.1	1691203	1692027	+	ADQ79569.1	Mo-nitrogenase iron protein subunit NifH	Paludibacter propionicigenes WB4	WB4	GCA_000183135.1

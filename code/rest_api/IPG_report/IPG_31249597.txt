@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+31249597	INSDC	JX862199.1	1	309	+	AFV50609.1	NifH	Nostoc sp. ARC6	ARC6	

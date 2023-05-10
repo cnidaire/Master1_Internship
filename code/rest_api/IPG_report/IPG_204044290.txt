@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+204044290	RefSeq	NZ_QRWH01000014.1	29278	30033	+	WP_118145743.1	nitrogenase iron protein NifH	Dorea formicigenerans	AF19-4AC	GCF_003459565.1
+204044290	RefSeq	NZ_QSKA01000015.1	28950	29705	+	WP_118145743.1	nitrogenase iron protein NifH	Dorea formicigenerans	AM29-11	GCF_003469045.1
+204044290	INSDC	QRWH01000014.1	29278	30033	+	RGT07407.1	nitrogenase iron protein	Dorea formicigenerans	AF19-4AC	GCA_003459565.1
+204044290	INSDC	QSKA01000015.1	28950	29705	+	RHE26488.1	nitrogenase iron protein	Dorea formicigenerans	AM29-11	GCA_003469045.1

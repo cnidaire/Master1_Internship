@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+31152379	INSDC	CP003083.1	953794	954588	-	AFV23167.1	nitrogenase iron protein subunit NifH	Methanolobus psychrophilus R15	R15	GCA_000306725.1
+31152379	PAT	N/A				QPZ16250.1	Sequence 75 from patent US 10793863	Unknown		

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+260168782	RefSeq	NZ_CP041387.1	2295274	2296065	+	WP_142882854.1	nitrogenase iron protein NifH	Rhodopseudomonas palustris	GJ-22	GCF_007005445.1
+260168782	INSDC	CP041387.1	2295274	2296065	+	QDL97702.1	AAA family ATPase	Rhodopseudomonas palustris	GJ-22	GCA_007005445.1

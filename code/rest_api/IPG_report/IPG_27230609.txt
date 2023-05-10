@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+27230609	INSDC	JN991110.1	1	693	+	AFD62628.1	NifH	Mesorhizobium gobiense		

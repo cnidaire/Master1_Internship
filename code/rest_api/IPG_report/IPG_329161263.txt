@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+329161263	RefSeq	NZ_JAAILP010000001.1	142550	143317	-	WP_173899418.1	nitrogenase iron protein NifH	Blautia obeum	MSK.18.40	GCF_013299585.1
+329161263	INSDC	JAAILP010000001.1	142550	143317	-	NSC69582.1	AAA family ATPase	Blautia obeum	MSK.18.40	GCA_013299585.1

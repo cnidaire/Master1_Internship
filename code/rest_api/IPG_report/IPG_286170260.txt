@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+286170260	INSDC	WSYB01000018.1	43197	44072	+	KAF0219092.1	nitrogenase subunit NifH	Geobacteraceae bacterium		GCA_009773645.1

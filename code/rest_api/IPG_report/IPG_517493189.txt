@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+517493189	RefSeq	NZ_JAFBIZ010000026.1	20127	20888	+	WP_235249017.1	nitrogenase iron protein NifH	Faecalicatena contorta	ET51	GCF_021531995.1
+517493189	INSDC	JAFBIZ010000026.1	20127	20888	+	MCF2682407.1	P-loop NTPase	Faecalicatena contorta	ET51	GCA_021531995.1

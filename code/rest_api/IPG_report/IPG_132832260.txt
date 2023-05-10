@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+132832260	INSDC	LT608329.1	103657	104514	+	SCM55683.1	Nitrogenase NifH subunit	Methanothermobacter wolfeii		GCA_900095815.1

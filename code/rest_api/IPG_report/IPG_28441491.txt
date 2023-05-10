@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+28441491	RefSeq	NZ_FNKF01000002.1	3800435	3801178	+	WP_007937116.1	nitrogenase iron protein NifH	Pelosinus fermentans	R7, DSM 17108	GCF_900100555.1
+28441491	INSDC	AKVJ01000066.1	38363	39106	+	EIW16229.1	NifH/frxC-family protein	Pelosinus fermentans B4	B4	GCA_000271505.1
+28441491	INSDC	AKVM01000079.1	358110	358853	-	EIW22790.1	NifH/frxC-family protein	Pelosinus fermentans A11	A11	GCA_000271545.1
+28441491	INSDC	AKVN02000001.1	3800435	3801178	+	OAM95536.1	Nitrogenase	Pelosinus fermentans DSM 17108	R7	GCA_000271485.2
+28441491	INSDC	FNKF01000002.1	3800435	3801178	+	SDR29449.1	Mo-nitrogenase iron protein subunit NifH	Pelosinus fermentans	R7, DSM 17108	GCA_900100555.1

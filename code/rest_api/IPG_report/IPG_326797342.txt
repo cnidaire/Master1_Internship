@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+326797342	RefSeq	NZ_CP071060.1	2580950	2581831	+	WP_172202846.1	nitrogenase iron protein	Niveibacterium microcysteis	HC41	GCF_017161445.1
+326797342	RefSeq	NZ_JABCJM010000003.1	196288	197169	+	WP_172202846.1	nitrogenase iron protein	Niveibacterium sp. COAC-50	COAC-50	GCF_013184235.1
+326797342	RefSeq	NZ_JACIET010000001.1	1199034	1199915	+	WP_172202846.1	nitrogenase iron protein	Niveibacterium umoris	DSM 106739	GCF_014197015.1
+326797342	RefSeq	NZ_JAFGZA010000011.1	1423525	1424406	-	WP_172202846.1	nitrogenase iron protein	Niveibacterium umoris	KACC 17062	GCF_017311475.1
+326797342	INSDC	JACIET010000001.1	1199034	1199915	+	MBB4011740.1	nitrogenase iron protein NifH	Niveibacterium umoris	DSM 106739	GCA_014197015.1
+326797342	INSDC	CP071060.1	2580950	2581831	+	QSI75182.1	nitrogenase iron protein	Niveibacterium microcysteis	HC41	GCA_017161445.1

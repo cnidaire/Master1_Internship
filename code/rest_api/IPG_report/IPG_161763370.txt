@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+161763370	RefSeq	NZ_OBDZ01000007.1	67606	68433	-	WP_097017253.1	nitrogenase iron protein	Orenia metallireducens	MSL47	GCF_900215265.1
+161763370	RefSeq	NZ_PVNB01000007.1	67592	68419	-	WP_097017253.1	nitrogenase iron protein	Orenia metallireducens	MSL40	GCF_003001995.1
+161763370	INSDC	PVNB01000007.1	67592	68419	-	PRX30424.1	Mo-nitrogenase iron protein subunit NifH	Orenia metallireducens	MSL40	GCA_003001995.1
+161763370	INSDC	OBDZ01000007.1	67606	68433	-	SNY22456.1	Mo-nitrogenase iron protein subunit NifH	Orenia metallireducens	MSL47	GCA_900215265.1

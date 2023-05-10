@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+4104144	INSDC	AY644349.1	1	371	+	AAX31601.1	NifH	Azomonas macrocytogenes		

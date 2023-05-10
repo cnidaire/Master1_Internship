@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+113371873	INSDC	KT832409.1	1	311	+	ANS71372.1	NifH	Stigonema fragile E3		

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+28294397	RefSeq	NC_018025.1	6313719	6314543	+	WP_014813165.1	nitrogenase iron protein	Desulfomonile tiedjei DSM 6799	DSM 6799	GCF_000266945.1
+28294397	INSDC	CP003360.1	6313719	6314543	+	AFM28066.1	Mo-nitrogenase iron protein subunit NifH	Desulfomonile tiedjei DSM 6799	DSM 6799	GCA_000266945.1

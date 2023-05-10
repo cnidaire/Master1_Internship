@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+193545554	RefSeq	NZ_JACIGG010000015.1	18055	18939	+	WP_111435548.1	nitrogenase iron protein	Rhodobium orientis	DSM 11290	GCF_014197785.1
+193545554	RefSeq	NZ_NHSL01000050.1	18097	18981	+	WP_111435548.1	nitrogenase iron protein	Rhodobium orientis	DSM 11290	GCF_016653375.1
+193545554	RefSeq	NZ_NPEV01000041.1	18179	19063	+	WP_111435548.1	nitrogenase iron protein	Rhodobium orientis	DSM 11290	GCF_003258835.1
+193545554	INSDC	JACIGG010000015.1	18055	18939	+	MBB4304383.1	nitrogenase iron protein NifH	Rhodobium orientis	DSM 11290	GCA_014197785.1
+193545554	INSDC	NHSL01000050.1	18097	18981	+	MBK5951989.1	nitrogenase iron protein	Rhodobium orientis	DSM 11290	GCA_016653375.1
+193545554	INSDC	NPEV01000041.1	18179	19063	+	RAI25768.1	nitrogenase iron protein	Rhodobium orientis	DSM 11290	GCA_003258835.1

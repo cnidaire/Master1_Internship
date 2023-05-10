@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+22574878	INSDC	HQ231517.1	1	680	+	ADZ23532.1	NifH	Bradyrhizobium japonicum CCBAU 25435	CCBAU 25435	

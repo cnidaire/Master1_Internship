@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+29073805	RefSeq	NC_018227.2	328466	329284	-	WP_014866228.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanoculleus bourgensis MS2	type strain:MS2	GCF_000304355.2
+29073805	INSDC	HE964772.2	328466	329284	-	CCJ35251.1	nitrogenase iron protein NifH	Methanoculleus bourgensis MS2	MS2T	GCA_000304355.2
+29073805	PAT	N/A				QPZ16245.1	Sequence 70 from patent US 10793863	Unknown		

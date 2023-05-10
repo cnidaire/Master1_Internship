@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+130829682	RefSeq	NZ_FQXS01000023.1	49825	50652	+	WP_073377798.1	nitrogenase iron protein	Desulfofustis glycolicus DSM 9705	DSM 9705	GCF_900130015.1
+130829682	INSDC	JAHLKW010000011.1	32979	33806	-	MCB2217208.1	nitrogenase iron protein	Desulfobulbaceae bacterium		GCA_020444465.1
+130829682	INSDC	FQXS01000023.1	49825	50652	+	SHI03387.1	nitrogenase iron protein NifH	Desulfofustis glycolicus DSM 9705	DSM 9705	GCA_900130015.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+127022915	RefSeq	NZ_FOUO01000009.1	18183	19070	-	WP_090485551.1	nitrogenase iron protein	Ectothiorhodospira mobilis	DSM 4180	GCF_900114895.1
+127022915	INSDC	FOUO01000009.1	18183	19070	-	SFM54407.1	nitrogenase iron protein NifH	Ectothiorhodospira mobilis	DSM 4180	GCA_900114895.1

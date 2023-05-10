@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+108045975	RefSeq	NZ_FQXL01000011.1	225681	226529	+	WP_066623149.1	nitrogenase iron protein	Clostridium magnum DSM 2767	DSM 2767	GCF_900129955.1
+108045975	RefSeq	NZ_LWAE01000003.1	10449	11297	+	WP_066623149.1	nitrogenase iron protein	Clostridium magnum DSM 2767	DSM 2767	GCF_001623875.1
+108045975	INSDC	LWAE01000003.1	10449	11297	+	KZL91075.1	nitrogenase iron protein 1	Clostridium magnum DSM 2767	DSM 2767	GCA_001623875.1
+108045975	INSDC	FQXL01000011.1	225681	226529	+	SHI06481.1	nitrogenase iron protein NifH	Clostridium magnum DSM 2767	DSM 2767	GCA_900129955.1

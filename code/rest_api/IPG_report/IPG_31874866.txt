@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+31874866	RefSeq	NC_019682.1	6269906	6270811	-	WP_015131644.1	nitrogenase iron protein	Calothrix sp. PCC 7507	PCC 7507	GCF_000316575.1
+31874866	INSDC	CP003943.1	6269906	6270811	-	AFY35853.1	Mo-nitrogenase iron protein subunit NifH	Calothrix sp. PCC 7507	PCC 7507	GCA_000316575.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+125922659	RefSeq	NZ_FOAK01000007.1	30849	31643	-	WP_091699437.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanobrevibacter gottschalkii	DSM 11978	GCF_900109595.1
+125922659	INSDC	FOAK01000007.1	30849	31643	-	SEK94047.1	nitrogenase iron protein NifH	Methanobrevibacter gottschalkii	DSM 11978	GCA_900109595.1

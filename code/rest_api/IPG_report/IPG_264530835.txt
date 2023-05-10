@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+264530835	RefSeq	NZ_VITH01000001.1	823549	824382	-	WP_145681120.1	nitrogenase iron protein NifH	Azospirillum brasilense	BR 11650	GCF_007827815.1
+264530835	INSDC	VITH01000001.1	823549	824382	-	TWA87888.1	Mo-nitrogenase iron protein subunit NifH	Azospirillum brasilense	BR 11650	GCA_007827815.1

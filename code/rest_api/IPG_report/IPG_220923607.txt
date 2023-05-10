@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+220923607	INSDC	VOGC01000009.1	16405	17157	+	MQN02211.1	AAA family ATPase	Candidatus Weimeria bifida		GCA_009493715.1
+220923607	INSDC	QOUV01000001.1	161420	162172	-	RRF97432.1	nitrogen fixation protein NifH	Lachnospiraceae bacterium		GCA_003862155.1

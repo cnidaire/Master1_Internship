@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+213309504	INSDC	QMNR01000422.1	1787	2797	-	RLC58330.1	nitrogen fixation protein NifH	Chloroflexota bacterium		GCA_003647875.1

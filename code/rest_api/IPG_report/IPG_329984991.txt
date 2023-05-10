@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+329984991	INSDC	JAAXTL010000062.1	7852	8859	+	NTW00307.1	nitrogen fixation protein NifH	Oscillochloris sp.		GCA_013336555.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+124436997	INSDC	DPGL01000129.1	28764	29807	-	HCG64709.1	nitrogen fixation protein NifH	Sphaerochaeta sp.		GCA_003522045.1
+124436997	INSDC	MIAV01000009.1	18186	19229	-	OHD33682.1	nitrogen fixation protein NifH	Spirochaetes bacterium GWC2_52_13		GCA_001829255.1

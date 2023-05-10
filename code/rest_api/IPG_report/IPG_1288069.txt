@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+1288069	INSDC	AE000666.1	1426796	1427695	+	AAB86034.1	nitrogenase NifH subunit	Methanothermobacter thermautotrophicus str. Delta H	Delta H	GCA_000008645.1

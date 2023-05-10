@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+302811508	INSDC	DSBT01000189.1	2534	3493	+	HDP77929.1	nitrogen fixation protein NifH	Mesotoga infera		GCA_011045915.1

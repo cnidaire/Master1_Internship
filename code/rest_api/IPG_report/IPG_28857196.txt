@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+28857196	RefSeq	NZ_AKFU01000043.1	47266	48039	-	WP_009065150.1	nitrogenase iron protein NifH	Clostridium sp. MSTE9	MSTE9	GCF_000277625.1
+28857196	INSDC	AKFU01000043.1	47266	48039	-	EJF39147.1	putative nitrogenase iron protein	Clostridium sp. MSTE9	MSTE9	GCA_000277625.1

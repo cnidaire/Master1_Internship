@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+26514796	RefSeq	NZ_CABKRA010000001.1	412414	413232	+	WP_008858843.1	nitrogenase iron protein NifH	Dialister succinatiphilus		GCF_902374635.1
+26514796	RefSeq	NZ_CAJJKZ010000001.1	104836	105654	+	WP_008858843.1	nitrogenase iron protein NifH	Dialister succinatiphilus		GCF_905188205.1
+26514796	RefSeq	NZ_JH591187.1	412414	413232	+	WP_008858843.1	nitrogenase iron protein NifH	Dialister succinatiphilus YIT 11850	YIT 11850	GCF_000242435.1
+26514796	INSDC	ADLT01000009.1	41496	42314	+	EHO63766.1	nitrogenase iron protein	Dialister succinatiphilus YIT 11850	YIT 11850	GCA_000242435.1
+26514796	INSDC	JH591187.1	412414	413232	+	EHO63766.1	nitrogenase iron protein	Dialister succinatiphilus YIT 11850	YIT 11850	GCA_000242435.1

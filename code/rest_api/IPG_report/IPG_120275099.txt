@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+120275099	RefSeq	NZ_KV806951.1	660039	660821	+	WP_070640196.1	nitrogenase iron protein NifH	Olsenella sp. HMSC062G07	HMSC062G07	GCF_001811895.1
+120275099	INSDC	KV806951.1	660039	660821	+	OFK24804.1	nitrogen fixation protein NifH	Olsenella sp. HMSC062G07	HMSC062G07	GCA_001811895.1
+120275099	INSDC	LTFF01000011.1	69295	70077	+	OFK24804.1	nitrogen fixation protein NifH	Olsenella sp. HMSC062G07	HMSC062G07	GCA_001811895.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+15706025	INSDC	EU697998.1	1	478	+	ACI47349.1	NifH	Sinorhizobium meliloti	CCNWNX0102	

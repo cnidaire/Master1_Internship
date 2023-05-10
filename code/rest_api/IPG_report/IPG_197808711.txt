@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+197808711	RefSeq	NZ_QPJY01000002.1	391482	392375	+	WP_114278826.1	nitrogenase iron protein	Thioalbus denitrificans	DSM 26407	GCF_003337735.1
+197808711	INSDC	QPJY01000002.1	391482	392375	+	RCX32000.1	nitrogenase iron protein NifH	Thioalbus denitrificans	DSM 26407	GCA_003337735.1

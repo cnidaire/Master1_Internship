@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+189324247	RefSeq	NZ_JAQEAJ010000006.1	54085	54852	+	WP_110103328.1	nitrogenase iron protein NifH	Blautia massiliensis	AM23-1AC	GCF_027671835.1
+189324247	RefSeq	NZ_JAQEAL010000009.1	83095	83862	-	WP_110103328.1	nitrogenase iron protein NifH	Blautia massiliensis	AM23-4	GCF_027671365.1
+189324247	RefSeq	NZ_JAQESS010000003.1	82002	82769	-	WP_110103328.1	nitrogenase iron protein NifH	Blautia massiliensis	AM97-71	GCF_027697185.1
+189324247	RefSeq	NZ_QJHD01000017.1	88642	89409	+	WP_110103328.1	nitrogenase iron protein NifH	Blautia sp. BCRC 81119	BCRC 81119	GCF_003184505.1
+189324247	INSDC	QJHD01000017.1	88642	89409	+	PWY59331.1	nitrogenase iron protein	Blautia sp. BCRC 81119	BCRC 81119	GCA_003184505.1
+189324247	INSDC	QUCJ01000006.1	82031	82798	-	RHN93047.1	nitrogenase iron protein	Ruminococcus sp. AM23-1	AM23-1	GCA_003473695.1

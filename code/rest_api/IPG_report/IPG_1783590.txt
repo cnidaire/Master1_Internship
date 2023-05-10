@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+1783590	INSDC	AY367394.1	1	334	+	AAQ72420.1	NifH	Klebsiella variicola	6A2	
+1783590	INSDC	KP192907.1	1	334	+	AJW77412.1	dinitrogenase reductase	Vibrio fortis		

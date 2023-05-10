@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+4121245	INSDC	AY943644.1	1	434	+	AAX54864.1	NifH	Rhizobium lusitanum	P1-7	

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+134106264	INSDC	MNRG01000180.1	3679	4350	+	OKZ56035.1	nitrogen fixation protein NifH	Clostridiales bacterium 44_9		GCA_001915835.1

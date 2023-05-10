@@ -1,0 +1,11 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+135337371	RefSeq	NZ_JAESIL010000044.1	9946	10821	-	WP_075786406.1	nitrogenase iron protein	Rhodovulum visakhapatnamense	AB19	GCF_016757175.1
+135337371	RefSeq	NZ_JAESIM010000050.1	4642	5517	+	WP_075786406.1	nitrogenase iron protein	Rhodovulum visakhapatnamense	AB26	GCF_016757035.1
+135337371	RefSeq	NZ_MSYQ01000001.1	3025360	3026235	+	WP_075786406.1	nitrogenase iron protein	Rhodovulum sulfidophilum	AB26	GCF_001941715.1
+135337371	RefSeq	NZ_MUAV01000023.1	49696	50571	-	WP_075786406.1	nitrogenase iron protein	Rhodovulum viride	JA756	GCF_003265965.1
+135337371	RefSeq	NZ_QAYC01000001.1	287691	288566	-	WP_075786406.1	nitrogenase iron protein	Rhodovulum kholense	DSM 19783	GCF_003053725.1
+135337371	INSDC	JAESIM010000050.1	4642	5517	+	MBL3570841.1	nitrogenase iron protein	Rhodovulum visakhapatnamense	AB26	GCA_016757035.1
+135337371	INSDC	JAESIL010000044.1	9946	10821	-	MBL3578782.1	nitrogenase iron protein	Rhodovulum visakhapatnamense	AB19	GCA_016757175.1
+135337371	INSDC	MSYQ01000001.1	3025360	3026235	+	OLS45506.1	nitrogenase iron protein	Rhodovulum sulfidophilum	AB26	GCA_001941715.1
+135337371	INSDC	QAYC01000001.1	287691	288566	-	PTW51956.1	Mo-nitrogenase iron protein subunit NifH /V-nitrogenase iron protein subunit VnfH	Rhodovulum kholense	DSM 19783	GCA_003053725.1
+135337371	INSDC	MUAV01000023.1	49696	50571	-	RAP40171.1	nitrogenase iron protein	Rhodovulum viride	JA756	GCA_003265965.1

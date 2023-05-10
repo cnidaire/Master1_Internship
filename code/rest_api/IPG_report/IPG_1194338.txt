@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+1194338	INSDC	Z95223.1	1	558	+	CAB08527.1	nifH	Sinorhizobium sp. HAMBI 1480	HAMBI1480	

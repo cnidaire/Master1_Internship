@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+203386472	INSDC	DMFX01000076.1	4656	5423	+	HAH62281.1	nitrogen fixation protein NifH	Treponema sp.		GCA_003450035.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+19245782	INSDC	AP011540.1	857690	858661	-	BAI64631.1	nitrogenase subunit NifH	Rothia mucilaginosa DY-18	DY-18	GCA_000011025.1

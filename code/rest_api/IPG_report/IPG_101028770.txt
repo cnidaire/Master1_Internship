@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+101028770	INSDC	LGGL01000041.1	2001	2798	-	KUK74666.1	Nitrogenase subunit NifH (ATPase)	Methanobacterium sp. 42_16		GCA_001509005.1

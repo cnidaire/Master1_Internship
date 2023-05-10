@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+26747547	RefSeq	NZ_CM001441.1	1826254	1827114	+	WP_007781874.1	nitrogenase iron protein NifH	Desulfosporosinus youngiae DSM 17734	DSM 17734	GCF_000244895.1
+26747547	INSDC	CM001441.1	1826254	1827114	+	EHQ88895.1	nitrogenase subunit NifH (ATPase)	Desulfosporosinus youngiae DSM 17734	DSM 17734	GCA_000244895.1

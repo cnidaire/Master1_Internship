@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+264978530	RefSeq	NZ_VLLN01000017.1	39572	40441	+	WP_145023570.1	nitrogenase iron protein	Geobacter argillaceus	ATCC BAA-1139	GCF_007830735.1
+264978530	INSDC	VLLN01000017.1	39572	40441	+	TWJ18273.1	Mo-nitrogenase iron protein subunit NifH	Geobacter argillaceus	ATCC BAA-1139	GCA_007830735.1

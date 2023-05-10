@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+256270506	INSDC	BEXB01000007.1	942	1664	+	GAY75587.1	nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Sporolactobacillus inulinus	NBRC111894	GCA_006777585.1

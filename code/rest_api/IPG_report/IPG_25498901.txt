@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+25498901	RefSeq	NZ_AGSN01000010.1	20656	21549	-	WP_006199559.1	nitrogenase iron protein	Mesorhizobium amorphae CCNWGS0123	CCNWGS0123	GCF_000233995.1
+25498901	RefSeq	NZ_CP015322.1	468573	469466	-	WP_006199559.1	nitrogenase iron protein	Mesorhizobium amorphae CCNWGS0123	CCNWGS0123	GCF_001686985.1
+25498901	RefSeq	NZ_JAOWPT010000022.1	13330	14223	-	WP_006199559.1	nitrogenase iron protein	Mesorhizobium sp. ZC-5	ZC-5	GCF_025753855.1
+25498901	INSDC	CP015322.1	468573	469466	-	ANT54622.1	nitrogenase reductase	Mesorhizobium amorphae CCNWGS0123	CCNWGS0123	GCA_001686985.1
+25498901	INSDC	AGSN01000010.1	20656	21549	-	EHH13995.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Mesorhizobium amorphae CCNWGS0123	CCNWGS0123	GCA_000233995.2

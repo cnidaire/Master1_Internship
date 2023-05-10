@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+135935847	RefSeq	NZ_CYGX02000044.1	66045	66926	+	WP_094781199.1	nitrogenase iron protein	Paraburkholderia ribeironis	STM 7296	GCF_900019265.1
+135935847	INSDC	CYGX02000044.1	66045	66926	+	SIT43643.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Paraburkholderia ribeironis	STM 7296	GCA_900019265.2

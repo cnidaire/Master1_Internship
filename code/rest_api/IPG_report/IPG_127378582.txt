@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+127378582	RefSeq	NZ_FPBY01000048.1	3868	4725	-	WP_090012327.1	nitrogenase iron protein	Clostridium sp. DSM 8431	DSM 8431	GCF_900116755.1
+127378582	INSDC	JAILBZ010000518.1	178	1035	+	MCR4945007.1	nitrogenase iron protein	Clostridium sp.		GCA_024680635.1
+127378582	INSDC	FPBY01000048.1	3868	4725	-	SFU52560.1	nitrogenase iron protein NifH	Clostridium sp. DSM 8431	DSM 8431	GCA_900116755.1

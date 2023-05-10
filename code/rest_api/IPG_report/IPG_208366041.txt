@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+208366041	RefSeq	NZ_JAJCHP010000017.1	69465	70229	+	WP_264466577.1	nitrogenase iron protein NifH	Lachnoclostridium sp. 210928-DFI.6.3	DFI.6.3	GCF_020554625.1
+208366041	INSDC	DQDF01000105.1	6137	6901	-	HCO87683.1	nitrogenase iron protein	Lachnospiraceae bacterium		GCA_003533445.1

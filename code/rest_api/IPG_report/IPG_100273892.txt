@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+100273892	RefSeq	NZ_CP011914.1	2425076	2425933	-	WP_242867473.1	nitrogenase iron protein NifH	Eubacterium limosum	SA11	GCF_001481725.1
+100273892	RefSeq	NZ_CP029487.1	358695	359552	+	WP_242867473.1	nitrogenase iron protein NifH	Eubacterium maltosivorans	YI	GCF_002441855.2
+100273892	INSDC	CP011914.1	2425076	2425933	-	ALU15043.1	nitrogenase iron protein NifH	Eubacterium limosum	SA11	GCA_001481725.1

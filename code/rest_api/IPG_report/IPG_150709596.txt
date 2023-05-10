@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+150709596	RefSeq	NZ_NFIY01000030.1	9488	10243	+	WP_087478802.1	nitrogenase iron protein NifH	Megasphaera sp. An286	An286	GCF_002163455.1
+150709596	INSDC	NFIY01000030.1	9488	10243	+	OUO44715.1	nitrogenase iron protein	Megasphaera sp. An286	An286	GCA_002163455.1

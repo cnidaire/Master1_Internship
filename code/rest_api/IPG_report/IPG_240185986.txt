@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+240185986	RefSeq	NZ_JADOBH010000005.1	43242	44117	-	WP_133822387.1	nitrogenase iron protein	Rahnella victoriana	SAP-10	GCF_015644595.1
+240185986	RefSeq	NZ_SOAO01000001.1	441198	442073	-	WP_133822387.1	nitrogenase iron protein	Rahnella sp. BIGb0236	BIGb0236	GCF_004364755.1
+240185986	INSDC	JADOBH010000005.1	43242	44117	-	MBF7957712.1	nitrogenase iron protein	Rahnella victoriana	SAP-10	GCA_015644595.1
+240185986	INSDC	SOAO01000001.1	441198	442073	-	TDS98011.1	Mo-nitrogenase iron protein subunit NifH	Rahnella sp. BIGb0236	BIGb0236	GCA_004364755.1
+240185986	INSDC	CABEEN010000019.1	354729	355604	+	VTQ52410.1	Nitrogenase iron protein	Campylobacter jejuni	NCTC12850	GCA_901482455.1

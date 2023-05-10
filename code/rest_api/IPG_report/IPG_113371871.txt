@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+113371871	INSDC	KT832407.1	1	312	+	ANS71370.1	NifH	Stigonema elegans WYS5-7		
+113371871	INSDC	KT832442.1	1	311	+	ANS71405.1	NifH	Stigonema panniforme ZH17		

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+574150158	RefSeq	NZ_JANQBQ010000001.1	3571269	3572015	+	WP_258244207.1	nitrogenase iron protein NifH	Romboutsia lituseburensis	MY01	GCF_024723825.1
+574150158	INSDC	JANQBQ010000001.1	3571269	3572015	+	MCR8746923.1	nitrogenase iron protein NifH	Romboutsia lituseburensis	MY01	GCA_024723825.1

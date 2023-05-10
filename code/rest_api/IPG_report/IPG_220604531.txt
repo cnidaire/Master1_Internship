@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+220604531	RefSeq	NZ_RQPI01000013.1	82712	83578	-	WP_124697082.1	nitrogenase iron protein NifH	Paenibacillus rhizophilus	7197	GCF_003854965.1
+220604531	INSDC	RQPI01000013.1	82712	83578	-	RQW09552.1	nitrogenase iron protein	Paenibacillus rhizophilus	7197	GCA_003854965.1

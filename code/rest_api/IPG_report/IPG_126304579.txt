@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+126304579	RefSeq	NZ_FODY01000019.1	2419	3237	+	WP_091748866.1	nitrogenase iron protein	Propionispora vibrioides	DSM 13305	GCF_900110485.1
+126304579	RefSeq	NZ_FQZD01000024.1	14530	15348	-	WP_091748866.1	nitrogenase iron protein	Propionispora hippei DSM 15287	DSM 15287	GCF_900141835.1
+126304579	INSDC	FODY01000019.1	2419	3237	+	SEP32917.1	Mo-nitrogenase iron protein subunit NifH	Propionispora vibrioides	DSM 13305	GCA_900110485.1
+126304579	INSDC	FQZD01000024.1	14530	15348	-	SHJ50472.1	Mo-nitrogenase iron protein subunit NifH	Propionispora hippei DSM 15287	DSM 15287	GCA_900141835.1

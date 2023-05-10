@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+1194880	INSDC	AF216878.1	1	417	+	AAF60981.1	dinitrogenase reductase	nitrogen-fixing bacterium SG21	SG21	
+1194880	INSDC	DQ913881.1	1	417	+	ABK59905.1	NifH	Celerinatantimonas diazotrophica	J-G1-2	
+1194880	INSDC	DQ913884.1	1	417	+	ABK59908.1	NifH	Celerinatantimonas diazotrophica	J-G2-2	

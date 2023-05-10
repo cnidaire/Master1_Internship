@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+182361142	RefSeq	NZ_PVXP01000066.1	3628	4404	-	WP_106010622.1	nitrogenase iron protein NifH	Clostridium luticellarii	DSM 29923	GCF_002995845.1
+182361142	INSDC	PVXP01000066.1	3628	4404	-	PRR81661.1	Nitrogenase iron protein 1	Clostridium luticellarii	DSM 29923	GCA_002995845.1

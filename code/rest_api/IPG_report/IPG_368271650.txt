@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+368271650	RefSeq	NZ_SVBV01000008.1	23343	24101	+	WP_273038182.1	nitrogenase iron protein NifH	Schwartzia succinivorans		GCF_015058685.1
+368271650	INSDC	SVBV01000008.1	23343	24101	+	MBE6097898.1	nitrogen fixation protein NifH	Schwartzia succinivorans		GCA_015058685.1

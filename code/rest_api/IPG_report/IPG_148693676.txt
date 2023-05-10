@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+148693676	RefSeq	NZ_CABMKM010000003.1	334683	335438	+	WP_085832421.1	nitrogenase iron protein NifH	Clostridium merdae		GCF_902386975.1
+148693676	RefSeq	NZ_FXLN01000003.1	334683	335438	+	WP_085832421.1	nitrogenase iron protein NifH	Clostridium merdae	Marseille-P2953	GCF_900176635.1

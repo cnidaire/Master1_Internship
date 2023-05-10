@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+22055670	RefSeq	NZ_GL638136.1	334788	335597	+	WP_009349730.1	nitrogenase iron protein NifH	Selenomonas artemidis F0399	F0399	GCF_000187125.1
+22055670	INSDC	AECV01000016.1	140761	141570	+	EFW29836.1	putative nitrogenase iron protein	Selenomonas artemidis F0399	F0399	GCA_000187125.1
+22055670	INSDC	GL638136.1	334788	335597	+	EFW29836.1	putative nitrogenase iron protein	Selenomonas artemidis F0399	F0399	GCA_000187125.1

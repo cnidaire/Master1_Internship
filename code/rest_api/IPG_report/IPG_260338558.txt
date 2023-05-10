@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+260338558	INSDC	SMYU01000128.1	1125	2135	-	TRO49081.1	nitrogen fixation protein NifH	Candidatus Bathyarchaeota archaeon		GCA_007049995.1

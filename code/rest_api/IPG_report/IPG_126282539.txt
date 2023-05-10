@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+126282539	RefSeq	NZ_FOFS01000010.1	109006	109893	-	WP_093287058.1	nitrogenase iron protein	Solimonas aquatica	DSM 25927	GCF_900111015.1
+126282539	INSDC	FOFS01000010.1	109006	109893	-	SEQ75899.1	Mo-nitrogenase iron protein subunit NifH	Solimonas aquatica	DSM 25927	GCA_900111015.1

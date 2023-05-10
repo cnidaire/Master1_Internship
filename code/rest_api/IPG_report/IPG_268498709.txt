@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+268498709	RefSeq	NZ_CABJBB010000001.1	126411	127166	+	WP_147566918.1	nitrogenase iron protein NifH	Dorea formicigenerans		GCF_902363775.1

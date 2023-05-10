@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+30761872	RefSeq	NC_018696.1	774293	775174	+	WP_015004770.1	nitrogenase iron protein	Paraburkholderia phenoliruptrix BR3459a	BR3459a	GCF_000300095.1
+30761872	RefSeq	NZ_CADILN010000035.1	212	1093	-	WP_015004770.1	nitrogenase iron protein	Paraburkholderia phenoliruptrix	LMG 9964	GCF_902860235.1
+30761872	INSDC	CP003865.1	713337	714218	+	AFT90593.1	nitrogenase reductase	Paraburkholderia phenoliruptrix BR3459a	BR3459a	GCA_000300095.1
+30761872	INSDC	CP003865.1	774293	775174	+	AFT90639.1	nitrogenase iron protein NifH	Paraburkholderia phenoliruptrix BR3459a	BR3459a	GCA_000300095.1
+30761872	INSDC	CADILN010000035.1	212	1093	-	CAB4053068.1	Nitrogenase iron protein	Paraburkholderia phenoliruptrix	LMG 9964	GCA_902860235.1

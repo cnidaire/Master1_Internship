@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+153695239	INSDC	KY246981.1	1	739	+	ASH95988.1	nitrogenase Fe protein	Bradyrhizobium sp.	SEMIA 510	
+153695239	INSDC	MZ803187.1	1	737	+	UJP38456.1	dinitrogenase reductase NifH	Bradyrhizobium sp.	Bra6	
+153695239	INSDC	MZ803188.1	1	737	+	UJP38457.1	dinitrogenase reductase NifH	Bradyrhizobium sp.	Bra7	

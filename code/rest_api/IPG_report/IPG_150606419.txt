@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+150606419	RefSeq	NZ_NFGZ01000011.1	44853	45593	-	WP_087260564.1	nitrogenase iron protein NifH	Flavonifractor sp. An92	An92	GCF_002159175.1
+150606419	RefSeq	NZ_NFLG01000014.1	41066	41806	-	WP_087260564.1	nitrogenase iron protein NifH	Flavonifractor sp. An135	An135	GCF_002160795.1
+150606419	INSDC	NFGZ01000011.1	44853	45593	-	OUN06355.1	nitrogen fixation protein NifH	Flavonifractor sp. An92	An92	GCA_002159175.1
+150606419	INSDC	NFLG01000014.1	41066	41806	-	OUQ23677.1	nitrogen fixation protein NifH	Flavonifractor sp. An135	An135	GCA_002160795.1

@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+184664350	RefSeq	NZ_NHSP01000094.1	4994	5869	+	WP_107325460.1	nitrogenase iron protein	Phaeovulum veldkampii DSM 11550	DSM 11550	GCF_016653435.1
+184664350	RefSeq	NZ_PZKF01000026.1	7583	8458	-	WP_107325460.1	nitrogenase iron protein	Phaeovulum veldkampii DSM 11550	DSM 11550	GCF_003034995.1
+184664350	RefSeq	NZ_SNYP01000024.1	31155	32030	+	WP_107325460.1	nitrogenase iron protein	Phaeovulum veldkampii DSM 11550	DSM 11550	GCF_004363195.1
+184664350	INSDC	NHSP01000094.1	4994	5869	+	MBK5947693.1	nitrogenase iron protein	Phaeovulum veldkampii DSM 11550	DSM 11550	GCA_016653435.1
+184664350	INSDC	PZKF01000026.1	7583	8458	-	PTE16997.1	nitrogenase iron protein	Phaeovulum veldkampii DSM 11550	DSM 11550	GCA_003034995.1
+184664350	INSDC	SNYP01000024.1	31155	32030	+	TDQ56043.1	Mo-nitrogenase iron protein subunit NifH /V-nitrogenase iron protein subunit VnfH	Phaeovulum veldkampii DSM 11550	DSM 11550	GCA_004363195.1

@@ -1,0 +1,22 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+22198965	RefSeq	NZ_CABKPS010000074.1	12517	13323	-	WP_009145970.1	nitrogenase iron protein NifH	Phascolarctobacterium succinatutens		GCF_902374385.1
+22198965	RefSeq	NZ_CAJJTE010000002.1	71013	71819	+	WP_009145970.1	nitrogenase iron protein NifH	Phascolarctobacterium succinatutens		GCF_905194655.1
+22198965	RefSeq	NZ_CALYUL010000102.1	1349	2155	-	WP_009145970.1	nitrogenase iron protein NifH	Phascolarctobacterium succinatutens		GCF_945489785.1
+22198965	RefSeq	NZ_CALZYD010000004.1	75513	76319	+	WP_009145970.1	nitrogenase iron protein NifH	Phascolarctobacterium succinatutens		GCF_945830455.1
+22198965	RefSeq	NZ_CAMBEM010000007.1	14007	14813	-	WP_009145970.1	nitrogenase iron protein NifH	Phascolarctobacterium succinatutens		GCF_945865715.1
+22198965	RefSeq	NZ_CAMCGX010000004.1	75513	76319	+	WP_009145970.1	nitrogenase iron protein NifH	Phascolarctobacterium succinatutens		GCF_945874575.1
+22198965	RefSeq	NZ_CAMEFW010000004.1	92326	93132	-	WP_009145970.1	nitrogenase iron protein NifH	Phascolarctobacterium succinatutens		GCF_945915945.1
+22198965	RefSeq	NZ_CAMFZT010000054.1	122	928	+	WP_009145970.1	nitrogenase iron protein NifH	Phascolarctobacterium succinatutens		GCF_946006995.1
+22198965	RefSeq	NZ_CAMGCG010000011.1	25538	26344	+	WP_009145970.1	nitrogenase iron protein NifH	Phascolarctobacterium succinatutens		GCF_946012055.1
+22198965	RefSeq	NZ_CAMGHH010000088.1	1940	2746	-	WP_009145970.1	nitrogenase iron protein NifH	Phascolarctobacterium succinatutens		GCF_946055815.1
+22198965	RefSeq	NZ_CAMTHJ010000012.1	24770	25576	+	WP_009145970.1	nitrogenase iron protein NifH	Phascolarctobacterium succinatutens		GCF_947072245.1
+22198965	RefSeq	NZ_CP097284.1	1379488	1380294	-	WP_009145970.1	nitrogenase iron protein NifH	Phascolarctobacterium succinatutens	NB2A-12-FMU	GCF_023497905.1
+22198965	RefSeq	NZ_GL830916.1	12517	13323	-	WP_009145970.1	nitrogenase iron protein NifH	Phascolarctobacterium succinatutens YIT 12067	YIT 12067	GCF_000188175.1
+22198965	RefSeq	NZ_JAEDCV010000005.1	23443	24249	-	WP_009145970.1	nitrogenase iron protein NifH	Phascolarctobacterium succinatutens		GCF_016293965.1
+22198965	RefSeq	NZ_JAFIKY010000002.1	78796	79602	+	WP_009145970.1	nitrogenase iron protein NifH	Phascolarctobacterium succinatutens		GCF_017851075.1
+22198965	RefSeq	NZ_JAQYIE010000098.1	7534	8340	+	WP_009145970.1	nitrogenase iron protein NifH	Phascolarctobacterium succinatutens		GCF_028721825.1
+22198965	RefSeq	NZ_NALO01000005.1	436351	437157	-	WP_009145970.1	nitrogenase iron protein NifH	Phascolarctobacterium succinatutens		GCF_008680245.1
+22198965	INSDC	AEVN01000083.1	8358	9164	-	EFY04384.1	putative nitrogenase iron protein	Phascolarctobacterium succinatutens YIT 12067	YIT 12067	GCA_000188175.1
+22198965	INSDC	GL830916.1	12517	13323	-	EFY04384.1	putative nitrogenase iron protein	Phascolarctobacterium succinatutens YIT 12067	YIT 12067	GCA_000188175.1
+22198965	INSDC	DMNY01000019.1	79149	79955	+	HAM92712.1	nitrogenase iron protein	Phascolarctobacterium succinatutens		GCA_003452535.1
+22198965	INSDC	CP097284.1	1379488	1380294	-	UQT41129.1	nitrogenase iron protein NifH	Phascolarctobacterium succinatutens	NB2A-12-FMU	GCA_023497905.1

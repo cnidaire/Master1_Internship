@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+243563	INSDC	AF227935.1	1	327	+	AAG23902.1	dinitrogenase reductase NifH	lactate SRB-Enrichment culture clone HBLac1		

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+202279492	RefSeq	NZ_QTYW01000007.1	84613	85422	-	WP_117831388.1	nitrogenase iron protein NifH	Roseburia sp. TF10-5	TF10-5	GCF_003462365.1
+202279492	INSDC	QTYW01000007.1	84613	85422	-	RGI13903.1	nitrogenase iron protein	Roseburia sp. TF10-5	TF10-5	GCA_003462365.1

@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+18266010	RefSeq	NZ_ACVI01000009.1	56713	57474	+	WP_007059736.1	nitrogenase iron protein NifH	Clostridium carboxidivorans P7	P7	GCF_000175595.1
+18266010	RefSeq	NZ_CP011803.1	2221825	2222586	-	WP_007059736.1	nitrogenase iron protein NifH	Clostridium carboxidivorans P7	P7	GCF_001038625.1
+18266010	RefSeq	NZ_GG770683.1	46110	46871	+	WP_007059736.1	nitrogenase iron protein NifH	Clostridium carboxidivorans P7	P7	GCF_000163855.1
+18266010	INSDC	CP011803.1	2221825	2222586	-	AKN31097.1	Mo-nitrogenase iron protein subunit NifH	Clostridium carboxidivorans P7	P7	GCA_001038625.1
+18266010	INSDC	ACVI01000009.1	56713	57474	+	EET88725.1	Nitrogenase	Clostridium carboxidivorans P7	P7	GCA_000175595.1
+18266010	INSDC	GG770683.1	46110	46871	+	EFG88634.1	putative nitrogenase iron protein	Clostridium carboxidivorans P7	P7	GCA_000163855.1

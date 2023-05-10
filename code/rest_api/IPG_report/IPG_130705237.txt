@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+130705237	RefSeq	NZ_FQVB01000048.1	4820	5644	+	WP_073041678.1	nitrogenase iron protein	Desulfacinum infernum DSM 9756	DSM 9756	GCF_900129305.1
+130705237	INSDC	JACIYN010000036.1	30985	31809	-	MBC7359413.1	nitrogenase iron protein	Desulfacinum sp.		GCA_014359885.1
+130705237	INSDC	JAIHAM010000010.1	966	1790	+	MBZ4658333.1	Mo-nitrogenase iron protein subunit NifH	Desulfacinum sp.		GCA_020054805.1
+130705237	INSDC	FQVB01000048.1	4820	5644	+	SHG19266.1	Mo-nitrogenase iron protein subunit NifH	Desulfacinum infernum DSM 9756	DSM 9756	GCA_900129305.1

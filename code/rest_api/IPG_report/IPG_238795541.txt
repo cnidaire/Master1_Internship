@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+238795541	INSDC	CAADLK010000156.1	3479	4003	+	VFT73251.1	nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Klebsiella aerogenes	NCTC9646	GCA_900707425.1

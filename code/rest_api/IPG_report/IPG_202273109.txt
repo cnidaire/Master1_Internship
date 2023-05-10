@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+202273109	RefSeq	NZ_CABJEY010000002.1	354918	355694	-	WP_117890150.1	nitrogenase iron protein NifH	[Ruminococcus] torques		GCF_902364725.1
+202273109	RefSeq	NZ_JAQEBE010000004.1	32902	33678	+	WP_117890150.1	nitrogenase iron protein NifH	Mediterraneibacter faecis	AM27-9LB	GCF_027670965.1
+202273109	INSDC	QTYQ01000009.1	129909	130685	-	RGH93786.1	nitrogenase iron protein	Ruminococcus sp. AM27-11LB	AM27-11LB	GCA_003462235.1
+202273109	INSDC	QTYP01000002.1	354918	355694	-	RGH95039.1	nitrogenase iron protein	Ruminococcus sp. AM27-27	AM27-27	GCA_003462225.1

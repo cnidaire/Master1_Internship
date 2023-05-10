@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+281068152	RefSeq	NZ_JAQXUZ010000027.1	9674	10453	-	WP_154554041.1	nitrogenase iron protein NifH	Mogibacterium kristiansenii		GCF_029224645.1
+281068152	RefSeq	NZ_VUNA01000005.1	116346	117125	+	WP_154554041.1	nitrogenase iron protein NifH	Mogibacterium kristiansenii	WCA-MUC-591-APC-4B	GCF_009695905.1
+281068152	INSDC	JALFKS010000020.1	23792	24571	-	MCI7124242.1	nitrogenase iron protein NifH	Mogibacterium sp.		GCA_022774615.1
+281068152	INSDC	VUNA01000005.1	116346	117125	+	MST70477.1	P-loop NTPase	Mogibacterium kristiansenii	WCA-MUC-591-APC-4B	GCA_009695905.1

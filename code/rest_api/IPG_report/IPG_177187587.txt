@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+177187587	RefSeq	NZ_FCOW01000035.1	36354	37205	+	WP_109298255.1	nitrogenase iron protein NifH	Sporomusa sphaeroides DSM 2875		GCF_900042765.1
+177187587	INSDC	FCOW01000035.1	36354	37205	+	CVK21461.1	Nitrogenase iron protein 1	Sporomusa sphaeroides DSM 2875		GCA_900042765.1

@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+202108751	INSDC	QWVV01000001.1	240955	241716	-	RGD95797.1	nitrogen fixation protein NifH	Clostridiales bacterium AM23-16LB	AM23-16LB	GCA_003435115.1
+202108751	INSDC	QUGS01000004.1	243390	244151	+	RHR45295.1	nitrogen fixation protein NifH	Clostridiaceae bacterium AF18-31LB	AF18-31LB	GCA_003479325.1
+202108751	INSDC	QUJQ01000002.1	55747	56508	-	RHT83824.1	nitrogen fixation protein NifH	Clostridiaceae bacterium AM27-36LB	AM27-36LB	GCA_003480725.1
+202108751	INSDC	QUMI01000002.1	87320	88081	-	RHW04872.1	nitrogen fixation protein NifH	Clostridiaceae bacterium OF09-1	OF09-1	GCA_003482275.1

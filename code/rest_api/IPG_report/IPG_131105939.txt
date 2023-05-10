@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+131105939	INSDC	CP013109.1	148991	149908	+	APG93337.1	nitrogenase iron protein NifH	Sinorhizobium americanum	CFNEI 73	GCA_001889105.1

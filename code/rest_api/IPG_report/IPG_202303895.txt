@@ -1,0 +1,23 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+202303895	RefSeq	NZ_JAAIOE010000001.1	368343	369098	-	WP_117495460.1	nitrogenase iron protein NifH	Dorea formicigenerans	MSK.23.29	GCF_013301365.1
+202303895	RefSeq	NZ_QRHN01000018.1	23258	24013	+	WP_117495460.1	nitrogenase iron protein NifH	Dorea formicigenerans	AM23-7AC	GCF_003470825.1
+202303895	RefSeq	NZ_QRWH01000014.1	20922	21677	+	WP_117495460.1	nitrogenase iron protein NifH	Dorea formicigenerans	AF19-4AC	GCF_003459565.1
+202303895	RefSeq	NZ_QRWS01000001.1	366139	366894	-	WP_117495460.1	nitrogenase iron protein NifH	Dorea formicigenerans	AF19-13	GCF_003459735.1
+202303895	RefSeq	NZ_QSGQ01000001.1	320198	320953	+	WP_117495460.1	nitrogenase iron protein NifH	Dorea formicigenerans	AM40-15AC	GCF_003467405.1
+202303895	RefSeq	NZ_QSKA01000015.1	20594	21349	+	WP_117495460.1	nitrogenase iron protein NifH	Dorea formicigenerans	AM29-11	GCF_003469045.1
+202303895	RefSeq	NZ_QSOI01000013.1	64485	65240	-	WP_117495460.1	nitrogenase iron protein NifH	Dorea formicigenerans	TM09-19AC	GCF_003436235.1
+202303895	RefSeq	NZ_QSOK01000019.1	30409	31164	+	WP_117495460.1	nitrogenase iron protein NifH	Dorea formicigenerans	TM09-16AC	GCF_003466265.1
+202303895	RefSeq	NZ_QSPL01000001.1	450181	450936	-	WP_117495460.1	nitrogenase iron protein NifH	Dorea formicigenerans	TM05-5	GCF_003437395.1
+202303895	RefSeq	NZ_QSVQ01000001.1	9032	9787	+	WP_117495460.1	nitrogenase iron protein NifH	Dorea formicigenerans	OM02-12	GCF_003439455.1
+202303895	INSDC	JAAIOE010000001.1	368343	369098	-	NSE46061.1	P-loop NTPase	Dorea formicigenerans	MSK.23.29	GCA_013301365.1
+202303895	INSDC	QSOI01000013.1	64485	65240	-	RGI83509.1	nitrogen fixation protein NifH	Dorea formicigenerans	TM09-19AC	GCA_003436235.1
+202303895	INSDC	QSOK01000019.1	30409	31164	+	RGI85921.1	nitrogen fixation protein NifH	Dorea formicigenerans	TM09-16AC	GCA_003466265.1
+202303895	INSDC	QSPL01000001.1	450181	450936	-	RGJ67102.1	nitrogen fixation protein NifH	Dorea formicigenerans	TM05-5	GCA_003437395.1
+202303895	INSDC	QSVQ01000001.1	9032	9787	+	RGO54729.1	nitrogen fixation protein NifH	Dorea formicigenerans	OM02-12	GCA_003439455.1
+202303895	INSDC	QRWH01000014.1	20922	21677	+	RGT07454.1	nitrogen fixation protein NifH	Dorea formicigenerans	AF19-4AC	GCA_003459565.1
+202303895	INSDC	QRWS01000001.1	366139	366894	-	RGT43772.1	nitrogen fixation protein NifH	Dorea formicigenerans	AF19-13	GCA_003459735.1
+202303895	INSDC	QSEW01000001.1	22334	23089	+	RHA02343.1	nitrogen fixation protein NifH	Dorea formicigenerans	AM46-16	GCA_003466735.1
+202303895	INSDC	QSGQ01000001.1	320198	320953	+	RHB43139.1	nitrogen fixation protein NifH	Dorea formicigenerans	AM40-15AC	GCA_003467405.1
+202303895	INSDC	QSIA01000002.1	235735	236490	-	RHC52359.1	nitrogen fixation protein NifH	Dorea formicigenerans	AM35-12	GCA_003468435.1
+202303895	INSDC	QSKA01000015.1	20594	21349	+	RHE26535.1	nitrogen fixation protein NifH	Dorea formicigenerans	AM29-11	GCA_003469045.1
+202303895	INSDC	QRHN01000018.1	23258	24013	+	RHF77012.1	nitrogen fixation protein NifH	Dorea formicigenerans	AM23-7AC	GCA_003470825.1

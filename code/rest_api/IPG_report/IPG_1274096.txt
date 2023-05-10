@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+1274096	INSDC	Z95220.1	1	558	+	CAB08524.1	nifH	Sinorhizobium sp. BR4007	BR4007	

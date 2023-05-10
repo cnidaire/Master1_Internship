@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+329095043	INSDC	JABSXC010000002.1	1548613	1549275	-	NRU79182.1	nitrogenase iron protein NifH	Clostridium beijerinckii	DJ106	GCA_013294755.1
+329095043	INSDC	JABTAH010000001.1	1151096	1151758	-	NRZ30602.1	nitrogenase iron protein NifH	Clostridium beijerinckii	DJ331	GCA_013296365.1

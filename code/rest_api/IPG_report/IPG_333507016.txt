@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+333507016	INSDC	JABXKD010000103.1	9656	10672	-	NVM46568.1	nitrogen fixation protein NifH	Candidatus Lokiarchaeota archaeon		GCA_013375475.1

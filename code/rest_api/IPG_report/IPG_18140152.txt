@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+18140152	INSDC	GQ167284.1	1	870	+	ACT67925.1	NifH	Mesorhizobium septentrionale	SDW014	

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+125960469	RefSeq	NZ_FNYK01000013.1	21099	21851	+	WP_074731622.1	nitrogenase iron protein NifH	Sharpea azabuensis	DSM 20406	GCF_900108995.1
+125960469	INSDC	FNYK01000013.1	21099	21851	+	SEI62878.1	nitrogenase iron protein NifH	Sharpea azabuensis	DSM 20406	GCA_900108995.1

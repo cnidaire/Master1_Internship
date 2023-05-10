@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+315051788	INSDC	JAAYYW010000289.1	153	1172	-	NLF51992.1	nitrogen fixation protein NifH	Leptolinea sp.		GCA_012515195.1

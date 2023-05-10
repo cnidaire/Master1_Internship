@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+3966453	INSDC	KP192909.1	1	363	+	AJW77414.1	dinitrogenase reductase	Nitratireductor aquibiodomus		
+3966453	INSDC	AB100832.1	1	363	+	BAD80874.1	nifH	Heliomicrobium modesticaldum Ice1	DSM 9504	

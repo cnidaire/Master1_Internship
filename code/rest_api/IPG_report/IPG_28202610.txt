@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+28202610	RefSeq	NC_018002.1	1008842	1009753	+	WP_014769215.1	nitrogenase iron protein	Sulfurospirillum barnesii SES-3	SES-3	GCF_000265295.1
+28202610	INSDC	CP003333.1	1008842	1009753	+	AFL68336.1	Mo-nitrogenase iron protein subunit NifH	Sulfurospirillum barnesii SES-3	SES-3	GCA_000265295.1

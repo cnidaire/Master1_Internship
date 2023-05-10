@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+271168233	RefSeq	NZ_FQZD01000006.1	91831	92658	+	WP_149733626.1	nitrogenase iron protein	Propionispora hippei DSM 15287	DSM 15287	GCF_900141835.1
+271168233	INSDC	FQZD01000006.1	91831	92658	+	SHI64945.1	nitrogenase iron protein NifH	Propionispora hippei DSM 15287	DSM 15287	GCA_900141835.1

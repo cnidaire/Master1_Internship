@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+264868871	RefSeq	NZ_VLKD01000001.1	2118349	2119227	-	WP_144676567.1	nitrogenase iron protein	Desulfitobacterium sp. LBE	LBE	GCF_007830365.1
+264868871	INSDC	VSSQ01000061.1	144840	145718	+	MPL71817.1	Nitrogenase iron protein 1	bioreactor metagenome		GCA_008761695.1
+264868871	INSDC	VLKD01000001.1	2118349	2119227	-	TWH57731.1	nitrogenase iron protein NifH	Desulfitobacterium sp. LBE	LBE	GCA_007830365.1

@@ -1,0 +1,23 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+3224337	RefSeq	NC_007413.1	5326926	5327816	+	WP_011320927.1	nitrogenase iron protein	Trichormus variabilis ATCC 29413	ATCC 29413	GCF_000204075.1
+3224337	RefSeq	NZ_CP034058.1	353474	354364	+	WP_011320927.1	nitrogenase iron protein	Anabaena sp. YBS01	YBS01	GCF_009498015.1
+3224337	RefSeq	NZ_CP047242.1	261595	262485	+	WP_011320927.1	nitrogenase iron protein	Trichormus variabilis 0441	0441	GCF_009856605.1
+3224337	RefSeq	NZ_JACJRI010000021.1	11763	12653	+	WP_011320927.1	nitrogenase iron protein	Trichormus variabilis FACHB-319	FACHB-319	GCF_014697165.1
+3224337	RefSeq	NZ_JACKZL010000170.1	4666	5556	+	WP_011320927.1	nitrogenase iron protein	Trichormus variabilis V5	V5	GCF_014222125.1
+3224337	RefSeq	NZ_JACKZM010000092.1	19910	20800	-	WP_011320927.1	nitrogenase iron protein	Trichormus variabilis PNB	PNB	GCF_014222225.1
+3224337	RefSeq	NZ_JACKZO010000040.1	19895	20785	-	WP_011320927.1	nitrogenase iron protein	Trichormus variabilis ARAD	ARAD	GCF_014222135.1
+3224337	RefSeq	NZ_JACKZP010000002.1	36982	37872	+	WP_011320927.1	nitrogenase iron protein	Trichormus variabilis N2B	N2B	GCF_014222155.1
+3224337	RefSeq	NZ_JACKZQ010000128.1	4552	5442	+	WP_011320927.1	nitrogenase iron protein	Trichormus variabilis FSR	FSR	GCF_014222245.1
+3224337	RefSeq	NZ_JACKZT010000004.1	104621	105511	-	WP_011320927.1	nitrogenase iron protein	Trichormus variabilis 9RC	9RC	GCF_014222145.1
+3224337	RefSeq	NZ_JAERMH010000002.1	104651	105541	-	WP_011320927.1	nitrogenase iron protein	Trichormus variabilis A2	A2	GCF_020102815.1
+3224337	Swiss-Prot	N/A				Q44484.2	Nitrogenase iron protein 2	Trichormus variabilis ATCC 29413		
+3224337	INSDC	CP000117.1	5326926	5327816	+	ABA23846.1	Mo-nitrogenase iron protein subunit NifH	Trichormus variabilis ATCC 29413	ATCC 29413	GCA_000204075.1
+3224337	INSDC	JACKZO010000040.1	19895	20785	-	MBC1214475.1	nitrogenase iron protein	Trichormus variabilis ARAD	ARAD	GCA_014222135.1
+3224337	INSDC	JACKZL010000170.1	4666	5556	+	MBC1256222.1	nitrogenase iron protein	Trichormus variabilis V5	V5	GCA_014222125.1
+3224337	INSDC	JACKZQ010000128.1	4552	5442	+	MBC1268673.1	nitrogenase iron protein	Trichormus variabilis FSR	FSR	GCA_014222245.1
+3224337	INSDC	JACKZP010000002.1	36982	37872	+	MBC1300417.1	nitrogenase iron protein	Trichormus variabilis N2B	N2B	GCA_014222155.1
+3224337	INSDC	JACKZM010000092.1	19910	20800	-	MBC1312601.1	nitrogenase iron protein	Trichormus variabilis PNB	PNB	GCA_014222225.1
+3224337	INSDC	JACKZT010000004.1	104621	105511	-	MBC1324972.1	nitrogenase iron protein	Trichormus variabilis 9RC	9RC	GCA_014222145.1
+3224337	INSDC	JACJRI010000021.1	11763	12653	+	MBD2381821.1	nitrogenase iron protein	Trichormus variabilis FACHB-319	FACHB-319	GCA_014697165.1
+3224337	INSDC	CP034058.1	353474	354364	+	QFZ10778.1	nitrogenase iron protein	Anabaena sp. YBS01	YBS01	GCA_009498015.1
+3224337	INSDC	CP047242.1	261595	262485	+	QHD78436.1	nitrogenase iron protein	Trichormus variabilis 0441	0441	GCA_009856605.1

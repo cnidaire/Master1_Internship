@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+238135303	RefSeq	NZ_SGUF01000006.1	38798	39679	+	WP_132569967.1	nitrogenase iron protein	Pelomonas saccharophila	CCUG 32988	GCF_029532085.1
+238135303	RefSeq	NZ_SMBU01000003.1	107398	108279	+	WP_132569967.1	nitrogenase iron protein	Pelomonas saccharophila	DSM 654	GCF_004342485.1
+238135303	INSDC	SMBU01000003.1	107398	108279	+	TCV03459.1	Mo-nitrogenase iron protein subunit NifH	Pelomonas saccharophila	DSM 654	GCA_004342485.1

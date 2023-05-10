@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+279612180	RefSeq	NZ_JAQLWQ010000009.1	90353	91150	+	WP_156622406.1	nitrogenase iron protein NifH	Flavonifractor plautii	1001302st1_F9_1001302B_160321	GCF_028323025.1
+279612180	RefSeq	NZ_JAQLWR010000010.1	90353	91150	+	WP_156622406.1	nitrogenase iron protein NifH	Flavonifractor plautii	1001302st1_E5_1001302B_160321	GCF_028321305.1

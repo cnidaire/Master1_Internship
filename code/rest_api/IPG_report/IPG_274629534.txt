@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+274629534	RefSeq	NZ_WAIE01000001.1	536627	537394	+	WP_151149484.1	nitrogen fixation protein NifH	Pseudodesulfovibrio senegalensis	DSM 101509	GCF_008830225.1
+274629534	INSDC	WAIE01000001.1	536627	537394	+	KAB1443152.1	nitrogen fixation protein NifH	Pseudodesulfovibrio senegalensis	DSM 101509	GCA_008830225.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+204355575	RefSeq	NZ_QSGP01000006.1	461558	462349	-	WP_118710948.1	nitrogenase iron protein NifH	Enterocloster aldenensis	AM40-2AC	GCF_003467385.1
+204355575	INSDC	QSGP01000006.1	461558	462349	-	RHB41243.1	nitrogenase iron protein	Enterocloster aldenensis	AM40-2AC	GCA_003467385.1

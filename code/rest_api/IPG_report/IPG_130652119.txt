@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+130652119	RefSeq	NZ_FQZL01000005.1	342523	343344	+	WP_073047220.1	nitrogenase iron protein	Dethiosulfatibacter aminovorans DSM 17477	DSM 17477	GCF_900142005.1
+130652119	INSDC	FQZL01000005.1	342523	343344	+	SHI58647.1	Mo-nitrogenase iron protein subunit NifH	Dethiosulfatibacter aminovorans DSM 17477	DSM 17477	GCA_900142005.1

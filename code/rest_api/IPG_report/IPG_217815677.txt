@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+217815677	RefSeq	NZ_JALFCT010000005.1	22865	23623	-	WP_128519282.1	nitrogenase iron protein NifH	Absicoccus porci		GCF_022771015.1
+217815677	RefSeq	NZ_JAQXZP010000113.1	11724	12482	-	WP_128519282.1	nitrogenase iron protein NifH	Absicoccus porci		GCF_029227275.1
+217815677	RefSeq	NZ_JAQYEM010000040.1	55688	56446	+	WP_128519282.1	nitrogenase iron protein NifH	Absicoccus porci		GCF_028723685.1
+217815677	RefSeq	NZ_RJQC01000001.1	104830	105588	+	WP_128519282.1	nitrogenase iron protein NifH	Absicoccus porci	YH-panp20	GCF_003725415.1
+217815677	INSDC	JALFCT010000005.1	22865	23623	-	MCI6087321.1	nitrogenase iron protein NifH	Absicoccus porci		GCA_022771015.1
+217815677	INSDC	RJQC01000001.1	104830	105588	+	RNM31102.1	nitrogenase iron protein	Absicoccus porci	YH-panp20	GCA_003725415.1

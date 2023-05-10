@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+168900	INSDC	U66032.1	4945	5643	+	AAC44653.1	NifH class IV protein homolog	Methanosarcina thermophila TM-1	TM-1	

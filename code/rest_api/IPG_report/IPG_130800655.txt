@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+130800655	RefSeq	NZ_FQXK01000005.1	158727	159587	-	WP_073385560.1	nitrogenase iron protein	Butyrivibrio fibrisolvens DSM 3071	DSM 3071	GCF_900129945.1
+130800655	INSDC	JAILQF010000113.1	20789	21649	+	MCR5770484.1	nitrogenase iron protein	Butyrivibrio sp.		GCA_024699075.1
+130800655	INSDC	FQXK01000005.1	158727	159587	-	SHH57615.1	nitrogenase iron protein NifH	Butyrivibrio fibrisolvens DSM 3071	DSM 3071	GCA_900129945.1

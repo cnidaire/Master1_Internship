@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+407591714	RefSeq	NZ_JACJUC010000001.1	29590	30345	-	WP_204967140.1	nitrogenase iron protein NifH	Megasphaera stantonii	An771	GCF_016900675.1
+407591714	INSDC	JACJUC010000001.1	29590	30345	-	MBM6731259.1	AAA family ATPase	Megasphaera stantonii	An771	GCA_016900675.1

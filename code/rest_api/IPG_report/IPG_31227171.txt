@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+31227171	RefSeq	NZ_AJLR01000014.1	5399	6160	+	WP_003329408.1	nitrogenase iron protein NifH	Schinkia azotoformans LMG 9581	LMG 9581	GCF_000307855.1
+31227171	INSDC	AJLR01000014.1	5399	6160	+	EKN70149.1	nitrogenase	Schinkia azotoformans LMG 9581	LMG 9581	GCA_000307855.1

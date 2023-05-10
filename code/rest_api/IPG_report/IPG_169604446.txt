@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+169604446	INSDC	KY941331.1	1	739	-	ATU74879.1	NifH	Bradyrhizobium sp.	TUTVU22	
+169604446	INSDC	KY941338.1	1	739	-	ATU74886.1	NifH	Bradyrhizobium sp.	TUTVU63	

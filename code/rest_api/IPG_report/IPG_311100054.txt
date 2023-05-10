@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+311100054	INSDC	VEPM01000032.1	5185	6204	-	NJD54067.1	nitrogen fixation protein NifH	Candidatus Methanoperedens sp.		GCA_012026795.1

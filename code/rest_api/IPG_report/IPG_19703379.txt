@@ -1,0 +1,30 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+19703379	RefSeq	NC_021015.1	352060	352827	+	WP_015527772.1	nitrogenase iron protein NifH	[Ruminococcus] torques L2-14	L2-14	GCF_000210035.1
+19703379	RefSeq	NZ_CZBS01000013.1	65675	66442	-	WP_015527772.1	nitrogenase iron protein NifH	[Ruminococcus] torques	2789STDY5608867	GCF_001405235.1
+19703379	RefSeq	NZ_JADPGD010000008.1	115247	116014	-	WP_015527772.1	nitrogenase iron protein NifH	Mediterraneibacter faecis	1001713B170131_170501_C12	GCF_015670935.1
+19703379	RefSeq	NZ_JADPGZ010000011.1	70771	71538	-	WP_015527772.1	nitrogenase iron protein NifH	Mediterraneibacter faecis	D59t2_181005_E7	GCF_015669775.1
+19703379	RefSeq	NZ_JADPLP010000006.1	173207	173974	-	WP_015527772.1	nitrogenase iron protein NifH	Mediterraneibacter faecis	1001285H_161024_C3	GCF_015668255.1
+19703379	RefSeq	NZ_JAJBNZ010000004.1	92725	93492	-	WP_015527772.1	nitrogenase iron protein NifH	Mediterraneibacter faecis	MSK.13.58	GCF_020538235.1
+19703379	RefSeq	NZ_JAJBOA010000005.1	92725	93492	-	WP_015527772.1	nitrogenase iron protein NifH	Mediterraneibacter faecis	MSK.13.54	GCF_020538205.1
+19703379	RefSeq	NZ_JAJBQK010000005.1	92725	93492	-	WP_015527772.1	nitrogenase iron protein NifH	Mediterraneibacter faecis	MSK.13.18	GCF_020539665.1
+19703379	RefSeq	NZ_JAJBQM010000005.1	92725	93492	-	WP_015527772.1	nitrogenase iron protein NifH	Mediterraneibacter faecis	MSK.13.9	GCF_020539625.1
+19703379	RefSeq	NZ_JAQEDB010000013.1	18196	18963	+	WP_015527772.1	nitrogenase iron protein NifH	Mediterraneibacter faecis	AM44-6	GCF_027669685.1
+19703379	RefSeq	NZ_NAJS01000005.1	92050	92817	-	WP_015527772.1	nitrogenase iron protein NifH	Mediterraneibacter faecis		GCF_008658335.1
+19703379	RefSeq	NZ_RQAB01000136.1	12937	13704	+	WP_015527772.1	nitrogenase iron protein NifH	Mediterraneibacter faecis		GCF_008669205.1
+19703379	RefSeq	NZ_RQAL01000064.1	22459	23226	-	WP_015527772.1	nitrogenase iron protein NifH	Mediterraneibacter faecis		GCF_008669035.1
+19703379	RefSeq	NZ_RQAW01000008.1	13047	13814	+	WP_015527772.1	nitrogenase iron protein NifH	Mediterraneibacter faecis		GCF_008670945.1
+19703379	INSDC	FP929055.1	352060	352827	+	CBL25132.1	Mo-nitrogenase iron protein subunit NifH	[Ruminococcus] torques L2-14	L2-14	GCA_000210035.1
+19703379	INSDC	CBEU010000048.1	1122	1889	+	CDC15027.1	mo-nitrogenase iron protein subunit NifH	Ruminococcus sp. CAG:55		GCA_000437035.1
+19703379	INSDC	HG000441.1	3332	4099	+	CDC15027.1	mo-nitrogenase iron protein subunit NifH	Ruminococcus sp. CAG:55		GCA_000437035.1
+19703379	INSDC	CZBJ01000005.1	18161	18928	+	CUP86795.1	Nitrogenase iron protein 1	[Ruminococcus] torques	2789STDY5834918	GCA_001406235.1
+19703379	INSDC	CZBS01000013.1	65675	66442	-	CUQ73670.1	Nitrogenase iron protein 1	[Ruminococcus] torques	2789STDY5608867	GCA_001405235.1
+19703379	INSDC	RKFT01000043.1	2513	3280	+	MBD9334396.1	nitrogen fixation protein NifH	Mediterraneibacter faecis		GCA_014858185.1
+19703379	INSDC	JAGPKT010000152.1	423	1190	+	MBP8690577.1	P-loop NTPase	Mediterraneibacter sp.		GCA_018053765.1
+19703379	INSDC	JAGZGO010000030.1	34885	35652	-	MBS5312832.1	P-loop NTPase	Clostridiales bacterium		GCA_018367215.1
+19703379	INSDC	JAJBNZ010000004.1	92725	93492	-	MCB5570299.1	nitrogenase iron protein NifH	Mediterraneibacter faecis	MSK.13.58	GCA_020538235.1
+19703379	INSDC	JAJBOA010000005.1	92725	93492	-	MCB5573423.1	nitrogenase iron protein NifH	Mediterraneibacter faecis	MSK.13.54	GCA_020538205.1
+19703379	INSDC	JAJBQM010000005.1	92725	93492	-	MCB5740159.1	nitrogenase iron protein NifH	Mediterraneibacter faecis	MSK.13.9	GCA_020539625.1
+19703379	INSDC	JAJBQK010000005.1	92725	93492	-	MCB5751090.1	nitrogenase iron protein NifH	Mediterraneibacter faecis	MSK.13.18	GCA_020539665.1
+19703379	INSDC	QTWE01000090.1	2504	3271	-	RGG16536.1	nitrogen fixation protein NifH	Ruminococcus sp. AF25-3LB	AF25-3LB	GCA_003460945.1
+19703379	INSDC	QTWG01000010.1	13424	14191	+	RGG29470.1	nitrogen fixation protein NifH	Ruminococcus sp. AF25-17	AF25-17	GCA_003461005.1
+19703379	INSDC	QTYY01000004.1	182110	182877	-	RGI20425.1	nitrogen fixation protein NifH	Ruminococcus sp. TF08-4	TF08-4	GCA_003462405.1

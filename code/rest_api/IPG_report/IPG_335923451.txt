@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+335923451	RefSeq	NZ_JABXYR010000002.1	234740	235492	+	WP_178978604.1	nitrogenase iron protein NifH	Mogibacterium timidum	W9173	GCF_013394805.1
+335923451	INSDC	JABXYR010000002.1	234740	235492	+	NWO23588.1	P-loop NTPase	Mogibacterium timidum	W9173	GCA_013394805.1

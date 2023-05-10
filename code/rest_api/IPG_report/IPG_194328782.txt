@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+194328782	RefSeq	NZ_QLTS01000004.1	86896	87666	+	WP_113077687.1	nitrogenase iron protein NifH	Phascolarctobacterium faecium DSM 14760	DSM 14760	GCF_003269275.1
+194328782	INSDC	QLTS01000004.1	86896	87666	+	RAS54344.1	nitrogenase iron protein NifH	Phascolarctobacterium faecium DSM 14760	DSM 14760	GCA_003269275.1

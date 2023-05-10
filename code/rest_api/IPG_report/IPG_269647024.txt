@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+269647024	RefSeq	NZ_RXYB01000021.1	9298	10047	+	WP_148605415.1	nitrogenase iron protein NifH	Acetobacterium tundrae	DSM 917	GCF_008086615.1
+269647024	RefSeq	NZ_WJBB01000006.1	206508	207257	-	WP_148605415.1	nitrogenase iron protein NifH	Acetobacterium tundrae	DER-2019	GCF_014284395.1
+269647024	INSDC	WJBB01000006.1	206508	207257	-	MBC3796838.1	AAA family ATPase	Acetobacterium tundrae	DER-2019	GCA_014284395.1

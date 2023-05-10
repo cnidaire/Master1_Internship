@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+260182597	INSDC	MK397848.1	1	518	+	QDM35237.1	nitrogenase reductase NifH	Ensifer aridi	RMT3	

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+212539371	RefSeq	NZ_RBXL01000001.1	601882	602766	+	WP_120795821.1	nitrogenase iron protein	Thiocapsa rosea	DSM 235	GCF_003634315.1
+212539371	INSDC	RBXL01000001.1	601882	602766	+	RKT43212.1	nitrogenase iron protein NifH	Thiocapsa rosea	DSM 235	GCA_003634315.1

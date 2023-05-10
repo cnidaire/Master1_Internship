@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+153150005	RefSeq	NZ_MRCT01000071.1	4622	5500	-	WP_088539083.1	nitrogenase iron protein NifH	Methanobrevibacter sp. 87.7	87.7	GCF_002208625.1
+153150005	INSDC	MRCT01000071.1	4622	5500	-	OWT32997.1	nitrogenase iron protein	Methanobrevibacter sp. 87.7	87.7	GCA_002208625.1

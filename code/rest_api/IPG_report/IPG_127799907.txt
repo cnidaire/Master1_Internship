@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+127799907	RefSeq	NZ_CP045300.1	757640	758521	+	WP_090120218.1	nitrogenase iron protein	Kosakonia arachidis	KACC 18508	GCF_009363135.1
+127799907	RefSeq	NZ_FPAU01000001.1	1328842	1329723	-	WP_090120218.1	nitrogenase iron protein	Kosakonia arachidis	Ah-143	GCF_900116535.1
+127799907	INSDC	FPAU01000001.1	1328842	1329723	-	SFT64989.1	Mo-nitrogenase iron protein subunit NifH	Kosakonia arachidis	Ah-143	GCA_900116535.1

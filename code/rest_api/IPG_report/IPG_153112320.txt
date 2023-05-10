@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+153112320	INSDC	AP018288.1	5672597	5673034	-	BAZ51955.1	nitrogenase iron protein NifH	Nostoc sp. NIES-4103	NIES-4103	GCA_002368335.1

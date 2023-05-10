@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+113258956	INSDC	KX230447.1	1	719	-	ANS12198.1	NifH	Rhizobium sp. TUTPVSA41	TUTPVSA41	

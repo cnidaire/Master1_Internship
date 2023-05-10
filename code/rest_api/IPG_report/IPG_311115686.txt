@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+311115686	RefSeq	NZ_CALYAU010000008.1	69944	70699	+	WP_168060669.1	nitrogenase iron protein NifH	Megasphaera stantonii		GCF_944393645.1
+311115686	RefSeq	NZ_SJOT01000008.1	14326	15081	-	WP_168060669.1	nitrogenase iron protein NifH	Megasphaera sp. SW808	SW808	GCF_012027795.1
+311115686	INSDC	SJOT01000008.1	14326	15081	-	NJE34296.1	nitrogenase iron protein	Megasphaera sp. SW808	SW808	GCA_012027795.1

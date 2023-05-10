@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+14990205	RefSeq	NC_010794.1	1749441	1750334	-	WP_012464212.1	nitrogenase iron protein	Methylacidiphilum infernorum V4	V4	GCF_000019665.1
+14990205	INSDC	CP000975.1	1749441	1750334	-	ACD83930.1	Nitrogenase subunit NifH (ATPase)	Methylacidiphilum infernorum V4	V4	GCA_000019665.1
+14990205	INSDC	KU509347.1	1	894	+	ANC58146.1	Mo-nitrogenase iron protein subunit NifH	Methylacidiphilum sp. RTK17.1	RTK17.1	

@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+219878001	RefSeq	NZ_JALJXW010000003.1	68348	69163	-	WP_253457627.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanocalculus sp. AMF5	AMF5	GCF_024170265.1
+219878001	INSDC	JALJXW010000003.1	68348	69163	-	MCP1662081.1	nitrogenase iron protein NifH	Methanocalculus sp. AMF5	AMF5	GCA_024170265.1
+219878001	INSDC	QZAD01000074.1	20057	20872	-	RQD80142.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanocalculus sp. MSAO_Arc1		GCA_003838185.1

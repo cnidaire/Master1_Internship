@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+333302337	INSDC	QCYW01000136.1	2800	3585	-	KAF5422539.1	nitrogenase iron protein NifH	ANME-2 cluster archaeon		GCA_013374455.1

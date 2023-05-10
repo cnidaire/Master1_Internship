@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+260164097	RefSeq	NZ_CABHMX010000012.1	62094	62867	-	WP_144092236.1	nitrogenase iron protein NifH	Blautia luti		GCF_902167715.1
+260164097	RefSeq	NZ_CABHNW010000006.1	7095	7868	+	WP_144092236.1	nitrogenase iron protein NifH	Blautia luti		GCF_902167945.1
+260164097	INSDC	CABHNW010000006.1	7095	7868	+	VUX30167.1	Nitrogenase iron protein 1	Blautia luti		GCA_902167945.1

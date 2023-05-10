@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+318173746	INSDC	JAAZOA010000196.1	3220	3936	-	NMC27580.1	nitrogen fixation protein NifH	Syntrophomonadaceae bacterium		GCA_012798055.1

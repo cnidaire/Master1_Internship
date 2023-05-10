@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+130527701	RefSeq	NZ_FQZM01000006.1	4286	5113	+	WP_072867214.1	nitrogenase iron protein	Desulfofundulus thermosubterraneus DSM 16057	DSM 16057	GCF_900142025.1
+130527701	RefSeq	NZ_JAAOEF010000004.1	528334	529161	-	WP_072867214.1	nitrogenase iron protein	Desulfofundulus sp. TPOSR	TPOSR	GCF_011393055.1
+130527701	RefSeq	NZ_RBWE01000001.1	699395	700222	+	WP_072867214.1	nitrogenase iron protein	Desulfofundulus salinum	435	GCF_003627965.1
+130527701	INSDC	JAAOEF010000004.1	528334	529161	-	NHM28868.1	nitrogenase iron protein	Desulfofundulus sp. TPOSR	TPOSR	GCA_011393055.1
+130527701	INSDC	RBWE01000001.1	699395	700222	+	RKO66115.1	nitrogenase iron protein	Desulfofundulus salinum	435	GCA_003627965.1
+130527701	INSDC	FQZM01000006.1	4286	5113	+	SHI53436.1	nitrogenase iron protein NifH	Desulfofundulus thermosubterraneus DSM 16057	DSM 16057	GCA_900142025.1

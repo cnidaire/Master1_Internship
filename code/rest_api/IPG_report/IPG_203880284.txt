@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+203880284	INSDC	DMQM01000031.1	910	1662	-	HAN57525.1	nitrogen fixation protein NifH	Erysipelotrichaceae bacterium		GCA_003455695.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+161825058	RefSeq	NZ_OCNJ01000003.1	352912	353805	-	WP_097278677.1	nitrogenase iron protein	Caenispirillum bisanense	USBA 140	GCF_900230255.1
+161825058	INSDC	OCNJ01000003.1	352912	353805	-	SOD93974.1	Mo-nitrogenase iron protein subunit NifH	Caenispirillum bisanense	USBA 140	GCA_900230255.1

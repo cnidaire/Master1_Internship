@@ -1,0 +1,16 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+202193804	RefSeq	NZ_CAKVQR010000010.1	67541	68305	-	WP_118160221.1	nitrogenase iron protein NifH	Ruminococcus bicirculans		GCF_934827675.1
+202193804	RefSeq	NZ_CAKVSD010000015.1	9002	9766	+	WP_118160221.1	nitrogenase iron protein NifH	Ruminococcus bicirculans		GCF_934831135.1
+202193804	RefSeq	NZ_CAKVTF010000014.1	54781	55545	-	WP_118160221.1	nitrogenase iron protein NifH	Ruminococcus bicirculans		GCF_934832255.1
+202193804	RefSeq	NZ_CAKVVR010000008.1	38324	39088	+	WP_118160221.1	nitrogenase iron protein NifH	Ruminococcus bicirculans		GCF_934834415.1
+202193804	RefSeq	NZ_CAKVWV010000009.1	67541	68305	-	WP_118160221.1	nitrogenase iron protein NifH	Ruminococcus bicirculans		GCF_934834805.1
+202193804	RefSeq	NZ_CAKWDB010000008.1	67541	68305	-	WP_118160221.1	nitrogenase iron protein NifH	Ruminococcus bicirculans		GCF_934837865.1
+202193804	RefSeq	NZ_CAKWGI010000009.1	38668	39432	+	WP_118160221.1	nitrogenase iron protein NifH	Ruminococcus bicirculans		GCF_934838935.1
+202193804	RefSeq	NZ_CAKWKZ010000009.1	38538	39302	+	WP_118160221.1	nitrogenase iron protein NifH	Ruminococcus bicirculans		GCF_934841175.1
+202193804	RefSeq	NZ_CAKXMJ010000008.1	38590	39354	+	WP_118160221.1	nitrogenase iron protein NifH	Ruminococcus bicirculans		GCF_934876705.1
+202193804	RefSeq	NZ_CAKXMN010000021.1	10912	11676	+	WP_118160221.1	nitrogenase iron protein NifH	Ruminococcus bicirculans		GCF_934876755.1
+202193804	RefSeq	NZ_CAKXNL010000012.1	28573	29337	-	WP_118160221.1	nitrogenase iron protein NifH	Ruminococcus bicirculans		GCF_934879075.1
+202193804	RefSeq	NZ_CAKXRY010000008.1	38152	38916	+	WP_118160221.1	nitrogenase iron protein NifH	Ruminococcus bicirculans		GCF_934880575.1
+202193804	INSDC	DOCT01000025.1	40619	41383	+	HBM92920.1	nitrogenase iron protein	Ruminococcus sp.		GCA_003503845.1
+202193804	INSDC	DPNI01000026.1	41009	41773	+	HCV91506.1	nitrogenase iron protein	Ruminococcus sp.		GCA_003540575.1
+202193804	INSDC	QTVV01000026.1	6799	7563	+	RGF91961.1	nitrogenase iron protein	Ruminococcus sp. AM54-1NS	AM54-1NS	GCA_003460765.1

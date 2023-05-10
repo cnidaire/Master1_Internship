@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+32345896	RefSeq	NC_019943.1	759200	760012	+	WP_015284795.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanoregula formicica SMSP	SMSP	GCF_000327485.1
+32345896	INSDC	CP003167.1	759200	760012	+	AGB01831.1	nitrogenase subunit NifH (ATPase)	Methanoregula formicica SMSP	SMSP	GCA_000327485.1
+32345896	PAT	N/A				QPZ16256.1	Sequence 81 from patent US 10793863	Unknown		

@@ -1,0 +1,117 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+6026621	RefSeq	NC_009621.1	1146077	1146970	-	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae WSM419	WSM419	GCF_000017145.1
+6026621	RefSeq	NZ_ATTL01000056.1	15126	16019	-	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae DI28	DI28	GCF_000419665.1
+6026621	RefSeq	NZ_ATTR01000040.1	14965	15858	+	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae WSM244	WSM244	GCF_000419785.1
+6026621	RefSeq	NZ_CABFNB010000145.1	11758	12651	-	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae		GCF_901933175.1
+6026621	RefSeq	NZ_CP083372.1	81823	82716	-	WP_011970918.1	nitrogenase iron protein	Ensifer sp. T173	T173	GCF_017488845.2
+6026621	RefSeq	NZ_CP088111.1	907569	908462	-	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae WSM1115	WSM1115	GCF_021052565.1
+6026621	RefSeq	NZ_CP104149.1	799650	800543	-	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	SU277	GCF_025200695.1
+6026621	RefSeq	NZ_JAGEPM010000002.1	737633	738526	+	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	T2	GCF_017571595.1
+6026621	RefSeq	NZ_JAGEPO010000004.1	839245	840138	-	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	T10	GCF_017571565.1
+6026621	RefSeq	NZ_KB905365.1	138764	139657	-	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae WSM1115	WSM1115	GCF_000378785.1
+6026621	RefSeq	NZ_KE386500.1	696769	697662	-	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	WSM4191	GCF_000427485.1
+6026621	RefSeq	NZ_NBUA01000022.1	15523	16416	-	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	Str18	GCF_002864945.1
+6026621	RefSeq	NZ_NBUJ01000005.1	9922	10815	-	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	Str9	GCF_002865125.1
+6026621	RefSeq	NZ_NBUK01000050.1	50603	51496	+	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	Str8	GCF_002865145.1
+6026621	RefSeq	NZ_NBUP01000227.1	10818	11711	+	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	Str3	GCF_002865225.1
+6026621	RefSeq	NZ_RPIT01000100.1	10655	11548	+	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1694	GCF_004001945.1
+6026621	RefSeq	NZ_RPJB01000080.1	10349	11242	+	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1664	GCF_004002155.1
+6026621	RefSeq	NZ_RPJH01000071.1	13312	14205	+	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1652	GCF_004002565.1
+6026621	RefSeq	NZ_RPJI01000088.1	8323	9216	-	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1641	GCF_004017585.1
+6026621	RefSeq	NZ_RPJJ01000087.1	10595	11488	+	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1638	GCF_004017565.1
+6026621	RefSeq	NZ_RPJL01000082.1	10806	11699	+	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1631	GCF_004002295.1
+6026621	RefSeq	NZ_RPJM01000079.1	10780	11673	+	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1630	GCF_004002285.1
+6026621	RefSeq	NZ_RPJN01000063.1	10349	11242	+	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1629	GCF_004002305.1
+6026621	RefSeq	NZ_RPJP01000050.1	17221	18114	-	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1624	GCF_004002265.1
+6026621	RefSeq	NZ_RPJW01000087.1	11001	11894	+	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1611	GCF_004002365.1
+6026621	RefSeq	NZ_RPJX01000078.1	8758	9651	-	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1608	GCF_004002375.1
+6026621	RefSeq	NZ_RPJY01000065.1	13304	14197	+	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1607	GCF_004002395.1
+6026621	RefSeq	NZ_RPJZ01000051.1	13837	14730	+	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1606	GCF_004002725.1
+6026621	RefSeq	NZ_RPMY01000041.1	34423	35316	+	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1169	GCF_004003955.1
+6026621	RefSeq	NZ_RPND01000054.1	14179	15072	+	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1150	GCF_004004015.1
+6026621	RefSeq	NZ_RPNE01000050.1	15357	16250	-	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1149	GCF_004004025.1
+6026621	RefSeq	NZ_RPNH01000053.1	10513	11406	-	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1066	GCF_004004045.1
+6026621	RefSeq	NZ_RPNL01000053.1	8816	9709	-	WP_011970918.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1025	GCF_004004125.1
+6026621	RefSeq	NZ_RPNU01000048.1	13499	14392	+	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1004	GCF_004004485.1
+6026621	RefSeq	NZ_RPNW01000068.1	12844	13737	+	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	3082	GCF_004004695.1
+6026621	RefSeq	NZ_VISX01000039.1	14938	15831	-	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	M14-1	GCF_007827675.1
+6026621	RefSeq	NZ_VISY01000029.1	14938	15831	-	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	SF3.41	GCF_007827705.1
+6026621	RefSeq	NZ_VISZ01000042.1	10345	11238	+	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	M19-1	GCF_007828595.1
+6026621	RefSeq	NZ_VITA01000035.1	14173	15066	+	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1037	GCF_007827695.1
+6026621	RefSeq	NZ_VITB01000038.1	14938	15831	-	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	M7-4	GCF_007827875.1
+6026621	RefSeq	NZ_VITC01000025.1	34406	35299	+	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	M26-2	GCF_007827735.1
+6026621	RefSeq	NZ_WIRH01000029.1	10748	11641	+	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	A321	GCF_009599935.1
+6026621	RefSeq	NZ_WIRT01000106.1	3235	4128	-	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	KH36b	GCF_009599775.1
+6026621	RefSeq	NZ_WIRU01000034.1	3235	4128	-	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	KH36c	GCF_009599905.1
+6026621	RefSeq	NZ_WIRV01000117.1	3235	4128	-	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	KH36d	GCF_009599825.1
+6026621	RefSeq	NZ_WIRZ01000153.1	15126	16019	-	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	KH53a	GCF_009599955.1
+6026621	RefSeq	NZ_WISA01000023.1	15126	16019	-	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	KH53b	GCF_009599855.1
+6026621	RefSeq	NZ_WISB01000181.1	14514	15407	+	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	M1	GCF_009601285.1
+6026621	RefSeq	NZ_WISD01000058.1	9499	10392	-	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	M102	GCF_009601495.1
+6026621	RefSeq	NZ_WISI01000085.1	8864	9757	-	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	M2	GCF_009601305.1
+6026621	RefSeq	NZ_WISK01000132.1	7575	8468	-	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	M22	GCF_009601655.1
+6026621	RefSeq	NZ_WISQ01000034.1	13696	14589	+	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	M58	GCF_009599705.1
+6026621	RefSeq	NZ_WISQ01000140.1	16530	17423	-	WP_011970918.1	nitrogenase iron protein	Sinorhizobium medicae	M58	GCF_009599705.1
+6026621	RefSeq	NZ_WXFA01000091.1	3231	4124	-	WP_011970918.1	nitrogenase iron protein	Ensifer sp. T173	T173	GCF_016865175.1
+6026621	INSDC	CP000740.1	1146077	1146970	-	ABR64829.1	nitrogenase iron protein	Sinorhizobium medicae WSM419	WSM419	GCA_000017145.1
+6026621	INSDC	WXFA01000091.1	3231	4124	-	MBM3096316.1	nitrogenase iron protein	Ensifer sp. T173	T173	GCA_016865175.1
+6026621	INSDC	JAGEPO010000004.1	839245	840138	-	MBO1945123.1	nitrogenase iron protein	Sinorhizobium medicae	T10	GCA_017571565.1
+6026621	INSDC	JAGEPM010000002.1	737633	738526	+	MBO1960346.1	nitrogenase iron protein	Sinorhizobium medicae	T2	GCA_017571595.1
+6026621	INSDC	WIRH01000029.1	10748	11641	+	MQU73886.1	nitrogenase iron protein	Sinorhizobium medicae	A321	GCA_009599935.1
+6026621	INSDC	WIRT01000106.1	3235	4128	-	MQV48841.1	nitrogenase iron protein	Sinorhizobium medicae	KH36b	GCA_009599775.1
+6026621	INSDC	WIRU01000034.1	3235	4128	-	MQV52585.1	nitrogenase iron protein	Sinorhizobium medicae	KH36c	GCA_009599905.1
+6026621	INSDC	WIRV01000117.1	3235	4128	-	MQV74514.1	nitrogenase iron protein	Sinorhizobium medicae	KH36d	GCA_009599825.1
+6026621	INSDC	WISA01000023.1	15126	16019	-	MQV83761.1	nitrogenase iron protein	Sinorhizobium medicae	KH53b	GCA_009599855.1
+6026621	INSDC	WIRZ01000153.1	15126	16019	-	MQV95491.1	nitrogenase iron protein	Sinorhizobium medicae	KH53a	GCA_009599955.1
+6026621	INSDC	WISQ01000034.1	13696	14589	+	MQV97229.1	nitrogenase iron protein	Sinorhizobium medicae	M58	GCA_009599705.1
+6026621	INSDC	WISQ01000140.1	16530	17423	-	MQW01114.1	nitrogenase iron protein	Sinorhizobium medicae	M58	GCA_009599705.1
+6026621	INSDC	WISB01000181.1	14514	15407	+	MQW72946.1	nitrogenase iron protein	Sinorhizobium medicae	M1	GCA_009601285.1
+6026621	INSDC	WISD01000058.1	9499	10392	-	MQX46678.1	nitrogenase iron protein	Sinorhizobium medicae	M102	GCA_009601495.1
+6026621	INSDC	WISK01000132.1	7575	8468	-	MQX79075.1	nitrogenase iron protein	Sinorhizobium medicae	M22	GCA_009601655.1
+6026621	INSDC	WISI01000085.1	8864	9757	-	MQX85681.1	nitrogenase iron protein	Sinorhizobium medicae	M2	GCA_009601305.1
+6026621	INSDC	NBUA01000022.1	15523	16416	-	PLT90964.1	nitrogenase iron protein	Sinorhizobium medicae	Str18	GCA_002864945.1
+6026621	INSDC	NBUB01000047.1	10403	11296	+	PLU05818.1	nitrogenase iron protein	Sinorhizobium medicae	Str17	GCA_002864955.1
+6026621	INSDC	NBUD01000005.1	14809	15702	-	PLU08130.1	nitrogenase iron protein	Sinorhizobium medicae	Str15	GCA_002865005.1
+6026621	INSDC	NBUC01000027.1	8414	9307	-	PLU08228.1	nitrogenase iron protein	Sinorhizobium medicae	Str16	GCA_002864985.1
+6026621	INSDC	NBUG01000159.1	10677	11570	+	PLU13464.1	nitrogenase iron protein	Sinorhizobium medicae	Str12	GCA_002865035.1
+6026621	INSDC	NBUF01000132.1	9165	10058	-	PLU14642.1	nitrogenase iron protein	Sinorhizobium medicae	Str13	GCA_002865045.1
+6026621	INSDC	NBUE01000170.1	9457	10350	-	PLU19306.1	nitrogenase iron protein	Sinorhizobium medicae	Str14	GCA_002865025.1
+6026621	INSDC	NBUH01000153.1	9851	10744	-	PLU32602.1	nitrogenase iron protein	Sinorhizobium medicae	Str11	GCA_002865055.1
+6026621	INSDC	NBUI01000016.1	23759	24652	-	PLU39446.1	nitrogenase iron protein	Sinorhizobium medicae	Str10	GCA_002865105.1
+6026621	INSDC	NBUK01000050.1	50603	51496	+	PLU44619.1	nitrogenase iron protein	Sinorhizobium medicae	Str8	GCA_002865145.1
+6026621	INSDC	NBUJ01000005.1	9922	10815	-	PLU46647.1	nitrogenase iron protein	Sinorhizobium medicae	Str9	GCA_002865125.1
+6026621	INSDC	NBUL01000237.1	9987	10880	-	PLU54750.1	nitrogenase iron protein	Sinorhizobium medicae	Str7	GCA_002865155.1
+6026621	INSDC	NBUM01000043.1	15045	15938	-	PLU57662.1	nitrogenase iron protein	Sinorhizobium medicae	Str6	GCA_002865185.1
+6026621	INSDC	NBUP01000227.1	10818	11711	+	PLU64609.1	nitrogenase iron protein	Sinorhizobium medicae	Str3	GCA_002865225.1
+6026621	INSDC	NBUQ01000015.1	10669	11562	+	PLU81552.1	nitrogenase iron protein	Sinorhizobium medicae	Str1	GCA_002865265.1
+6026621	INSDC	NWVF01000038.1	14540	15433	-	PND17946.1	nitrogenase iron protein	Ensifer sp. MMN_5	MMN_5	GCA_002885935.1
+6026621	INSDC	RPIT01000100.1	10655	11548	+	RVH87816.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1694	GCA_004001945.1
+6026621	INSDC	RPJB01000080.1	10349	11242	+	RVI53635.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1664	GCA_004002155.1
+6026621	INSDC	RPJH01000071.1	13312	14205	+	RVI88839.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1652	GCA_004002565.1
+6026621	INSDC	RPJJ01000087.1	10595	11488	+	RVI99410.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1638	GCA_004017565.1
+6026621	INSDC	RPJI01000088.1	8323	9216	-	RVJ16358.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1641	GCA_004017585.1
+6026621	INSDC	RPJM01000079.1	10780	11673	+	RVJ23152.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1630	GCA_004002285.1
+6026621	INSDC	RPJP01000050.1	17221	18114	-	RVJ34003.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1624	GCA_004002265.1
+6026621	INSDC	RPJL01000082.1	10806	11699	+	RVJ36081.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1631	GCA_004002295.1
+6026621	INSDC	RPJY01000065.1	13304	14197	+	RVJ50030.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1607	GCA_004002395.1
+6026621	INSDC	RPJN01000063.1	10349	11242	+	RVJ50981.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1629	GCA_004002305.1
+6026621	INSDC	RPJX01000078.1	8758	9651	-	RVJ67856.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1608	GCA_004002375.1
+6026621	INSDC	RPJW01000087.1	11001	11894	+	RVJ69734.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1611	GCA_004002365.1
+6026621	INSDC	RPJZ01000051.1	13837	14730	+	RVK11379.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1606	GCA_004002725.1
+6026621	INSDC	RPMY01000041.1	34423	35316	+	RVO72404.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1169	GCA_004003955.1
+6026621	INSDC	RPNE01000050.1	15357	16250	-	RVP46302.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1149	GCA_004004025.1
+6026621	INSDC	RPNH01000053.1	10513	11406	-	RVP60057.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1066	GCA_004004045.1
+6026621	INSDC	RPND01000054.1	14179	15072	+	RVP70284.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1150	GCA_004004015.1
+6026621	INSDC	RPNL01000053.1	8816	9709	-	RVP94849.1	nitrogenase iron protein	Sinorhizobium meliloti	USDA1025	GCA_004004125.1
+6026621	INSDC	RPNU01000048.1	13499	14392	+	RVQ39959.1	nitrogenase iron protein	Sinorhizobium medicae	USDA1004	GCA_004004485.1
+6026621	INSDC	RPNW01000068.1	12844	13737	+	RVQ60384.1	nitrogenase iron protein	Sinorhizobium medicae	3082	GCA_004004695.1
+6026621	INSDC	VISY01000029.1	14938	15831	-	TWA13684.1	Mo-nitrogenase iron protein subunit NifH	Sinorhizobium medicae	SF3.41	GCA_007827705.1
+6026621	INSDC	VISX01000039.1	14938	15831	-	TWA13715.1	Mo-nitrogenase iron protein subunit NifH	Sinorhizobium medicae	M14-1	GCA_007827675.1
+6026621	INSDC	VISZ01000042.1	10345	11238	+	TWA24428.1	Mo-nitrogenase iron protein subunit NifH	Sinorhizobium medicae	M19-1	GCA_007828595.1
+6026621	INSDC	VITA01000035.1	14173	15066	+	TWA31540.1	Mo-nitrogenase iron protein subunit NifH	Sinorhizobium medicae	USDA1037	GCA_007827695.1
+6026621	INSDC	VITB01000038.1	14938	15831	-	TWA34713.1	Mo-nitrogenase iron protein subunit NifH	Sinorhizobium medicae	M7-4	GCA_007827875.1
+6026621	INSDC	VITC01000025.1	34406	35299	+	TWA45998.1	Mo-nitrogenase iron protein subunit NifH	Sinorhizobium medicae	M26-2	GCA_007827735.1
+6026621	INSDC	CP083372.1	81823	82716	-	UBI79453.1	nitrogenase iron protein	Ensifer sp. T173	T173	GCA_017488845.2
+6026621	INSDC	CP088111.1	907569	908462	-	UFX05808.1	nitrogenase iron protein	Sinorhizobium medicae WSM1115	WSM1115	GCA_021052565.1
+6026621	INSDC	CP104149.1	799650	800543	-	UWU11597.1	nitrogenase iron protein	Sinorhizobium medicae	SU277	GCA_025200695.1
+6026621	INSDC	CABFNB010000145.1	11758	12651	-	VTZ64928.1	Nitrogenase iron protein	Sinorhizobium medicae		GCA_901933175.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+340203579	INSDC	JACIHF010000005.1	293461	294357	+	MBB4362969.1	nitrogenase iron protein NifH	Bradyrhizobium sp. CIR18	CIR18	GCA_014198295.1
+340203579	INSDC	JACBZW010000004.1	125019	125915	+	NYG45178.1	nitrogenase iron protein NifH	Bradyrhizobium sp. IAR9	IAR9	GCA_013408065.1

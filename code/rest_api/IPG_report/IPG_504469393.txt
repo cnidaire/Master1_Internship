@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+504469393	RefSeq	NZ_JACBYI010000003.1	90633	91502	-	WP_228744984.1	nitrogenase iron protein NifH	Paenibacillus sp. S150	S150	GCF_019352175.1

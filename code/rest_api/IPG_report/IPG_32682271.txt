@@ -1,0 +1,11 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+32682271	RefSeq	NC_020134.1	2165205	2166053	+	WP_015359640.1	nitrogenase iron protein	Thermoclostridium stercorarium subsp. stercorarium DSM 8532	DSM 8532	GCF_000331995.1
+32682271	RefSeq	NC_020887.2	2160956	2161804	+	WP_015359640.1	nitrogenase iron protein	Thermoclostridium stercorarium subsp. stercorarium DSM 8532	DSM 8532	GCF_000349885.2
+32682271	RefSeq	NZ_CP014672.1	2228438	2229286	+	WP_015359640.1	nitrogenase iron protein	Thermoclostridium stercorarium subsp. thermolacticum DSM 2910	DSM 2910	GCF_001697245.1
+32682271	RefSeq	NZ_CP014673.1	2320250	2321098	+	WP_015359640.1	nitrogenase iron protein	Thermoclostridium stercorarium subsp. leptospartum DSM 9219	DSM 9219	GCF_001697285.1
+32682271	RefSeq	NZ_CP110889.1	2206511	2207359	+	WP_015359640.1	nitrogenase iron protein	Thermoclostridium stercorarium	RKWS1	GCF_026240815.1
+32682271	INSDC	CP004044.1	2165205	2166053	+	AGC68961.1	nitrogenase iron protein NifH	Thermoclostridium stercorarium subsp. stercorarium DSM 8532	DSM 8532	GCA_000331995.1
+32682271	INSDC	CP003992.2	2160956	2161804	+	AGI39942.1	iron nitrogenase	Thermoclostridium stercorarium subsp. stercorarium DSM 8532	DSM 8532	GCA_000349885.2
+32682271	INSDC	CP014672.1	2228438	2229286	+	ANW99263.1	nitrogenase reductase	Thermoclostridium stercorarium subsp. thermolacticum DSM 2910	DSM 2910	GCA_001697245.1
+32682271	INSDC	CP014673.1	2320250	2321098	+	ANX01891.1	nitrogenase reductase	Thermoclostridium stercorarium subsp. leptospartum DSM 9219	DSM 9219	GCA_001697285.1
+32682271	INSDC	CP110889.1	2206511	2207359	+	UZQ84936.1	nitrogenase iron protein	Thermoclostridium stercorarium	RKWS1	GCA_026240815.1

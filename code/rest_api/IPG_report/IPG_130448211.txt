@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+130448211	RefSeq	NZ_FQTY01000002.1	241367	242182	+	WP_234949976.1	nitrogenase iron protein NifH	Tissierella praeacuta DSM 18095	DSM 18095	GCF_900128955.1
+130448211	INSDC	FQTY01000002.1	241367	242182	+	SHE46175.1	nitrogenase iron protein NifH	Tissierella praeacuta DSM 18095	DSM 18095	GCA_900128955.1
+130448211	INSDC	UHHZ01000001.1	2902116	2902931	-	SUP04448.1	Nitrogenase iron protein 1	Tissierella praeacuta	NCTC11158	GCA_900460335.1

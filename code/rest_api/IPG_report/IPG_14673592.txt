@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+14673592	RefSeq	NC_010424.1	163686	164528	+	WP_012301305.1	nitrogenase iron protein	Candidatus Desulforudis audaxviator MP104C	MP104C	GCF_000018425.1
+14673592	RefSeq	NZ_CP034260.1	165266	166108	+	WP_012301305.1	nitrogenase iron protein	Candidatus Desulforudis audaxviator	BYF	GCF_003932015.1
+14673592	Swiss-Prot	N/A				B1I0Y8.1	Nitrogenase iron protein	Candidatus Desulforudis audaxviator MP104C		
+14673592	INSDC	CP000860.1	163686	164528	+	ACA58711.1	nitrogenase iron protein	Candidatus Desulforudis audaxviator MP104C	MP104C	GCA_000018425.1
+14673592	INSDC	CP034260.2	165266	166108	+	AZK58713.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Candidatus Desulforudis audaxviator	BYF	GCA_003932015.2

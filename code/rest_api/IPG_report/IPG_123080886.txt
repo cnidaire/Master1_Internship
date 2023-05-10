@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+123080886	RefSeq	NZ_FMXO01000011.1	90859	91683	+	WP_092121096.1	nitrogenase iron protein	Desulfonatronum thiosulfatophilum	ASO4-2	GCF_900104215.1
+123080886	INSDC	FMXO01000011.1	90859	91683	+	SDB43171.1	nitrogenase iron protein NifH	Desulfonatronum thiosulfatophilum	ASO4-2	GCA_900104215.1

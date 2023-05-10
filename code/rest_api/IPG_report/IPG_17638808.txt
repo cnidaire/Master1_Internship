@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+17638808	INSDC	FJ455046.1	1	364	+	ACR19168.1	NifH	Sphingomonas sp. BR12257	BR12257	

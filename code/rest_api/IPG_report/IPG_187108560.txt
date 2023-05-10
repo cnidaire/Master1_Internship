@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+187108560	RefSeq	NZ_CAJZAT010000192.1	49791	50672	-	WP_112175014.1	nitrogenase iron protein	Paraburkholderia unamae		GCF_914492735.1
+187108560	RefSeq	NZ_QEOB01000003.1	27193	28074	-	WP_112175014.1	nitrogenase iron protein	Paraburkholderia unamae	SCZa-39	GCF_003096875.1
+187108560	RefSeq	NZ_QLSU01000022.1	89894	90775	+	WP_112175014.1	nitrogenase iron protein	Paraburkholderia unamae	CATux-332	GCF_003268775.1
+187108560	INSDC	CAJZAT010000192.1	49791	50672	-	CAG9267827.1	Nitrogenase iron protein	Paraburkholderia unamae		GCA_914492735.1
+187108560	INSDC	QEOB01000003.1	27193	28074	-	PVX85461.1	Mo-nitrogenase iron protein subunit NifH	Paraburkholderia unamae	SCZa-39	GCA_003096875.1
+187108560	INSDC	QLSU01000022.1	89894	90775	+	RAR55328.1	Mo-nitrogenase iron protein subunit NifH	Paraburkholderia unamae	CATux-332	GCA_003268775.1

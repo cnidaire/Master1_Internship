@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+264868821	RefSeq	NZ_VLKD01000001.1	1931191	1931949	-	WP_144676365.1	nitrogenase iron protein NifH	Desulfitobacterium sp. LBE	LBE	GCF_007830365.1
+264868821	INSDC	VLKD01000001.1	1931191	1931949	-	TWH57559.1	nitrogenase iron protein NifH	Desulfitobacterium sp. LBE	LBE	GCA_007830365.1

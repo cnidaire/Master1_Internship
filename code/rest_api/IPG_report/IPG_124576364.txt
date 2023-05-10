@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+124576364	RefSeq	NZ_FNPG01000015.1	40653	41501	+	WP_074717455.1	nitrogenase iron protein	Lachnobacterium bovis DSM 14045	DSM 14045	GCF_900107245.1
+124576364	INSDC	JAFOPD010000075.1	6664	7512	-	MBQ1802730.1	nitrogenase iron protein	Lachnobacterium sp.		GCA_017417785.1
+124576364	INSDC	FNPG01000015.1	40653	41501	+	SDY37198.1	nitrogenase iron protein NifH	Lachnobacterium bovis DSM 14045	DSM 14045	GCA_900107245.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+6592061	INSDC	EF153397.1	1	660	+	ABM05632.1	dinitrogenase reductase	Bradyrhizobium yuanmingense	CCBAU 45079	
+6592061	INSDC	FJ514064.1	1	661	+	ACS89055.1	NifH	Bradyrhizobium yuanmingense	SR121	

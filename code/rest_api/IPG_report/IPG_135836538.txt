@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+135836538	RefSeq	NZ_FTOA01000001.1	370596	371495	+	WP_076398282.1	nitrogenase iron protein	Insolitispirillum peregrinum	DSM 11589	GCF_900156605.1
+135836538	INSDC	FTOA01000001.1	370596	371495	+	SIS37829.1	Mo-nitrogenase iron protein subunit NifH	Insolitispirillum peregrinum	DSM 11589	GCA_900156605.1

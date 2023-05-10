@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+130950391	RefSeq	NZ_FRAC01000032.1	37732	38553	+	WP_073279762.1	nitrogenase iron protein	Anaerocolumna jejuensis DSM 15929	DSM 15929	GCF_900142215.1
+130950391	INSDC	FRAC01000032.1	37732	38553	+	SHL41104.1	nitrogenase iron protein NifH	Anaerocolumna jejuensis DSM 15929	DSM 15929	GCA_900142215.1

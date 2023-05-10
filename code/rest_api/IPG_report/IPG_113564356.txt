@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+113564356	RefSeq	NZ_MAGO01000009.1	90094	90918	+	WP_067619323.1	nitrogenase iron protein	Dissulfuribacter thermophilus	S69	GCF_001687335.1
+113564356	INSDC	MAGO01000009.1	90094	90918	+	OCC14792.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Dissulfuribacter thermophilus	S69	GCA_001687335.1

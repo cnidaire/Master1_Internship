@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+281064054	RefSeq	NZ_VUMV01000010.1	13271	14116	+	WP_154458811.1	nitrogenase iron protein NifH	Bilifractor porci	Oil+RF-744-WCA-WT-13	GCF_009696005.1
+281064054	INSDC	VUMV01000010.1	13271	14116	+	MST82910.1	AAA family ATPase	Bilifractor porci	Oil+RF-744-WCA-WT-13	GCA_009696005.1

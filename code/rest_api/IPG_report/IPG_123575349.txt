@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+123575349	RefSeq	NZ_FNCT01000006.1	73445	74326	-	WP_090444295.1	nitrogenase iron protein	Pseudomonas benzenivorans	DSM 8628	GCF_900100495.1
+123575349	INSDC	FNCT01000006.1	73445	74326	-	SDH13122.1	Mo-nitrogenase iron protein subunit NifH	Pseudomonas benzenivorans	DSM 8628	GCA_900100495.1

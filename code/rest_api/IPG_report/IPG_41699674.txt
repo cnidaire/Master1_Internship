@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+41699674	INSDC	CBBQ010000076.1	26584	27336	+	CDA34612.1	mo-nitrogenase iron protein subunit NifH	Firmicutes bacterium CAG:536		GCA_000434355.1
+41699674	INSDC	FR878527.1	26584	27336	+	CDA34612.1	mo-nitrogenase iron protein subunit NifH	Firmicutes bacterium CAG:536		GCA_000434355.1
+41699674	INSDC	CVOD01000012.1	24124	24876	+	CRH84087.1	Nitrogenase iron protein 1	Chlamydia trachomatis	H29IMS	GCA_001398415.1

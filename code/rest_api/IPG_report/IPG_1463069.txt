@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+1463069	RefSeq	NC_008576.1	1497890	1498780	-	WP_011712868.1	nitrogenase iron protein	Magnetococcus marinus MC-1	MC-1	GCF_000014865.1
+1463069	Swiss-Prot	N/A				A0L6X0.1	Nitrogenase iron protein	Magnetococcus marinus MC-1		
+1463069	INSDC	CP000471.1	1497890	1498780	-	ABK43713.1	Mo-nitrogenase iron protein subunit NifH	Magnetococcus marinus MC-1	MC-1	GCA_000014865.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+19677882	INSDC	FP929036.1	1082045	1082920	+	CBK74006.1	Nitrogenase subunit NifH (ATPase)	Butyrivibrio fibrisolvens 16/4	16/4	GCA_000209815.1

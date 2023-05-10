@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+264884675	RefSeq	NZ_VLKG01000001.1	375895	376776	+	WP_144570098.1	nitrogenase iron protein	Azomonas agilis	DSM 375	GCF_007830255.1
+264884675	INSDC	VLKG01000001.1	375895	376776	+	TWH77433.1	Mo-nitrogenase iron protein subunit NifH /V-nitrogenase iron protein subunit VnfH	Azomonas agilis	DSM 375	GCA_007830255.1

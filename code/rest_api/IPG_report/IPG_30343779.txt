@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+30343779	RefSeq	NZ_JH815363.1	23996	24826	+	WP_005966699.1	nitrogenase iron protein NifH	Fusobacterium periodonticum D10	D10	GCF_000297655.1
+30343779	INSDC	ACIF01000146.1	42	872	+	EKA93939.1	nitrogenase iron protein	Fusobacterium periodonticum D10	D10	GCA_000297655.1
+30343779	INSDC	JH815363.1	23996	24826	+	EKA93939.1	nitrogenase iron protein	Fusobacterium periodonticum D10	D10	GCA_000297655.1

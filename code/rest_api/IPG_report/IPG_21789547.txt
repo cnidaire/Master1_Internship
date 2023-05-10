@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+21789547	RefSeq	NZ_GL622359.1	189360	190130	+	WP_006597629.1	nitrogenase iron protein NifH	Pseudoramibacter alactolyticus ATCC 23263	ATCC 23263	GCF_000185505.1
+21789547	INSDC	AEQN01000005.1	75610	76380	+	EFV02738.1	putative nitrogenase iron protein	Pseudoramibacter alactolyticus ATCC 23263	ATCC 23263	GCA_000185505.1
+21789547	INSDC	GL622359.1	189360	190130	+	EFV02738.1	putative nitrogenase iron protein	Pseudoramibacter alactolyticus ATCC 23263	ATCC 23263	GCA_000185505.1

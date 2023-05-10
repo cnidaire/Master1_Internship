@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+159256803	RefSeq	NZ_NQXW01000008.1	47740	48504	-	WP_095629583.1	nitrogenase iron protein NifH	Megasphaera sp. ASD88	ASD88	GCF_002287425.1
+159256803	INSDC	NQXW01000008.1	47740	48504	-	PAV39034.1	nitrogen fixation protein NifH	Megasphaera sp. ASD88	ASD88	GCA_002287425.1

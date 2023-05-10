@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+100425817	INSDC	LNQE01001494.1	9801	10508	+	KUG16497.1	nitrogenase subunit nifh, type 1	hydrocarbon metagenome		GCA_001483165.1

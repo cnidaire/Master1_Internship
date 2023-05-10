@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+25257783	RefSeq	NC_018515.1	4178369	4179196	-	WP_014904758.1	nitrogenase iron protein	Desulfosporosinus meridiei DSM 13257	DSM 13257	GCF_000231385.2
+25257783	RefSeq	NZ_FNCP01000001.1	354247	355074	-	WP_014904758.1	nitrogenase iron protein	Desulfosporosinus hippei DSM 8344	DSM 8344	GCF_900100785.1
+25257783	RefSeq	NZ_JMGA01000028.1	70660	71487	-	WP_014904758.1	nitrogenase iron protein	Desulfosporosinus sp. HMP52	HMP52	GCF_000765145.1
+25257783	INSDC	CP003629.1	4178369	4179196	-	AFQ45849.1	Mo-nitrogenase iron protein subunit NifH	Desulfosporosinus meridiei DSM 13257	DSM 13257	GCA_000231385.3
+25257783	INSDC	JMGA01000028.1	70660	71487	-	KGK88792.1	nitrogenase reductase	Desulfosporosinus sp. HMP52	HMP52	GCA_000765145.1
+25257783	INSDC	FNCP01000001.1	354247	355074	-	SDG20466.1	Mo-nitrogenase iron protein subunit NifH	Desulfosporosinus hippei DSM 8344	DSM 8344	GCA_900100785.1

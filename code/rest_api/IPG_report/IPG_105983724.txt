@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+105983724	INSDC	KR137624.1	1	325	+	AMQ98987.1	NifH	Dendronalium phyllosphericum CENA369	CENA369	

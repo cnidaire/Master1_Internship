@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+153122793	INSDC	AP018314.1	2435308	2435784	-	BAZ80943.1	nitrogenase iron protein NifH	Sphaerospermopsis kisseleviana NIES-73	NIES-73	GCA_002368075.1
+153122793	INSDC	BJCE01000050.1	22426	22902	+	GCL36808.1	nitrogenase iron protein NifH	Sphaerospermopsis reniformis	NIES-1949	GCA_005402885.1

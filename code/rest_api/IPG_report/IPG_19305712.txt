@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+19305712	INSDC	GU256450.1	1	370	+	ADB57030.1	NifH	Azospirillum melinis	LMG 24250	

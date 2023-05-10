@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+272806088	RefSeq	NZ_JACHII010000001.1	487211	488095	-	WP_150060742.1	nitrogenase iron protein	Roseospira marina	DSM 15113	GCF_014203135.1
+272806088	RefSeq	NZ_JACIGJ010000001.1	61651	62535	+	WP_150060742.1	nitrogenase iron protein	Roseospira marina	DSM 15113	GCF_014197855.1
+272806088	RefSeq	NZ_VWPJ01000001.1	488266	489150	-	WP_150060742.1	nitrogenase iron protein	Roseospira marina	DSM 15113	GCF_008630015.1
+272806088	INSDC	VWPJ01000001.1	488266	489150	-	KAA5607609.1	nitrogenase iron protein	Roseospira marina	DSM 15113	GCA_008630015.1
+272806088	INSDC	JACIGJ010000001.1	61651	62535	+	MBB4312195.1	nitrogenase iron protein NifH	Roseospira marina	DSM 15113	GCA_014197855.1
+272806088	INSDC	JACHII010000001.1	487211	488095	-	MBB5085789.1	nitrogenase iron protein NifH	Roseospira marina	DSM 15113	GCA_014203135.1

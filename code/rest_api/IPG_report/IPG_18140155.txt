@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+18140155	INSDC	GQ167285.1	1	870	+	ACT67928.1	NifH	Mesorhizobium temperatum	SDW018	
+18140155	INSDC	GQ167293.1	1	870	+	ACT67952.1	NifH	Mesorhizobium septentrionale	CCBAU 11244	

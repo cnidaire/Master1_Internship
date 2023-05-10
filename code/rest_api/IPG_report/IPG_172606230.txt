@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+172606230	INSDC	PGYN01000015.1	10310	11317	+	PKL73854.1	nitrogen fixation protein NifH	Methanobacteriales archaeon HGW-Methanobacteriales-2		GCA_002839685.1

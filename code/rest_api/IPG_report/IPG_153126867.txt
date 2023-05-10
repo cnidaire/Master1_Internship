@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+153126867	INSDC	AP018316.1	1308800	1309237	-	BAZ85078.1	nitrogenase iron protein NifH	Dolichospermum compactum NIES-806	NIES-806	GCA_002368115.1

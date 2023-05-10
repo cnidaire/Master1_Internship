@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+264554433	RefSeq	NZ_VITO01000002.1	118839	119723	+	WP_145615402.1	nitrogenase iron protein	Nitrospirillum amazonense	BR 11865	GCF_007828025.1
+264554433	INSDC	VITO01000002.1	118839	119723	+	TWB30530.1	Mo-nitrogenase iron protein subunit NifH	Nitrospirillum amazonense	BR 11865	GCA_007828025.1

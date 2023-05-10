@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+314656097	INSDC	JAAZCU010000201.1	197	1201	-	NLC91684.1	nitrogen fixation protein NifH	Methanocorpusculum parvum		GCA_012513095.1

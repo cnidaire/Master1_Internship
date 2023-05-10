@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+118566395	RefSeq	NZ_LZPL01000044.1	13114	13908	+	WP_069575422.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanobrevibacter sp. A27	A27	GCF_001729385.1
+118566395	RefSeq	NZ_RKRG01000002.1	413929	414723	+	WP_069575422.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanobrevibacter gottschalkii DSM 11977	DSM 11977	GCF_003814835.1
+118566395	INSDC	JAKSUI010000036.1	3184	3978	-	MCQ2971466.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	archaeon		GCA_024413505.1
+118566395	INSDC	LZPL01000044.1	13114	13908	+	OEC94538.1	nitrogenase iron protein	Methanobrevibacter sp. A27	A27	GCA_001729385.1
+118566395	INSDC	RKRG01000002.1	413929	414723	+	RPF51841.1	nitrogenase iron protein NifH	Methanobrevibacter gottschalkii DSM 11977	DSM 11977	GCA_003814835.1

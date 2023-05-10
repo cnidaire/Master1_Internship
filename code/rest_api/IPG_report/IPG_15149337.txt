@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+15149337	INSDC	EU748943.1	1	749	+	ACF19778.1	NifH	Mesorhizobium sp. ML108	ML108	

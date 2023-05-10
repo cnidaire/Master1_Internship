@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+329268044	RefSeq	NZ_JAAIUM010000016.1	37828	38595	-	WP_173746190.1	nitrogenase iron protein NifH	Blautia massiliensis	MSK.18.38	GCF_013304415.1
+329268044	RefSeq	NZ_JANFYP010000016.1	37828	38595	-	WP_173746190.1	nitrogenase iron protein NifH	Blautia sp. MSK.18.38	MSK.18.38	GCF_024460535.1
+329268044	INSDC	JANFYP010000016.1	37828	38595	-	MCQ4801545.1	nitrogenase iron protein NifH	Blautia sp. MSK.18.38	MSK.18.38	GCA_024460535.1
+329268044	INSDC	JAAIUM010000016.1	37828	38595	-	NSJ98522.1	AAA family ATPase	Blautia massiliensis	MSK.18.38	GCA_013304415.1

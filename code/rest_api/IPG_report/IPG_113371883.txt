@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+113371883	INSDC	KT832431.1	1	311	+	ANS71394.1	NifH	Stigonema panniforme LS21-4		
+113371883	INSDC	KT832441.1	1	311	+	ANS71404.1	NifH	Stigonema panniforme ZH1		

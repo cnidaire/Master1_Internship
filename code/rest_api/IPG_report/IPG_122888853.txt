@@ -1,0 +1,11 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+122888853	RefSeq	NZ_FNGL01000012.1	11975	12811	+	WP_089866168.1	nitrogenase iron protein NifH	Clostridium cochlearium	NLAE-zl-C224	GCF_900103025.1
+122888853	RefSeq	NZ_LT906477.1	1210733	1211569	-	WP_089866168.1	nitrogenase iron protein NifH	Clostridium cochlearium	NCTC13027	GCF_900187165.1
+122888853	RefSeq	NZ_UAWC01000001.1	230012	230848	+	WP_089866168.1	nitrogenase iron protein NifH	Clostridium cochlearium	NCTC13028	GCF_900446995.1
+122888853	RefSeq	NZ_UFWH01000001.1	1210720	1211556	-	WP_089866168.1	nitrogenase iron protein NifH	Clostridium cochlearium	NCTC2909	GCF_900446985.1
+122888853	INSDC	JAHLNT010000008.1	25384	26220	-	MBU5269455.1	AAA family ATPase	Clostridium cochlearium	N22	GCA_018917005.1
+122888853	INSDC	JABFIF010000001.1	30075	30911	+	NOH14817.1	AAA family ATPase	Clostridium cochlearium	AGROS13	GCA_013112435.1
+122888853	INSDC	FNGL01000012.1	11975	12811	+	SDL20614.1	nitrogenase iron protein NifH	Clostridium cochlearium	NLAE-zl-C224	GCA_900103025.1
+122888853	INSDC	LT906477.1	1210733	1211569	-	SNV77012.1	nitrogenase iron protein NifH	Clostridium cochlearium	NCTC13027	GCA_900187165.1
+122888853	INSDC	UAWC01000001.1	230012	230848	+	SQB33242.1	nitrogenase iron protein NifH	Clostridium cochlearium	NCTC13028	GCA_900446995.1
+122888853	INSDC	UFWH01000001.1	1210720	1211556	-	STA92624.1	nitrogenase iron protein NifH	Clostridium cochlearium	NCTC2909	GCA_900446985.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+91761556	RefSeq	NZ_CYSP01000014.1	69331	70185	+	WP_054261066.1	nitrogenase iron protein NifH	Propionispora sp. 2/2-37		GCF_001298735.1
+91761556	INSDC	CYSP01000014.1	69331	70185	+	CUH96933.1	Nitrogenase iron protein	Propionispora sp. 2/2-37		GCA_001298735.1

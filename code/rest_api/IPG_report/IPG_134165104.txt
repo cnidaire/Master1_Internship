@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+134165104	RefSeq	NZ_CAMEFW010000005.1	2654	3418	-	WP_277270482.1	nitrogenase iron protein NifH	Phascolarctobacterium succinatutens		GCF_945915945.1
+134165104	INSDC	MNTG01000024.1	104128	104892	-	OLA38270.1	nitrogenase iron protein	Phascolarctobacterium succinatutens		GCA_001916865.1

@@ -1,0 +1,135 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+33837731	RefSeq	NC_020389.1	541911	542708	-	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei Tuc01	Tuc01	GCF_000341715.1
+33837731	RefSeq	NZ_AP019780.1	127350	128147	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	TMA	GCF_019669945.1
+33837731	RefSeq	NZ_CP009509.1	940915	941712	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei WWM610	WWM610	GCF_000970165.1
+33837731	RefSeq	NZ_CP009510.1	1975952	1976749	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei TMA	TMA	GCF_025035885.1
+33837731	RefSeq	NZ_CP009512.1	945160	945957	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei S-6	S-6	GCF_000970205.1
+33837731	RefSeq	NZ_CP009513.1	761857	762654	-	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei LYC	LYC	GCF_000970225.1
+33837731	RefSeq	NZ_CP009514.1	931329	932126	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei C16	C16	GCF_000970245.1
+33837731	RefSeq	NZ_CP029709.1	3763277	3764074	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	JL01	GCF_005485005.1
+33837731	RefSeq	NZ_CP042908.1	935894	936691	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	zm-15	GCF_010706455.1
+33837731	RefSeq	NZ_JJOR01000011.1	40382	41179	-	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	2.F.A.2.3	GCF_000979335.1
+33837731	RefSeq	NZ_JJOS01000069.1	44048	44845	-	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	2.F.A.2.4	GCF_000979345.1
+33837731	RefSeq	NZ_JJOT01000040.1	5302	6099	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	2.F.T.0.2	GCF_000979375.1
+33837731	RefSeq	NZ_JJOU01000117.1	48423	49220	-	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	2.F.T.2.6	GCF_000978955.1
+33837731	RefSeq	NZ_JJPA01000245.1	17094	17891	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	3.F.A.1A.1	GCF_000979495.1
+33837731	RefSeq	NZ_JJPB01000140.1	14973	15770	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	3.F.A.1A.3	GCF_000978945.1
+33837731	RefSeq	NZ_JJPC01000064.1	110268	111065	-	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	3.F.A.1B.1	GCF_000979505.1
+33837731	RefSeq	NZ_JJPD01000161.1	691	1488	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	3.F.A.2.12	GCF_000979515.1
+33837731	RefSeq	NZ_JJPE01000043.1	29442	30239	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	3.F.A.2.3	GCF_000979555.1
+33837731	RefSeq	NZ_JJPF01000020.1	145468	146265	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	3.F.A.2.5	GCF_000978935.1
+33837731	RefSeq	NZ_JJPG01000106.1	70868	71665	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	3.F.A.2.6	GCF_000979575.1
+33837731	RefSeq	NZ_JJPH01000113.1	29492	30289	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	3.F.A.2.7	GCF_000979585.1
+33837731	RefSeq	NZ_JJPI01000033.1	43915	44712	-	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	3.F.T.1A.1	GCF_000978965.1
+33837731	RefSeq	NZ_JJPJ01000122.1	44935	45732	-	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	3.F.T.1A.2	GCF_000979595.1
+33837731	RefSeq	NZ_JJPK01000095.1	29483	30280	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	3.F.T.1A.4	GCF_000979635.1
+33837731	RefSeq	NZ_JJPL01000144.1	14889	15686	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	3.F.T.2.1	GCF_000979665.1
+33837731	RefSeq	NZ_JJPM01000038.1	8047	8844	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	3.H.A.1A.1	GCF_000979655.1
+33837731	RefSeq	NZ_JJPN01000150.1	29497	30294	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	3.H.A.1A.2	GCF_000979675.1
+33837731	RefSeq	NZ_JJPO01000006.1	14777	15574	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	3.H.A.2.1	GCF_000979015.1
+33837731	RefSeq	NZ_JJPP01000001.1	23143	23940	-	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	3.H.A.2.4	GCF_000979685.1
+33837731	RefSeq	NZ_JJPQ01000134.1	29599	30396	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	3.H.A.2.5	GCF_000979735.1
+33837731	RefSeq	NZ_JJPR01000016.1	32703	33500	-	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	3.H.A.2.6	GCF_000979025.1
+33837731	RefSeq	NZ_JJPS01000019.1	18480	19277	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	3.H.A.2.8	GCF_000979745.1
+33837731	RefSeq	NZ_JJPT01000035.1	16207	17004	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	3.H.M.1A.1	GCF_000979755.1
+33837731	RefSeq	NZ_JJPU01000179.1	29518	30315	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	3.H.M.1B.1	GCF_000979035.1
+33837731	RefSeq	NZ_JJPV01000077.1	29518	30315	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	3.H.M.1B.2	GCF_000979765.1
+33837731	RefSeq	NZ_JJPW01000118.1	29544	30341	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	3.H.M.1B.5	GCF_000979045.1
+33837731	RefSeq	NZ_JJPX01000166.1	14902	15699	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	3.H.M.2.7	GCF_000979095.1
+33837731	RefSeq	NZ_JJPY01000078.1	29557	30354	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	3.H.T.1A.1	GCF_000979815.1
+33837731	RefSeq	NZ_JJPZ01000093.1	12291	13088	-	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	3.H.T.1A.2	GCF_000979825.1
+33837731	RefSeq	NZ_JJQA01000091.1	29305	30102	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	1.F.A.1A.3	GCF_000979105.1
+33837731	RefSeq	NZ_JJQB01000134.1	29412	30209	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	1.F.A.1B.3	GCF_000979845.1
+33837731	RefSeq	NZ_JJQC01000157.1	29360	30157	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	1.F.A.1B.4	GCF_000979855.1
+33837731	RefSeq	NZ_JJQD01000035.1	14766	15563	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	1.F.A.2.8	GCF_000979115.1
+33837731	RefSeq	NZ_JJQE01000052.1	29461	30258	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	1.F.M.0.5	GCF_000979125.1
+33837731	RefSeq	NZ_JJQF01000001.1	29564	30361	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	1.H.A.0.1	GCF_000979895.1
+33837731	RefSeq	NZ_JJQG01000050.1	40400	41197	-	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	1.H.A.1A.1	GCF_000979915.1
+33837731	RefSeq	NZ_JJQH01000130.1	40381	41178	-	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	1.H.A.1A.3	GCF_000979175.1
+33837731	RefSeq	NZ_JJQI01000026.1	397539	398336	-	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	1.H.A.1A.4	GCF_000979185.1
+33837731	RefSeq	NZ_JJQJ01000113.1	5303	6100	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	1.H.A.1A.6	GCF_000979925.1
+33837731	RefSeq	NZ_JJQK01000046.1	14953	15750	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	1.H.A.2.1	GCF_000979935.1
+33837731	RefSeq	NZ_JJQM01000024.1	5303	6100	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	1.H.A.2.3	GCF_000979195.1
+33837731	RefSeq	NZ_JJQN01000138.1	24860	25657	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	1.H.A.2.6	GCF_000979995.1
+33837731	RefSeq	NZ_JJQO01000061.1	5303	6100	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	1.H.A.2.7	GCF_000979205.1
+33837731	RefSeq	NZ_JJQP01000318.1	40562	41359	-	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	1.H.A.2.8	GCF_000980005.1
+33837731	RefSeq	NZ_JJQQ01000176.1	16258	17055	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	1.H.M.0.1	GCF_000980025.1
+33837731	RefSeq	NZ_JJQR01000069.1	40413	41210	-	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	1.H.M.1A.1	GCF_000980055.1
+33837731	RefSeq	NZ_JJQS01000006.1	5309	6106	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	1.H.M.1A.2	GCF_000979255.1
+33837731	RefSeq	NZ_JJQT01000080.1	5304	6101	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	1.H.M.1A.3	GCF_000980085.1
+33837731	RefSeq	NZ_JJQU01000157.1	40460	41257	-	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	1.H.M.2.1	GCF_000979265.1
+33837731	RefSeq	NZ_JJQV01000028.1	5303	6100	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	1.H.M.2.2	GCF_000979275.1
+33837731	RefSeq	NZ_JJQW01000112.1	87500	88297	-	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	1.H.M.2.3	GCF_000980075.1
+33837731	RefSeq	NZ_JJQX01000067.1	40545	41342	-	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	1.H.M.2.4	GCF_000980105.1
+33837731	RefSeq	NZ_JJQZ01000100.1	5303	6100	+	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	1.H.T.2.1	GCF_000980135.1
+33837731	RefSeq	NZ_JJRA01000119.1	40385	41182	-	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	1.H.T.2.3	GCF_000980155.1
+33837731	RefSeq	NZ_JJRB01000140.1	87431	88228	-	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	1.H.T.2.5	GCF_000980175.1
+33837731	RefSeq	NZ_JQLR01000001.1	4020708	4021505	-	WP_015411155.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina soligelidi	SMA-21	GCF_000744315.1
+33837731	INSDC	CP004144.1	541911	542708	-	AGF95957.1	Nitrogenase subunit NifH, type 1	Methanosarcina mazei Tuc01	Tuc01	GCA_000341715.1
+33837731	INSDC	CP009509.1	940915	941712	+	AKB39769.1	nitrogenase reductase-like protein	Methanosarcina mazei WWM610	WWM610	GCA_000970165.1
+33837731	INSDC	CP009512.1	945160	945957	+	AKB63988.1	nitrogenase reductase-like protein	Methanosarcina mazei S-6	S-6	GCA_000970205.1
+33837731	INSDC	CP009513.1	761857	762654	-	AKB67179.1	nitrogenase reductase-like protein	Methanosarcina mazei LYC	LYC	GCA_000970225.1
+33837731	INSDC	CP009514.1	931329	932126	+	AKB70661.1	nitrogenase reductase-like protein	Methanosarcina mazei C16	C16	GCA_000970245.1
+33837731	INSDC	AP019780.1	127350	128147	+	BBL63143.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	TMA	GCA_019669945.1
+33837731	INSDC	JABNAD010003165.1	1470	2267	+	KAF5044187.1	Nitrogenase iron protein 1	anaerobic digester metagenome		GCA_013282525.1
+33837731	INSDC	JJOS01000069.1	44048	44845	-	KKG02259.1	nitrogenase iron protein	Methanosarcina mazei	2.F.A.2.4	GCA_000979345.1
+33837731	INSDC	JJOT01000040.1	5302	6099	+	KKG03754.1	nitrogenase iron protein	Methanosarcina mazei	2.F.T.0.2	GCA_000979375.1
+33837731	INSDC	JJOR01000011.1	40382	41179	-	KKG08899.1	nitrogenase iron protein	Methanosarcina mazei	2.F.A.2.3	GCA_000979335.1
+33837731	INSDC	JJOU01000117.1	48423	49220	-	KKG13610.1	nitrogenase iron protein	Methanosarcina mazei	2.F.T.2.6	GCA_000978955.1
+33837731	INSDC	JJPA01000245.1	17094	17891	+	KKG26985.1	nitrogenase iron protein	Methanosarcina mazei	3.F.A.1A.1	GCA_000979495.1
+33837731	INSDC	JJPB01000140.1	14973	15770	+	KKG27991.1	nitrogenase iron protein	Methanosarcina mazei	3.F.A.1A.3	GCA_000978945.1
+33837731	INSDC	JJPC01000064.1	110268	111065	-	KKG35089.1	nitrogenase iron protein	Methanosarcina mazei	3.F.A.1B.1	GCA_000979505.1
+33837731	INSDC	JJPD01000161.1	691	1488	+	KKG38142.1	nitrogenase iron protein	Methanosarcina mazei	3.F.A.2.12	GCA_000979515.1
+33837731	INSDC	JJPF01000020.1	145468	146265	+	KKG46105.1	nitrogenase iron protein	Methanosarcina mazei	3.F.A.2.5	GCA_000978935.1
+33837731	INSDC	JJPE01000043.1	29442	30239	+	KKG46470.1	nitrogenase iron protein	Methanosarcina mazei	3.F.A.2.3	GCA_000979555.1
+33837731	INSDC	JJPH01000113.1	29492	30289	+	KKG49379.1	nitrogenase iron protein	Methanosarcina mazei	3.F.A.2.7	GCA_000979585.1
+33837731	INSDC	JJPG01000106.1	70868	71665	+	KKG50526.1	nitrogenase iron protein	Methanosarcina mazei	3.F.A.2.6	GCA_000979575.1
+33837731	INSDC	JJPI01000033.1	43915	44712	-	KKG56801.1	nitrogenase iron protein	Methanosarcina mazei	3.F.T.1A.1	GCA_000978965.1
+33837731	INSDC	JJPJ01000122.1	44935	45732	-	KKG59259.1	nitrogenase iron protein	Methanosarcina mazei	3.F.T.1A.2	GCA_000979595.1
+33837731	INSDC	JJPK01000095.1	29483	30280	+	KKG59897.1	nitrogenase iron protein	Methanosarcina mazei	3.F.T.1A.4	GCA_000979635.1
+33837731	INSDC	JJPL01000144.1	14889	15686	+	KKG60193.1	nitrogenase iron protein	Methanosarcina mazei	3.F.T.2.1	GCA_000979665.1
+33837731	INSDC	JJPN01000150.1	29497	30294	+	KKG68817.1	nitrogenase iron protein	Methanosarcina mazei	3.H.A.1A.2	GCA_000979675.1
+33837731	INSDC	JJPO01000006.1	14777	15574	+	KKG76695.1	nitrogenase iron protein	Methanosarcina mazei	3.H.A.2.1	GCA_000979015.1
+33837731	INSDC	JJPQ01000134.1	29599	30396	+	KKG79303.1	nitrogenase iron protein	Methanosarcina mazei	3.H.A.2.5	GCA_000979735.1
+33837731	INSDC	JJPM01000038.1	8047	8844	+	KKG79706.1	nitrogenase iron protein	Methanosarcina mazei	3.H.A.1A.1	GCA_000979655.1
+33837731	INSDC	JJPP01000001.1	23143	23940	-	KKG84376.1	nitrogenase iron protein	Methanosarcina mazei	3.H.A.2.4	GCA_000979685.1
+33837731	INSDC	JJPR01000016.1	32703	33500	-	KKG90015.1	nitrogenase iron protein	Methanosarcina mazei	3.H.A.2.6	GCA_000979025.1
+33837731	INSDC	JJPU01000179.1	29518	30315	+	KKG92535.1	nitrogenase iron protein	Methanosarcina mazei	3.H.M.1B.1	GCA_000979035.1
+33837731	INSDC	JJPT01000035.1	16207	17004	+	KKG93842.1	nitrogenase iron protein	Methanosarcina mazei	3.H.M.1A.1	GCA_000979755.1
+33837731	INSDC	JJPS01000019.1	18480	19277	+	KKG94538.1	nitrogenase iron protein	Methanosarcina mazei	3.H.A.2.8	GCA_000979745.1
+33837731	INSDC	JJPW01000118.1	29544	30341	+	KKG96847.1	nitrogenase iron protein	Methanosarcina mazei	3.H.M.1B.5	GCA_000979045.1
+33837731	INSDC	JJPV01000077.1	29518	30315	+	KKG98749.1	nitrogenase iron protein	Methanosarcina mazei	3.H.M.1B.2	GCA_000979765.1
+33837731	INSDC	JJPX01000166.1	14902	15699	+	KKH05232.1	nitrogenase iron protein	Methanosarcina mazei	3.H.M.2.7	GCA_000979095.1
+33837731	INSDC	JJPY01000078.1	29557	30354	+	KKH07905.1	nitrogenase iron protein	Methanosarcina mazei	3.H.T.1A.1	GCA_000979815.1
+33837731	INSDC	JJPZ01000093.1	12291	13088	-	KKH10274.1	nitrogenase iron protein	Methanosarcina mazei	3.H.T.1A.2	GCA_000979825.1
+33837731	INSDC	JJQA01000091.1	29305	30102	+	KKH15105.1	nitrogenase iron protein	Methanosarcina mazei	1.F.A.1A.3	GCA_000979105.1
+33837731	INSDC	JJQB01000134.1	29412	30209	+	KKH16009.1	nitrogenase iron protein	Methanosarcina mazei	1.F.A.1B.3	GCA_000979845.1
+33837731	INSDC	JJQC01000157.1	29360	30157	+	KKH16459.1	nitrogenase iron protein	Methanosarcina mazei	1.F.A.1B.4	GCA_000979855.1
+33837731	INSDC	JJQE01000052.1	29461	30258	+	KKH30306.1	nitrogenase iron protein	Methanosarcina mazei	1.F.M.0.5	GCA_000979125.1
+33837731	INSDC	JJQD01000035.1	14766	15563	+	KKH31613.1	nitrogenase iron protein	Methanosarcina mazei	1.F.A.2.8	GCA_000979115.1
+33837731	INSDC	JJQF01000001.1	29564	30361	+	KKH35040.1	nitrogenase iron protein	Methanosarcina mazei	1.H.A.0.1	GCA_000979895.1
+33837731	INSDC	JJQH01000130.1	40381	41178	-	KKH38231.1	nitrogenase iron protein	Methanosarcina mazei	1.H.A.1A.3	GCA_000979175.1
+33837731	INSDC	JJQG01000050.1	40400	41197	-	KKH40614.1	nitrogenase iron protein	Methanosarcina mazei	1.H.A.1A.1	GCA_000979915.1
+33837731	INSDC	JJQI01000026.1	397539	398336	-	KKH41911.1	nitrogenase iron protein	Methanosarcina mazei	1.H.A.1A.4	GCA_000979185.1
+33837731	INSDC	JJQJ01000113.1	5303	6100	+	KKH48655.1	nitrogenase iron protein	Methanosarcina mazei	1.H.A.1A.6	GCA_000979925.1
+33837731	INSDC	JJQK01000046.1	14953	15750	+	KKH54783.1	nitrogenase iron protein	Methanosarcina mazei	1.H.A.2.1	GCA_000979935.1
+33837731	INSDC	JJQN01000138.1	24860	25657	+	KKH57204.1	nitrogenase iron protein	Methanosarcina mazei	1.H.A.2.6	GCA_000979995.1
+33837731	INSDC	JJQM01000024.1	5303	6100	+	KKH58165.1	nitrogenase iron protein	Methanosarcina mazei	1.H.A.2.3	GCA_000979195.1
+33837731	INSDC	JJQP01000318.1	40562	41359	-	KKH60310.1	nitrogenase iron protein	Methanosarcina mazei	1.H.A.2.8	GCA_000980005.1
+33837731	INSDC	JJQQ01000176.1	16258	17055	+	KKH63314.1	nitrogenase iron protein	Methanosarcina mazei	1.H.M.0.1	GCA_000980025.1
+33837731	INSDC	JJQO01000061.1	5303	6100	+	KKH68436.1	nitrogenase iron protein	Methanosarcina mazei	1.H.A.2.7	GCA_000979205.1
+33837731	INSDC	JJQR01000069.1	40413	41210	-	KKH75910.1	nitrogenase iron protein	Methanosarcina mazei	1.H.M.1A.1	GCA_000980055.1
+33837731	INSDC	JJQS01000006.1	5309	6106	+	KKH78702.1	nitrogenase iron protein	Methanosarcina mazei	1.H.M.1A.2	GCA_000979255.1
+33837731	INSDC	JJQT01000080.1	5304	6101	+	KKH80110.1	nitrogenase iron protein	Methanosarcina mazei	1.H.M.1A.3	GCA_000980085.1
+33837731	INSDC	JJQU01000157.1	40460	41257	-	KKH83761.1	nitrogenase iron protein	Methanosarcina mazei	1.H.M.2.1	GCA_000979265.1
+33837731	INSDC	JJQW01000112.1	87500	88297	-	KKH85576.1	nitrogenase iron protein	Methanosarcina mazei	1.H.M.2.3	GCA_000980075.1
+33837731	INSDC	JJQV01000028.1	5303	6100	+	KKH85682.1	nitrogenase iron protein	Methanosarcina mazei	1.H.M.2.2	GCA_000979275.1
+33837731	INSDC	JJQZ01000100.1	5303	6100	+	KKH95152.1	nitrogenase iron protein	Methanosarcina mazei	1.H.T.2.1	GCA_000980135.1
+33837731	INSDC	JJQX01000067.1	40545	41342	-	KKH97155.1	nitrogenase iron protein	Methanosarcina mazei	1.H.M.2.4	GCA_000980105.1
+33837731	INSDC	JJRB01000140.1	87431	88228	-	KKI00658.1	nitrogenase iron protein	Methanosarcina mazei	1.H.T.2.5	GCA_000980175.1
+33837731	INSDC	JJRA01000119.1	40385	41182	-	KKI01690.1	nitrogenase iron protein	Methanosarcina mazei	1.H.T.2.3	GCA_000980155.1
+33837731	INSDC	JAAYJL010000642.1	3100	3897	-	NLO31212.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei		GCA_012522975.1
+33837731	INSDC	CP029709.1	3763277	3764074	+	QCR17350.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	JL01	GCA_005485005.1
+33837731	INSDC	CP042908.1	935894	936691	+	QIB90342.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei	zm-15	GCA_010706455.1
+33837731	INSDC	SHOM01000154.1	1699	2496	+	TAH67873.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina mazei		GCA_004294765.1
+33837731	INSDC	CP009510.1	1975952	1976749	+	UWJ22142.1	nitrogenase reductase-like protein	Methanosarcina mazei TMA	TMA	GCA_025035885.1

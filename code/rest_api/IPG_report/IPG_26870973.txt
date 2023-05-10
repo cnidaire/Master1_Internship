@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+26870973	RefSeq	NC_016894.1	10865	11617	+	WP_014354428.1	nitrogenase iron protein NifH	Acetobacterium woodii DSM 1030	DSM 1030	GCF_000247605.1
+26870973	INSDC	CP002987.1	10865	11617	+	AFA46824.1	nitrogenase iron protein NifH	Acetobacterium woodii DSM 1030	DSM 1030	GCA_000247605.1

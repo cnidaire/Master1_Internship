@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+56514845	INSDC	JAILMW010000024.1	30755	31603	-	MCR5529111.1	nitrogenase iron protein	Saccharofermentans sp.		GCA_024692235.1
+56514845	INSDC	FWXP01000003.1	250357	251205	+	SMC47097.1	nitrogenase iron protein NifH	Oscillospiraceae bacterium	KHP2	GCA_900176545.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+218233313	RefSeq	NZ_RJVG01000002.1	147934	148674	+	WP_123608172.1	nitrogenase iron protein NifH	Mobilisporobacter senegalensis	DSM 26537	GCF_003752155.1
+218233313	INSDC	RJVG01000002.1	147934	148674	+	ROR30468.1	nitrogenase iron protein NifH	Mobilisporobacter senegalensis	DSM 26537	GCA_003752155.1

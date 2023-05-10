@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+190370860	RefSeq	NZ_QJTK01000019.1	6109	6996	-	WP_110806937.1	nitrogenase iron protein	Rhodobacter viridis	JA737	GCF_003217355.1
+190370860	INSDC	QJTK01000019.1	6109	6996	-	PYF07177.1	Mo-nitrogenase iron protein subunit NifH	Rhodobacter viridis	JA737	GCA_003217355.1

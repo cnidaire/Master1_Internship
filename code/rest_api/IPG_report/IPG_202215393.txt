@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+202215393	RefSeq	NZ_JAQEXH010000012.1	18902	19666	-	WP_117877864.1	nitrogenase iron protein NifH	Ruminococcus bicirculans	OF27-11pH9A	GCF_027693235.1
+202215393	INSDC	QTWO01000015.1	18924	19688	-	RGG48360.1	nitrogenase iron protein	Ruminococcus sp. AF21-11	AF21-11	GCA_003461165.1

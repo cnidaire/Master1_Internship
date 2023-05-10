@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+202202530	INSDC	DOAS01000214.1	4274	5035	+	HBM26729.1	nitrogen fixation protein NifH	Ruminococcus sp.		GCA_003504215.1
+202202530	INSDC	QTWC01000002.1	26637	27398	+	RGG16559.1	nitrogen fixation protein NifH	Ruminococcus sp. AF26-25AA	AF26-25AA	GCA_003460925.1
+202202530	INSDC	QTYU01000013.1	40443	41204	+	RGI09046.1	nitrogen fixation protein NifH	Ruminococcus sp. TF12-2	TF12-2	GCA_003462325.1
+202202530	INSDC	QTZE01000009.1	84685	85446	-	RGI35355.1	nitrogen fixation protein NifH	Ruminococcus sp. OM07-17	OM07-17	GCA_003462525.1

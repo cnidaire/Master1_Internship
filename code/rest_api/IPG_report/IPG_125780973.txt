@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+125780973	RefSeq	NZ_FNWO01000003.1	157424	158302	+	WP_074766053.1	nitrogenase iron protein	Magnetospirillum fulvum	DSM 13234	GCF_900108475.1
+125780973	INSDC	FNWO01000003.1	157424	158302	+	SEH30671.1	Mo-nitrogenase iron protein subunit NifH	Magnetospirillum fulvum	DSM 13234	GCA_900108475.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+130849297	RefSeq	NZ_FRCP01000009.1	185524	186342	+	WP_073286413.1	nitrogenase iron protein	Anaerosporobacter mobilis DSM 15930	DSM 15930	GCF_900142955.1
+130849297	INSDC	FRCP01000009.1	185524	186342	+	SHM39704.1	nitrogenase iron protein NifH	Anaerosporobacter mobilis DSM 15930	DSM 15930	GCA_900142955.1

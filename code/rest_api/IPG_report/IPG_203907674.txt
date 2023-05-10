@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+203907674	INSDC	DMRZ01000240.1	4145	4894	+	HAP04074.1	nitrogen fixation protein NifH	Lachnospiraceae bacterium		GCA_003455175.1

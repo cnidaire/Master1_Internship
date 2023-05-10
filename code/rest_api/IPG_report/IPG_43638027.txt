@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+43638027	INSDC	KF113052.1	1	670	+	AGV55377.1	NifH	Bradyrhizobium sp. P4-5	P4-5	
+43638027	INSDC	KF113053.1	1	669	+	AGV55378.1	NifH	Bradyrhizobium sp. P4-7	P4-7	
+43638027	INSDC	KF113054.1	1	670	+	AGV55379.1	NifH	Bradyrhizobium sp. P4-29	P4-29	
+43638027	INSDC	KF113057.1	1	669	+	AGV55382.1	NifH	Bradyrhizobium sp. P5-26	P5-26	
+43638027	INSDC	KF113070.1	1	669	+	AGV55395.1	NifH	Bradyrhizobium sp. P15-7	P15-7	

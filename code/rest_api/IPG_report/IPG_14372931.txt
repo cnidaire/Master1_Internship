@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+14372931	INSDC	EU291985.1	1	558	+	ABZ89812.1	NifH	Mesorhizobium plurifarium	CFN ESH26	
+14372931	INSDC	EU291986.1	1	558	+	ABZ89813.1	NifH	Mesorhizobium plurifarium	CFN ESH19	

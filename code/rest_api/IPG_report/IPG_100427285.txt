@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+100427285	INSDC	LNQE01001370.1	10195	11046	-	KUG18628.1	nitrogenase (molybdenum-iron) reductase and maturation protein nifh	hydrocarbon metagenome		GCA_001483165.1

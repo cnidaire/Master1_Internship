@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+107269494	RefSeq	NZ_BDCR01000002.1	20825	21649	+	WP_068702815.1	nitrogenase iron protein	Paludibacter jiangxiensis	NM7	GCF_001618385.1
+107269494	INSDC	BDCR01000002.1	20825	21649	+	GAT62466.1	nitrogenase iron protein NifH	Paludibacter jiangxiensis	NM7	GCA_001618385.1

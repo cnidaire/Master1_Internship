@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+148094370	INSDC	LVJN01000019.1	98954	99529	+	OSM04007.1	putative nitrogenase iron protein subunit NifH	Magnetofaba australis IT-1	IT-1	GCA_002109495.1

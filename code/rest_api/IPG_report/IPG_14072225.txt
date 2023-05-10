@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+14072225	INSDC	EU219868.1	1	524	+	ABX80636.1	NifH	Paraburkholderia rhynchosiae	WSM3930	

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+304141865	RefSeq	NZ_JAAKEE010000026.1	27028	27792	-	WP_165172523.1	nitrogenase iron protein NifH	Adlercreutzia sp. ZJ242	ZJ242	GCF_011038995.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+125988299	INSDC	FOIY01000003.1	135810	136658	-	SEW18830.1	Mo-nitrogenase iron protein subunit NifH	Ruminococcaceae bacterium KH2T8	KH2T8	GCA_900111435.1

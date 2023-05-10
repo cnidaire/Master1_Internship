@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+105983717	INSDC	KR137613.1	1	325	+	AMQ98976.1	NifH	Kryptousia microlepis CENA354	CENA354	

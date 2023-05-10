@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+13789712	INSDC	EU113235.1	1	709	+	ABV44662.1	NifH	Bradyrhizobium sp. CCBAU 23011	CCBAU 23011	

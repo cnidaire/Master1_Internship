@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+317213825	INSDC	JAAYAL010000044.1	2572	3573	+	NLT35527.1	nitrogen fixation protein NifH	Gaiellales bacterium		GCA_012719395.1

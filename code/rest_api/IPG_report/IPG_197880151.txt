@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+197880151	RefSeq	NZ_PPTT01000036.1	25837	26610	+	WP_114547631.1	nitrogenase iron protein NifH	Eggerthella sinensis	DSM 16107	GCF_003339815.1
+197880151	RefSeq	NZ_QICC01000031.1	11549	12322	-	WP_114547631.1	nitrogenase iron protein NifH	Eggerthella sinensis	DSM 16107	GCF_003725965.1
+197880151	INSDC	PPTT01000036.1	25837	26610	+	RDB65491.1	nitrogenase iron protein	Eggerthella sinensis	DSM 16107	GCA_003339815.1
+197880151	INSDC	QICC01000031.1	11549	12322	-	RNM41618.1	nitrogenase iron protein	Eggerthella sinensis	DSM 16107	GCA_003725965.1

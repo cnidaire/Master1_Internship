@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+152944501	INSDC	BDUB01000001.1	4173777	4174214	-	GAX37675.1	nitrogenase iron protein NifH	Nodularia sp. NIES-3585	NIES-3585	GCA_002218065.1

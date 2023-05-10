@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+20394794	INSDC	HM107283.1	1	686	+	ADJ37232.1	nitrogenase reductase	Bradyrhizobium arachidis	CCBAU 051107	
+20394794	INSDC	KY990675.1	1	684	+	AWC14877.1	nitrogenase Fe protein	Bradyrhizobium sp.	CPS35	
+20394794	INSDC	MH208461.1	1	686	+	AZM65043.1	NifH	Bradyrhizobium sp.	TUTCS4B	
+20394794	INSDC	MT134333.1	1	685	+	QQG63746.1	nitrogenase reductase	Bradyrhizobium sp.	TUTVuAG1	

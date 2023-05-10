@@ -1,0 +1,19 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+1596899	RefSeq	NC_007907.1	4857402	4858229	-	WP_005813529.1	nitrogenase iron protein	Desulfitobacterium hafniense Y51	Y51	GCF_000010045.1
+1596899	RefSeq	NC_011830.1	1143804	1144631	+	WP_005813529.1	nitrogenase iron protein	Desulfitobacterium hafniense DCB-2	DCB-2	GCF_000021925.1
+1596899	RefSeq	NZ_CABKQQ010000049.1	54693	55520	+	WP_005813529.1	nitrogenase iron protein	Desulfitobacterium hafniense		GCF_902374595.1
+1596899	RefSeq	NZ_FRDN01000005.1	81393	82220	+	WP_005813529.1	nitrogenase iron protein	Desulfitobacterium chlororespirans DSM 11544	DSM 11544	GCF_900143285.1
+1596899	RefSeq	NZ_JH414480.1	54693	55520	+	WP_005813529.1	nitrogenase iron protein	Desulfitobacterium hafniense DP7	DP7	GCF_000238035.1
+1596899	RefSeq	NZ_KB902329.1	96458	97285	+	WP_005813529.1	nitrogenase iron protein	Desulfitobacterium hafniense PCP-1	PCP-1	GCF_000379505.1
+1596899	RefSeq	NZ_LK996017.1	4864138	4864965	-	WP_005813529.1	nitrogenase iron protein	Desulfitobacterium hafniense	PCE-S	GCF_000944695.1
+1596899	RefSeq	NZ_LOCK01000022.1	53726	54553	+	WP_005813529.1	nitrogenase iron protein	Desulfitobacterium hafniense	DH	GCF_001468785.1
+1596899	RefSeq	NZ_VLKD01000001.1	2403761	2404588	-	WP_005813529.1	nitrogenase iron protein	Desulfitobacterium sp. LBE	LBE	GCF_007830365.1
+1596899	INSDC	CP001336.1	1143804	1144631	+	ACL19109.1	nitrogenase iron protein	Desulfitobacterium hafniense DCB-2	DCB-2	GCA_000021925.1
+1596899	INSDC	AP008230.1	4857402	4858229	-	BAE86060.1	nitrogenase subunit nifH	Desulfitobacterium hafniense Y51	Y51	GCA_000010045.1
+1596899	INSDC	LK996017.1	4864138	4864965	-	CDX04521.1	Nitrogenase iron protein 1	Desulfitobacterium hafniense	PCE-S	GCA_000944695.1
+1596899	INSDC	AFZX01000086.1	52344	53171	+	EHL06066.1	nitrogenase iron protein	Desulfitobacterium hafniense DP7	DP7	GCA_000238035.1
+1596899	INSDC	JH414480.1	54693	55520	+	EHL06066.1	nitrogenase iron protein	Desulfitobacterium hafniense DP7	DP7	GCA_000238035.1
+1596899	INSDC	LOCK01000022.1	53726	54553	+	KTE91611.1	nitrogenase reductase	Desulfitobacterium hafniense	DH	GCA_001468785.1
+1596899	INSDC	VSSQ01000285.1	11709	12536	-	MPL89670.1	Nitrogenase iron protein 1	bioreactor metagenome		GCA_008761695.1
+1596899	INSDC	FRDN01000005.1	81393	82220	+	SHN63065.1	Mo-nitrogenase iron protein subunit NifH	Desulfitobacterium chlororespirans DSM 11544	DSM 11544	GCA_900143285.1
+1596899	INSDC	VLKD01000001.1	2403761	2404588	-	TWH57995.1	Mo-nitrogenase iron protein subunit NifH	Desulfitobacterium sp. LBE	LBE	GCA_007830365.1

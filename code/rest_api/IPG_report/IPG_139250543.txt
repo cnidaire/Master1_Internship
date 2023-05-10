@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+139250543	RefSeq	NZ_FUXZ01000004.1	34689	35441	-	WP_078765515.1	nitrogenase iron protein NifH	Eubacterium uniforme	ATCC 35992	GCF_900167115.1
+139250543	INSDC	DMEH01000207.1	1801	2553	-	HAH18862.1	nitrogen fixation protein NifH	Eubacterium sp.		GCA_003450995.1
+139250543	INSDC	FUXZ01000004.1	34689	35441	-	SKA62477.1	nitrogenase iron protein NifH	Eubacterium uniforme	ATCC 35992	GCA_900167115.1

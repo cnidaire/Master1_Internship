@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+152994612	RefSeq	NZ_LT896716.1	1396429	1397298	-	WP_088534525.1	nitrogenase iron protein	Geobacter sp. DSM 9736	DSM 9736	GCF_900187405.1
+152994612	INSDC	LT896716.1	1396429	1397298	-	SNB45909.1	Mo-nitrogenase iron protein subunit NifH	Geobacter sp. DSM 9736	DSM 9736	GCA_900187405.1

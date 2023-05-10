@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+205355359	INSDC	DNCQ01000135.1	2401	3186	-	HAV27466.1	nitrogen fixation protein NifH	Lachnospiraceae bacterium		GCA_003484485.1
+205355359	INSDC	JAFWMF010000154.1	6166	6951	+	MBR3339210.1	AAA family ATPase	Lachnospiraceae bacterium		GCA_017513925.1

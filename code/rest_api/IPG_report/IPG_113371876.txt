@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+113371876	INSDC	KT832417.1	1	311	+	ANS71380.1	NifH	Stigonema intermedium YN4		
+113371876	INSDC	KT832418.1	1	311	+	ANS71381.1	NifH	Stigonema intermedium YN5		

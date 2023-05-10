@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+126365473	RefSeq	NZ_FOBE01000005.1	90408	91250	-	WP_091820379.1	nitrogenase iron protein	Butyrivibrio sp. ob235	OB235	GCF_900109475.1
+126365473	INSDC	FOBE01000005.1	90408	91250	-	SEL03421.1	nitrogenase iron protein NifH	Butyrivibrio sp. ob235	OB235	GCA_900109475.1

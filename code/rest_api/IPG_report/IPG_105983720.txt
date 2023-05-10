@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+105983720	INSDC	KR137617.1	1	325	+	AMQ98980.1	NifH	Brasilonema sp. CENA360	CENA360	

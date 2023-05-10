@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+13789701	INSDC	EU113223.1	1	709	+	ABV44650.1	NifH	Sinorhizobium sp. CCBAU 31015	CCBAU 31015	

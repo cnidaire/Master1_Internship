@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+128577761	RefSeq	NZ_FOQM01000030.1	27470	28354	+	WP_092235830.1	nitrogenase iron protein	Bradyrhizobium sp. Gha	Gha	GCF_900113735.1
+128577761	INSDC	FOQM01000030.1	27470	28354	+	SFJ62822.1	Mo-nitrogenase iron protein subunit NifH	Bradyrhizobium sp. Gha	Gha	GCA_900113735.1

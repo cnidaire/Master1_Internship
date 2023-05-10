@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+180388235	INSDC	NRIU01000826.1	15728	16600	+	PPT09671.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Geitlerinema sp. FC II	FC II	GCA_002286845.1

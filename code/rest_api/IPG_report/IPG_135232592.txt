@@ -1,0 +1,13 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+135232592	RefSeq	NZ_CAMREZ010000001.1	408952	409737	-	WP_075703684.1	nitrogenase iron protein NifH	Intestinimonas butyriciproducens		GCF_947042075.1
+135232592	RefSeq	NZ_JALFFC010000041.1	28804	29589	+	WP_075703684.1	nitrogenase iron protein NifH	Intestinimonas butyriciproducens		GCF_022778035.1
+135232592	RefSeq	NZ_JAQLWE010000001.1	129831	130616	-	WP_075703684.1	nitrogenase iron protein NifH	Intestinimonas butyriciproducens	1001217st1_H8_1001217B_191108	GCF_028321865.1
+135232592	RefSeq	NZ_JAQLWF010000001.1	285782	286567	-	WP_075703684.1	nitrogenase iron protein NifH	Intestinimonas butyriciproducens	1001217st1_A3_1001217B_191108	GCF_028322995.1
+135232592	RefSeq	NZ_MJII01000001.1	461156	461941	-	WP_075703684.1	nitrogenase iron protein NifH	Intestinimonas butyriciproducens	27-5-10	GCF_001940005.1
+135232592	INSDC	JABFHK010000006.1	73783	74568	-	MBO3279734.1	P-loop NTPase	Intestinimonas butyriciproducens	GGCC_0179	GCA_017589635.1
+135232592	INSDC	JAGZZW010000003.1	73698	74483	-	MBS6521954.1	P-loop NTPase	Clostridiales bacterium		GCA_018377185.1
+135232592	INSDC	JAHLNE010000002.1	389083	389868	+	MBU5229345.1	P-loop NTPase	Intestinimonas butyriciproducens	O-10	GCA_018916685.1
+135232592	INSDC	JAJCHB010000006.1	76751	77536	+	MCB7050089.1	nitrogenase iron protein NifH	Intestinimonas butyriciproducens	SL.3.04	GCA_020554265.1
+135232592	INSDC	JALFFC010000041.1	28804	29589	+	MCI6364113.1	nitrogenase iron protein NifH	Intestinimonas butyriciproducens		GCA_022778035.1
+135232592	INSDC	JALFWV010000144.1	61884	62669	-	MCI7660355.1	nitrogenase iron protein NifH	Flintibacter sp.		GCA_022787005.1
+135232592	INSDC	MJII01000001.1	461156	461941	-	OLR66513.1	nitrogenase iron protein	Intestinimonas butyriciproducens	27-5-10	GCA_001940005.1

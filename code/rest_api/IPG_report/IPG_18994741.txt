@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+18994741	INSDC	CP004079.1	1369666	1370706	-	AGG07042.1	prenyltransferase-like domain-containing protein	Dehalococcoides mccartyi DCMB5	DCMB5	GCA_000341655.1
+18994741	INSDC	CP019968.1	1297670	1298710	-	AQX73974.1	nitrogen fixation protein NifH	Dehalococcoides mccartyi	KBVC1	GCA_002024225.1

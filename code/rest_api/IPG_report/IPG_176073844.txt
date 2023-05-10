@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+176073844	RefSeq	NZ_NFMF01000009.1	44420	45187	+	WP_102889630.1	nitrogenase iron protein NifH	Megasphaera genomosp. type_2	KA00229	GCF_002892445.1
+176073844	INSDC	NFMF01000009.1	44420	45187	+	PNH21151.1	nitrogen fixation protein NifH	Megasphaera genomosp. type_2	KA00229	GCA_002892445.1

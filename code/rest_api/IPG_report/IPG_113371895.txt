@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+113371895	INSDC	KT832460.1	1	349	+	ANS71423.1	NifH	Stigonema ocellatum SAG 48.90 = DSM 106950	N2131	

@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+292508633	RefSeq	NZ_CALPCJ010000003.1	308212	309030	-	WP_160201467.1	nitrogenase iron protein NifH	Senimuribacter intestinalis	DSM 106208	GCF_943192975.1
+292508633	RefSeq	NZ_QWES01000010.1	5494	6312	+	WP_160201467.1	nitrogenase iron protein NifH	Anaerotruncus sp. 80	80	GCF_009936115.1
+292508633	RefSeq	NZ_QXWK01000010.1	5494	6312	+	WP_160201467.1	nitrogenase iron protein NifH	Anaerotruncus colihominis	28	GCF_009910895.1
+292508633	INSDC	QXWK01000010.1	5494	6312	+	NBH61184.1	nitrogenase iron protein	Anaerotruncus colihominis	28	GCA_009910895.1
+292508633	INSDC	QWES01000010.1	5494	6312	+	NCF01839.1	nitrogenase iron protein	Anaerotruncus sp. 80	80	GCA_009936115.1

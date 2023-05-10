@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+124720317	RefSeq	NZ_FNQP01000037.1	3783	4664	+	WP_093070868.1	nitrogenase iron protein	Thiothrix caldifontis	DSM 21228	GCF_900107695.1
+124720317	INSDC	FNQP01000037.1	3783	4664	+	SEB11081.1	nitrogenase iron protein NifH	Thiothrix caldifontis	DSM 21228	GCA_900107695.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+204616728	RefSeq	NZ_QRQO01000061.1	15611	16366	+	WP_118486536.1	nitrogenase iron protein NifH	Anaerobutyricum hallii	AF31-17AC	GCF_003475545.1
+204616728	INSDC	QRQO01000061.1	15611	16366	+	RHN08407.1	nitrogenase iron protein	Anaerobutyricum hallii	AF31-17AC	GCA_003475545.1

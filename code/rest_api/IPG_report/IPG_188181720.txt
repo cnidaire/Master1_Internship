@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+188181720	INSDC	JAFWIV010000004.1	59200	60042	+	MBR2991826.1	nitrogenase iron protein	Clostridiales bacterium		GCA_017514745.1
+188181720	INSDC	JAILLL010000008.1	15528	16370	+	MCR5488570.1	nitrogenase iron protein	Saccharofermentans sp.		GCA_024693185.1
+188181720	INSDC	QGFZ01000001.1	1056535	1057377	-	PWJ71063.1	nitrogenase iron protein NifH	Ruminococcaceae bacterium R-25	R-25	GCA_003149065.1
+188181720	INSDC	UHJI01000001.1	1056535	1057377	-	SUQ11542.1	nitrogenase iron protein NifH	Oscillospiraceae bacterium	R-25	GCA_900199645.1

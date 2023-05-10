@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+29897738	RefSeq	NZ_ALNO01000001.1	89414	90229	-	WP_009076505.1	nitrogenase iron protein NifH	Slackia sp. CM382	CM382	GCF_000293015.1
+29897738	INSDC	ALNO01000001.1	89414	90229	-	EJU35396.1	putative nitrogenase iron protein	Slackia sp. CM382	CM382	GCA_000293015.1

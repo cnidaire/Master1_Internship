@@ -1,0 +1,9 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+1090138	RefSeq	NC_003901.1	866092	866913	+	WP_011032670.1	nitrogenase iron protein	Methanosarcina mazei Go1	Go1	GCF_000007065.1
+1090138	RefSeq	NZ_CP009511.1	693650	694471	-	WP_011032670.1	nitrogenase iron protein	Methanosarcina mazei SarPi	SarPi	GCF_000970185.1
+1090138	RefSeq	NZ_CP009513.1	697626	698447	-	WP_011032670.1	nitrogenase iron protein	Methanosarcina mazei LYC	LYC	GCF_000970225.1
+1090138	Swiss-Prot	N/A				Q8PYY0.1	Nitrogenase iron protein	Methanosarcina mazei Go1		
+1090138	INSDC	AY029234.1	249	1070	+	AAK33112.1	NifH	Methanosarcina mazei Go1	Go1	
+1090138	INSDC	AE008384.1	866092	866913	+	AAM30415.1	Nitrogenase iron protein	Methanosarcina mazei Go1	Go1	GCA_000007065.1
+1090138	INSDC	CP009511.1	693650	694471	-	AKB60562.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Methanosarcina mazei SarPi	SarPi	GCA_000970185.1
+1090138	INSDC	CP009513.1	697626	698447	-	AKB67129.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Methanosarcina mazei LYC	LYC	GCA_000970225.1

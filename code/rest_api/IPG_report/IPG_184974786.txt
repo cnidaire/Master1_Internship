@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+184974786	INSDC	QAAD01000014.1	74841	75797	+	PTN07708.1	Mo-nitrogenase iron protein subunit NifH	Mangrovibacterium marinum	DSM 28823	GCA_003046625.1

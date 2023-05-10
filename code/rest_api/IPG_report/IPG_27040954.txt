@@ -1,0 +1,9 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+27040954	INSDC	EU031808.2	1	313	+	AFC16035.1	NifH	Trichormus variabilis BAC 9610	BAC 9610	
+27040954	INSDC	JQ685777.1	1	313	+	AFQ98047.1	dinitrogenase reductase	Trichormus variabilis BAC 0502	BAC 0502	
+27040954	INSDC	JQ685778.1	1	313	+	AFQ98048.1	dinitrogenase reductase	Trichormus variabilis BAC 9805	BAC 9805	
+27040954	INSDC	JQ685779.1	1	313	+	AFQ98049.1	dinitrogenase reductase	Trichormus variabilis BAC 9817	BAC 9817	
+27040954	INSDC	JQ685780.1	1	313	+	AFQ98050.1	dinitrogenase reductase	Trichormus variabilis BAC 9891	BAC 9891	
+27040954	INSDC	JQ685781.1	1	313	+	AFQ98051.1	dinitrogenase reductase	Trichormus variabilis BAC 9894	BAC 9894	
+27040954	INSDC	JN887857.1	1	313	+	AFQ98084.1	dinitrogenase reductase	Trichormus variabilis BAC 9611	BAC 9611	
+27040954	INSDC	JN887858.1	1	313	+	AFQ98085.1	dinitrogenase reductase	Trichormus variabilis BAC 9721	BAC 9721	

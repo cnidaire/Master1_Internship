@@ -1,0 +1,8 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+100640746	RefSeq	NZ_CP011940.1	1323509	1324273	+	WP_059075437.1	nitrogenase iron protein NifH	Megasphaera hexanoica	MH	GCF_003315775.1
+100640746	RefSeq	NZ_JABAFG010000009.1	82943	83707	-	WP_059075437.1	nitrogenase iron protein NifH	Megasphaera hexanoica	Oil-RF-744-FAT-WT-6-1	GCF_012843505.1
+100640746	RefSeq	NZ_LODR01000001.1	237038	237802	-	WP_059075437.1	nitrogenase iron protein NifH	Megasphaera sp. DJF_B143	DJF_B143	GCF_001494645.1
+100640746	RefSeq	NZ_ONTA01000033.1	5415	6179	-	WP_059075437.1	nitrogenase iron protein NifH	Megasphaera sp. DJF_B143		GCF_900320625.1
+100640746	INSDC	CP011940.1	1323509	1324273	+	AXB81848.1	nitrogen fixation protein NifH	Megasphaera hexanoica	MH	GCA_003315775.1
+100640746	INSDC	LODR01000001.1	237038	237802	-	KUH57521.1	nitrogen fixation protein NifH	Megasphaera sp. DJF_B143	DJF_B143	GCA_001494645.1
+100640746	INSDC	JABAFG010000009.1	82943	83707	-	NME28336.1	AAA family ATPase	Megasphaera hexanoica	Oil-RF-744-FAT-WT-6-1	GCA_012843505.1

@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+60998442	RefSeq	NZ_AP024987.1	1079288	1080157	+	WP_040054948.1	nitrogenase iron protein	cyanobacterium endosymbiont of Braarudosphaera bigelowii		GCF_020885515.1
+60998442	INSDC	AP024987.1	1079288	1080157	+	BDA40030.1	nitrogenase iron protein 1	cyanobacterium endosymbiont of Braarudosphaera bigelowii		GCA_020885515.1
+60998442	INSDC	JPSP01000010.1	50716	51585	-	KFF41299.1	Mo-nitrogenase iron protein subunit NifH	Candidatus Atelocyanobacterium thalassa isolate SIO64986		GCA_000737945.1

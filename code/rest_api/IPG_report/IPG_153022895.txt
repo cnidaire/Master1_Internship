@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+153022895	INSDC	AP018180.1	996006	996983	+	BAY28973.1	nitrogenase iron protein subunit NifH	Nostoc carneum NIES-2107	NIES-2107	GCA_002368155.1

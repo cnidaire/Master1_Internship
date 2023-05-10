@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+184009616	RefSeq	NZ_LT985755.1	428123	428935	-	WP_106627214.1	nitrogenase iron protein NifH	Selenomonas massiliensis	Marseille-P4036	GCF_900290285.1

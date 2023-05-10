@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+427231683	RefSeq	NZ_JAGGKR010000001.1	212891	213709	-	WP_209673201.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanolinea mesophila	DSM 23604	GCF_017873855.1
+427231683	INSDC	JAGGKR010000001.1	212891	213709	-	MBP1927660.1	nitrogenase iron protein NifH	Methanolinea mesophila	DSM 23604	GCA_017873855.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+26410957	INSDC	JN600442.1	13	486	+	AEX25777.1	NifH	Pseudomonas putida	MB-L	

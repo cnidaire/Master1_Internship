@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+130643355	RefSeq	NZ_FQTV01000005.1	120419	121243	+	WP_073400271.1	nitrogenase iron protein	Bacteroides luti	DSM 26991	GCF_900128905.1
+130643355	INSDC	FQTV01000005.1	120419	121243	+	SHF10254.1	nitrogenase iron protein NifH	Bacteroides luti	DSM 26991	GCA_900128905.1

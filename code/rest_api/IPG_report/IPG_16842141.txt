@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+16842141	INSDC	FJ797416.1	1	341	+	ACO36768.1	NifH	[Leptolyngbya] sp. JSC-1	JSC-1	

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+204066232	RefSeq	NZ_QRXJ01000003.1	135997	136764	+	WP_117834537.1	nitrogenase iron protein NifH	Coprococcus comes	AF18-12LB	GCF_003460315.1
+204066232	INSDC	QRXJ01000003.1	135997	136764	+	RGT92030.1	nitrogenase iron protein	Coprococcus comes	AF18-12LB	GCA_003460315.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+127140665	RefSeq	NZ_FORI01000001.1	447737	448588	-	WP_074929971.1	nitrogenase iron protein	Treponema bryantii	XBD1002	GCF_900113965.1
+127140665	INSDC	FORI01000001.1	447737	448588	-	SFI44052.1	nitrogenase iron protein NifH	Treponema bryantii	XBD1002	GCA_900113965.1

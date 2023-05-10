@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+170291387	INSDC	PEUL01000147.1	392	1411	-	PIV27648.1	nitrogen fixation protein NifH	Anaerolineae bacterium CG03_land_8_20_14_0_80_58_20		GCA_002780865.1

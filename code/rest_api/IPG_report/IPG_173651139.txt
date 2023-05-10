@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+173651139	RefSeq	NZ_PHSI01000053.1	10760	11632	-	WP_101341209.1	nitrogenase iron protein NifH	Cereibacter azotoformans	YLK20	GCF_002844445.1

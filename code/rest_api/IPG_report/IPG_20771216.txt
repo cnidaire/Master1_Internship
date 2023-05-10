@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+20771216	INSDC	HQ115046.1	1	852	+	ADM13677.1	NifH	Burkholderia sp. enrichment culture clone CATux-28		

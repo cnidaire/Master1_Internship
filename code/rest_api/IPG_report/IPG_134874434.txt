@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+134874434	RefSeq	NZ_MLBG01000001.1	100282	101106	-	WP_075352758.1	nitrogenase iron protein	Desulfovibrio sp. DV	DV	GCF_001936595.1
+134874434	INSDC	MLBG01000001.1	100282	101106	-	OLN31293.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Desulfovibrio sp. DV	DV	GCA_001936595.1

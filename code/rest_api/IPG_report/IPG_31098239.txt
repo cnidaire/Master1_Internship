@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+31098239	RefSeq	NC_018866.1	2031923	2032777	-	WP_015044056.1	nitrogenase iron protein	Dehalobacter sp. DCA	DCA	GCF_000305775.1
+31098239	RefSeq	NC_018867.1	2061704	2062558	-	WP_015044056.1	nitrogenase iron protein	Dehalobacter sp. CF	CF	GCF_000305815.1
+31098239	RefSeq	NZ_AUUR01000030.1	1087	1941	+	WP_015044056.1	nitrogenase iron protein	Dehalobacter sp. UNSWDHB	UNSWDHB	GCF_000445165.1
+31098239	INSDC	CP003869.1	2031923	2032777	-	AFV03033.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Dehalobacter sp. DCA	DCA	GCA_000305775.1
+31098239	INSDC	CP003870.1	2061704	2062558	-	AFV06021.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Dehalobacter sp. CF	CF	GCA_000305815.1
+31098239	INSDC	AUUR01000030.1	1087	1941	+	EQB22516.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Dehalobacter sp. UNSWDHB	UNSWDHB	GCA_000445165.1

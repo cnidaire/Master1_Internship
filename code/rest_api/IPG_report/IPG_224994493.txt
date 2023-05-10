@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+224994493	RefSeq	NZ_CP060720.1	135905	136735	-	WP_126795858.1	nitrogenase iron protein NifH	Vagococcus carniphilus	ATCC BAA-640	GCF_014397115.1
+224994493	RefSeq	NZ_NGKB01000015.1	47475	48305	+	WP_126795858.1	nitrogenase iron protein NifH	Vagococcus carniphilus	SS1714	GCF_003987635.1
+224994493	INSDC	CP060720.1	135905	136735	-	QNN73166.1	AAA family ATPase	Vagococcus carniphilus	ATCC BAA-640	GCA_014397115.1
+224994493	INSDC	NGKB01000015.1	47475	48305	+	RSU11105.1	hypothetical protein	Vagococcus carniphilus	SS1714	GCA_003987635.1

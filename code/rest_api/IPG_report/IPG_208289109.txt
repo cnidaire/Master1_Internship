@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+208289109	INSDC	DQBN01000166.1	2138	3142	-	HCP15231.1	nitrogen fixation protein NifH	Peptococcaceae bacterium		GCA_003536815.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+156641225	RefSeq	NZ_CP016199.1	1628419	1629171	-	WP_094234527.1	nitrogenase iron protein NifH	Mogibacterium pumilum	ATCC 700696	GCF_002243385.1
+156641225	INSDC	CP016199.1	1628419	1629171	-	ASS38287.1	nitrogen fixation protein NifH	Mogibacterium pumilum	ATCC 700696	GCA_002243385.1

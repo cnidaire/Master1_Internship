@@ -1,0 +1,11 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+13919055	INSDC	EF549533.1	1	390	+	ABW75044.1	NifH	Rhizobium multihospitium	CCBAU 83325	
+13919055	INSDC	EF490061.1	1	390	+	ABW75511.1	nitrogenase reductase	Rhizobium multihospitium	CCBAU 83333	
+13919055	INSDC	EF490062.1	1	390	+	ABW75512.1	nitrogenase reductase	Rhizobium multihospitium	CCBAU 83375	
+13919055	INSDC	EF490063.1	1	390	+	ABW75513.1	nitrogenase reductase	Rhizobium multihospitium	CCBAU 83277	
+13919055	INSDC	EF490064.1	1	391	+	ABW75514.1	nitrogenase reductase	Rhizobium multihospitium	CCBAU 83345	
+13919055	INSDC	EF490065.1	1	391	+	ABW75515.1	nitrogenase reductase	Rhizobium multihospitium	CCBAU 83319	
+13919055	INSDC	EF490066.1	1	390	+	ABW75516.1	nitrogenase reductase	Rhizobium multihospitium	CCBAU 83364	
+13919055	INSDC	EF490067.1	1	390	+	ABW75517.1	nitrogenase reductase	Rhizobium multihospitium	CCBAU 83435	
+13919055	INSDC	EF490068.1	1	390	+	ABW75518.1	nitrogenase reductase	Rhizobium multihospitium	CCBAU 83503	
+13919055	INSDC	EF490069.1	1	390	+	ABW75519.1	nitrogenase reductase	Rhizobium multihospitium	CCBAU 83523	

@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+103591885	RefSeq	NZ_KQ960953.1	24560	25327	-	WP_062486156.1	nitrogenase iron protein NifH	Megasphaera hutchinsoni	KA00182	GCF_001553405.1
+103591885	INSDC	KQ960953.1	24560	25327	-	KXB90488.1	putative nitrogenase iron protein	Megasphaera hutchinsoni	KA00182	GCA_001553405.1
+103591885	INSDC	LSDT01000046.1	24560	25327	-	KXB90488.1	putative nitrogenase iron protein	Megasphaera hutchinsoni	KA00182	GCA_001553405.1

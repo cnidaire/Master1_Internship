@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+188201923	INSDC	QGGI01000006.1	94176	94922	-	PWJ95288.1	nitrogenase iron protein NifH	Oceanotoga teriensis	DSM 24906	GCA_003148465.1

@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+114600	INSDC	J05111.1	4860	5759	+	AAA22008.1	nitrogenase reductase	Nostoc sp. PCC 7120 = FACHB-418	PCC 7120	
+114600	INSDC	V00001.1	195	1094	+	CAA23398.1	unnamed protein product	Nostoc sp. PCC 7120 = FACHB-418		
+114600	INSDC	V01482.1	194	1093	+	CAA24729.1	nifH	Nostoc sp. PCC 7120 = FACHB-418		
+114600	PRF	N/A				0701275A	reductase,nitrogenase	Anabaena sp.		

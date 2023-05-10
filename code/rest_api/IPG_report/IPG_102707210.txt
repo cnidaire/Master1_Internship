@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+102707210	RefSeq	NZ_BBPY01000087.1	1574	2443	+	WP_059368982.1	nitrogenase iron protein NifH	Treponema endosymbiont of Eucomonympha sp.	E12	GCF_001028585.1

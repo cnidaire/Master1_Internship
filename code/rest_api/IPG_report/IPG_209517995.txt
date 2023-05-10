@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+209517995	RefSeq	NZ_BFCB01000002.1	1474971	1475990	-	WP_119068536.1	nitrogen fixation protein NifH	Aggregatilinea lenta	MO-CFX2	GCF_003569045.1

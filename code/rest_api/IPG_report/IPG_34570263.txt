@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+34570263	INSDC	KC297125.1	1	327	+	AGI19267.1	NifH	Azospirillum soli	CC-LY788	

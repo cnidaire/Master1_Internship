@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+34398035	INSDC	KC247136.1	1	692	+	AGH32288.1	NifH	Bradyrhizobium viridifuturi	CMVU02	
+34398035	INSDC	KC247138.1	1	691	+	AGH32290.1	NifH	Bradyrhizobium viridifuturi	CMVU30	

@@ -1,0 +1,8 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+130142936	RefSeq	NZ_LN889813.1	41907	42797	-	WP_072721277.1	nitrogenase iron protein	Planktothrix tepida PCC 9214		GCF_900009145.1
+130142936	RefSeq	NZ_LR882967.1	3090407	3091297	+	WP_072721277.1	nitrogenase iron protein	Planktothrix pseudagardhii	No.713	GCF_904830925.1
+130142936	RefSeq	NZ_LR882970.1	3538389	3539279	-	WP_072721277.1	nitrogenase iron protein	Planktothrix tepida	PCC9214	GCF_904830955.1
+130142936	INSDC	LR882967.1	3090407	3091297	+	CAD5951775.1	Nitrogenase iron protein 2	Planktothrix pseudagardhii	No.713	GCA_904830925.1
+130142936	INSDC	LR882970.1	3538389	3539279	-	CAD5958835.1	Nitrogenase iron protein 2	Planktothrix tepida	PCC9214	GCA_904830955.1
+130142936	INSDC	CZDF01000172.1	41907	42797	-	CUR34599.1	nitrogenase iron protein, nifH; dinitrogenase reductase	Planktothrix tepida PCC 9214		GCA_900009145.1
+130142936	INSDC	LN889813.1	41907	42797	-	CUR34599.1	nitrogenase iron protein, nifH; dinitrogenase reductase	Planktothrix tepida PCC 9214		GCA_900009145.1

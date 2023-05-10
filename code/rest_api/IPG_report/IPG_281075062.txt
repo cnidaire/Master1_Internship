@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+281075062	RefSeq	NZ_JAQDDW010000001.1	54675	55466	+	WP_154571597.1	nitrogenase iron protein NifH	Baileyella intestinalis	AF80-08CM05A	GCF_027665665.1
+281075062	RefSeq	NZ_JAQXPA010000006.1	53300	54091	+	WP_154571597.1	nitrogenase iron protein NifH	Baileyella intestinalis		GCF_029100205.1
+281075062	RefSeq	NZ_VUNB01000001.1	137830	138621	+	WP_154571597.1	nitrogenase iron protein NifH	Baileyella intestinalis	RF-744-FAT-WT-3	GCF_009695865.1
+281075062	INSDC	JALFWT010000003.1	151334	152125	+	MCI7685489.1	nitrogenase iron protein NifH	Clostridiales bacterium		GCA_022786565.1
+281075062	INSDC	VUNB01000001.1	137830	138621	+	MST68121.1	P-loop NTPase	Baileyella intestinalis	RF-744-FAT-WT-3	GCA_009695865.1

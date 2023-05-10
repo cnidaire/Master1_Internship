@@ -1,0 +1,8 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+18545529	RefSeq	NC_013355.1	1636782	1637669	-	WP_015740208.1	nitrogenase iron protein	Zymomonas mobilis subsp. mobilis NCIMB 11163	NCIB 11163	GCF_000024245.1
+18545529	RefSeq	NZ_CALCQZ010000111.1	33268	34155	+	WP_015740208.1	nitrogenase iron protein	Zymomonas mobilis		GCF_937894655.1
+18545529	RefSeq	NZ_CP021053.1	1450344	1451231	-	WP_015740208.1	nitrogenase iron protein	Zymomonas mobilis subsp. mobilis	NRRL B-1960	GCF_002158845.1
+18545529	RefSeq	NZ_VIVG01000001.1	1497120	1498007	-	WP_015740208.1	nitrogenase iron protein	Zymomonas mobilis	NRRL B-4286	GCF_007828775.1
+18545529	INSDC	CP001722.1	1636782	1637669	-	ACV75951.1	nitrogenase iron protein	Zymomonas mobilis subsp. mobilis NCIMB 11163	NCIMB 11163	GCA_000024245.1
+18545529	INSDC	CP021053.1	1450344	1451231	-	ART93773.1	nitrogenase iron protein	Zymomonas mobilis subsp. mobilis	NRRL B-1960	GCA_002158845.1
+18545529	INSDC	VIVG01000001.1	1497120	1498007	-	TWD60500.1	Mo-nitrogenase iron protein subunit NifH	Zymomonas mobilis	NRRL B-4286	GCA_007828775.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+116176057	RefSeq	NZ_MASS01000070.1	12105	12932	-	WP_068966270.1	nitrogenase iron protein	Desulfosporosinus sp. BG	BG	GCF_001707885.1
+116176057	INSDC	MASS01000070.1	12105	12932	-	ODA39161.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Desulfosporosinus sp. BG	BG	GCA_001707885.1

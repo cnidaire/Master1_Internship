@@ -1,0 +1,11 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+80080565	RefSeq	NZ_CP009501.1	2970858	2971655	+	WP_048168148.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina thermophila TM-1	TM-1	GCF_000969885.1
+80080565	RefSeq	NZ_CP009502.1	1058503	1059300	-	WP_048168148.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina thermophila CHTI-55	CHTI-55	GCF_000969925.1
+80080565	RefSeq	NZ_FPAO01000012.1	58243	59040	-	WP_048168148.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina thermophila	DSM 11855	GCF_900116525.1
+80080565	INSDC	CP009501.1	2970858	2971655	+	AKB14209.1	nitrogenase reductase-like protein	Methanosarcina thermophila TM-1	TM-1	GCA_000969885.1
+80080565	INSDC	CP009502.1	1058503	1059300	-	AKB15149.1	nitrogenase reductase-like protein	Methanosarcina thermophila CHTI-55	CHTI-55	GCA_000969925.1
+80080565	INSDC	CP011449.1	1464313	1465110	+	ALK05406.1	nitrogenase iron protein	Methanosarcina sp. 795		GCA_001402855.1
+80080565	INSDC	AP017646.1	1525410	1526207	+	BAW29257.1	Mo-nitrogenase iron protein subunit NifH	Methanosarcina thermophila	MT-1	GCA_003584605.1
+80080565	INSDC	BSDL01000003.1	268025	268822	-	GLI13683.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina thermophila MST-A1	MST-A1	GCA_027925105.1
+80080565	INSDC	JAAYAF010000074.1	42298	43095	-	NLU58334.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosarcina thermophila		GCA_012719515.1
+80080565	INSDC	FPAO01000012.1	58243	59040	-	SFT81851.1	nitrogenase iron protein NifH	Methanosarcina thermophila	DSM 11855	GCA_900116525.1

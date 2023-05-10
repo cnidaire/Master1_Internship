@@ -1,0 +1,16 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+202292150	RefSeq	NZ_JAJCHS010000012.1	18199	18966	+	WP_118106779.1	nitrogenase iron protein NifH	Mediterraneibacter faecis	DFI.4.88	GCF_020554665.1
+202292150	RefSeq	NZ_JAJCHW010000005.1	18199	18966	+	WP_118106779.1	nitrogenase iron protein NifH	Mediterraneibacter faecis	DFI.4.18	GCF_020554785.1
+202292150	RefSeq	NZ_JAJCHY010000006.1	18199	18966	+	WP_118106779.1	nitrogenase iron protein NifH	Mediterraneibacter faecis	DFI.4.116	GCF_020554825.1
+202292150	RefSeq	NZ_JAJCIG010000004.1	18234	19001	+	WP_118106779.1	nitrogenase iron protein NifH	Mediterraneibacter faecis	DFI.3.118	GCF_020554975.1
+202292150	RefSeq	NZ_JAJCIY010000006.1	146952	147719	-	WP_118106779.1	nitrogenase iron protein NifH	Mediterraneibacter faecis	DFI.4.12	GCF_020555495.1
+202292150	RefSeq	NZ_JAKNFG010000005.1	140786	141553	-	WP_118106779.1	nitrogenase iron protein NifH	Mediterraneibacter faecis	DFI.4.70	GCF_022136705.1
+202292150	RefSeq	NZ_JAQDUE010000010.1	99196	99963	-	WP_118106779.1	nitrogenase iron protein NifH	Mediterraneibacter faecis	AM110-68	GCF_027674845.1
+202292150	INSDC	JAJDFO010000005.1	146952	147719	-	MCB5889839.1	nitrogenase iron protein NifH	Lachnospiraceae bacterium 210521-DFI.4.71	DFI.4.71	GCA_020563835.1
+202292150	INSDC	JAJCHS010000012.1	18199	18966	+	MCB7114153.1	nitrogenase iron protein NifH	Mediterraneibacter faecis	DFI.4.88	GCA_020554665.1
+202292150	INSDC	JAJCHW010000005.1	18199	18966	+	MCB7116620.1	nitrogenase iron protein NifH	Mediterraneibacter faecis	DFI.4.18	GCA_020554785.1
+202292150	INSDC	JAJCHY010000006.1	18199	18966	+	MCB7289075.1	nitrogenase iron protein NifH	Mediterraneibacter faecis	DFI.4.116	GCA_020554825.1
+202292150	INSDC	JAJCIG010000004.1	18234	19001	+	MCB7326713.1	nitrogenase iron protein NifH	Mediterraneibacter faecis	DFI.3.118	GCA_020554975.1
+202292150	INSDC	JAJCIY010000006.1	146952	147719	-	MCB7424541.1	nitrogenase iron protein NifH	Mediterraneibacter faecis	DFI.4.12	GCA_020555495.1
+202292150	INSDC	JAKNFG010000005.1	140786	141553	-	MCG4831799.1	nitrogenase iron protein NifH	Mediterraneibacter faecis	DFI.4.70	GCA_022136705.1
+202292150	INSDC	QTZH01000015.1	18328	19095	+	RGI49410.1	nitrogen fixation protein NifH	Ruminococcus sp. OM04-4AA	OM04-4AA	GCA_003462585.1

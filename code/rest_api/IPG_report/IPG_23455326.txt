@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+23455326	INSDC	HQ836207.1	1	344	+	AEF33314.1	NifH	Calothrix sp. LCRNK_15	LCRNK_15	

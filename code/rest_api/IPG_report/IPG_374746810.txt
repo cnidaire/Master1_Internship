@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+374746810	RefSeq	NZ_JADMUB010000001.1	277875	278633	+	WP_195198863.1	nitrogenase iron protein NifH	Clostridium jeddahense	1001270B_150601_B3	GCF_015546905.1

@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+125941120	RefSeq	NZ_CAAGSJ010000003.1	236314	237108	-	WP_091688868.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanococcoides vulcani		GCF_900773955.1
+125941120	RefSeq	NZ_FOHQ01000001.1	555455	556249	-	WP_091688868.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanococcoides vulcani	SLH 33	GCF_900111645.1
+125941120	INSDC	FOHQ01000001.1	555455	556249	-	SES69576.1	Mo-nitrogenase iron protein subunit NifH	Methanococcoides vulcani	SLH 33	GCA_900111645.1

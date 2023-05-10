@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+14719475	INSDC	AB428572.1	1	319	+	BAG12911.1	NifH protein	Paenibacillus graminis		

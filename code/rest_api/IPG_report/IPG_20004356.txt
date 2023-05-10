@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+20004356	INSDC	GU994077.1	1	713	+	ADG63616.1	NifH	Ensifer sojae CCBAU 05684	CCBAU 05684	

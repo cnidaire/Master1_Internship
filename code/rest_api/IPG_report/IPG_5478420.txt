@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+5478420	INSDC	DQ413021.1	1	715	+	ABD73338.1	NifH	Rhizobium tropici		

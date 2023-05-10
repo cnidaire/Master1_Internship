@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+120623300	INSDC	JAILGE010000006.1	25968	26819	+	MCR5208682.1	nitrogenase iron protein	Lachnospiraceae bacterium		GCA_024697065.1
+120623300	INSDC	MWAW01000277.1	710	1561	+	OQA22925.1	Nitrogenase iron protein 1	Firmicutes bacterium ADurb.Bin354		GCA_002068765.1
+120623300	INSDC	FMVK01000010.1	13458	14309	-	SCY29520.1	nitrogenase iron protein NifH	Lachnospiraceae bacterium XPB1003	XPB1003	GCA_900102065.1

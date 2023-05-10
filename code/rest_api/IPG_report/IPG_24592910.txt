@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+24592910	INSDC	JN571920.1	1	715	+	AEN74970.1	nitrogenase reductase	Bradyrhizobium sp. JNVU TV11	JNVU TV11	
+24592910	INSDC	MH339857.1	1	715	+	AZM65178.1	NifH	Bradyrhizobium sp.	TUTVUSA41	
+24592910	INSDC	MK616771.1	1	715	+	QEO75565.1	nitrogenase reductase	Bradyrhizobium sp.	TUTMa2	

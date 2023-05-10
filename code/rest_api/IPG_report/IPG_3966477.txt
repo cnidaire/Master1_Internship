@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+3966477	INSDC	AB100830.1	1	363	+	BAD80872.1	nifH	Heliobacterium chlorum	DSM 3682	
+3966477	INSDC	AB100831.1	1	363	+	BAD80873.1	nifH	Heliobacterium mobile	DSM 6151	
+3966477	INSDC	AB112406.1	1	363	+	BAD80877.1	nitrogenase	Heliomicrobium gestii	DSM 11169	

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+126175088	RefSeq	NZ_FOBS01000018.1	28372	29196	-	WP_093883931.1	nitrogenase iron protein	Syntrophus gentianae	DSM 8423	GCF_900109885.1
+126175088	INSDC	FOBS01000018.1	28372	29196	-	SEM49495.1	Mo-nitrogenase iron protein subunit NifH	Syntrophus gentianae	DSM 8423	GCA_900109885.1

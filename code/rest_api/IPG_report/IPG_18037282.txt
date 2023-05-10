@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+18037282	INSDC	FJ514066.1	1	714	+	ACS89057.1	NifH	Bradyrhizobium yuanmingense	SR119	
+18037282	INSDC	FJ514070.1	1	715	+	ACS89061.1	NifH	Bradyrhizobium yuanmingense	SR135	
+18037282	INSDC	KY990682.1	1	715	+	AWC14884.1	nitrogenase Fe protein	Bradyrhizobium sp.	CPJH29	

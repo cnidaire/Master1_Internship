@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+240069306	RefSeq	NZ_JAHDUW010000001.1	440968	441768	+	WP_133516870.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanimicrococcus blatticola	DSM 13328	GCF_020011555.1
+240069306	RefSeq	NZ_JAJENP010000002.1	213911	214711	-	WP_133516870.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanimicrococcus blatticola	PA	GCF_020685265.1
+240069306	RefSeq	NZ_SNYS01000005.1	440423	441223	+	WP_133516870.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanimicrococcus blatticola	DSM 13328	GCF_004363215.1
+240069306	INSDC	JAHDUW010000001.1	440968	441768	+	MBZ3935243.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanimicrococcus blatticola	DSM 13328	GCA_020011555.1
+240069306	INSDC	JAJENP010000002.1	213911	214711	-	MCC2508659.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanimicrococcus blatticola	PA	GCA_020685265.1
+240069306	INSDC	SNYS01000005.1	440423	441223	+	TDQ71304.1	Mo-nitrogenase iron protein subunit NifH	Methanimicrococcus blatticola	DSM 13328	GCA_004363215.1

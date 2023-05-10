@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+176071484	RefSeq	NZ_NBZD01000005.1	16163	16996	-	WP_102892757.1	nitrogenase iron protein NifH	Mageeibacillus indolicus	KA00405	GCF_002892425.1
+176071484	INSDC	NBZD01000005.1	16163	16996	-	PNH17865.1	nitrogenase iron protein	Mageeibacillus indolicus	KA00405	GCA_002892425.1

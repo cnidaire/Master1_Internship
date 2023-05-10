@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+536421334	INSDC	JALERE010000105.1	7972	8736	-	MCI5532434.1	nitrogenase iron protein NifH	Caecibacter massiliensis		GCA_022763765.1

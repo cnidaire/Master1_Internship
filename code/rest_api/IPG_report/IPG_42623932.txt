@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+42623932	RefSeq	NZ_ASXP01000002.1	44066	44893	-	WP_021167800.1	nitrogenase iron protein	Sporomusa ovata DSM 2662	DSM 2662	GCF_000445445.1
+42623932	RefSeq	NZ_AUIL01000030.1	20282	21109	-	WP_021167800.1	nitrogenase iron protein	Sporomusa ovata DSM 2662	DSM 2662	GCF_000423685.1
+42623932	RefSeq	NZ_CTRP01000012.1	19715	20542	-	WP_021167800.1	nitrogenase iron protein	Sporomusa ovata		GCF_001373435.1
+42623932	INSDC	CTRP01000012.1	19715	20542	-	CQR72987.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Sporomusa ovata		GCA_001373435.1
+42623932	INSDC	ASXP01000002.1	44066	44893	-	EQB27148.1	nitrogenase iron protein	Sporomusa ovata DSM 2662	DSM 2662	GCA_000445445.1

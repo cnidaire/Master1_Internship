@@ -1,0 +1,105 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+14748687	RefSeq	NC_010529.1	333073	333954	+	WP_012354691.1	nitrogenase iron protein	Cupriavidus taiwanensis LMG 19424	LMG 19424	GCF_000069785.1
+14748687	RefSeq	NZ_AQUR01000058.1	4301	5182	-	WP_012354691.1	nitrogenase iron protein	Cupriavidus neocaledonicus	STM6070	GCF_000372525.1
+14748687	RefSeq	NZ_AXAK01000029.1	4301	5182	-	WP_012354691.1	nitrogenase iron protein	Cupriavidus taiwanensis STM 6018	STM 6018	GCF_000472465.1
+14748687	RefSeq	NZ_CP016951.1	45127	46008	+	WP_012354691.1	nitrogenase iron protein	Cupriavidus taiwanensis	SWF66294	GCF_022406855.1
+14748687	RefSeq	NZ_JALHRX010000039.1	3611	4492	-	WP_012354691.1	nitrogenase iron protein	Cupriavidus sp. WGlv3	WGlv3	GCF_023952475.1
+14748687	RefSeq	NZ_JALHRY010000031.1	15080	15961	+	WP_012354691.1	nitrogenase iron protein	Cupriavidus sp. WGtm5	WGtm5	GCF_023952485.1
+14748687	RefSeq	NZ_LT976858.1	317363	318244	+	WP_012354691.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900249735.1
+14748687	RefSeq	NZ_LT976861.1	314595	315476	+	WP_012354691.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900249705.1
+14748687	RefSeq	NZ_LT976864.1	326421	327302	+	WP_012354691.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900249765.1
+14748687	RefSeq	NZ_LT976867.1	291419	292300	+	WP_012354691.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900249745.1
+14748687	RefSeq	NZ_LT976870.1	319204	320085	+	WP_012354691.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900249715.1
+14748687	RefSeq	NZ_LT976877.1	291272	292153	+	WP_012354691.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900249825.1
+14748687	RefSeq	NZ_LT976947.1	15019	15900	+	WP_012354691.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900249785.1
+14748687	RefSeq	NZ_LT976966.1	285684	286565	+	WP_012354691.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900249775.1
+14748687	RefSeq	NZ_LT976969.1	225239	226120	+	WP_012354691.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900249855.1
+14748687	RefSeq	NZ_LT976972.1	307344	308225	+	WP_012354691.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900249865.1
+14748687	RefSeq	NZ_LT976975.1	228770	229651	+	WP_012354691.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900249845.1
+14748687	RefSeq	NZ_LT976978.1	317626	318507	+	WP_012354691.1	nitrogenase iron protein	Cupriavidus neocaledonicus		GCF_900249875.1
+14748687	RefSeq	NZ_LT976984.1	217476	218357	+	WP_012354691.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900249895.1
+14748687	RefSeq	NZ_LT976987.1	317756	318637	+	WP_012354691.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900249885.1
+14748687	RefSeq	NZ_LT976990.1	315037	315918	+	WP_012354691.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900249935.1
+14748687	RefSeq	NZ_LT976993.1	314629	315510	+	WP_012354691.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900249955.1
+14748687	RefSeq	NZ_LT976997.1	317633	318514	+	WP_012354691.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900249945.1
+14748687	RefSeq	NZ_LT977001.1	316670	317551	+	WP_012354691.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900249995.1
+14748687	RefSeq	NZ_LT977047.1	17675	18556	+	WP_012354691.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900250015.1
+14748687	RefSeq	NZ_LT977066.1	314605	315486	+	WP_012354691.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900250025.1
+14748687	RefSeq	NZ_LT977069.1	289130	290011	+	WP_012354691.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900250045.1
+14748687	RefSeq	NZ_LT977075.1	319094	319975	+	WP_012354691.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900249985.1
+14748687	RefSeq	NZ_LT978519.1	156407	157288	-	WP_012354691.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900250035.1
+14748687	RefSeq	NZ_LT984799.1	243756	244637	+	WP_012354691.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900250105.1
+14748687	RefSeq	NZ_LT984805.1	360315	361196	+	WP_012354691.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900250115.1
+14748687	RefSeq	NZ_LT984808.1	334062	334943	+	WP_012354691.1	nitrogenase iron protein	Cupriavidus neocaledonicus		GCF_900250125.1
+14748687	RefSeq	NZ_LT984815.1	358694	359575	+	WP_012354691.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900250085.1
+14748687	RefSeq	NZ_LT991978.1	213811	214692	-	WP_012354691.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900250065.1
+14748687	RefSeq	NZ_LT992561.1	200715	201596	+	WP_012354691.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900249795.1
+14748687	RefSeq	NZ_LT992565.1	194320	195201	+	WP_012354691.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900249815.1
+14748687	RefSeq	NZ_LT992571.1	200774	201655	+	WP_012354691.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900249835.1
+14748687	RefSeq	NZ_OFSX01000027.1	15019	15900	+	WP_012354691.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900249805.1
+14748687	RefSeq	NZ_OFTR01000035.1	15019	15900	+	WP_012354691.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900250055.1
+14748687	INSDC	CU633751.1	333073	333954	+	CAP64045.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis LMG 19424	LMG 19424	GCA_000069785.1
+14748687	INSDC	JALHRX010000039.1	3611	4492	-	MCO4865800.1	nitrogenase iron protein	Cupriavidus sp. WGlv3	WGlv3	GCA_023952475.1
+14748687	INSDC	JALHRY010000031.1	15080	15961	+	MCO4893493.1	nitrogenase iron protein	Cupriavidus sp. WGtm5	WGtm5	GCA_023952485.1
+14748687	INSDC	LT976864.1	326421	327302	+	SOY74994.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249765.1
+14748687	INSDC	OFSR01000065.1	17557	18438	+	SOY74994.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249765.1
+14748687	INSDC	LT976870.1	319204	320085	+	SOY74997.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249715.1
+14748687	INSDC	OFSO01000063.1	17934	18815	+	SOY74997.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249715.1
+14748687	INSDC	LT976861.1	314595	315476	+	SOY75001.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249705.1
+14748687	INSDC	OFSS01000050.1	17891	18772	+	SOY75001.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249705.1
+14748687	INSDC	LT976858.1	317363	318244	+	SOY75813.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249735.1
+14748687	INSDC	OFSP01000054.1	15019	15900	+	SOY75813.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249735.1
+14748687	INSDC	LT976867.1	291419	292300	+	SOY77810.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249745.1
+14748687	INSDC	OFSN01000042.1	15019	15900	+	SOY77810.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249745.1
+14748687	INSDC	LT976947.1	15019	15900	+	SOY99697.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249785.1
+14748687	INSDC	OFSU01000068.1	15019	15900	+	SOY99697.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249785.1
+14748687	INSDC	LT976877.1	291272	292153	+	SOZ02299.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249825.1
+14748687	INSDC	OFSV01000046.1	15019	15900	+	SOZ02299.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249825.1
+14748687	INSDC	LT976966.1	285684	286565	+	SOZ06869.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249775.1
+14748687	INSDC	OFST01000047.1	15019	15900	+	SOZ06869.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249775.1
+14748687	INSDC	LT992571.1	200774	201655	+	SOZ16351.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249835.1
+14748687	INSDC	OFSY01000024.1	31811	32692	+	SOZ16351.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249835.1
+14748687	INSDC	OFSX01000027.1	15019	15900	+	SOZ19925.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249805.1
+14748687	INSDC	LT976969.1	225239	226120	+	SOZ21382.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249855.1
+14748687	INSDC	OFSZ01000048.1	15112	15993	+	SOZ21382.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249855.1
+14748687	INSDC	LT976972.1	307344	308225	+	SOZ32293.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249865.1
+14748687	INSDC	OFTB01000065.1	15019	15900	+	SOZ32293.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249865.1
+14748687	INSDC	LT976975.1	228770	229651	+	SOZ33922.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249845.1
+14748687	INSDC	OFTA01000049.1	15112	15993	+	SOZ33922.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249845.1
+14748687	INSDC	LT976978.1	317626	318507	+	SOZ40512.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus neocaledonicus		GCA_900249875.1
+14748687	INSDC	OFTC01000063.1	15019	15900	+	SOZ40512.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus neocaledonicus		GCA_900249875.1
+14748687	INSDC	LT976984.1	217476	218357	+	SOZ50607.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249895.1
+14748687	INSDC	OFTD01000042.1	15112	15993	+	SOZ50607.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249895.1
+14748687	INSDC	LT976987.1	317756	318637	+	SOZ75829.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249885.1
+14748687	INSDC	OFTE01000070.1	15019	15900	+	SOZ75829.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249885.1
+14748687	INSDC	LT976990.1	315037	315918	+	SOZ90203.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249935.1
+14748687	INSDC	OFTI01000068.1	15019	15900	+	SOZ90203.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249935.1
+14748687	INSDC	LT976993.1	314629	315510	+	SOZ92691.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249955.1
+14748687	INSDC	OFTJ01000064.1	15019	15900	+	SOZ92691.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249955.1
+14748687	INSDC	LT992561.1	200715	201596	+	SOZ95165.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249795.1
+14748687	INSDC	OFSW01000008.1	17408	18289	+	SOZ95165.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249795.1
+14748687	INSDC	LT976997.1	317633	318514	+	SOZ96568.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249945.1
+14748687	INSDC	OFTK01000065.1	15019	15900	+	SOZ96568.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249945.1
+14748687	INSDC	LT977001.1	316670	317551	+	SPA21580.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249995.1
+14748687	INSDC	OFTN01000074.1	15019	15900	+	SPA21580.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249995.1
+14748687	INSDC	LT977047.1	17675	18556	+	SPA23274.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900250015.1
+14748687	INSDC	OFTO01000040.1	17675	18556	+	SPA23274.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900250015.1
+14748687	INSDC	LT977066.1	314605	315486	+	SPA35249.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900250025.1
+14748687	INSDC	OFTP01000056.1	15019	15900	+	SPA35249.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900250025.1
+14748687	INSDC	LT977069.1	289130	290011	+	SPA37264.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900250045.1
+14748687	INSDC	OFTQ01000067.1	15019	15900	+	SPA37264.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900250045.1
+14748687	INSDC	LT977075.1	319094	319975	+	SPA53445.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249985.1
+14748687	INSDC	OFTS01000061.1	18054	18935	+	SPA53445.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249985.1
+14748687	INSDC	OFTR01000035.1	15019	15900	+	SPA54177.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900250055.1
+14748687	INSDC	LT978519.1	156407	157288	-	SPC24715.1	Nitrogenase iron protein 2	Cupriavidus taiwanensis		GCA_900250035.1
+14748687	INSDC	OGUT01000054.1	17742	18623	-	SPC24715.1	Nitrogenase iron protein 2	Cupriavidus taiwanensis		GCA_900250035.1
+14748687	INSDC	LT992565.1	194320	195201	+	SPC25162.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249815.1
+14748687	INSDC	OGUU01000019.1	17355	18236	+	SPC25162.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249815.1
+14748687	INSDC	LT984799.1	243756	244637	+	SPD37413.1	Nitrogenase iron protein 2	Cupriavidus taiwanensis		GCA_900250105.1
+14748687	INSDC	LT984805.1	360315	361196	+	SPD61680.1	Nitrogenase iron protein 2	Cupriavidus taiwanensis		GCA_900250115.1
+14748687	INSDC	LT984808.1	334062	334943	+	SPD62388.1	Nitrogenase iron protein 2	Cupriavidus neocaledonicus		GCA_900250125.1
+14748687	INSDC	LT984815.1	358694	359575	+	SPD69508.1	Nitrogenase iron protein 2	Cupriavidus taiwanensis		GCA_900250085.1
+14748687	INSDC	LT991978.1	213811	214692	-	SPK77307.1	Nitrogenase iron protein 2	Cupriavidus taiwanensis		GCA_900250065.1
+14748687	INSDC	CP016951.1	45127	46008	+	ULX55864.1	nitrogenase iron protein	Cupriavidus taiwanensis	SWF66294	GCA_022406855.1
+14748687	INSDC	OM574811.1	1	882	+	WAK99526.1	nitrogenase (molybdenum-iron) reductase and maturation protein	Cupriavidus sp.	WGlv3	
+14748687	INSDC	OM574817.1	1	882	+	WAK99527.1	nitrogenase (molybdenum-iron) reductase and maturation protein	Cupriavidus sp.	WGtm5	

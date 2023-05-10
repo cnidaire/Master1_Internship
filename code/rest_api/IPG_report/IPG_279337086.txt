@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+279337086	RefSeq	NZ_WJPO01000014.1	74140	75024	-	WP_153748707.1	nitrogenase iron protein NifH	Rhodovulum strictum	DSM 11289	GCF_009649175.1
+279337086	INSDC	WJPO01000014.1	74140	75024	-	MRH21404.1	AAA family ATPase	Rhodovulum strictum	DSM 11289	GCA_009649175.1

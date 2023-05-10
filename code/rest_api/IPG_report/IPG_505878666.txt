@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+505878666	RefSeq	NZ_JAJHJB010000013.1	89584	90384	-	WP_229535151.1	nitrogenase iron protein NifH	Pelosinus baikalensis	Bkl1	GCF_020819555.1

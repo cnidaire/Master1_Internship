@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+642949036	RefSeq	NZ_JAJUHT010000001.1	443427	444305	+	WP_277655975.1	nitrogenase iron protein NifH	Seleniivibrio woodruffii		GCF_029267765.1

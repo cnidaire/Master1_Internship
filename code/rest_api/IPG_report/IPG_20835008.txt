@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+20835008	RefSeq	NZ_CP004078.1	4442159	4443049	-	WP_025336427.1	nitrogenase iron protein	Paenibacillus sabinae T27	T27	GCF_000612505.1
+20835008	INSDC	HM583799.1	1284	2174	+	ADM52729.1	NifH	Paenibacillus sabinae	T27	
+20835008	INSDC	CP004078.1	4442159	4443049	-	AHV98963.1	nitrogenase iron protein subunit NifH	Paenibacillus sabinae T27	T27	GCA_000612505.1

@@ -1,0 +1,32 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+117289691	RefSeq	NZ_MARB01000010.1	37225	38100	-	WP_069124654.1	nitrogenase iron protein	Candidatus Thiodiazotropha endolucinida	COS	GCF_001715975.1
+117289691	INSDC	JAHHGJ010000001.1	101819	102694	-	MBT3010186.1	nitrogenase iron protein	Candidatus Thiodiazotropha sp. (ex Lucina pensylvanica)		GCA_018619895.1
+117289691	INSDC	JAHHGI010000001.1	375628	376503	+	MBT3014457.1	nitrogenase iron protein	Candidatus Thiodiazotropha taylori		GCA_018619855.1
+117289691	INSDC	JAHHGE010000001.1	381664	382539	+	MBT3021996.1	nitrogenase iron protein	Candidatus Thiodiazotropha taylori		GCA_018619695.1
+117289691	INSDC	JAHHGD010000001.1	375771	376646	+	MBT3029811.1	nitrogenase iron protein	Candidatus Thiodiazotropha sp. (ex Lucina pensylvanica)		GCA_018619715.1
+117289691	INSDC	JAHHGB010000002.1	392923	393798	+	MBT3038161.1	nitrogenase iron protein	Candidatus Thiodiazotropha sp. (ex Codakia orbicularis)		GCA_018619755.1
+117289691	INSDC	JAHHGA010000001.1	75439	76314	-	MBT3041281.1	nitrogenase iron protein	Candidatus Thiodiazotropha sp. (ex Codakia orbicularis)		GCA_018619825.1
+117289691	INSDC	JAHHGC010000019.1	1388	2263	+	MBT3051603.1	nitrogenase iron protein	Candidatus Thiodiazotropha sp. (ex Codakia orbicularis)		GCA_018619735.1
+117289691	INSDC	JAHHFV010000002.1	75524	76399	-	MBT3053725.1	nitrogenase iron protein	Candidatus Thiodiazotropha sp. (ex Codakia orbicularis)		GCA_018619925.1
+117289691	INSDC	JAHHFW010000130.1	8295	9170	-	MBT3094480.1	nitrogenase iron protein	Candidatus Thiodiazotropha sp. (ex Lucina pensylvanica)		GCA_018619915.1
+117289691	INSDC	JAHRHV010000002.1	103831	104706	-	MBV2097882.1	nitrogenase iron protein	Candidatus Thiodiazotropha sp. (ex Codakia orbicularis)		GCA_019100285.1
+117289691	INSDC	JAHRHT010000007.1	22232	23107	+	MBV2103245.1	nitrogenase iron protein	Candidatus Thiodiazotropha sp. (ex Lucina aurantia)		GCA_019100345.1
+117289691	INSDC	JAHRHS010000002.1	142395	143270	-	MBV2116392.1	nitrogenase iron protein	Candidatus Thiodiazotropha sp. (ex Lucina aurantia)		GCA_019100355.1
+117289691	INSDC	JAEPCT010000001.1	1062107	1062982	-	MCG7861706.1	nitrogenase iron protein	Candidatus Thiodiazotropha endolucinida		GCA_016842515.1
+117289691	INSDC	JAEPCL010000113.1	74599	75474	+	MCG7876209.1	nitrogenase iron protein	Candidatus Thiodiazotropha taylori		GCA_016842655.1
+117289691	INSDC	JAEPCP010000096.1	29883	30758	-	MCG7882243.1	nitrogenase iron protein	Candidatus Thiodiazotropha endolucinida		GCA_016842605.1
+117289691	INSDC	JAEPCQ010000022.1	185559	186434	-	MCG7885748.1	nitrogenase iron protein	Candidatus Thiodiazotropha taylori		GCA_016842565.1
+117289691	INSDC	JAEPCI010000076.1	74599	75474	+	MCG7891372.1	nitrogenase iron protein	Candidatus Thiodiazotropha taylori		GCA_016842745.1
+117289691	INSDC	JAEPCH010000017.1	105104	105979	+	MCG7951367.1	nitrogenase iron protein	Candidatus Thiodiazotropha taylori		GCA_016842765.1
+117289691	INSDC	JAEPCR010000057.1	816	1691	+	MCG7979188.1	nitrogenase iron protein	Candidatus Thiodiazotropha taylori		GCA_016842545.1
+117289691	INSDC	JAEPBI010000013.1	54766	55641	+	MCG8023227.1	nitrogenase iron protein	Candidatus Thiodiazotropha endolucinida		GCA_016843295.1
+117289691	INSDC	JAEPBS010000076.1	30011	30886	-	MCG8031989.1	nitrogenase iron protein	Candidatus Thiodiazotropha taylori		GCA_016843065.1
+117289691	INSDC	JAEPBQ010000722.1	8131	9006	-	MCG8048403.1	nitrogenase iron protein	Candidatus Thiodiazotropha taylori		GCA_016843075.1
+117289691	INSDC	JAEPBO010000075.1	26034	26909	+	MCG8059451.1	nitrogenase iron protein	Candidatus Thiodiazotropha taylori		GCA_016843165.1
+117289691	INSDC	JAEPBP010000044.1	8131	9006	-	MCG8063497.1	nitrogenase iron protein	Candidatus Thiodiazotropha taylori		GCA_016843125.1
+117289691	INSDC	JAEPBU010000003.1	74599	75474	+	MCG8074680.1	nitrogenase iron protein	Candidatus Thiodiazotropha taylori		GCA_016843025.1
+117289691	INSDC	JAEPBX010000059.1	1782	2657	-	MCG8092702.1	nitrogenase iron protein	Candidatus Thiodiazotropha endolucinida		GCA_016842965.1
+117289691	INSDC	JAEPCD010000008.1	44842	45717	+	MCG8101610.1	nitrogenase iron protein	Candidatus Thiodiazotropha taylori		GCA_016842845.1
+117289691	INSDC	JAEPCC010000011.1	181049	181924	-	MCG8114359.1	nitrogenase iron protein	Candidatus Thiodiazotropha taylori		GCA_016842865.1
+117289691	INSDC	JAEPCE010000004.1	104389	105264	+	MCG8118185.1	nitrogenase iron protein	Candidatus Thiodiazotropha taylori		GCA_016842825.1
+117289691	INSDC	MARB01000010.1	37225	38100	-	ODJ87633.1	nitrogenase iron protein NifH	Candidatus Thiodiazotropha endolucinida	COS	GCA_001715975.1

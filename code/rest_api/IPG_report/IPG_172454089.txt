@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+172454089	INSDC	LQGW01000001.1	60736	61488	-	PKK40723.1	Nitrogenase subunit NifH, type 2	Clostridiaceae bacterium JG1575	JG1575	GCA_002838815.1

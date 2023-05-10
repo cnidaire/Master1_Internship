@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+181400790	INSDC	MG839611.1	1	363	+	AVK51778.1	NifH	Ensifer sp.	CI080	

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+270786096	INSDC	BQMQ01000122.1	9836	10858	-	GJQ35964.1	hypothetical protein	Anaerolineaceae bacterium		GCA_022180865.1
+270786096	INSDC	RHKT01000067.1	2319	3341	-	KAA0278637.1	nitrogen fixation protein NifH	Chloroflexota bacterium		GCA_008363285.1

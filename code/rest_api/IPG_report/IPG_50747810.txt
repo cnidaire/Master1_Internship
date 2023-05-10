@@ -1,0 +1,13 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+50747810	RefSeq	NZ_CP007793.1	2052972	2053853	+	WP_038528978.1	nitrogenase iron protein	Azospirillum argentinense	Az39	GCF_000632475.1
+50747810	RefSeq	NZ_CP032330.1	400582	401463	-	WP_038528978.1	nitrogenase iron protein	Azospirillum argentinense	MTCC4036	GCF_005222185.1
+50747810	RefSeq	NZ_JADPXF010000105.1	6813	7694	+	WP_038528978.1	nitrogenase iron protein	Azospirillum brasilense	D7	GCF_016652835.1
+50747810	RefSeq	NZ_POWG01000016.1	55628	56509	+	WP_038528978.1	nitrogenase iron protein	Azospirillum argentinense	REC3	GCF_002895265.1
+50747810	RefSeq	NZ_VEWN01000004.1	66359	67240	+	WP_038528978.1	nitrogenase iron protein	Azospirillum argentinense	Az19	GCF_008369925.1
+50747810	RefSeq	NZ_WFKF01000231.1	4884	5765	-	WP_038528978.1	nitrogenase iron protein	Azospirillum argentinense	BR11975	GCF_016622125.1
+50747810	INSDC	CP007793.1	2052972	2053853	+	AIB12323.1	nitrogenase reductase	Azospirillum argentinense	Az39	GCA_000632475.2
+50747810	INSDC	JGVN01000001.1	2370496	2371377	+	EZQ09154.1	nitrogenase reductase	Azospirillum argentinense	Az39	
+50747810	INSDC	VEWN01000004.1	66359	67240	+	KAA1056236.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Azospirillum argentinense	Az19	GCA_008369925.1
+50747810	INSDC	WFKF01000231.1	4884	5765	-	MBK3803016.1	nitrogenase iron protein	Azospirillum brasilense	BR11975	GCA_016622125.1
+50747810	INSDC	POWG01000016.1	55628	56509	+	PNQ97838.1	nitrogenase iron protein	Azospirillum argentinense	REC3	GCA_002895265.1
+50747810	INSDC	CP032330.1	400582	401463	-	QCO00913.1	nitrogenase iron protein	Azospirillum argentinense	MTCC4036	GCA_005222185.1

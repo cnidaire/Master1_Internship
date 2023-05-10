@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+21488598	RefSeq	NC_014758.1	714166	715035	+	WP_013450808.1	nitrogenase iron protein	Calditerrivibrio nitroreducens DSM 19672	DSM 19672	GCF_000183405.1
+21488598	INSDC	CP002347.1	714166	715035	+	ADR18595.1	Mo-nitrogenase iron protein subunit NifH	Calditerrivibrio nitroreducens DSM 19672	DSM 19672	GCA_000183405.1

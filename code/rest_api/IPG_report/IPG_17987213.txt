@@ -1,0 +1,20 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+17987213	RefSeq	NC_013410.1	1345295	1346140	-	WP_014545823.1	nitrogenase iron protein	Fibrobacter succinogenes subsp. succinogenes S85	S85	GCF_000024665.1
+17987213	RefSeq	NC_017448.1	1792013	1792858	-	WP_014545823.1	nitrogenase iron protein	Fibrobacter succinogenes subsp. succinogenes S85	S85	GCF_000146505.1
+17987213	RefSeq	NZ_FRAZ01000006.1	204945	205790	-	WP_014545823.1	nitrogenase iron protein	Fibrobacter sp. UWB12	UWB12	GCF_900142485.1
+17987213	RefSeq	NZ_FRCO01000001.1	1170918	1171763	-	WP_014545823.1	nitrogenase iron protein	Fibrobacter sp. UWB7	UWB7	GCF_900142945.1
+17987213	RefSeq	NZ_FXAX01000001.1	2180369	2181214	-	WP_014545823.1	nitrogenase iron protein	Fibrobacter sp. UWB13	UWB13	GCF_900177805.1
+17987213	RefSeq	NZ_MWQK01000005.1	222313	223158	-	WP_014545823.1	nitrogenase iron protein	Fibrobacter sp. UWB2	UWB2	GCF_002210425.1
+17987213	RefSeq	NZ_OCMS01000004.1	17381	18226	-	WP_014545823.1	nitrogenase iron protein	Fibrobacter sp. UWB16	UWB16	GCF_900215325.1
+17987213	RefSeq	NZ_QGDP01000003.1	287230	288075	+	WP_014545823.1	nitrogenase iron protein	Fibrobacter succinogenes subsp. elongatus	HM2	GCF_003149165.1
+17987213	RefSeq	NZ_UHJL01000003.1	287230	288075	+	WP_014545823.1	nitrogenase iron protein	Fibrobacter succinogenes	HM2	GCF_900217845.1
+17987213	INSDC	CP001792.1	1345295	1346140	-	ACX74693.1	nitrogenase iron protein	Fibrobacter succinogenes subsp. succinogenes S85	S85	GCA_000024665.1
+17987213	INSDC	CP002158.1	1792013	1792858	-	ADL24775.1	nitrogenase iron protein	Fibrobacter succinogenes subsp. succinogenes S85	S85	GCA_000146505.1
+17987213	INSDC	JAGCWU010000013.1	52145	52990	+	MBP5439699.1	nitrogenase iron protein	Fibrobacter sp.		GCA_017961645.1
+17987213	INSDC	MWQK01000005.1	222313	223158	-	OWV21667.1	nitrogenase iron protein	Fibrobacter sp. UWB2	UWB2	GCA_002210425.1
+17987213	INSDC	QGDP01000003.1	287230	288075	+	PWJ34754.1	nitrogenase iron protein NifH	Fibrobacter succinogenes subsp. elongatus	HM2	GCA_003149165.1
+17987213	INSDC	FRAZ01000006.1	204945	205790	-	SHK77936.1	nitrogenase iron protein NifH	Fibrobacter sp. UWB12	UWB12	GCA_900142485.1
+17987213	INSDC	FRCO01000001.1	1170918	1171763	-	SHM22013.1	nitrogenase iron protein NifH	Fibrobacter sp. UWB7	UWB7	GCA_900142945.1
+17987213	INSDC	FXAX01000001.1	2180369	2181214	-	SMG26005.1	nitrogenase iron protein NifH	Fibrobacter sp. UWB13	UWB13	GCA_900177805.1
+17987213	INSDC	OCMS01000004.1	17381	18226	-	SOD16562.1	nitrogenase iron protein NifH	Fibrobacter sp. UWB16	UWB16	GCA_900215325.1
+17987213	INSDC	UHJL01000003.1	287230	288075	+	SUQ24877.1	Mo-nitrogenase iron protein subunit NifH	Fibrobacter succinogenes	HM2	GCA_900217845.1

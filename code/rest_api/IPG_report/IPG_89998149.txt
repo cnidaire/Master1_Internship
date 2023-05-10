@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+89998149	INSDC	KP760515.1	1	477	+	ALA10348.1	NifH	Ensifer sp. JPY1165	JPY1165	
+89998149	INSDC	KP760517.1	1	477	+	ALA10350.1	NifH	Ensifer sp. JPY1168	JPY1168	
+89998149	INSDC	KP760520.1	1	477	+	ALA10353.1	NifH	Ensifer sp. JPY1220	JPY1220	

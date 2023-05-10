@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+204032568	RefSeq	NZ_QRVW01000003.1	3021	3797	+	WP_118014254.1	nitrogenase iron protein NifH	Mitsuokella sp. AF21-1AC	AF21-1AC	GCF_003458855.1
+204032568	INSDC	QRVW01000003.1	3021	3797	+	RGS74304.1	nitrogen fixation protein NifH	Mitsuokella sp. AF21-1AC	AF21-1AC	GCA_003458855.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+47067839	INSDC	ALYD01000002.1	79668	80432	+	ETP73652.1	nitrogenase subunit NifH (ATPase)	Lachnospiraceae bacterium JC7	JC7	GCA_000513555.1

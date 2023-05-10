@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+139300988	RefSeq	NZ_FUXL01000009.1	119502	120395	+	WP_078709045.1	nitrogenase iron protein	Consotaella salsifontis	USBA 369	GCF_900167365.1
+139300988	INSDC	FUXL01000009.1	119502	120395	+	SKA24590.1	nitrogenase iron protein NifH	Consotaella salsifontis	USBA 369	GCA_900167365.1

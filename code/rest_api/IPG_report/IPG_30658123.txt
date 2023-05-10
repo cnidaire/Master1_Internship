@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+30658123	RefSeq	NC_018664.1	392885	393619	+	WP_014966580.1	nitrogenase iron protein NifH	Gottschalkia acidurici 9a	9a	GCF_000299355.1
+30658123	INSDC	CP003326.1	392885	393619	+	AFS77443.1	nitrogenase iron protein NifH	Gottschalkia acidurici 9a	9a	GCA_000299355.1

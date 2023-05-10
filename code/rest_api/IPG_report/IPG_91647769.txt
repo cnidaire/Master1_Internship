@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+91647769	INSDC	KR004121.1	1	651	+	ALD59809.1	NifH	Mesorhizobium sp. AG22	AG22	
+91647769	INSDC	KR004122.1	1	651	+	ALD59810.1	NifH	Mesorhizobium sp. AG27	AG27	

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+427627279	INSDC	JAGFZZ010000017.1	14881	15693	+	MBP2630405.1	nifH	Bacillota bacterium		GCA_017889595.1

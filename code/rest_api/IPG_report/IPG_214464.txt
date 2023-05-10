@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+214464	RefSeq	NZ_CP079862.1	2940265	2941128	+	WP_044885613.1	nitrogenase iron protein	Frankia sp. ArI3	ArI3	GCF_019581175.1
+214464	RefSeq	NZ_JYFN01000021.1	16812	17675	-	WP_044885613.1	nitrogenase iron protein	Frankia torreyi	CpI1	GCF_000948395.1
+214464	Swiss-Prot	N/A				P08925.1	Nitrogenase iron protein	Frankia alni		
+214464	INSDC	L41344.1	2798	3661	+	AAA96262.1	dinitrogenase reductase	Frankia alni	ArI3	
+214464	INSDC	X57006.1	31	894	+	CAA40326.1	nitrogenase reductase	Frankia sp.	Arl3	
+214464	INSDC	JYFN01000021.1	16812	17675	-	KJE22626.1	Mo-nitrogenase iron protein subunit NifH	Frankia torreyi	CpI1	GCA_000948395.1

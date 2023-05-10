@@ -1,0 +1,8 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+19925304	RefSeq	NC_021021.1	1789936	1790817	+	WP_015539589.1	AAA family ATPase	Gordonibacter pamelaeae 7-10-1-b	7-10-1-bT	GCF_000210055.1
+19925304	RefSeq	NZ_CABMMS010000006.1	70524	71405	-	WP_015539589.1	AAA family ATPase	Gordonibacter pamelaeae		GCF_902387605.1
+19925304	RefSeq	NZ_JAJCQY010000011.1	41804	42685	+	WP_015539589.1	AAA family ATPase	Gordonibacter pamelaeae	DFI.1.107	GCF_020563715.1
+19925304	RefSeq	NZ_PPTS01000006.1	70524	71405	-	WP_015539589.1	AAA family ATPase	Gordonibacter pamelaeae	3C	GCF_003340385.1
+19925304	INSDC	FP929047.1	1789936	1790817	+	CBL04240.1	Nitrogenase subunit NifH (ATPase)	Gordonibacter pamelaeae 7-10-1-b	7-10-1-bT	GCA_000210055.1
+19925304	INSDC	JAJCQY010000011.1	41804	42685	+	MCB6312763.1	AAA family ATPase	Gordonibacter pamelaeae	DFI.1.107	GCA_020563715.1
+19925304	INSDC	PPTS01000006.1	70524	71405	-	RDB64084.1	nitrogenase iron protein	Gordonibacter pamelaeae	3C	GCA_003340385.1

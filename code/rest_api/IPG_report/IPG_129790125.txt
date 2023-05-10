@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+129790125	RefSeq	NZ_LR698969.1	1073732	1074550	+	WP_071705539.1	nitrogenase iron protein NifH	Murdochiella vaginalis		GCF_902381775.1
+129790125	RefSeq	NZ_LT632322.1	1073732	1074550	+	WP_071705539.1	nitrogenase iron protein NifH	Murdochiella vaginalis	Marseille-P2341T	GCF_900119705.1

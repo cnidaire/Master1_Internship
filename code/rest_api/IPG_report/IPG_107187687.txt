@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+107187687	RefSeq	NZ_AP024514.1	1274090	1275127	-	WP_231097500.1	nitrogen fixation protein NifH	Dehalococcoides mccartyi	NIT01	GCF_018409405.1
+107187687	RefSeq	NZ_CP011127.1	1399747	1400784	-	WP_231097500.1	nitrogen fixation protein NifH	Dehalococcoides mccartyi	11a5	GCF_001610775.1
+107187687	RefSeq	NZ_CP038470.1	1360130	1361167	-	WP_231097500.1	nitrogen fixation protein NifH	Dehalococcoides mccartyi	FL2	GCF_004684285.1
+107187687	RefSeq	NZ_JAAEBL010000001.1	132015	133052	-	WP_231097500.1	nitrogen fixation protein NifH	Dehalococcoides mccartyi		GCF_013620765.1
+107187687	RefSeq	NZ_JPRE01000005.1	1223411	1224448	+	WP_231097500.1	nitrogen fixation protein NifH	Dehalococcoides mccartyi	SG1	GCF_000741845.1
+107187687	INSDC	CP011127.1	1399747	1400784	-	AMU87351.1	prenyltransferase-like domain-containing protein	Dehalococcoides mccartyi	11a5	GCA_001610775.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+15149335	INSDC	EU748941.1	1	750	+	ACF19776.1	NifH	Mesorhizobium sp. BD56	BD56	

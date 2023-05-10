@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+199103783	INSDC	UGKR01000003.1	4397196	4397915	+	STS91864.1	nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Klebsiella variicola	NCTC9177	GCA_900451525.1

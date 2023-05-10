@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+641239620	RefSeq	NZ_JAQFIU010000015.1	39503	40372	+	WP_277472395.1	nitrogenase iron protein NifH	Paenibacillus sp. PastF-1	PastF-1	GCF_029504835.1
+641239620	RefSeq	NZ_JAQFIV010000030.1	39383	40252	+	WP_277472395.1	nitrogenase iron protein NifH	Paenibacillus sp. PastF-2	PastF-2	GCF_029504855.1
+641239620	RefSeq	NZ_JAQFIW010000030.1	16142	17011	-	WP_277472395.1	nitrogenase iron protein NifH	Paenibacillus sp. PastM-2	PastM-2	GCF_029504865.1
+641239620	RefSeq	NZ_JARXXO010000015.1	133376	134245	-	WP_277472395.1	nitrogenase iron protein NifH	Paenibacillus sp. PastH-2	PastH-2	GCF_029894005.1
+641239620	RefSeq	NZ_JARXXP010000029.1	39383	40252	+	WP_277472395.1	nitrogenase iron protein NifH	Paenibacillus sp. PastM-3	PastM-3	GCF_029893965.1

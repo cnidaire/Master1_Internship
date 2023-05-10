@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+5468715	RefSeq	NC_007907.1	4375876	4376634	-	WP_011461419.1	nitrogenase iron protein NifH	Desulfitobacterium hafniense Y51	Y51	GCF_000010045.1
+5468715	INSDC	AP008230.1	4375876	4376634	-	BAE85627.1	putative nitrogenase subunit nifH	Desulfitobacterium hafniense Y51	Y51	GCA_000010045.1

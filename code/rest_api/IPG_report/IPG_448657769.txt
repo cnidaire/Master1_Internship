@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+448657769	INSDC	JAGTRV010000167.1	1	817	-	MBS1131782.1	Mo-nitrogenase iron protein subunit NifH	Pseudomonadota bacterium		GCA_018262245.1

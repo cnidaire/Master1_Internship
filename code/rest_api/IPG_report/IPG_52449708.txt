@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+52449708	RefSeq	NZ_CP013707.1	804072	804821	+	WP_024932370.1	nitrogenase iron protein NifH	Clostridium botulinum	F634	GCF_001921985.1
+52449708	RefSeq	NZ_MWIY01000002.1	189852	190601	-	WP_024932370.1	nitrogenase iron protein NifH	Clostridium botulinum	SU0632	GCF_002103825.1
+52449708	INSDC	CP013707.1	804072	804821	+	APR00702.1	4Fe-4S iron sulfur cluster binding s, NifH/frxC family protein	Clostridium botulinum	F634	GCA_001921985.1
+52449708	INSDC	MWIY01000002.1	189852	190601	-	OSA83091.1	nitrogenase iron protein	Clostridium botulinum	SU0632	GCA_002103825.1

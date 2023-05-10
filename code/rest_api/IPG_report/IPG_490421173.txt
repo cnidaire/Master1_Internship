@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+490421173	RefSeq	NZ_BLAY01000018.1	45590	46465	-	WP_226577172.1	nitrogenase iron protein	Microseira wollei NIES-4236	NIES-4236	GCF_020521235.1
+490421173	INSDC	BLAY01000018.1	45590	46465	-	GET36816.1	nitrogenase iron protein subunit NifH	Microseira wollei NIES-4236	NIES-4236	GCA_020521235.1

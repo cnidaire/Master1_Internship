@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+123046695	RefSeq	NZ_FNCV01000009.1	3365	4252	-	WP_092620711.1	nitrogenase iron protein	Roseospirillum parvum	930I	GCF_900100455.1
+123046695	INSDC	FNCV01000009.1	3365	4252	-	SDH63435.1	nitrogenase iron protein NifH	Roseospirillum parvum	930I	GCA_900100455.1

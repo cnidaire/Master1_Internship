@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+331832230	INSDC	JAKLJQ010000395.1	576	1598	+	MCK6585403.1	hypothetical protein	Anaerolineales bacterium		GCA_023151095.1
+331832230	INSDC	JABWAU010000178.1	636	1658	-	NUQ86722.1	nitrogen fixation protein NifH	Anaerolineales bacterium		GCA_013360875.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+271140295	RefSeq	NZ_FMXB01000012.1	28255	29049	-	WP_149732139.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanobrevibacter millerae	DSM 16643	GCF_900103415.1
+271140295	INSDC	FMXB01000012.1	28255	29049	-	SDA60804.1	nitrogenase iron protein NifH	Methanobrevibacter millerae	DSM 16643	GCA_900103415.1

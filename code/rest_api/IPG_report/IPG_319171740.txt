@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+319171740	RefSeq	NZ_JABAGT010000008.1	15370	16125	+	WP_168951251.1	nitrogenase iron protein NifH	Cloacibacillus porcorum	105753	GCF_012844265.1
+319171740	RefSeq	NZ_JAJBTB010000139.1	15536	16291	+	WP_168951251.1	nitrogenase iron protein NifH	Cloacibacillus porcorum		GCF_020861045.1
+319171740	INSDC	JAJBTB010000139.1	15536	16291	+	MCC8185792.1	nitrogenase iron protein NifH	Cloacibacillus porcorum		GCA_020861045.1
+319171740	INSDC	JABAGT010000008.1	15370	16125	+	NMF17929.1	AAA family ATPase	Cloacibacillus porcorum	105753	GCA_012844265.1

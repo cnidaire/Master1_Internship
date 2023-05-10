@@ -1,0 +1,44 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+1033916	RefSeq	NC_012560.1	136759	137631	+	WP_012698831.1	nitrogenase iron protein	Azotobacter vinelandii DJ	DJ; ATCC BAA-1303	GCF_000021045.1
+1033916	RefSeq	NC_021149.1	136759	137631	+	WP_012698831.1	nitrogenase iron protein	Azotobacter vinelandii CA	CA	GCF_000380335.1
+1033916	RefSeq	NC_021150.1	136759	137631	+	WP_012698831.1	nitrogenase iron protein	Azotobacter vinelandii CA6	CA6	GCF_000380365.1
+1033916	RefSeq	NZ_BCTD01000027.1	39430	40302	-	WP_012698831.1	nitrogenase iron protein	Azotobacter vinelandii NBRC 13581	NBRC 13581	GCF_001571105.1
+1033916	RefSeq	NZ_BSFG01000004.1	39488	40360	-	WP_012698831.1	nitrogenase iron protein	Azotobacter vinelandii	VKM B-1617	GCF_027922225.1
+1033916	RefSeq	NZ_FPKM01000020.1	42109	42981	+	WP_012698831.1	nitrogenase iron protein	Azotobacter vinelandii	DSM 279	GCF_900119555.1
+1033916	Swiss-Prot	N/A				P00459.2	Nitrogenase iron protein 1	Azotobacter vinelandii		
+1033916	PDB	N/A				7T4H_A		Azotobacter vinelandii		
+1033916	PDB	N/A				7TNE_A		Azotobacter vinelandii		
+1033916	PDB	N/A				7TPN_A		Azotobacter vinelandii		
+1033916	PDB	N/A				7TPO_A		Azotobacter vinelandii		
+1033916	PDB	N/A				7TPV_A		Azotobacter vinelandii		
+1033916	PDB	N/A				7TPW_A		Azotobacter vinelandii		
+1033916	PDB	N/A				7TPX_A		Azotobacter vinelandii		
+1033916	PDB	N/A				7TPY_A		Azotobacter vinelandii		
+1033916	PDB	N/A				7TPZ_A		Azotobacter vinelandii		
+1033916	PDB	N/A				7TQ0_A		Azotobacter vinelandii		
+1033916	PDB	N/A				7TQ9_A		Azotobacter vinelandii		
+1033916	PDB	N/A				7TQC_A		Azotobacter vinelandii		
+1033916	PDB	N/A				7TQE_A		Azotobacter vinelandii		
+1033916	PDB	N/A				7TQF_A		Azotobacter vinelandii		
+1033916	PDB	N/A				7TQH_A		Azotobacter vinelandii		
+1033916	PDB	N/A				7TQI_A		Azotobacter vinelandii		
+1033916	PDB	N/A				7TQJ_A		Azotobacter vinelandii		
+1033916	PDB	N/A				7TQK_A		Azotobacter vinelandii		
+1033916	PDB	N/A				7UT8_E		Azotobacter vinelandii DJ		
+1033916	PDB	N/A				7UT8_F		Azotobacter vinelandii DJ		
+1033916	PDB	N/A				7UT9_E		Azotobacter vinelandii DJ		
+1033916	PDB	N/A				7UT9_F		Azotobacter vinelandii DJ		
+1033916	PDB	N/A				7UTA_E		Azotobacter vinelandii DJ		
+1033916	PDB	N/A				7UTA_F		Azotobacter vinelandii DJ		
+1033916	PDB	N/A				7UTA_G		Azotobacter vinelandii DJ		
+1033916	PDB	N/A				7UTA_H		Azotobacter vinelandii DJ		
+1033916	INSDC	M20568.1	1240	2112	+	AAA64709.1	Fe protein of nitrogenase (nifH)	Azotobacter vinelandii		
+1033916	INSDC	CP001157.1	136759	137631	+	ACO76403.1	Nitrogenase iron protein	Azotobacter vinelandii DJ	DJ; ATCC BAA-1303	GCA_000021045.1
+1033916	INSDC	CP005094.1	136759	137631	+	AGK13780.1	Nitrogenase iron protein	Azotobacter vinelandii CA	CA	GCA_000380335.1
+1033916	INSDC	CP005095.1	136759	137631	+	AGK18381.1	Nitrogenase iron protein	Azotobacter vinelandii CA6	CA6	GCA_000380365.1
+1033916	INSDC	BSFG01000004.1	39488	40360	-	GLK58132.1	nitrogenase iron protein	Azotobacter vinelandii	VKM B-1617	GCA_027922225.1
+1033916	INSDC	MN920696.1	1	873	+	QHR96999.1	NifH	synthetic construct		
+1033916	INSDC	MN920692.1	1	873	+	QHR97212.1	NifH	synthetic construct		
+1033916	INSDC	FPKM01000020.1	42109	42981	+	SFX76670.1	Mo-nitrogenase iron protein subunit NifH /V-nitrogenase iron protein subunit VnfH	Azotobacter vinelandii	DSM 279	GCA_900119555.1
+1033916	PRF	N/A				1111233A	nitrogenase Fe protein	Azotobacter vinelandii		
+1033916	PAT	N/A				QTW11347.1	Sequence 24 from patent US 10913939	Unknown		

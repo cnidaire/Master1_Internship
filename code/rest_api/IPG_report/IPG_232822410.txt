@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+232822410	INSDC	RPGP01000029.1	199782	200606	+	RZB31878.1	nitrogenase iron protein NifH	Desulfobacteraceae bacterium Eth-SRB1		GCA_004193555.1

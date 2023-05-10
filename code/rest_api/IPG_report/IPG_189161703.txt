@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+189161703	RefSeq	NZ_QGTS01000004.1	39568	40449	-	WP_110025355.1	nitrogenase iron protein	Mangrovibacter plantisponsor	DSM 19579	GCF_003182475.1
+189161703	INSDC	QGTS01000004.1	39568	40449	-	PWW09947.1	Mo-nitrogenase iron protein subunit NifH	Mangrovibacter plantisponsor	DSM 19579	GCA_003182475.1

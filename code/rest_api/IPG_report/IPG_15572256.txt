@@ -1,0 +1,53 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+15572256	RefSeq	NC_011206.1	1206950	1207840	-	WP_009567494.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans ATCC 53993	ATCC 53993	GCF_000020825.1
+15572256	RefSeq	NC_011761.1	1319920	1320810	-	WP_009567494.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans ATCC 23270	ATCC 23270	GCF_000021485.1
+15572256	RefSeq	NZ_AP025160.1	1475528	1476418	-	WP_009567494.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	NFP31	GCF_020887015.1
+15572256	RefSeq	NZ_AZNR01000006.1	38588	39478	+	WP_009567494.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans BY-3	BY-3	GCF_010577825.1
+15572256	RefSeq	NZ_CP040511.1	1474392	1475282	-	WP_009567494.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	YNTRS-40	GCF_013462805.1
+15572256	RefSeq	NZ_CP082238.1	1475818	1476708	-	WP_009567494.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	BYM	GCF_019856615.1
+15572256	RefSeq	NZ_JABBDP010000261.1	34237	35127	+	WP_009567494.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	F221	GCF_018854265.1
+15572256	RefSeq	NZ_JABBPI010000171.1	32250	33140	+	WP_009567494.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	PQ505	GCF_018854395.1
+15572256	RefSeq	NZ_JABBPJ010000086.1	26217	27107	-	WP_009567494.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	PQ506	GCF_018854475.1
+15572256	RefSeq	NZ_JABFOH010000022.1	51885	52775	+	WP_009567494.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	DSM 16786	GCF_018853455.1
+15572256	RefSeq	NZ_JAEQBE010000001.1	64614	65504	+	WP_009567494.1	nitrogenase iron protein	Acidithiobacillus sp. PG05	PG05	GCF_017165965.1
+15572256	RefSeq	NZ_JAEQBG010000001.1	31945	32835	-	WP_009567494.1	nitrogenase iron protein	Acidithiobacillus sp. MC2.2	MC2.2	GCF_017165975.1
+15572256	RefSeq	NZ_JANJGT010000044.1	32029	32919	-	WP_009567494.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	GD-0	GCF_024592575.1
+15572256	RefSeq	NZ_JANJOZ010000057.1	32037	32927	-	WP_009567494.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	GD-A	GCF_024606825.1
+15572256	RefSeq	NZ_JANJPA010000102.1	35938	36828	+	WP_009567494.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	GD-B	GCF_024606715.1
+15572256	RefSeq	NZ_JANJPB010000014.1	79350	80240	+	WP_009567494.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	ZBY	GCF_024606765.1
+15572256	RefSeq	NZ_JANJPC010000068.1	32030	32920	-	WP_009567494.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	BN	GCF_024606725.1
+15572256	RefSeq	NZ_JANJPD010000021.1	79310	80200	+	WP_009567494.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	DX	GCF_024606705.1
+15572256	RefSeq	NZ_JANJYU010000001.1	257189	258079	-	WP_009567494.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	TFBk	GCF_024626545.1
+15572256	RefSeq	NZ_LJBT01000010.1	102203	103093	+	WP_009567494.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	YQH-1	GCF_001418795.1
+15572256	RefSeq	NZ_LQRJ01000071.1	102136	103026	+	WP_009567494.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	Hel18	GCF_001559335.1
+15572256	RefSeq	NZ_QKQP01000001.1	160837	161727	+	WP_009567494.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	CCM 4253	GCF_003233765.1
+15572256	RefSeq	NZ_RRZY01000033.1	119488	120378	-	WP_009567494.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans		GCF_003931975.1
+15572256	Swiss-Prot	N/A				B5ER76.1	Nitrogenase iron protein	Acidithiobacillus ferrooxidans ATCC 53993		
+15572256	Swiss-Prot	N/A				B7JA99.1	Nitrogenase iron protein	Acidithiobacillus ferrooxidans ATCC 23270		
+15572256	INSDC	CP001132.1	1206950	1207840	-	ACH83478.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans ATCC 53993	ATCC 53993	GCA_000020825.1
+15572256	INSDC	CP001219.1	1319920	1320810	-	ACK79918.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans ATCC 23270	ATCC 23270	GCA_000021485.1
+15572256	INSDC	AP025160.1	1475528	1476418	-	BDB14222.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	NFP31	GCA_020887015.1
+15572256	INSDC	CABP01000077.1	48134	49024	+	CBI04672.1	Nitrogenase iron protein (Nitrogenase component II) (Nitrogenase Fe protein) (Nitrogenase reductase) nifH; dinitrogenase reductase	mine drainage metagenome		
+15572256	INSDC	FN597484.1	137608	138498	+	CBI04672.1	Nitrogenase iron protein (Nitrogenase component II) (Nitrogenase Fe protein) (Nitrogenase reductase) nifH; dinitrogenase reductase	mine drainage metagenome		
+15572256	INSDC	AEFB01001137.1	58	948	-	EGQ63406.1	nitrogenase reductase	Acidithiobacillus sp. GGI-221	GGI-221	GCA_000179815.2
+15572256	INSDC	JAEQBG010000001.1	31945	32835	-	MBN6743516.1	nitrogenase iron protein	Acidithiobacillus sp. MC2.2	MC2.2	GCA_017165975.1
+15572256	INSDC	JAEQBE010000001.1	64614	65504	+	MBN6746528.1	nitrogenase iron protein	Acidithiobacillus sp. PG05	PG05	GCA_017165965.1
+15572256	INSDC	JABFOH010000022.1	51885	52775	+	MBU2774931.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	DSM 16786	GCA_018853455.1
+15572256	INSDC	JABBDP010000261.1	34237	35127	+	MBU2808965.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	F221	GCA_018854265.1
+15572256	INSDC	JABBDN010000973.1	2261	3151	-	MBU2818340.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	COP1	GCA_018854355.1
+15572256	INSDC	JABBDO010000532.1	2263	3153	-	MBU2823669.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	S10	GCA_018854365.1
+15572256	INSDC	JABBPI010000171.1	32250	33140	+	MBU2857453.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	PQ505	GCA_018854395.1
+15572256	INSDC	JABBPJ010000086.1	26217	27107	-	MBU2859957.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	PQ506	GCA_018854475.1
+15572256	INSDC	JAMCRJ010000079.1	3497	4387	+	MCL4527240.1	nitrogenase iron protein	Gammaproteobacteria bacterium		GCA_023381645.1
+15572256	INSDC	JANJGT010000044.1	32029	32919	-	MCR0968758.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	GD-0	GCA_024592575.1
+15572256	INSDC	JANJPD010000021.1	79310	80200	+	MCR1341448.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	DX	GCA_024606705.1
+15572256	INSDC	JANJPB010000014.1	79350	80240	+	MCR1344437.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	ZBY	GCA_024606765.1
+15572256	INSDC	JANJOZ010000057.1	32037	32927	-	MCR1348955.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	GD-A	GCA_024606825.1
+15572256	INSDC	JANJPA010000102.1	35938	36828	+	MCR1352369.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	GD-B	GCA_024606715.1
+15572256	INSDC	JANJPC010000068.1	32030	32920	-	MCR1354576.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	BN	GCA_024606725.1
+15572256	INSDC	JANJYU010000001.1	257189	258079	-	MCR2828932.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	TFBk	GCA_024626545.1
+15572256	INSDC	QKQP01000001.1	160837	161727	+	PZD81651.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	CCM 4253	GCA_003233765.1
+15572256	INSDC	CP040511.1	1474392	1475282	-	QLK42051.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	YNTRS-40	GCA_013462805.1
+15572256	INSDC	CP082238.1	1475818	1476708	-	QZT54019.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	BYM	GCA_019856615.1
+15572256	INSDC	RRZY01000033.1	119488	120378	-	RRN83577.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans		GCA_003931975.1
+15572256	INSDC	CP084172.1	1118079	1118969	-	UBU63506.1	nitrogenase iron protein	Acidithiobacillus ferrooxidans	YQ-N3	GCA_020221655.1

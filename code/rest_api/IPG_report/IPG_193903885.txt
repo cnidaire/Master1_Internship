@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+193903885	RefSeq	NZ_CP030040.1	763418	764197	-	WP_111887047.1	nitrogenase iron protein NifH	Acetobacterium sp. KB-1	KB-1	GCF_003260995.1
+193903885	INSDC	CP030040.1	763418	764197	-	AWW25799.1	nitrogenase iron protein	Acetobacterium sp. KB-1	KB-1	GCA_003260995.1

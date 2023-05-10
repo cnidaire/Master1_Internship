@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+237822638	RefSeq	NZ_SLXU01000004.1	172910	173785	-	WP_132951047.1	nitrogenase iron protein	Rhodovulum bhavnagarense	DSM 24766	GCF_004343505.1
+237822638	INSDC	SLXU01000004.1	172910	173785	-	TCP61709.1	Mo-nitrogenase iron protein subunit NifH	Rhodovulum bhavnagarense	DSM 24766	GCA_004343505.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+125274103	RefSeq	NZ_FNVG01000002.1	276692	277567	-	WP_103878867.1	nitrogenase iron protein	Vibrio hangzhouensis	CGMCC 1.7062	GCF_900107935.1
+125274103	INSDC	FNVG01000002.1	276692	277567	-	SEF62326.1	nitrogenase iron protein NifH	Vibrio hangzhouensis	CGMCC 1.7062	GCA_900107935.1

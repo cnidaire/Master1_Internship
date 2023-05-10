@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+143821733	RefSeq	NZ_FWXH01000008.1	62409	63230	+	WP_084116183.1	nitrogenase iron protein	Clostridium acidisoli DSM 12555	DSM 12555	GCF_900176305.1
+143821733	INSDC	FWXH01000008.1	62409	63230	+	SMC25096.1	nitrogenase iron protein NifH	Clostridium acidisoli DSM 12555	DSM 12555	GCA_900176305.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+125227933	INSDC	FNUU01000004.1	168662	169510	-	SEF87000.1	nitrogenase iron protein NifH	Eubacterium ruminantium	FB3002	GCA_900108205.1

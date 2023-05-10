@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+1224065	INSDC	AF275670.1	1	738	+	AAK53548.1	nitrogenase reductase NifH	Sinorhizobium fredii bv. mediterranense		
+1224065	INSDC	AF275671.1	1	738	+	AAK53549.1	nitrogenase reductase NifH	Sinorhizobium fredii bv. mediterranense		

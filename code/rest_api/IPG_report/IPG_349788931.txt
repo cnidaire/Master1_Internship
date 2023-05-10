@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+349788931	INSDC	JACHFW010000010.1	26707	27471	-	MBB5265249.1	nitrogenase iron protein NifH	Catenibacillus scindens	DSM 106146	GCA_014202115.1

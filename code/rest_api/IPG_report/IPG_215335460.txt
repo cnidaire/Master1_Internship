@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+215335460	RefSeq	NZ_BGOW01000006.1	66392	67288	+	WP_124704039.1	nitrogenase iron protein	Sulfuriferula multivorans	TTN	GCF_003851125.1
+215335460	INSDC	BGOW01000006.1	66392	67288	+	GBL45215.1	nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Sulfuriferula multivorans	TTN	GCA_003851125.1

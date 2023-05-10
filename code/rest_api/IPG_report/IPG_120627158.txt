@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+120627158	RefSeq	NZ_FMWK01000002.1	285977	286852	+	WP_090161095.1	nitrogenase iron protein NifH	Pseudobutyrivibrio xylanivorans	DSM 10317	GCF_900103015.1
+120627158	INSDC	FMWK01000002.1	285977	286852	+	SCZ77086.1	nitrogenase iron protein NifH	Pseudobutyrivibrio xylanivorans	DSM 10317	GCA_900103015.1

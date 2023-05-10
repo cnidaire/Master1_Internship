@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+236467376	RefSeq	NZ_CP084007.1	3154305	3155102	-	WP_130869281.1	nitrogenase iron protein NifH	Flavonifractor plautii	NBRC 113805	GCF_020181555.1
+236467376	RefSeq	NZ_JAQLWM010000017.1	24671	25468	+	WP_130869281.1	nitrogenase iron protein NifH	Flavonifractor plautii	BSD3178071175st1_B1_BSD3178071175_160912	GCF_028321365.1
+236467376	RefSeq	NZ_LR131147.1	1340966	1341763	+	WP_130869281.1	nitrogenase iron protein NifH	Intestinimonas massiliensis	Marseille-P3064	GCF_900626285.1
+236467376	INSDC	CP084007.1	3154305	3155102	-	UBS60310.1	nitrogenase iron protein NifH	Flavonifractor plautii	NBRC 113805	GCA_020181555.1
+236467376	INSDC	CP107198.1	4266139	4266936	-	UYJ50418.1	nitrogenase iron protein NifH	Flavonifractor plautii		GCA_025758085.1
+236467376	INSDC	CP107198.1	42985	43782	-	UYJ50637.1	nitrogenase iron protein NifH	Flavonifractor plautii		GCA_025758085.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+29563096	RefSeq	NZ_ALKG01000036.1	4541	5353	+	WP_009655484.1	nitrogenase iron protein NifH	Selenomonas sp. FOBRC6	FOBRC6	GCF_000286455.1
+29563096	INSDC	ALKG01000036.1	4541	5353	+	EJO23309.1	putative nitrogenase iron protein	Selenomonas sp. FOBRC6	FOBRC6	GCA_000286455.1

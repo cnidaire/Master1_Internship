@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+274626408	RefSeq	NZ_WAGX01000004.1	559308	560057	-	WP_151142617.1	nitrogenase iron protein NifH	Candidatus Galacturonibacter soehngenii		GCF_008830185.1
+274626408	INSDC	WAGX01000004.1	559308	560057	-	KAB1439772.1	AAA family ATPase	Candidatus Galacturonibacter soehngenii		GCA_008830185.1

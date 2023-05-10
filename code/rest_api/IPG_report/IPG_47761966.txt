@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+47761966	RefSeq	NZ_BAIV01000007.1	12669	13544	-	WP_044161274.1	nitrogenase iron protein	Bacteroides reticulotermitis JCM 10512	JCM 10512	GCF_000517545.1
+47761966	RefSeq	NZ_JACIER010000008.1	95791	96666	-	WP_044161274.1	nitrogenase iron protein	Bacteroides reticulotermitis	DSM 105720	GCF_014196955.1
+47761966	INSDC	BAIV01000007.1	12669	13544	-	GAE83131.1	nitrogenase	Bacteroides reticulotermitis JCM 10512	JCM 10512	GCA_000517545.1
+47761966	INSDC	DYZB01000217.1	29306	30181	+	HJD75962.1	nitrogenase iron protein	Bacteroides reticulotermitis		GCA_020741335.1
+47761966	INSDC	JACIER010000008.1	95791	96666	-	MBB4044393.1	nitrogenase iron protein NifH	Bacteroides reticulotermitis	DSM 105720	GCA_014196955.1

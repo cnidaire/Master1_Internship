@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+64857658	RefSeq	NZ_JNKI01000003.1	95308	96165	-	WP_033169720.1	nitrogenase iron protein	Selenomonas sp. ND2010	ND2010	GCF_000702005.1
+64857658	INSDC	FNCM01000001.1	102822	103679	-	SDF96691.1	Mo-nitrogenase iron protein subunit NifH	Selenomonas ruminantium	WCT3	GCA_900100835.1

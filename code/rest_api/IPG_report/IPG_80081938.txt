@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+80081938	RefSeq	NZ_CP009503.1	962954	963775	-	WP_048126288.1	nitrogenase iron protein	Methanosarcina sp. WWM596	WWM596	GCF_000969965.1
+80081938	RefSeq	NZ_CP009504.1	886932	887753	-	WP_048126288.1	nitrogenase iron protein	Methanosarcina sp. WH1	WH1	GCF_000970005.1
+80081938	INSDC	CP009503.1	962954	963775	-	AKB17680.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Methanosarcina sp. WWM596	WWM596	GCA_000969965.1
+80081938	INSDC	CP009504.1	886932	887753	-	AKB21036.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Methanosarcina sp. WH1	WH1	GCA_000970005.1

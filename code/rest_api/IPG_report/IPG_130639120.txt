@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+130639120	RefSeq	NZ_FRAR01000012.1	101537	102355	+	WP_072913089.1	nitrogenase iron protein	Desulforamulus aeronauticus DSM 10349	DSM 10349	GCF_900142375.1
+130639120	INSDC	FRAR01000012.1	101537	102355	+	SHK39493.1	Mo-nitrogenase iron protein subunit NifH	Desulforamulus aeronauticus DSM 10349	DSM 10349	GCA_900142375.1

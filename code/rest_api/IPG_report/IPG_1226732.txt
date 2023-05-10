@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+1226732	INSDC	AF227944.1	1	327	+	AAG23911.1	dinitrogenase reductase NifH	marine stromatolite eubacterium HB(0697) C102		

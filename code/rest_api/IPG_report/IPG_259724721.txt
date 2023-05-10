@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+259724721	INSDC	LVVQ01000001.1	398502	399275	-	TQS77882.1	nitrogen fixation protein NifH	Candidatus Methanarcanum hacksteinii		GCA_006954405.1

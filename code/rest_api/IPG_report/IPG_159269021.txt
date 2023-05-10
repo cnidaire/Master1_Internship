@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+159269021	RefSeq	NZ_LT907844.1	3477542	3478426	+	WP_096174773.1	nitrogenase iron protein	Cohaesibacter sp. ES.047	ES.047	GCF_900215505.1
+159269021	INSDC	LT907844.1	3477542	3478426	+	SNY92917.1	nitrogenase iron protein NifH	Cohaesibacter sp. ES.047	ES.047	GCA_900215505.1

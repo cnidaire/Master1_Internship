@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+262436636	RefSeq	NZ_CP036260.1	22837	23610	+	WP_144353170.1	nitrogenase iron protein NifH	Sporomusa termitida	DSM 4440	GCF_007641255.1
+262436636	INSDC	CP036260.1	22837	23610	+	QDR83404.1	Nitrogenase iron protein 1	Sporomusa termitida	DSM 4440	GCA_007641255.1

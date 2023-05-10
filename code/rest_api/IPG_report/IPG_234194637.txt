@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+234194637	RefSeq	NZ_AP025251.1	516912	517751	+	WP_229235208.1	nitrogenase iron protein NifH	Candidatus Methanoliparum sp. LAM-1	LAM-1	GCF_020885915.1
+234194637	INSDC	AP025251.1	516912	517751	+	BDC35885.1	nitrogenase iron protein	Candidatus Methanoliparum sp. LAM-1	LAM-1	GCA_020885915.1
+234194637	INSDC	RXIF01000006.1	103682	104521	-	RZN64519.1	nitrogenase iron protein	Candidatus Methanoliparum thermophilum		GCA_004212075.1

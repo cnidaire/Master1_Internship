@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+20771225	INSDC	HQ115059.1	1	855	+	ADM13690.1	NifH	Burkholderia sp. enrichment culture clone CACua-88		

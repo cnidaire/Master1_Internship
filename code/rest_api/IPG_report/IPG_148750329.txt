@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+148750329	RefSeq	NZ_CP046051.1	1742265	1743026	+	WP_086035158.1	nitrogenase iron protein NifH	Caproicibacterium lactatifermentans	LBM19010	GCF_013315815.1
+148750329	RefSeq	NZ_CP046161.1	1121567	1122328	-	WP_086035158.1	nitrogenase iron protein NifH	Caproicibacterium lactatifermentans	JNU-WLY1368	GCF_013340725.1
+148750329	INSDC	CP020705.1	400612	401373	-	ARP49760.1	nitrogen fixation protein NifH	Ruminococcaceae bacterium CPB6	CPB6	GCA_002119605.1
+148750329	INSDC	CP046051.1	1742265	1743026	+	QKN24510.1	AAA family ATPase	Caproicibacterium lactatifermentans	LBM19010	GCA_013315815.1
+148750329	INSDC	CP046161.1	1121567	1122328	-	QKO30476.1	AAA family ATPase	Caproicibacterium lactatifermentans	JNU-WLY1368	GCA_013340725.1

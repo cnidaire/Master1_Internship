@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+229586182	INSDC	MH392267.1	1	566	+	QAB47447.1	NifH	Rhizobium sp.	P33	
+229586182	INSDC	MH392268.1	1	566	+	QAB47448.1	NifH	Rhizobium sp.	P3	

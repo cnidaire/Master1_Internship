@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+225299690	RefSeq	NZ_RHOY01000011.1	50023	50772	-	WP_125715009.1	nitrogenase iron protein NifH	Agrilactobacillus yilanensis	54-2	GCF_003946725.1

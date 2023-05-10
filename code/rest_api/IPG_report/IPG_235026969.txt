@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+235026969	INSDC	NQJD01000006.1	21146	21970	+	TAA75466.1	Mo-nitrogenase iron protein subunit NifH	Candidatus Electronema sp. GS		GCA_004284765.1

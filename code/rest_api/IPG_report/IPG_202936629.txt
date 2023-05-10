@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+202936629	INSDC	DLYD01000107.1	7422	8192	+	HAD19430.1	nitrogen fixation protein NifH	Lachnospiraceae bacterium		GCA_003448625.1
+202936629	INSDC	JALCLY010000012.1	28786	29556	-	MCI1655226.1	nitrogenase iron protein NifH	Lachnospiraceae bacterium		GCA_022648085.1
+202936629	INSDC	JALCLP010000001.1	574399	575169	+	MCI1656424.1	nitrogenase iron protein NifH	Lachnospiraceae bacterium		GCA_022647955.1
+202936629	INSDC	JALCUJ010000001.1	574399	575169	+	MCI2194906.1	nitrogenase iron protein NifH	Lachnospiraceae bacterium		GCA_022655395.1

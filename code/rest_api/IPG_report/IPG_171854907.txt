@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+171854907	RefSeq	NZ_CP024785.1	5134266	5135159	+	WP_100900502.1	nitrogenase iron protein	Nostoc flagelliforme CCNUN1	CCNUN1	GCF_002813575.1
+171854907	INSDC	CP024785.1	5134266	5135159	+	AUB39517.1	nifH, nitrogenase iron protein NifH	Nostoc flagelliforme CCNUN1	CCNUN1	GCA_002813575.1

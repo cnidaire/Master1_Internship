@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+4179756	INSDC	AY768426.1	1	408	+	AAX82514.1	NifH	Leptolyngbya sp. PCC 7410	PCC 7410	

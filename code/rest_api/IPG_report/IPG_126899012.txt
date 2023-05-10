@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+126899012	RefSeq	NZ_LT630003.1	2914337	2915089	+	WP_100042584.1	nitrogenase iron protein NifH	[Clostridium] sphenoides JCM 1415	ATCC 19403	GCF_900105615.1
+126899012	RefSeq	NZ_UFXF01000001.1	3814028	3814780	+	WP_100042584.1	nitrogenase iron protein NifH	Lacrimispora sphenoides	NCTC507	GCF_900461315.1
+126899012	INSDC	LT630003.1	2914337	2915089	+	SET88120.1	nitrogenase iron protein NifH	[Clostridium] sphenoides JCM 1415	ATCC 19403	GCA_900105615.1
+126899012	INSDC	UFXF01000001.1	3814028	3814780	+	SUY52027.1	nitrogenase iron protein	Lacrimispora sphenoides	NCTC507	GCA_900461315.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+130646424	RefSeq	NZ_FRAG01000021.1	10267	11025	-	WP_073149411.1	nitrogenase iron protein NifH	Paramaledivibacter caminithermalis DSM 15212	DSM 15212	GCF_900142245.1
+130646424	INSDC	FRAG01000021.1	10267	11025	-	SHK02183.1	Mo-nitrogenase iron protein subunit NifH	Paramaledivibacter caminithermalis DSM 15212	DSM 15212	GCA_900142245.1

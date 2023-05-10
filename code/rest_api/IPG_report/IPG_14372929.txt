@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+14372929	INSDC	EU291974.1	1	558	+	ABZ89801.1	NifH	Rhizobium tropici	CFN ESH10	
+14372929	INSDC	EU291975.1	1	558	+	ABZ89802.1	NifH	Rhizobium tropici	CFN ESH9	
+14372929	INSDC	EU291976.1	1	558	+	ABZ89803.1	NifH	Rhizobium tropici	CFN ESH23	
+14372929	INSDC	EU291977.1	1	558	+	ABZ89804.1	NifH	Rhizobium tropici	CFN ESH25	

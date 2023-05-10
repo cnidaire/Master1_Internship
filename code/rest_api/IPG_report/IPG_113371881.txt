@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+113371881	INSDC	KT832425.1	1	349	+	ANS71388.1	NifH	Stigonema ocellatum Q38-2		
+113371881	INSDC	KT832426.1	1	349	+	ANS71389.1	NifH	Stigonema ocellatum Q38-3		
+113371881	INSDC	KT832427.1	1	349	+	ANS71390.1	NifH	Stigonema ocellatum Q38-4		

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+219331445	RefSeq	NZ_RKRE01000001.1	575024	575851	+	WP_123927773.1	nitrogenase iron protein	Thermodesulfitimonas autotrophica	DSM 102936	GCF_003815015.1
+219331445	INSDC	RKRE01000001.1	575024	575851	+	RPF49777.1	nitrogenase iron protein NifH	Thermodesulfitimonas autotrophica	DSM 102936	GCA_003815015.1

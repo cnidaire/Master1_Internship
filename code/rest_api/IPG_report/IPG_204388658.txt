@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+204388658	RefSeq	NZ_QSIJ01000001.1	338978	339745	-	WP_118050834.1	nitrogenase iron protein NifH	Blautia obeum	AM34-12	GCF_003469155.1
+204388658	INSDC	QSIJ01000001.1	338978	339745	-	RHC86341.1	nitrogenase iron protein	Blautia obeum	AM34-12	GCA_003469155.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+197873768	RefSeq	NZ_PPTQ01000007.1	37606	38355	+	WP_114566782.1	nitrogenase iron protein NifH	Paraeggerthella hongkongensis	RC2/2 A	GCF_003340345.1
+197873768	INSDC	PPTQ01000007.1	37606	38355	+	RDB58053.1	nitrogenase iron protein	Paraeggerthella hongkongensis	RC2/2 A	GCA_003340345.1

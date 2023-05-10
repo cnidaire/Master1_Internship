@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+237500290	RefSeq	NZ_JAJUHT010000010.1	42651	43520	+	WP_132872172.1	nitrogenase iron protein	Seleniivibrio woodruffii		GCF_029267765.1
+237500290	RefSeq	NZ_SMGG01000003.1	789966	790835	+	WP_132872172.1	nitrogenase iron protein	Seleniivibrio woodruffii	DSM 24984	GCF_004339245.1
+237500290	RefSeq	NZ_VISF01000001.1	232890	233759	-	WP_132872172.1	nitrogenase iron protein	Seleniivibrio woodruffii	S4	GCF_007827295.1
+237500290	INSDC	JAJOIL010000001.1	152150	153019	-	MCD8552430.1	nitrogenase iron protein	Seleniivibrio sp.		GCA_021209385.1
+237500290	INSDC	SMGG01000003.1	789966	790835	+	TCK62253.1	Mo-nitrogenase iron protein subunit NifH	Seleniivibrio woodruffii	DSM 24984	GCA_004339245.1
+237500290	INSDC	VISF01000001.1	232890	233759	-	TVZ34629.1	Mo-nitrogenase iron protein subunit NifH	Seleniivibrio woodruffii	S4	GCA_007827295.1

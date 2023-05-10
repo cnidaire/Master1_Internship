@@ -1,0 +1,12 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+1516485	RefSeq	NC_007643.1	1646660	1647487	-	WP_011389149.1	nitrogenase iron protein	Rhodospirillum rubrum ATCC 11170	ATCC 11170	GCF_000013085.1
+1516485	RefSeq	NC_017584.1	1646660	1647487	-	WP_011389149.1	nitrogenase iron protein	Rhodospirillum rubrum F11	F11	GCF_000225955.1
+1516485	RefSeq	NZ_CP077803.1	1646721	1647548	-	WP_011389149.1	nitrogenase iron protein	Rhodospirillum rubrum	DSM 467	GCF_019134555.1
+1516485	RefSeq	NZ_NRSB01000001.1	45751	46578	+	WP_011389149.1	nitrogenase iron protein	Rhodospirillum rubrum	DSM 1068	GCF_016583945.1
+1516485	RefSeq	NZ_NRSC01000002.1	21865	22692	+	WP_011389149.1	nitrogenase iron protein	Rhodospirillum rubrum	DSM 107	GCF_016583925.1
+1516485	INSDC	CP000230.1	1646660	1647487	-	ABC22196.1	nitrogenase iron protein subunit NifH	Rhodospirillum rubrum ATCC 11170	ATCC 11170	GCA_000013085.1
+1516485	INSDC	CP003046.1	1646660	1647487	-	AEO47911.1	nitrogenase reductase	Rhodospirillum rubrum F11	F11	GCA_000225955.1
+1516485	INSDC	NRSB01000001.1	45751	46578	+	MBK1662932.1	nitrogenase iron protein	Rhodospirillum rubrum	DSM 1068	GCA_016583945.1
+1516485	INSDC	NRSC01000002.1	21865	22692	+	MBK1675219.1	nitrogenase iron protein	Rhodospirillum rubrum	DSM 107	GCA_016583925.1
+1516485	INSDC	NHSM01000094.1	22764	23591	-	MBK5953786.1	nitrogenase iron protein	Rhodospirillum rubrum	FR1-mutantIV	GCA_016653395.1
+1516485	INSDC	CP077803.1	1646721	1647548	-	QXG81843.1	nitrogenase iron protein	Rhodospirillum rubrum	DSM 467	GCA_019134555.1

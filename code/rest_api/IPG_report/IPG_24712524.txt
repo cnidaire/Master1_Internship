@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+24712524	RefSeq	NZ_ATVU01000015.1	3923	4678	-	WP_005336164.1	nitrogenase iron protein NifH	Dorea sp. AGR2135	AGR2135	GCF_000420885.1
+24712524	RefSeq	NZ_OLMI01000001.1	168496	169251	+	WP_005336164.1	nitrogenase iron protein NifH	Dorea sp. Marseille-P4042	Marseille-P4042	GCF_900290215.1
+24712524	INSDC	ADLU01000001.1	15279	16034	+	EGX77950.1	hypothetical protein	Dorea formicigenerans 4_6_53AFAA	4_6_53AFAA	GCA_000225745.1
+24712524	INSDC	JH126487.1	15279	16034	+	EGX77950.1	hypothetical protein	Dorea formicigenerans 4_6_53AFAA	4_6_53AFAA	GCA_000225745.1

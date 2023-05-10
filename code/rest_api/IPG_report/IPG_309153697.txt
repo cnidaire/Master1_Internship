@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+309153697	RefSeq	NZ_JAASRM010000001.1	2832570	2833448	+	WP_167083296.1	nitrogenase iron protein	Rhizomicrobium palustre	DSM 19867	GCF_011761565.1
+309153697	INSDC	JAASRM010000001.1	2832570	2833448	+	NIK89185.1	nitrogenase iron protein NifH	Rhizomicrobium palustre	DSM 19867	GCA_011761565.1

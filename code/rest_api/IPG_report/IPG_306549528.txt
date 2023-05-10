@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+306549528	INSDC	RDOC01000001.1	224243	225259	+	NHI82863.1	nitrogen fixation protein NifH	Candidatus Thorarchaeota archaeon		GCA_011364985.1

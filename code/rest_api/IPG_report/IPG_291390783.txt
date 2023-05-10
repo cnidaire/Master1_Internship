@@ -1,0 +1,17 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+291390783	RefSeq	NZ_CACVAG010000004.1	151070	151900	-	WP_162027129.1	nitrogenase iron protein	Lentimonas sp. CC4		GCF_902726575.1
+291390783	RefSeq	NZ_CACVAH010000017.1	145524	146354	+	WP_162027129.1	nitrogenase iron protein	Lentimonas sp. CC6		GCF_902726585.1
+291390783	RefSeq	NZ_CACVAI010000036.1	59183	60013	-	WP_162027129.1	nitrogenase iron protein	Lentimonas sp. CC10		GCF_902726595.1
+291390783	RefSeq	NZ_CACVAJ010000032.1	59077	59907	-	WP_162027129.1	nitrogenase iron protein	Lentimonas sp. CC19		GCF_902726605.1
+291390783	RefSeq	NZ_CACVBN010000043.1	59057	59887	-	WP_162027129.1	nitrogenase iron protein	Lentimonas sp. CC11		GCF_902728225.1
+291390783	RefSeq	NZ_CACVBO010000001.1	221193	222023	+	WP_162027129.1	nitrogenase iron protein	Lentimonas sp. CC4		GCF_902728235.1
+291390783	RefSeq	NZ_CACVBP010000030.1	16297	17127	+	WP_162027129.1	nitrogenase iron protein	Lentimonas sp. CC21		GCF_902728245.1
+291390783	RefSeq	NZ_CACVBQ010000032.1	17043	17873	+	WP_162027129.1	nitrogenase iron protein	Lentimonas sp. CC8		GCF_902728255.1
+291390783	INSDC	CACVAG010000004.1	151070	151900	-	CAA6677152.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Lentimonas sp. CC4		GCA_902726575.1
+291390783	INSDC	CACVAH010000017.1	145524	146354	+	CAA6686224.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Lentimonas sp. CC6		GCA_902726585.1
+291390783	INSDC	CACVAJ010000032.1	59077	59907	-	CAA6694979.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Lentimonas sp. CC19		GCA_902726605.1
+291390783	INSDC	CACVAI010000036.1	59183	60013	-	CAA6695331.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Lentimonas sp. CC10		GCA_902726595.1
+291390783	INSDC	CACVBN010000043.1	59057	59887	-	CAA7072011.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Lentimonas sp. CC11		GCA_902728225.1
+291390783	INSDC	CACVBO010000001.1	221193	222023	+	CAA7074254.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Lentimonas sp. CC4		GCA_902728235.1
+291390783	INSDC	CACVBP010000030.1	16297	17127	+	CAA7171085.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Lentimonas sp. CC21		GCA_902728245.1
+291390783	INSDC	CACVBQ010000032.1	17043	17873	+	CAA7182888.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Lentimonas sp. CC8		GCA_902728255.1

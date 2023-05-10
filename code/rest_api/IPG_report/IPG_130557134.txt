@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+130557134	RefSeq	NZ_FRBA01000005.1	179136	179981	+	WP_073321569.1	nitrogenase iron protein	Fibrobacter sp. UWOV1	UWOV1	GCF_900142495.1
+130557134	RefSeq	NZ_MWQL01000004.1	18031	18876	-	WP_073321569.1	nitrogenase iron protein	Fibrobacter sp. UWB1	UWB1	GCF_002210325.1
+130557134	INSDC	MWQL01000004.1	18031	18876	-	OWV26465.1	nitrogenase iron protein	Fibrobacter sp. UWB1	UWB1	GCA_002210325.1
+130557134	INSDC	FRBA01000005.1	179136	179981	+	SHL17301.1	nitrogenase iron protein NifH	Fibrobacter sp. UWOV1	UWOV1	GCA_900142495.1

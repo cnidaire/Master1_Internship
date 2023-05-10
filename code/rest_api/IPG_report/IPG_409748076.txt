@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+409748076	RefSeq	NZ_JACJJC010000004.1	127616	128524	+	WP_205102129.1	nitrogenase iron protein NifH	Sutterella massiliensis	An829	GCF_016899755.1

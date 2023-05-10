@@ -1,0 +1,210 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+3333551	RefSeq	NC_017922.1	483231	484112	+	WP_011880146.1	nitrogenase iron protein	Burkholderia sp. KJ006	KJ006	GCF_000262695.1
+3333551	RefSeq	NZ_CAAAFK010000009.1	1116007	1116888	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	JW13	GCF_900634425.1
+3333551	RefSeq	NZ_CADETD010000013.1	46272	47153	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	LMG 10929	GCF_902830295.1
+3333551	RefSeq	NZ_CADFEA010000019.1	3759	4640	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	BCC0028	GCF_902833215.1
+3333551	RefSeq	NZ_CADFEG010000017.1	25679	26560	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	BCC0027	GCF_902833235.1
+3333551	RefSeq	NZ_CADFER010000002.1	503885	504766	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	BCC0046	GCF_902833275.1
+3333551	RefSeq	NZ_CADFEU010000029.1	49689	50570	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	BCC0194	GCF_902833365.1
+3333551	RefSeq	NZ_CADFEV010000023.1	18874	19755	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	BCC0151	GCF_902833395.1
+3333551	RefSeq	NZ_CADFEW010000002.1	207678	208559	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	BCC0185	GCF_902833315.1
+3333551	RefSeq	NZ_CADFEX010000005.1	321076	321957	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	BCC1161	GCF_902833255.1
+3333551	RefSeq	NZ_CADFEY010000003.1	259803	260684	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	BCC0124	GCF_902833355.1
+3333551	RefSeq	NZ_CADFEZ010000024.1	78247	79128	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	BCC0104	GCF_902833335.1
+3333551	RefSeq	NZ_CADFFA010000012.1	80390	81271	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	BCC0142	GCF_902833265.1
+3333551	RefSeq	NZ_CADFFC010000001.1	511557	512438	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	BCC1162	GCF_902833325.1
+3333551	RefSeq	NZ_CADFFD010000015.1	47764	48645	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	BCC0587	GCF_902833305.1
+3333551	RefSeq	NZ_CADFFE010000007.1	55170	56051	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	BCC0126	GCF_902833375.1
+3333551	RefSeq	NZ_CADFFG010000004.1	1187629	1188510	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	BCC0268	GCF_902833425.1
+3333551	RefSeq	NZ_CADFFH010000007.1	198938	199819	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	BCC0128	GCF_902833415.1
+3333551	RefSeq	NZ_CADFFI010000016.1	56025	56906	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	BCC0136	GCF_902833435.1
+3333551	RefSeq	NZ_CADFFJ010000012.1	131885	132766	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	BCC0129	GCF_902833445.1
+3333551	RefSeq	NZ_CADFFK010000019.1	54777	55658	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	BCC0157	GCF_902833295.1
+3333551	RefSeq	NZ_CADFFL010000007.1	250607	251488	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	BCC1409	GCF_902833595.1
+3333551	RefSeq	NZ_CADFFN010000006.1	259417	260298	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	BCC1309	GCF_902833565.1
+3333551	RefSeq	NZ_CADFFO010000022.1	21476	22357	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	BCC1186	GCF_902833535.1
+3333551	RefSeq	NZ_CADFFQ010000016.1	15251	16132	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	BCC1412	GCF_902833465.1
+3333551	RefSeq	NZ_CADFFR010000013.1	124559	125440	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	BCC1172	GCF_902833625.1
+3333551	RefSeq	NZ_CADFFS010000004.1	462425	463306	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	BCC1176	GCF_902833605.1
+3333551	RefSeq	NZ_CADFFW010000007.1	320851	321732	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	BCC1163	GCF_902833545.1
+3333551	RefSeq	NZ_CADFFY010000003.1	527844	528725	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	BCC1408	GCF_902833505.1
+3333551	RefSeq	NZ_CADFGA010000009.1	63527	64408	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	BCC1193	GCF_902833555.1
+3333551	RefSeq	NZ_CADFGB010000019.1	89823	90704	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	BCC1170	GCF_902833495.1
+3333551	RefSeq	NZ_CADFGC010000005.1	390250	391131	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	BCC1304	GCF_902833475.1
+3333551	RefSeq	NZ_CADFGD010000013.1	20125	21006	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	BCC1301	GCF_902833615.1
+3333551	RefSeq	NZ_CAJZAL010000158.1	50984	51865	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis		GCF_914484805.1
+3333551	RefSeq	NZ_CAJZAN010000241.1	3663	4544	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis		GCF_914484955.1
+3333551	RefSeq	NZ_CAJZAO010000059.1	2705	3586	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis		GCF_914484905.1
+3333551	RefSeq	NZ_CP009632.1	538269	539150	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis LMG 10929	LMG 10929	GCF_000959445.1
+3333551	RefSeq	NZ_CP013395.1	315180	316061	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	FL-2-3-30-S1-D0	GCF_001718495.1
+3333551	RefSeq	NZ_CP013421.1	197999	198880	+	WP_011880146.1	nitrogenase iron protein	Burkholderia ubonensis	MSMB0783	GCF_001718695.1
+3333551	RefSeq	NZ_CP013434.1	417437	418318	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU1233	GCF_001718775.1
+3333551	RefSeq	NZ_CP013441.1	197973	198854	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	HI2297	GCF_001718815.1
+3333551	RefSeq	NZ_CP013456.1	424111	424992	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	MSMB608WGS	GCF_001718915.1
+3333551	RefSeq	NZ_CP020395.1	1032650	1033531	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	FDAARGOS_239	GCF_003019945.1
+3333551	RefSeq	NZ_CP053611.1	272782	273663	+	WP_011880146.1	nitrogenase iron protein	Burkholderia sp. MBR-1	MBR-1	GCF_013822785.1
+3333551	RefSeq	NZ_CP072321.1	507490	508371	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU2011	GCF_017742755.1
+3333551	RefSeq	NZ_CP083656.1	198268	199149	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	FDAARGOS_1488	GCF_020099355.1
+3333551	RefSeq	NZ_CP090787.1	621267	622148	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	2003Ycf867	GCF_023373725.1
+3333551	RefSeq	NZ_FMVZ01000008.1	250141	251022	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	WPB	GCF_900102765.1
+3333551	RefSeq	NZ_FPJR01000008.1	249950	250831	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	WP40	GCF_900119435.1
+3333551	RefSeq	NZ_JADVKH010000002.1	69864	70745	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	BC00020	GCF_016505885.1
+3333551	RefSeq	NZ_JAEDWX010000005.1	58117	58998	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	184D	GCF_016092175.1
+3333551	RefSeq	NZ_JAGSTU010000032.1	9885	10766	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU15076	GCF_018148135.1
+3333551	RefSeq	NZ_JAGSUH010000031.1	50602	51483	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU30707	GCF_018147655.1
+3333551	RefSeq	NZ_JAGSUQ010000030.1	9898	10779	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU33792	GCF_018147425.1
+3333551	RefSeq	NZ_JAGSUT010000012.1	47745	48626	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU34233	GCF_018147335.1
+3333551	RefSeq	NZ_JAGSUU010000043.1	9828	10709	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU34486	GCF_018147225.1
+3333551	RefSeq	NZ_JAGSUX010000025.1	86418	87299	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU34747	GCF_018147215.1
+3333551	RefSeq	NZ_JAGSVA010000063.1	9917	10798	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU35216	GCF_018147095.1
+3333551	RefSeq	NZ_JAGSVD010000033.1	9921	10802	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU35399	GCF_018146995.1
+3333551	RefSeq	NZ_JAGSVL010000038.1	55433	56314	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU36923	GCF_018146775.1
+3333551	RefSeq	NZ_JAGSVP010000044.1	17147	18028	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU37242	GCF_018146665.1
+3333551	RefSeq	NZ_JAGSVU010000045.1	9972	10853	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU38631	GCF_018146555.1
+3333551	RefSeq	NZ_JAGSWK010000052.1	26512	27393	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU41497	GCF_018146025.1
+3333551	RefSeq	NZ_JAGSWM010000003.1	217368	218249	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU41773	GCF_018145895.1
+3333551	RefSeq	NZ_JAGSWN010000018.1	81587	82468	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU42237	GCF_018145795.1
+3333551	RefSeq	NZ_JAGSWO010000083.1	16867	17748	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU42330	GCF_018145815.1
+3333551	RefSeq	NZ_JAGSWP010000025.1	36072	36953	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU42352	GCF_018145825.1
+3333551	RefSeq	NZ_JAIZQA010000008.1	233731	234612	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU40755	GCF_020419205.1
+3333551	RefSeq	NZ_JAIZQD010000022.1	46387	47268	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU40184	GCF_020418905.1
+3333551	RefSeq	NZ_JAIZQK010000003.1	497277	498158	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU39362	GCF_020419925.1
+3333551	RefSeq	NZ_JAIZQU010000009.1	70369	71250	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU37616	GCF_020419565.1
+3333551	RefSeq	NZ_JAIZRC010000023.1	105973	106854	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU35719	GCF_020419045.1
+3333551	RefSeq	NZ_JAIZRL010000005.1	236203	237084	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU34661	GCF_020419305.1
+3333551	RefSeq	NZ_JAIZRM010000051.1	9869	10750	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU34373	GCF_020419165.1
+3333551	RefSeq	NZ_JAIZRN010000028.1	84897	85778	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU34220	GCF_020419025.1
+3333551	RefSeq	NZ_JAIZRO010000022.1	47840	48721	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU34059	GCF_020419135.1
+3333551	RefSeq	NZ_JAIZRV010000005.1	208612	209493	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU31518	GCF_020419705.1
+3333551	RefSeq	NZ_JAIZRZ010000005.1	63717	64598	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU30206	GCF_020419805.1
+3333551	RefSeq	NZ_JAIZSQ010000034.1	9918	10799	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU14300	GCF_020421345.1
+3333551	RefSeq	NZ_JAIZST010000002.1	225331	226212	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU10368	GCF_020421175.1
+3333551	RefSeq	NZ_JAKEZW010000003.1	554931	555812	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	2017Y70983955	GCF_023896095.1
+3333551	RefSeq	NZ_JAKFAE010000005.1	619675	620556	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	2011Ycf928II	GCF_023896135.1
+3333551	RefSeq	NZ_JQJT01000009.1	55509	56390	-	WP_011880146.1	nitrogenase iron protein	Burkholderia sp. WP42	WP42	GCF_000745665.1
+3333551	RefSeq	NZ_JZUR01000032.1	47202	48083	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	CBMB40	GCF_000980955.1
+3333551	RefSeq	NZ_LOVV01000002.1	322652	323533	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AZ-3-1-30-S1-D7	GCF_001523585.1
+3333551	RefSeq	NZ_LOVY01000081.1	65013	65894	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	LA-5-5-30-S1-D2	GCF_001523535.1
+3333551	RefSeq	NZ_LOVZ01000020.1	73334	74215	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	LA-6-3-30-S1-D2	GCF_001522565.1
+3333551	RefSeq	NZ_LOWF01000025.1	24876	25757	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	FL-1-2-10-S1-D0	GCF_001523615.1
+3333551	RefSeq	NZ_LOWG01000086.1	129733	130614	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	FL-2-1-10-S1-D0	GCF_001525685.1
+3333551	RefSeq	NZ_LOWH01000036.1	124108	124989	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	FL-2-2-10-S1-D0	GCF_001523755.1
+3333551	RefSeq	NZ_LOWI01000012.1	144799	145680	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	FL-2-2-30-S1-D0	GCF_001523785.1
+3333551	RefSeq	NZ_LOWK01000038.1	284531	285412	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	FL-2-3-10-S1-D7	GCF_001525665.1
+3333551	RefSeq	NZ_LOWL01000024.1	141777	142658	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	FL-2-3-10-S3-D0	GCF_001523705.1
+3333551	RefSeq	NZ_LOWM01000074.1	146130	147011	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	FL-2-4-30-S1-D0	GCF_001525645.1
+3333551	RefSeq	NZ_LOWN01000049.1	242169	243050	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	FL-2-5-10-S1-D0	GCF_001523945.1
+3333551	RefSeq	NZ_LOWO01000022.1	82959	83840	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	FL-2-5-30-S1-D0	GCF_001523965.1
+3333551	RefSeq	NZ_LOWQ01000085.1	142377	143258	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	FL-5-1-10-S1-D0	GCF_001524005.1
+3333551	RefSeq	NZ_LOWR01000073.1	109260	110141	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	FL-5-2-10-S1-D0	GCF_001524025.1
+3333551	RefSeq	NZ_LOWS01000055.1	164623	165504	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	FL-5-2-10-S1-D0	GCF_001524045.1
+3333551	RefSeq	NZ_LOWT01000043.1	109923	110804	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	FL-5-2-10-S2-D0	GCF_001524065.1
+3333551	RefSeq	NZ_LOWX01000066.1	242695	243576	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	FL-7-1-10-S1-D0	GCF_001524145.1
+3333551	RefSeq	NZ_LOWZ01000025.1	56576	57457	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	FL-7-2-10-S2-D0	GCF_001524205.1
+3333551	RefSeq	NZ_LOXA01000050.1	56576	57457	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	FL-7-3-30-S2-D0	GCF_001524225.1
+3333551	RefSeq	NZ_LOXB01000003.1	56576	57457	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	FL-7-4-10-S1-D0	GCF_001524235.1
+3333551	RefSeq	NZ_LOXC01000059.1	39092	39973	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	FL-7-4-30-S2-D0	GCF_001524265.1
+3333551	RefSeq	NZ_LOXD01000057.1	56576	57457	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	FL-7-4-30-S3-D0	GCF_001524285.1
+3333551	RefSeq	NZ_LOXE01000021.1	169877	170758	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	FL-7-5-30-S2-D0	GCF_001524305.1
+3333551	RefSeq	NZ_LOZI01000068.1	131745	132626	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	BAA-248	GCF_001527445.1
+3333551	RefSeq	NZ_LPCM01000144.1	62968	63849	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU15829	GCF_001528495.1
+3333551	RefSeq	NZ_LPCN01000030.1	129820	130701	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU21726	GCF_001529585.1
+3333551	RefSeq	NZ_LPCO01000003.1	69592	70473	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU25004	GCF_001528525.1
+3333551	RefSeq	NZ_LPCP01000092.1	246396	247277	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU25340	GCF_001528545.1
+3333551	RefSeq	NZ_LPCQ01000212.1	20802	21683	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU26564	GCF_001528565.1
+3333551	RefSeq	NZ_LPCR01000038.1	46255	47136	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	HI2221	GCF_001528585.1
+3333551	RefSeq	NZ_LPCS01000161.1	47514	48395	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	HI3392	GCF_001529645.1
+3333551	RefSeq	NZ_LPCV01000077.1	129820	130701	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	PC082	GCF_001541005.1
+3333551	RefSeq	NZ_PQMX01000001.1	124646	125527	-	WP_011880146.1	nitrogenase iron protein	Burkholderia sp. B10	B10	GCF_004368385.1
+3333551	RefSeq	NZ_PVHK01000094.1	21602	22483	-	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU3578	GCF_002981575.1
+3333551	RefSeq	NZ_RQJA01000005.1	128528	129409	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	BE10	GCF_003849655.1
+3333551	RefSeq	NZ_UZVT01000003.1	646157	647038	+	WP_011880146.1	nitrogenase iron protein	Burkholderia vietnamiensis	BBG1222	GCF_900631645.1
+3333551	INSDC	CP000616.1	589594	590475	+	ABO58940.1	Mo-nitrogenase iron protein subunit NifH	Burkholderia vietnamiensis G4	G4	GCA_000016205.1
+3333551	INSDC	CP003516.1	483231	484112	+	AFJ89853.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Burkholderia sp. KJ006	KJ006	GCA_000262695.1
+3333551	INSDC	CP009632.1	538269	539150	+	AJY09037.1	nitrogenase iron protein	Burkholderia vietnamiensis LMG 10929	LMG 10929	GCA_000959445.1
+3333551	INSDC	CP013395.1	315180	316061	-	AOJ17135.1	nitrogenase reductase	Burkholderia vietnamiensis	FL-2-3-30-S1-D0	GCA_001718495.1
+3333551	INSDC	CP013421.1	197999	198880	+	AOJ76593.1	nitrogenase reductase	Burkholderia ubonensis	MSMB0783	GCA_001718695.1
+3333551	INSDC	CP013434.1	417437	418318	-	AOK02250.1	nitrogenase reductase	Burkholderia vietnamiensis	AU1233	GCA_001718775.1
+3333551	INSDC	CP013441.1	197973	198854	+	AOK13682.1	nitrogenase reductase	Burkholderia vietnamiensis	HI2297	GCA_001718815.1
+3333551	INSDC	CP013456.1	424111	424992	-	AOK44724.1	nitrogenase reductase	Burkholderia vietnamiensis	MSMB608WGS	GCA_001718915.1
+3333551	INSDC	CP020395.1	1032650	1033531	+	AVR14760.1	nitrogenase iron protein	Burkholderia vietnamiensis	FDAARGOS_239	GCA_003019945.1
+3333551	INSDC	CAJZAO010000059.1	2705	3586	+	CAG9200154.1	Nitrogenase iron protein	Burkholderia vietnamiensis		GCA_914484905.1
+3333551	INSDC	CAJZAL010000158.1	50984	51865	+	CAG9212816.1	Nitrogenase iron protein	Burkholderia vietnamiensis		GCA_914484805.1
+3333551	INSDC	CAJZAN010000241.1	3663	4544	-	CAG9216365.1	Nitrogenase iron protein	Burkholderia vietnamiensis		GCA_914484955.1
+3333551	INSDC	JZUR01000032.1	47202	48083	-	KKI38699.1	nitrogenase reductase	Burkholderia vietnamiensis	CBMB40	GCA_000980955.1
+3333551	INSDC	LOVV01000002.1	322652	323533	+	KVE08790.1	nitrogenase reductase	Burkholderia vietnamiensis	AZ-3-1-30-S1-D7	GCA_001523585.1
+3333551	INSDC	LOVY01000081.1	65013	65894	-	KVE15203.1	nitrogenase reductase	Burkholderia vietnamiensis	LA-5-5-30-S1-D2	GCA_001523535.1
+3333551	INSDC	LOVZ01000020.1	73334	74215	+	KVE32026.1	nitrogenase reductase	Burkholderia vietnamiensis	LA-6-3-30-S1-D2	GCA_001522565.1
+3333551	INSDC	LOWF01000025.1	24876	25757	-	KVE58540.1	nitrogenase reductase	Burkholderia vietnamiensis	FL-1-2-10-S1-D0	GCA_001523615.1
+3333551	INSDC	LOWG01000086.1	129733	130614	+	KVE60695.1	nitrogenase reductase	Burkholderia vietnamiensis	FL-2-1-10-S1-D0	GCA_001525685.1
+3333551	INSDC	LOWH01000036.1	124108	124989	+	KVE71268.1	nitrogenase reductase	Burkholderia vietnamiensis	FL-2-2-10-S1-D0	GCA_001523755.1
+3333551	INSDC	LOWI01000012.1	144799	145680	+	KVE77649.1	nitrogenase reductase	Burkholderia vietnamiensis	FL-2-2-30-S1-D0	GCA_001523785.1
+3333551	INSDC	LOWK01000038.1	284531	285412	+	KVE82954.1	nitrogenase reductase	Burkholderia vietnamiensis	FL-2-3-10-S1-D7	GCA_001525665.1
+3333551	INSDC	LOWM01000074.1	146130	147011	+	KVE92620.1	nitrogenase reductase	Burkholderia vietnamiensis	FL-2-4-30-S1-D0	GCA_001525645.1
+3333551	INSDC	LOWL01000024.1	141777	142658	+	KVE96330.1	nitrogenase reductase	Burkholderia vietnamiensis	FL-2-3-10-S3-D0	GCA_001523705.1
+3333551	INSDC	LOWN01000049.1	242169	243050	+	KVF03887.1	nitrogenase reductase	Burkholderia vietnamiensis	FL-2-5-10-S1-D0	GCA_001523945.1
+3333551	INSDC	LOWO01000022.1	82959	83840	-	KVF11995.1	nitrogenase reductase	Burkholderia vietnamiensis	FL-2-5-30-S1-D0	GCA_001523965.1
+3333551	INSDC	LOWQ01000085.1	142377	143258	+	KVF17531.1	nitrogenase reductase	Burkholderia vietnamiensis	FL-5-1-10-S1-D0	GCA_001524005.1
+3333551	INSDC	LOWR01000073.1	109260	110141	-	KVF26500.1	nitrogenase reductase	Burkholderia vietnamiensis	FL-5-2-10-S1-D0	GCA_001524025.1
+3333551	INSDC	LOWS01000055.1	164623	165504	+	KVF35490.1	nitrogenase reductase	Burkholderia vietnamiensis	FL-5-2-10-S1-D0	GCA_001524045.1
+3333551	INSDC	LOWT01000043.1	109923	110804	-	KVF41783.1	nitrogenase reductase	Burkholderia vietnamiensis	FL-5-2-10-S2-D0	GCA_001524065.1
+3333551	INSDC	LOWX01000066.1	242695	243576	+	KVF65460.1	nitrogenase reductase	Burkholderia vietnamiensis	FL-7-1-10-S1-D0	GCA_001524145.1
+3333551	INSDC	LOWZ01000025.1	56576	57457	-	KVF80410.1	nitrogenase reductase	Burkholderia vietnamiensis	FL-7-2-10-S2-D0	GCA_001524205.1
+3333551	INSDC	LOXA01000050.1	56576	57457	-	KVF85596.1	nitrogenase reductase	Burkholderia vietnamiensis	FL-7-3-30-S2-D0	GCA_001524225.1
+3333551	INSDC	LOXB01000003.1	56576	57457	-	KVF94217.1	nitrogenase reductase	Burkholderia vietnamiensis	FL-7-4-10-S1-D0	GCA_001524235.1
+3333551	INSDC	LOXC01000059.1	39092	39973	-	KVF96841.1	nitrogenase reductase	Burkholderia vietnamiensis	FL-7-4-30-S2-D0	GCA_001524265.1
+3333551	INSDC	LOXD01000057.1	56576	57457	-	KVF98173.1	nitrogenase reductase	Burkholderia vietnamiensis	FL-7-4-30-S3-D0	GCA_001524285.1
+3333551	INSDC	LOXE01000021.1	169877	170758	-	KVG11478.1	nitrogenase reductase	Burkholderia vietnamiensis	FL-7-5-30-S2-D0	GCA_001524305.1
+3333551	INSDC	LOZI01000068.1	131745	132626	+	KVM45346.1	nitrogenase reductase	Burkholderia vietnamiensis	BAA-248	GCA_001527445.1
+3333551	INSDC	LPCM01000144.1	62968	63849	-	KVR64905.1	nitrogenase reductase	Burkholderia vietnamiensis	AU15829	GCA_001528495.1
+3333551	INSDC	LPCN01000030.1	129820	130701	+	KVR85109.1	nitrogenase reductase	Burkholderia vietnamiensis	AU21726	GCA_001529585.1
+3333551	INSDC	LPCP01000092.1	246396	247277	+	KVR87766.1	nitrogenase reductase	Burkholderia vietnamiensis	AU25340	GCA_001528545.1
+3333551	INSDC	LPCO01000003.1	69592	70473	-	KVR94404.1	nitrogenase reductase	Burkholderia vietnamiensis	AU25004	GCA_001528525.1
+3333551	INSDC	LPCQ01000212.1	20802	21683	-	KVS01324.1	nitrogenase reductase	Burkholderia vietnamiensis	AU26564	GCA_001528565.1
+3333551	INSDC	LPCR01000038.1	46255	47136	-	KVS02758.1	nitrogenase reductase	Burkholderia vietnamiensis	HI2221	GCA_001528585.1
+3333551	INSDC	LPCS01000161.1	47514	48395	-	KVS05480.1	nitrogenase reductase	Burkholderia vietnamiensis	HI3392	GCA_001529645.1
+3333551	INSDC	LPCV01000077.1	129820	130701	+	KVS35309.1	nitrogenase reductase	Burkholderia vietnamiensis	PC082	GCA_001541005.1
+3333551	INSDC	JACZJR010000523.1	5459	6340	-	MBE0629571.1	nitrogenase iron protein	Burkholderia vietnamiensis		GCA_014860525.1
+3333551	INSDC	JAEDWX010000005.1	58117	58998	-	MBH9643998.1	nitrogenase iron protein	Burkholderia vietnamiensis	184D	GCA_016092175.1
+3333551	INSDC	JADVKH010000002.1	69864	70745	-	MBJ9685761.1	nitrogenase iron protein	Burkholderia vietnamiensis	BC00020	GCA_016505885.1
+3333551	INSDC	JAGSWK010000052.1	26512	27393	-	MBR7913529.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU41497	GCA_018146025.1
+3333551	INSDC	JAGSWN010000018.1	81587	82468	-	MBR7918567.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU42237	GCA_018145795.1
+3333551	INSDC	JAGSWP010000025.1	36072	36953	-	MBR7976218.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU42352	GCA_018145825.1
+3333551	INSDC	JAGSWM010000003.1	217368	218249	-	MBR7998603.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU41773	GCA_018145895.1
+3333551	INSDC	JAGSWO010000083.1	16867	17748	-	MBR8010206.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU42330	GCA_018145815.1
+3333551	INSDC	JAGSVP010000044.1	17147	18028	-	MBR8036610.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU37242	GCA_018146665.1
+3333551	INSDC	JAGSVU010000045.1	9972	10853	+	MBR8055322.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU38631	GCA_018146555.1
+3333551	INSDC	JAGSVL010000038.1	55433	56314	-	MBR8086748.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU36923	GCA_018146775.1
+3333551	INSDC	JAGSVD010000033.1	9921	10802	+	MBR8150606.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU35399	GCA_018146995.1
+3333551	INSDC	JAGSVA010000063.1	9917	10798	+	MBR8165387.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU35216	GCA_018147095.1
+3333551	INSDC	JAGSUX010000025.1	86418	87299	+	MBR8191288.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU34747	GCA_018147215.1
+3333551	INSDC	JAGSUT010000012.1	47745	48626	-	MBR8203931.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU34233	GCA_018147335.1
+3333551	INSDC	JAGSUU010000043.1	9828	10709	+	MBR8218730.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU34486	GCA_018147225.1
+3333551	INSDC	JAGSUQ010000030.1	9898	10779	+	MBR8232201.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU33792	GCA_018147425.1
+3333551	INSDC	JAGSUH010000031.1	50602	51483	-	MBR8284358.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU30707	GCA_018147655.1
+3333551	INSDC	JAGSTU010000032.1	9885	10766	+	MBR8360278.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU15076	GCA_018148135.1
+3333551	INSDC	JAIZQA010000008.1	233731	234612	-	MCA7944359.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU40755	GCA_020419205.1
+3333551	INSDC	JAIZQD010000022.1	46387	47268	-	MCA7986358.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU40184	GCA_020418905.1
+3333551	INSDC	JAIZQK010000003.1	497277	498158	+	MCA8012081.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU39362	GCA_020419925.1
+3333551	INSDC	JAIZQU010000009.1	70369	71250	-	MCA8070284.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU37616	GCA_020419565.1
+3333551	INSDC	JAIZRC010000023.1	105973	106854	+	MCA8148536.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU35719	GCA_020419045.1
+3333551	INSDC	JAIZRM010000051.1	9869	10750	+	MCA8184288.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU34373	GCA_020419165.1
+3333551	INSDC	JAIZRN010000028.1	84897	85778	-	MCA8198267.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU34220	GCA_020419025.1
+3333551	INSDC	JAIZRO010000022.1	47840	48721	+	MCA8208824.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU34059	GCA_020419135.1
+3333551	INSDC	JAIZRL010000005.1	236203	237084	+	MCA8227703.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU34661	GCA_020419305.1
+3333551	INSDC	JAIZRV010000005.1	208612	209493	+	MCA8266219.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU31518	GCA_020419705.1
+3333551	INSDC	JAIZRZ010000005.1	63717	64598	-	MCA8287043.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU30206	GCA_020419805.1
+3333551	INSDC	JAIZSQ010000034.1	9918	10799	+	MCA8395073.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU14300	GCA_020421345.1
+3333551	INSDC	JAIZST010000002.1	225331	226212	-	MCA8446936.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU10368	GCA_020421175.1
+3333551	INSDC	JAIXAH010000003.1	1160147	1161028	+	MCB4348794.1	nitrogenase iron protein	Burkholderia vietnamiensis	FDAARGOS_1517	GCA_020509375.1
+3333551	INSDC	JAKEZW010000003.1	554931	555812	+	MCO1351162.1	nitrogenase iron protein	Burkholderia vietnamiensis	2017Y70983955	GCA_023896095.1
+3333551	INSDC	JAKFAE010000005.1	619675	620556	-	MCO1433635.1	nitrogenase iron protein	Burkholderia vietnamiensis	2011Ycf928II	GCA_023896135.1
+3333551	INSDC	PVHK01000094.1	21602	22483	-	PRH41833.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU3578	GCA_002981575.1
+3333551	INSDC	CP053611.1	272782	273663	+	QMI48918.1	nitrogenase iron protein	Burkholderia sp. MBR-1	MBR-1	GCA_013822785.1
+3333551	INSDC	CP072321.1	507490	508371	-	QTK88865.1	nitrogenase iron protein	Burkholderia vietnamiensis	AU2011	GCA_017742755.1
+3333551	INSDC	RQJA01000005.1	128528	129409	+	RQM61009.1	nitrogenase iron protein	Burkholderia vietnamiensis	BE10	GCA_003849655.1
+3333551	INSDC	FMVZ01000008.1	250141	251022	+	SCZ31361.1	Mo-nitrogenase iron protein subunit NifH	Burkholderia vietnamiensis	WPB	GCA_900102765.1
+3333551	INSDC	FPJR01000008.1	249950	250831	+	SFX81956.1	Mo-nitrogenase iron protein subunit NifH	Burkholderia vietnamiensis	WP40	GCA_900119435.1
+3333551	INSDC	PPPQ01000070.1	24971	25852	-	TPQ46028.1	nitrogenase iron protein	Burkholderia ubonensis	SM62A	GCA_006483485.1
+3333551	INSDC	CP083656.1	198268	199149	+	UBI28751.1	nitrogenase iron protein	Burkholderia vietnamiensis	FDAARGOS_1488	GCA_020099355.1
+3333551	INSDC	CP090787.1	621267	622148	-	UQN48284.1	nitrogenase iron protein	Burkholderia vietnamiensis	2003Ycf867	GCA_023373725.1

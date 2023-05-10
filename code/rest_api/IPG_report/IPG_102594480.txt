@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+102594480	RefSeq	NZ_FAOZ01000004.1	373998	374870	+	WP_091273463.1	nitrogenase iron protein	Parafrankia irregularis	DSM 45899	GCF_001536285.1
+102594480	RefSeq	NZ_JADBID010000001.1	5892184	5893056	-	WP_091273463.1	nitrogenase iron protein	Frankia sp. CH37	CH37	GCF_014895535.1
+102594480	INSDC	FAOZ01000004.1	373998	374870	+	CUU55235.1	nitrogenase iron protein NifH	Parafrankia irregularis	DSM 45899	GCA_001536285.1
+102594480	INSDC	JADBID010000001.1	5892184	5893056	-	MBE3203893.1	nitrogenase iron protein	Frankia sp. CH37	CH37	GCA_014895535.1

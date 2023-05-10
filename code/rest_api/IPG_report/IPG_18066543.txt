@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+18066543	INSDC	JQ231108.1	1	876	+	AFD97520.1	NifH	Leptospirillum ferrodiazotrophum	C5	
+18066543	INSDC	GG693862.1	89262	90137	+	EES53484.1	Nitrogenase iron protein (NifH)	Leptospirillum ferrodiazotrophum		
+18066543	INSDC	JAMDCT010000018.1	2862	3737	-	MCL5953256.1	nitrogenase iron protein	Nitrospirota bacterium		GCA_023488805.1

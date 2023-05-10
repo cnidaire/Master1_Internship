@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+627831982	RefSeq	NZ_JAQXUV010000007.1	52183	52935	-	WP_277636694.1	nitrogenase iron protein NifH	Sharpea porci		GCF_029224565.1

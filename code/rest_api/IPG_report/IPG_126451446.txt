@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+126451446	INSDC	FOAY01000016.1	71685	72566	-	SEL68454.1	Mo-nitrogenase iron protein subunit NifH	Kosakonia sacchari	SP1	GCA_900109485.1

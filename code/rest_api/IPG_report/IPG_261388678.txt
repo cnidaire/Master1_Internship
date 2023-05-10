@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+261388678	INSDC	QYQQ01000019.1	1	568	+	TSA39686.1	nitrogen fixation protein NifH	archaeon		GCA_007280995.1

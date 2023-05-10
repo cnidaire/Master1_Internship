@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+240471132	RefSeq	NZ_SOEB01000001.1	252708	253583	-	WP_134076875.1	nitrogenase iron protein	Rhodovulum visakhapatnamense	JA181	GCF_004365965.1
+240471132	INSDC	SOEB01000001.1	252708	253583	-	TDX33811.1	Mo-nitrogenase iron protein subunit NifH /V-nitrogenase iron protein subunit VnfH	Rhodovulum visakhapatnamense	JA181	GCA_004365965.1

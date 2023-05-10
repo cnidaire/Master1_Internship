@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+567999551	INSDC	JAKSPK010000029.1	3681	4442	+	MCQ2408331.1	nitrogenase iron protein NifH	Oscillospiraceae bacterium		GCA_024404875.1

@@ -1,0 +1,8 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+110735072	RefSeq	NZ_CABMOF010000002.1	50808	51581	-	WP_066519484.1	nitrogenase iron protein NifH	Christensenella minuta		GCF_902388075.1
+110735072	RefSeq	NZ_CP029256.1	2197636	2198409	-	WP_066519484.1	nitrogenase iron protein NifH	Christensenella minuta	DSM 22607	GCF_003628755.1
+110735072	RefSeq	NZ_KQ965520.1	32623	33396	-	WP_066519484.1	nitrogenase iron protein NifH	Christensenella minuta	DSM 22607	GCF_001571425.1
+110735072	RefSeq	NZ_LWGY01000002.1	51130	51903	-	WP_066519484.1	nitrogenase iron protein NifH	Christensenella minuta	DSM 22607	GCF_001652705.1
+110735072	RefSeq	NZ_MAIR01000002.1	50808	51581	-	WP_066519484.1	nitrogenase iron protein NifH	Christensenella minuta	DSM 22607	GCF_001678855.1
+110735072	INSDC	CP029256.1	2197636	2198409	-	AYH40903.1	nitrogenase iron protein	Christensenella minuta	DSM 22607	GCA_003628755.1
+110735072	INSDC	LWGY01000002.1	51130	51903	-	OAQ42482.1	nitrogenase iron protein	Christensenella minuta	DSM 22607	GCA_001652705.1

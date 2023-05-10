@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+208772816	INSDC	DPON01000129.1	1707	2468	-	HCW80406.1	nitrogen fixation protein NifH	Oscillospiraceae bacterium		GCA_003539715.1

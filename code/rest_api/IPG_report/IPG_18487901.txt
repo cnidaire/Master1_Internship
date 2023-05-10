@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+18487901	INSDC	GQ443449.1	1	324	+	ACV60613.1	NifH	Anabaena cylindrica UTAD_A212	UTAD_A212	

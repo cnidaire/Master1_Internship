@@ -1,0 +1,8 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+187786899	RefSeq	NZ_CABMEW010000001.1	152026	152799	+	WP_109215792.1	nitrogenase iron protein NifH	Eubacterium ramulus		GCF_902385375.1
+187786899	RefSeq	NZ_JAQDGV010000012.1	36273	37046	+	WP_109215792.1	nitrogenase iron protein NifH	Eubacterium ramulus	AF99-11	GCF_027663925.1
+187786899	RefSeq	NZ_JAQEGP010000014.1	9154	9927	+	WP_109215792.1	nitrogenase iron protein NifH	Eubacterium ramulus	AM67-19LNA	GCF_027667005.1
+187786899	RefSeq	NZ_JRFU01000103.1	11625	12398	+	WP_109215792.1	nitrogenase iron protein NifH	Eubacterium ramulus	21	GCF_003122485.1
+187786899	RefSeq	NZ_QULX01000001.1	152026	152799	+	WP_109215792.1	nitrogenase iron protein NifH	Roseburia sp. OM02-15	OM02-15	GCF_003481835.1
+187786899	INSDC	JRFU01000103.1	11625	12398	+	PWE86528.1	nitrogenase iron protein	Eubacterium ramulus	21	GCA_003122485.1
+187786899	INSDC	QULX01000001.1	152026	152799	+	RHV72161.1	nitrogenase iron protein	Roseburia sp. OM02-15	OM02-15	GCA_003481835.1

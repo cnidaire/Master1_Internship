@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+123434378	INSDC	FNCP01000002.1	76811	77662	+	SDG29715.1	nitrogenase iron protein NifH	Desulfosporosinus hippei DSM 8344	DSM 8344	GCA_900100785.1

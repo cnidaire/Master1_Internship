@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+104800468	RefSeq	NZ_BBQT01000008.1	95099	95857	+	WP_061214070.1	nitrogenase iron protein NifH	Syntrophomonas wolfei subsp. methylbutyratica	JCM 14075	GCF_001570625.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+104614542	RefSeq	NZ_LRVM01000009.1	47580	48329	+	WP_066089419.1	nitrogenase iron protein NifH	Anaerotignum neopropionicum	DSM-3847	GCF_001571775.1
+104614542	INSDC	LRVM01000009.1	47580	48329	+	KXL52227.1	nitrogenase iron protein 1	Anaerotignum neopropionicum	DSM-3847	GCA_001571775.1

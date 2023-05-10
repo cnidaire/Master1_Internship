@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+126172256	RefSeq	NZ_FOAT01000006.1	12121	12879	+	WP_074832385.1	nitrogenase iron protein NifH	Ruminococcus albus	KH2T6	GCF_900109655.1
+126172256	INSDC	FOAT01000006.1	12121	12879	+	SEK80621.1	nitrogenase iron protein NifH	Ruminococcus albus	KH2T6	GCA_900109655.1

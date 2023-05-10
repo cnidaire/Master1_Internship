@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+26334247	INSDC	CAFK01000249.1	316	765	-	CCE09468.1	fragment of nitrogenase iron protein, nifH; dinitrogenase reductase (part 1)	Bradyrhizobium sp. STM 3843	STM 3843	GCA_000239815.2

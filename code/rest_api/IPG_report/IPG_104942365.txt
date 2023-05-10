@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+104942365	INSDC	LSRU01000206.1	1061	1858	+	KXS40016.1	nitrogenase iron protein NifH	Methanohalophilus sp. T328-1		GCA_001577555.1
+104942365	INSDC	MAFX01000024.1	3968	4765	+	OBZ35054.1	nitrogenase iron protein	Methanohalophilus sp. DAL1		GCA_001683555.1
+104942365	INSDC	RWIH01000063.1	2844	3641	-	RSD33945.1	nitrogenase iron protein NifH	Methanohalophilus sp.		GCA_003940405.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+5722228	RefSeq	NC_009922.1	362992	363738	+	WP_012158187.1	nitrogenase iron protein NifH	Alkaliphilus oremlandii OhILAs	OhILAs	GCF_000018325.1
+5722228	INSDC	CP000853.1	362992	363738	+	ABW17872.1	Nitrogenase	Alkaliphilus oremlandii OhILAs	OhILAs	GCA_000018325.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+15542732	INSDC	EU938522.1	1	362	+	ACH73169.1	NifH	Burkholderia sp. gx97	gx97	

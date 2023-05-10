@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+18230976	RefSeq	NC_014410.1	1858129	1858947	-	WP_013298321.1	nitrogenase iron protein	Thermoanaerobacterium thermosaccharolyticum DSM 571	DSM 571	GCF_000145615.1
+18230976	RefSeq	NZ_JAMKCR010000002.1	19050	19868	-	WP_013298321.1	nitrogenase iron protein	Thermoanaerobacterium thermosaccharolyticum	LL1244	GCF_024171655.1
+18230976	INSDC	CP002171.1	1858129	1858947	-	ADL69355.1	nitrogenase iron protein	Thermoanaerobacterium thermosaccharolyticum DSM 571	DSM 571	GCA_000145615.1
+18230976	INSDC	JAMKCR010000002.1	19050	19868	-	MCP2238970.1	nitrogenase iron protein NifH	Thermoanaerobacterium thermosaccharolyticum	LL1244	GCA_024171655.1

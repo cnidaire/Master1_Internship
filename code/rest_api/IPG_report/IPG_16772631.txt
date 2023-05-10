@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+16772631	INSDC	FJ773236.1	1	338	+	ACN88147.1	NifH	Nodosilinea nodulosa UTEX B 2910	UTEX B 2910	

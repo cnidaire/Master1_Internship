@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+4179824	INSDC	AY768419.1	1	358	+	AAX82508.1	NifH	Anabaena sp. PCC 9109	PCC 9109	

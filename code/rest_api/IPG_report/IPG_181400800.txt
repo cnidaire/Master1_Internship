@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+181400800	INSDC	MG839603.1	1	337	+	AVK51770.1	NifH	Cupriavidus sp.	CI040	

@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+271356377	RefSeq	NZ_FOSL01000033.1	13969	14862	+	WP_149763765.1	nitrogenase iron protein	Mesorhizobium albiziae	DSM 21822	GCF_900114255.1
+271356377	INSDC	BSPE01000053.1	25918	26811	+	GLS33096.1	nitrogenase iron protein	Mesorhizobium albiziae	NBRC 107164	
+271356377	INSDC	FOSL01000033.1	13969	14862	+	SFL10910.1	Mo-nitrogenase iron protein subunit NifH	Mesorhizobium albiziae	DSM 21822	GCA_900114255.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+16450044	INSDC	FJ619304.1	1	556	+	ACM66897.1	NifH protein	Rhizobium gallicum	CCNWSX535	

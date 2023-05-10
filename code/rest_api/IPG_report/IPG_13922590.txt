@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+13922590	INSDC	EU200977.1	1	420	+	ABW82532.1	NifH	Shinella kummerowiae	CCBAU 25048	

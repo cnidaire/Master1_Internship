@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+168419787	RefSeq	NZ_FZLO01000001.1	128204	128959	+	WP_099203829.1	nitrogenase iron protein NifH	Scatolibacter rhodanostii	Marseille-P3890	GCF_900197595.1

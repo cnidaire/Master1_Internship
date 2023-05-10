@@ -1,0 +1,9 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+130290313	RefSeq	NZ_CP017881.1	534467	535264	-	WP_072360093.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanohalophilus portucalensis	FDF-1T	GCF_002761295.1
+130290313	RefSeq	NZ_FXBN01000003.1	101666	102463	-	WP_072360093.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanohalophilus portucalensis FDF-1	FDF-1	GCF_900177455.1
+130290313	RefSeq	NZ_JWTK01000003.1	212121	212918	+	WP_072360093.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanohalophilus portucalensis FDF-1	FDF-1	GCF_001888095.1
+130290313	RefSeq	NZ_RJJH01000010.1	101350	102147	-	WP_072360093.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanohalophilus portucalensis FDF-1	DSM 7471	GCF_003722115.1
+130290313	INSDC	CP017881.1	534467	535264	-	ATU07810.1	nitrogenase iron protein	Methanohalophilus portucalensis	FDF-1T	GCA_002761295.1
+130290313	INSDC	JWTK01000003.1	212121	212918	+	OJH49370.1	Mo-nitrogenase iron protein subunit NifH	Methanohalophilus portucalensis FDF-1	FDF-1	GCA_001888095.1
+130290313	INSDC	RJJH01000010.1	101350	102147	-	RNI11521.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanohalophilus portucalensis FDF-1	DSM 7471	GCA_003722115.1
+130290313	INSDC	FXBN01000003.1	101666	102463	-	SMH41436.1	Mo-nitrogenase iron protein subunit NifH	Methanohalophilus portucalensis FDF-1	FDF-1	GCA_900177455.1

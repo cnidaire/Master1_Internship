@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+104283184	RefSeq	NZ_CP014265.1	1160936	1161739	-	WP_067146837.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanobrevibacter olleyae	YLM1	GCF_001563245.1
+104283184	RefSeq	NZ_FOTL01000008.1	13532	14335	+	WP_067146837.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanobrevibacter olleyae	DSM 16632	GCF_900114585.1
+104283184	INSDC	CP014265.1	1160936	1161739	-	AMK15523.1	4Fe-4S iron sulfur cluster binding protein NifH/frxC family	Methanobrevibacter olleyae	YLM1	GCA_001563245.1
+104283184	INSDC	FOTL01000008.1	13532	14335	+	SFL37250.1	nitrogenase iron protein NifH	Methanobrevibacter olleyae	DSM 16632	GCA_900114585.1

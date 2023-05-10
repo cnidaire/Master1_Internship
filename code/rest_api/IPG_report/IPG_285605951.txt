@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+285605951	RefSeq	NZ_JAFBEP010000007.1	26252	27106	+	WP_158739975.1	nitrogenase iron protein	Defluviitalea raffinosedens	DSM 28090	GCF_016908775.1
+285605951	RefSeq	NZ_WSLF01000004.1	52180	53034	+	WP_158739975.1	nitrogenase iron protein	Defluviitalea raffinosedens	249c-K6	GCF_009765695.1
+285605951	INSDC	DULH01000004.1	99299	100153	+	HHW66522.1	nitrogenase iron protein	Epulopiscium sp.		GCA_012840495.1
+285605951	INSDC	WSLF01000004.1	52180	53034	+	KAE9634888.1	nitrogenase iron protein	Defluviitalea raffinosedens	249c-K6	GCA_009765695.1
+285605951	INSDC	JAFBEP010000007.1	26252	27106	+	MBM7685676.1	nitrogenase iron protein NifH	Defluviitalea raffinosedens	DSM 28090	GCA_016908775.1
+285605951	INSDC	JAIHAS010000015.1	16310	17164	-	MBZ4667619.1	nitrogenase iron protein	Defluviitaleaceae bacterium		GCA_020054915.1

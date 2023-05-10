@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+127495807	RefSeq	NZ_FOOR01000026.1	20665	21543	-	WP_091148925.1	nitrogenase iron protein	Novosphingobium sp. CF614	CF614	GCF_900113255.1
+127495807	INSDC	FOOR01000026.1	20665	21543	-	SFG43605.1	Mo-nitrogenase iron protein subunit NifH	Novosphingobium sp. CF614	CF614	GCA_900113255.1

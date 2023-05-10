@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+168480689	RefSeq	NZ_PDYF01000042.1	19750	20625	+	WP_099392595.1	nitrogenase iron protein NifH	Pseudobutyrivibrio ruminis	JK626	GCF_002735565.1
+168480689	INSDC	PDYF01000042.1	19750	20625	+	PHU34037.1	nitrogenase iron protein	Pseudobutyrivibrio ruminis	JK626	GCA_002735565.1

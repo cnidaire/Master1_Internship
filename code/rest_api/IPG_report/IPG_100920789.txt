@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+100920789	INSDC	LN997848.1	3935600	3936487	+	CUW40999.1	nitrogenase iron protein, nifH; dinitrogenase reductase	Magnetospirillum sp. XM-1		GCA_001511835.1

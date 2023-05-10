@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+220918067	INSDC	VOGB01000004.1	338807	339556	+	MQM72553.1	AAA family ATPase	Candidatus Pseudoramibacter fermentans		GCA_009493725.1
+220918067	INSDC	QOUT01000013.1	33910	34659	-	RRF91874.1	nitrogen fixation protein NifH	Eubacteriaceae bacterium		GCA_003862185.1

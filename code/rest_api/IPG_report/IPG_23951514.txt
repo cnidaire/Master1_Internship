@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+23951514	RefSeq	NC_015737.1	1678283	1679053	+	WP_013977483.1	nitrogenase iron protein NifH	Clostridium sp. SY8519	SY8519	GCF_000270305.1
+23951514	INSDC	AP012212.1	1678283	1679053	+	BAK47519.1	hypothetical protein	Clostridium sp. SY8519	SY8519	GCA_000270305.1

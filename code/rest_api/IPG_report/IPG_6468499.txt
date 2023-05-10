@@ -1,0 +1,9 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+6468499	INSDC	DQ979867.1	1	571	+	ABL14187.1	NifH	Burkholderia vietnamiensis	LMG 16232	
+6468499	INSDC	DQ979868.1	1	571	+	ABL14188.1	NifH	Burkholderia vietnamiensis	JC2.10	
+6468499	INSDC	DQ979869.1	1	571	+	ABL14189.1	NifH	Burkholderia vietnamiensis	AU1160	
+6468499	INSDC	DQ979870.1	1	571	+	ABL14190.1	NifH	Burkholderia vietnamiensis	AU0749	
+6468499	INSDC	DQ979871.1	1	571	+	ABL14191.1	NifH	Burkholderia vietnamiensis	AU0829	
+6468499	INSDC	DQ979872.1	1	571	+	ABL14192.1	NifH	Burkholderia vietnamiensis	AU0913	
+6468499	INSDC	EF158392.1	1	571	+	ABO48370.1	dinitrogenase reductase	Burkholderia vietnamiensis	JC 4.18	
+6468499	INSDC	EF158393.1	1	571	+	ABO48371.1	dinitrogenase reductase	Burkholderia vietnamiensis	TVV75	

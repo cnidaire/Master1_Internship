@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+139741711	RefSeq	NZ_CP021904.1	877145	877969	+	WP_079557653.1	nitrogenase iron protein	Alkalitalea saponilacus	SC/BZ-SP2	GCF_002201795.1
+139741711	RefSeq	NZ_FUYV01000010.1	71066	71890	-	WP_079557653.1	nitrogenase iron protein	Alkalitalea saponilacus	DSM 24412	GCF_900168165.1
+139741711	INSDC	CP021904.1	877145	877969	+	ASB48236.1	nitrogenase iron protein	Alkalitalea saponilacus	SC/BZ-SP2	GCA_002201795.1
+139741711	INSDC	FUYV01000010.1	71066	71890	-	SKC10333.1	nitrogenase iron protein NifH	Alkalitalea saponilacus	DSM 24412	GCA_900168165.1

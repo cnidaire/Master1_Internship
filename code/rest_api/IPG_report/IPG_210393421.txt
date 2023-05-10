@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+210393421	RefSeq	NZ_LXPC01000004.1	198021	199031	-	WP_119774575.1	nitrogen fixation protein NifH	Dehalobacter sp. MCB1	MCB1	GCF_003590275.1
+210393421	RefSeq	NZ_PNXX01000002.1	613274	614284	-	WP_119774575.1	nitrogen fixation protein NifH	Dehalobacter sp. 14DCB1	14DCB1	GCF_004343635.1
+210393421	RefSeq	NZ_POSF01000014.1	379539	380549	-	WP_119774575.1	nitrogen fixation protein NifH	Dehalobacter sp. 12DCB1	12DCB1	GCF_004343605.1
+210393421	INSDC	LXPC01000004.1	198021	199031	-	RJE48899.1	nitrogen fixation protein NifH	Dehalobacter sp. MCB1	MCB1	GCA_003590275.1
+210393421	INSDC	PNXX01000002.1	613274	614284	-	TCX52062.1	nitrogen fixation protein NifH	Dehalobacter sp. 14DCB1	14DCB1	GCA_004343635.1
+210393421	INSDC	POSF01000014.1	379539	380549	-	TCX53135.1	nitrogen fixation protein NifH	Dehalobacter sp. 12DCB1	12DCB1	GCA_004343605.1

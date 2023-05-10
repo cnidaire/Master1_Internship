@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+566310402	INSDC	JACGUH010000413.1	1	386	-	MCP8317460.1	nitrogen fixation protein NifH	archaeon		GCA_024256305.1

@@ -1,0 +1,9 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+109359436	RefSeq	NZ_CP015285.1	642238	643134	-	WP_063634031.1	nitrogenase iron protein	Azospirillum humicireducens	SgZ-5	GCF_001639105.2
+109359436	RefSeq	NZ_JAGINN010000001.1	14286	15182	-	WP_063634031.1	nitrogenase iron protein	Azospirillum melinis	TMCY 0552	GCF_017876055.1
+109359436	RefSeq	NZ_LGQW01000015.1	6224448	6225344	+	WP_063634031.1	nitrogenase iron protein	Azospirillum sp. TSH64	TSH64	GCF_003116035.1
+109359436	RefSeq	NZ_WHOS01000016.1	114043	114939	+	WP_063634031.1	nitrogenase iron protein	Azospirillum melinis	TMCY0552	GCF_013340935.1
+109359436	INSDC	CP015285.1	642238	643134	-	ANC90937.1	nitrogenase iron protein	Azospirillum humicireducens	SgZ-5	GCA_001639105.2
+109359436	INSDC	JAGINN010000001.1	14286	15182	-	MBP2303646.1	nitrogenase iron protein NifH	Azospirillum melinis	TMCY 0552	GCA_017876055.1
+109359436	INSDC	WHOS01000016.1	114043	114939	+	NUB00526.1	nitrogenase iron protein	Azospirillum melinis	TMCY0552	GCA_013340935.1
+109359436	INSDC	LGQW01000015.1	6224448	6225344	+	PWC78253.1	nitrogenase reductase	Azospirillum sp. TSH64	TSH64	GCA_003116035.1

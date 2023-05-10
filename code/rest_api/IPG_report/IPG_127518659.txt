@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+127518659	RefSeq	NZ_FOYZ01000001.1	283953	284789	-	WP_242940423.1	nitrogenase iron protein NifH	Anaeromicropila populeti	743A	GCF_900112775.1
+127518659	INSDC	FOYZ01000001.1	283953	284789	-	SFR57540.1	Mo-nitrogenase iron protein subunit NifH	Anaeromicropila populeti	743A	GCA_900112775.1

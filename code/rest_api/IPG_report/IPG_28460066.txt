@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+28460066	RefSeq	NZ_CP010978.1	305199	305954	+	WP_007961216.1	nitrogenase iron protein NifH	Pelosinus fermentans JBW45	JBW45	GCF_000271665.2
+28460066	INSDC	CP010978.1	305199	305954	+	AJQ25584.1	Nitrogenase	Pelosinus fermentans JBW45	JBW45	GCA_000271665.2

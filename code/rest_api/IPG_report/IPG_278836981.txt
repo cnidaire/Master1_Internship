@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+278836981	RefSeq	NZ_JACIGA010000016.1	28339	29229	-	WP_153442631.1	nitrogenase iron protein	Sinorhizobium terangae	SEMIA 6460	GCF_014197705.1
+278836981	RefSeq	NZ_WITC01000126.1	27951	28841	-	WP_153442631.1	nitrogenase iron protein	Sinorhizobium terangae	USDA4894	GCF_009601505.1
+278836981	INSDC	JACIGA010000016.1	28339	29229	-	MBB4188707.1	nitrogenase iron protein NifH	Sinorhizobium terangae	SEMIA 6460	GCA_014197705.1
+278836981	INSDC	WITC01000126.1	27951	28841	-	MQX18867.1	nitrogenase iron protein	Sinorhizobium terangae	USDA4894	GCA_009601505.1

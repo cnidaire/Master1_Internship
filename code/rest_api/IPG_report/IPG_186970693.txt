@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+186970693	INSDC	QEFQ01000001.1	432230	433255	-	PVV85122.1	nitrogen fixation protein NifH	Dehalogenimonas alkenigignens	BRE15M	GCA_003095415.1

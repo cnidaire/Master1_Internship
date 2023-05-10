@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+122206997	INSDC	DMNC01000002.1	22083	23090	+	HAM62157.1	nitrogen fixation protein NifH	Erysipelotrichaceae bacterium		GCA_003452875.1
+122206997	INSDC	DOUE01000025.1	17785	18792	-	HBZ41728.1	nitrogen fixation protein NifH	Erysipelotrichaceae bacterium		GCA_003520745.1
+122206997	INSDC	MGWF01000049.1	72136	73143	+	OGS53448.1	nitrogen fixation protein NifH	Firmicutes bacterium GWF2_51_9		GCA_001800865.1
+122206997	INSDC	MGWE01000007.1	3359	4366	-	OGS59166.1	nitrogen fixation protein NifH	Firmicutes bacterium GWE2_51_13		GCA_001800835.1

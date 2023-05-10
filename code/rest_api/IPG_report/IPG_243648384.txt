@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+243648384	RefSeq	NZ_SIJK02000001.1	78084	79106	+	WP_135475549.1	nitrogen fixation protein NifH	Candidatus Chloroploca sp. M50-1	M50-1	GCF_004762035.2
+243648384	INSDC	SIJK02000001.1	78084	79106	+	MBP1464149.1	hypothetical protein	Candidatus Chloroploca sp. M50-1	M50-1	GCA_004762035.2

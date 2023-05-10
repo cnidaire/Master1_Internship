@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+204555298	RefSeq	NZ_QRNF01000003.1	66924	67754	+	WP_119238969.1	nitrogenase iron protein NifH	Ruminococcus sp. AF46-10NS	AF46-10NS	GCF_003474435.1
+204555298	INSDC	QRNF01000003.1	66924	67754	+	RHK25884.1	nitrogen fixation protein NifH	Ruminococcus sp. AF46-10NS	AF46-10NS	GCA_003474435.1

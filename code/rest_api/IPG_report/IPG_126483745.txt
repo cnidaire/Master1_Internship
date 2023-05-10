@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+126483745	RefSeq	NZ_FODH01000025.1	1	685	-	WP_090834747.1	nitrogenase iron protein NifH	Paenibacillus sophorae	CGMCC 1.10238	GCF_900110315.1
+126483745	INSDC	FODH01000025.1	1	685	-	SEP15460.1	nitrogenase iron protein NifH	Paenibacillus sophorae	CGMCC 1.10238	GCA_900110315.1

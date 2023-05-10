@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+173317869	RefSeq	NZ_FOUQ01000005.1	292501	293400	+	WP_101291304.1	nitrogenase iron protein	Pleomorphomonas diazotrophica	R5-392	GCF_900114935.1
+173317869	RefSeq	NZ_PJNW01000023.1	44623	45522	+	WP_101291304.1	nitrogenase iron protein	Pleomorphomonas diazotrophica	R5-392	GCF_002844595.1
+173317869	INSDC	PJNW01000023.1	44623	45522	+	PKR87276.1	nitrogenase iron protein	Pleomorphomonas diazotrophica	R5-392	GCA_002844595.1
+173317869	INSDC	FOUQ01000005.1	292501	293400	+	SFM76125.1	Mo-nitrogenase iron protein subunit NifH	Pleomorphomonas diazotrophica	R5-392	GCA_900114935.1

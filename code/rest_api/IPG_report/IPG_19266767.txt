@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+19266767	RefSeq	NC_014664.1	3867806	3868678	+	WP_013421092.1	nitrogenase iron protein NifH	Rhodomicrobium vannielii ATCC 17100	ATCC 17100	GCF_000166055.1
+19266767	INSDC	CP002292.1	3867806	3868678	+	ADP72734.1	Nitrogenase	Rhodomicrobium vannielii ATCC 17100	ATCC 17100	GCA_000166055.1

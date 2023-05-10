@@ -1,0 +1,9 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+45607494	RefSeq	NZ_CP006933.1	212141	212971	-	WP_023991286.1	nitrogenase iron protein	Methanobacterium formicicum	BRM9	GCF_000762265.1
+45607494	RefSeq	NZ_JARRCX010000001.1	635884	636714	+	WP_023991286.1	nitrogenase iron protein	Methanobacterium formicicum	MCM B-604	GCF_029601605.1
+45607494	RefSeq	NZ_JARVXG010000059.1	95012	95842	+	WP_023991286.1	nitrogenase iron protein	Methanobacterium formicicum	MF	GCF_029848115.1
+45607494	RefSeq	NZ_LN734822.1	170602	171432	-	WP_023991286.1	nitrogenase iron protein	Methanobacterium formicicum		GCF_001458655.1
+45607494	INSDC	CP006933.1	212141	212971	-	AIS31027.1	nitrogenase iron protein NifH	Methanobacterium formicicum	BRM9	GCA_000762265.1
+45607494	INSDC	HG425166.1	134248	135078	-	CDG64249.1	Nitrogenase iron protein 1	Methanobacterium sp. MB1		GCA_000499765.1
+45607494	INSDC	LN515531.1	1515445	1516275	-	CEA13847.1	Nitrogenase iron protein 1	Methanobacterium formicicum		GCA_000953115.1
+45607494	INSDC	LN734822.1	170602	171432	-	CEL23819.1	Nitrogenase iron protein 1	Methanobacterium formicicum		GCA_001458655.1

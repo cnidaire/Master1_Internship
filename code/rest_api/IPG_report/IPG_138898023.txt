@@ -1,0 +1,10 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+138898023	RefSeq	NZ_BDLQ01000025.1	36387	37208	-	WP_078665332.1	nitrogenase iron protein	Carboxydocella sp. ULO1	ULO1	GCF_002049255.1
+138898023	RefSeq	NZ_BDLR01000102.1	7965	8786	-	WP_078665332.1	nitrogenase iron protein	Carboxydocella sp. JDF658	JDF658	GCF_002049395.1
+138898023	RefSeq	NZ_CP028491.1	2263041	2263862	-	WP_078665332.1	nitrogenase iron protein	Carboxydocella thermautotrophica	019	GCF_003047205.1
+138898023	RefSeq	NZ_FUXM01000011.1	30115	30936	-	WP_078665332.1	nitrogenase iron protein	Carboxydocella sporoproducens DSM 16521	DSM 16521	GCF_900167165.1
+138898023	INSDC	CP028491.1	2263041	2263862	-	AVX21438.1	Mo-nitrogenase iron protein subunit NifH	Carboxydocella thermautotrophica	019	GCA_003047205.1
+138898023	INSDC	CP028514.1	2333475	2334296	-	AVX31926.1	Mo-nitrogenase iron protein subunit NifH	Carboxydocella thermautotrophica	41	GCA_003054495.1
+138898023	INSDC	BDLQ01000025.1	36387	37208	-	GAW28515.1	nitrogenase iron protein	Carboxydocella sp. ULO1	ULO1	GCA_002049255.1
+138898023	INSDC	BDLR01000102.1	7965	8786	-	GAW32575.1	nitrogenase iron protein	Carboxydocella sp. JDF658	JDF658	GCA_002049395.1
+138898023	INSDC	FUXM01000011.1	30115	30936	-	SJZ90205.1	nitrogenase iron protein NifH	Carboxydocella sporoproducens DSM 16521	DSM 16521	GCA_900167165.1

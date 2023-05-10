@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+130496698	RefSeq	NZ_FRDH01000004.1	126782	127639	+	WP_072701440.1	nitrogenase iron protein	Butyrivibrio hungatei DSM 14810	DSM 14810	GCF_900143205.1
+130496698	INSDC	JAIKYV010000002.1	8895	9752	+	MCR4756191.1	nitrogenase iron protein	Butyrivibrio sp.		GCA_024682805.1
+130496698	INSDC	FRDH01000004.1	126782	127639	+	SHN53143.1	nitrogenase iron protein NifH	Butyrivibrio hungatei DSM 14810	DSM 14810	GCA_900143205.1

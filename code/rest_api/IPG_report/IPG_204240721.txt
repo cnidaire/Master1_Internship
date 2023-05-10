@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+204240721	RefSeq	NZ_QSBX01000012.1	68547	69302	+	WP_118479213.1	nitrogenase iron protein NifH	Anaerotruncus sp. AF02-27	AF02-27	GCF_003465835.1
+204240721	INSDC	BQNU01000001.1	991467	992222	+	GKH49947.1	nitrogenase iron protein	Eubacteriales bacterium	CE91-St46	GCA_022835175.1
+204240721	INSDC	JAMOKN010000026.1	41903	42658	-	MCM0707229.1	nitrogenase iron protein NifH	Faecalicatena sp. BF-R-105	BF-R-105	GCA_023656725.1
+204240721	INSDC	QSBX01000012.1	68547	69302	+	RGX55078.1	nitrogenase iron protein	Anaerotruncus sp. AF02-27	AF02-27	GCA_003465835.1

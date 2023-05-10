@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+379859702	RefSeq	NZ_AP024109.1	1528539	1529432	+	WP_201413706.1	nitrogenase iron protein	Mesorhizobium sp. J8	J8	GCF_016591715.1
+379859702	INSDC	AP024109.1	1528539	1529432	+	BCM17615.1	nitrogenase iron protein; NifH	Mesorhizobium sp. J8	J8	GCA_016591715.1

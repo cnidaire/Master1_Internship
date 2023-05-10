@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+463008269	INSDC	JAHIMK010000095.1	915	1913	+	MBU4352865.1	nitrogen fixation protein NifH	Nanoarchaeota archaeon		GCA_018896675.1

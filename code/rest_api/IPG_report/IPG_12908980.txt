@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+12908980	INSDC	CP027526.1	1957718	1958599	+	AVM74360.1	Nitrogenase iron protein	Magnetospirillum gryphiswaldense MSR-1	MSR-1	GCA_002995515.1
+12908980	INSDC	CP027527.1	1957718	1958599	+	AVM78263.1	Nitrogenase iron protein	Magnetospirillum gryphiswaldense	R3/S1	GCA_002995535.1
+12908980	INSDC	CU459003.1	2241803	2242684	+	CAM76158.1	NifH/frxC	Magnetospirillum gryphiswaldense MSR-1	MSR-1	
+12908980	INSDC	HG794546.1	381565	382446	-	CDK97560.1	nitrogenase iron protein, nifH; dinitrogenase reductase	Magnetospirillum gryphiswaldense MSR-1 v2	MSR-1	GCA_000513295.1

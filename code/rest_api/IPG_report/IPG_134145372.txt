@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+134145372	INSDC	MNSD01000196.1	5139	5894	-	OLA10659.1	nitrogen fixation protein NifH	Coprococcus sp. 43_8		GCA_001916295.1

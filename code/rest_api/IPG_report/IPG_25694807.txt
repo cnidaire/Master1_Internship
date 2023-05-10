@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+25694807	RefSeq	NZ_CM001240.1	508938	509810	+	WP_009167878.1	nitrogenase iron protein NifH	Clostridium sp. DL-VIII	DL-VIII	GCF_000230835.1
+25694807	INSDC	CM001240.1	508938	509810	+	EHI97196.1	Nitrogenase	Clostridium sp. DL-VIII	DL-VIII	GCA_000230835.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+105983718	INSDC	KR137614.1	1	325	+	AMQ98977.1	NifH	Nostoc sp. CENA356	CENA356	

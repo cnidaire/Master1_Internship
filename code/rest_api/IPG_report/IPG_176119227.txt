@@ -1,0 +1,14 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+176119227	RefSeq	NZ_JAKKCI010000003.1	470120	470998	-	WP_102962302.1	nitrogenase iron protein	Vibrio sp. A1-b2	A1-b2	GCF_021726015.1
+176119227	RefSeq	NZ_JAPWHJ010000005.1	48908	49786	-	WP_102962302.1	nitrogenase iron protein	Vibrio diazotrophicus	G21612-S1	GCF_027214155.1
+176119227	RefSeq	NZ_POSJ01000001.1	74934	75812	-	WP_102962302.1	nitrogenase iron protein	Vibrio diazotrophicus	60.18M	GCF_002892905.1
+176119227	RefSeq	NZ_POSK01000001.1	129068	129946	+	WP_102962302.1	nitrogenase iron protein	Vibrio diazotrophicus	60.27F	GCF_002892945.1
+176119227	RefSeq	NZ_POSL01000001.1	324645	325523	+	WP_102962302.1	nitrogenase iron protein	Vibrio diazotrophicus	65.7M	GCF_002892925.1
+176119227	RefSeq	NZ_POSM01000001.1	205171	206049	+	WP_102962302.1	nitrogenase iron protein	Vibrio diazotrophicus	65.10M	GCF_002892965.1
+176119227	RefSeq	NZ_QLTR01000001.1	193569	194447	-	WP_102962302.1	nitrogenase iron protein	Vibrio diazotrophicus	99A	GCF_003269215.1
+176119227	INSDC	JAKKCI010000003.1	470120	470998	-	MCF7362355.1	nitrogenase iron protein	Vibrio sp. A1-b2	A1-b2	GCA_021726015.1
+176119227	INSDC	POSJ01000001.1	74934	75812	-	PNH83068.1	nitrogenase iron protein	Vibrio diazotrophicus	60.18M	GCA_002892905.1
+176119227	INSDC	POSL01000001.1	324645	325523	+	PNH98711.1	nitrogenase iron protein	Vibrio diazotrophicus	65.7M	GCA_002892925.1
+176119227	INSDC	POSM01000001.1	205171	206049	+	PNI03634.1	nitrogenase iron protein	Vibrio diazotrophicus	65.10M	GCA_002892965.1
+176119227	INSDC	POSK01000001.1	129068	129946	+	PNI06530.1	nitrogenase iron protein	Vibrio diazotrophicus	60.27F	GCA_002892945.1
+176119227	INSDC	QLTR01000001.1	193569	194447	-	RAS69616.1	nitrogenase iron protein NifH	Vibrio diazotrophicus	99A	GCA_003269215.1

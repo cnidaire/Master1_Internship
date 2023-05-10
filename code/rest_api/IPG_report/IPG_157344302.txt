@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+157344302	INSDC	NQJJ01000295.1	1	438	-	OYV22217.1	nifH	Methylococcaceae bacterium NSO1		GCA_002256735.1

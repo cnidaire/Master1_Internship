@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+23635890	INSDC	HQ684058.1	1	381	-	AEH05532.1	NifH	Cupriavidus necator	UFLA02-58	

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+251834176	INSDC	VBMK01000001.1	1	360	-	TLZ68870.1	nitrogen fixation protein NifH	Euryarchaeota archaeon		GCA_005878405.1

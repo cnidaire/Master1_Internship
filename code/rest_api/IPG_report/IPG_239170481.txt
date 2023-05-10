@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+239170481	RefSeq	NZ_SMUS01000003.1	41854	42597	+	WP_133013981.1	nitrogenase iron protein NifH	Clostridium cuniculi	1	GCF_004353185.1

@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+349755736	RefSeq	NZ_JACHFH010000040.1	19312	20136	-	WP_183862998.1	nitrogenase iron protein	Pectinatus brassicae	DSM 24661	GCF_014201835.1
+349755736	RefSeq	NZ_WIQL01000007.1	1432098	1432922	-	WP_183862998.1	nitrogenase iron protein	Pectinatus brassicae	MB591	GCF_015732205.1
+349755736	INSDC	JACHFH010000040.1	19312	20136	-	MBB5337284.1	nitrogenase iron protein NifH	Pectinatus brassicae	DSM 24661	GCA_014201835.1

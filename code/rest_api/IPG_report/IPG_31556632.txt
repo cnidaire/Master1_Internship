@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+31556632	INSDC	CP003284.1	3893084	3979730	+	AFW96085.1	nitrogenase reductase NifH	Anabaena sp. 90	90	GCA_000312705.1

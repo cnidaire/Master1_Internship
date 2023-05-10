@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+269192619	RefSeq	NZ_VSLA01000003.1	91245	92087	+	WP_148636658.1	nitrogenase iron protein NifH	Acetobacterium wieringae	JM	GCF_008107585.1
+269192619	INSDC	VSLA01000003.1	91245	92087	+	TYC87893.1	AAA family ATPase	Acetobacterium wieringae	JM	GCA_008107585.1

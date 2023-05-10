@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+22808580	INSDC	HQ322617.1	1	391	+	AEA48240.1	NifH	Rhodocista pekingensis	JCM 11669	

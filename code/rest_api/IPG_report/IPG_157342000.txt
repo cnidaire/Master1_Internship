@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+157342000	INSDC	NQJI01000041.1	1071	1952	+	OYV19912.1	nitrogenase iron protein NifH	Methylococcaceae bacterium NSM2-1		GCA_002256705.1

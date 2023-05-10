@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+127648120	RefSeq	NZ_FOXM01000010.1	8187	9068	-	WP_092432163.1	nitrogenase iron protein	Pseudomonas sagittaria	JCM 18195	GCF_900115715.1
+127648120	INSDC	JAMPXT010000094.1	1104	1985	-	MCM2330646.1	nitrogenase iron protein	Pseudomonas sagittaria		GCA_023701045.1
+127648120	INSDC	FOXM01000010.1	8187	9068	-	SFQ02917.1	Mo-nitrogenase iron protein subunit NifH	Pseudomonas sagittaria	JCM 18195	GCA_900115715.1

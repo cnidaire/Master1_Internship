@@ -1,0 +1,11 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+150999355	RefSeq	NZ_CP021416.1	1289100	1290011	+	WP_087438453.1	nitrogenase iron protein	Sulfurospirillum diekertiae	SL2-1	GCF_002162315.1
+150999355	RefSeq	NZ_CP021979.1	1288758	1289669	+	WP_087438453.1	nitrogenase iron protein	Sulfurospirillum diekertiae	SL2-2	GCF_002205395.1
+150999355	RefSeq	NZ_CP023275.1	1229196	1230107	+	WP_087438453.1	nitrogenase iron protein	Sulfurospirillum diekertiae	JPD-1	GCF_002309535.1
+150999355	RefSeq	NZ_CP039734.2	1087019	1087930	+	WP_087438453.1	nitrogenase iron protein	Sulfurospirillum diekertiae	ACSDCE	GCF_011769985.2
+150999355	RefSeq	NZ_CP045453.2	1060241	1061152	+	WP_087438453.1	nitrogenase iron protein	Sulfurospirillum diekertiae	ACSTCE	GCF_011769965.2
+150999355	INSDC	CP021416.1	1289100	1290011	+	ARU48505.1	Nitrogenase iron protein 1	Sulfurospirillum diekertiae	SL2-1	GCA_002162315.1
+150999355	INSDC	CP021979.1	1288758	1289669	+	ASC93338.1	Nitrogenase iron protein 1	Sulfurospirillum diekertiae	SL2-2	GCA_002205395.1
+150999355	INSDC	CP023275.1	1229196	1230107	+	ATB69394.1	nitrogenase iron protein NifH	Sulfurospirillum diekertiae	JPD-1	GCA_002309535.1
+150999355	INSDC	CP039734.2	1087019	1087930	+	QIR77034.1	nitrogenase iron protein	Sulfurospirillum diekertiae	ACSDCE	GCA_011769985.3
+150999355	INSDC	CP045453.2	1060241	1061152	+	QIR79649.1	nitrogenase iron protein	Sulfurospirillum diekertiae	ACSTCE	GCA_011769965.2

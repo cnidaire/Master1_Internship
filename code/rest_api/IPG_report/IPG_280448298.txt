@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+280448298	RefSeq	NZ_JAQLWG010000056.1	7	804	-	WP_271986390.1	nitrogenase iron protein NifH	Flavonifractor plautii	J1100102st1_F12_J1100102_180507	GCF_028322985.1
+280448298	INSDC	WKNP01000070.1	10585	11382	+	MSA85241.1	P-loop NTPase	Odoribacter splanchnicus	BIOML-A2	GCA_009677945.1

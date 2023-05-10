@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+154148948	RefSeq	NZ_FZNT01000008.1	195005	195829	+	WP_089382364.1	nitrogenase iron protein	Lutibacter agarilyticus	DSM 29150	GCF_900188235.1
+154148948	INSDC	FZNT01000008.1	195005	195829	+	SNR67902.1	Mo-nitrogenase iron protein subunit NifH	Lutibacter agarilyticus	DSM 29150	GCA_900188235.1

@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+19682041	RefSeq	NC_021009.1	2709255	2710016	+	WP_015514837.1	nitrogenase iron protein NifH	Coprococcus catus GD/7	GD/7	GCF_000210555.1
+19682041	RefSeq	NZ_LR698973.1	2709255	2710016	+	WP_015514837.1	nitrogenase iron protein NifH	Coprococcus catus		GCF_902381825.1
+19682041	INSDC	FP929038.1	2709255	2710016	+	CBK81306.1	Nitrogenase subunit NifH (ATPase)	Coprococcus catus GD/7	GD/7	GCA_000210555.1
+19682041	INSDC	RKED01000080.1	29221	29982	-	MBD9001452.1	nitrogenase iron protein	Coprococcus catus		GCA_014847675.1

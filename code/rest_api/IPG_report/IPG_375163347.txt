@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+375163347	RefSeq	NZ_JADNLZ010000002.1	212595	213404	-	WP_195490571.1	nitrogenase iron protein NifH	Roseburia faecis	BSD2780061689_150309_B4	GCF_015556245.1

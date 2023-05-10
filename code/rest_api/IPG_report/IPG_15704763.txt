@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+15704763	INSDC	FJ223129.1	1	467	+	ACI46147.1	NifH	Azorhizobium doebereinerae		

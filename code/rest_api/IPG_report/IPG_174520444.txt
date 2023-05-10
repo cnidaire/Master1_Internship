@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+174520444	RefSeq	NZ_CP014150.1	900152	900901	+	WP_101508281.1	nitrogenase iron protein NifH	Paeniclostridium sordellii	AM370	GCF_002865995.1
+174520444	INSDC	CP014150.1	900152	900901	+	AUN13541.1	nitrogenase iron protein	Paeniclostridium sordellii	AM370	GCA_002865995.1

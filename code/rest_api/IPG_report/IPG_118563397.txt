@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+118563397	RefSeq	NZ_LMVM01000041.1	104571	105575	+	WP_069582378.1	terpene cyclase/mutase family protein	Methanobacterium bryantii	M.o.H.	GCF_002287175.1
+118563397	RefSeq	NZ_LZPM01000004.1	10785	11789	-	WP_069582378.1	terpene cyclase/mutase family protein	Methanobacterium sp. A39	A39	GCF_001729285.1
+118563397	INSDC	LZPM01000004.1	10785	11789	-	OEC88610.1	nitrogen fixation protein NifH	Methanobacterium sp. A39	A39	GCA_001729285.1
+118563397	INSDC	LMVM01000041.1	104571	105575	+	PAV02992.1	nitrogen fixation protein NifH	Methanobacterium bryantii	M.o.H.	GCA_002287175.1

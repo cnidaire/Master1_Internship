@@ -1,0 +1,19 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+124958140	RefSeq	NZ_FNSR01000003.1	754151	755032	+	WP_090552736.1	nitrogenase iron protein	Paraburkholderia caballeronis	TNe-841	GCF_900104845.1
+124958140	RefSeq	NZ_FOAJ01000001.1	221336	222217	-	WP_090552736.1	nitrogenase iron protein	Paraburkholderia caballeronis	LMG 26416	GCF_900109675.1
+124958140	RefSeq	NZ_QICY01000008.1	165526	166407	-	WP_090552736.1	nitrogenase iron protein	Paraburkholderia caballeronis	TNe-878	GCF_003201435.1
+124958140	RefSeq	NZ_QJJT01000008.1	165526	166407	-	WP_090552736.1	nitrogenase iron protein	Paraburkholderia caballeronis	TNe-835	GCF_003201635.1
+124958140	RefSeq	NZ_QLMB01000008.1	165526	166407	-	WP_090552736.1	nitrogenase iron protein	Paraburkholderia caballeronis	NZu-6	GCF_003259875.1
+124958140	RefSeq	NZ_SOCJ01000006.1	221369	222250	-	WP_090552736.1	nitrogenase iron protein	Paraburkholderia caballeronis	TNe-8683	GCF_004368685.1
+124958140	RefSeq	NZ_SOCK01000005.1	221369	222250	-	WP_090552736.1	nitrogenase iron protein	Paraburkholderia caballeronis	TNe-8641	GCF_004366045.1
+124958140	RefSeq	NZ_SOCL01000006.1	101091	101972	+	WP_090552736.1	nitrogenase iron protein	Paraburkholderia caballeronis	TNe-834	GCF_004365795.1
+124958140	RefSeq	NZ_SOCM01000018.1	96797	97678	+	WP_090552736.1	nitrogenase iron protein	Paraburkholderia caballeronis	TNe-8682	GCF_004365245.1
+124958140	INSDC	QICY01000008.1	165526	166407	-	PXW23990.1	Mo-nitrogenase iron protein subunit NifH	Paraburkholderia caballeronis	TNe-878	GCA_003201435.1
+124958140	INSDC	QJJT01000008.1	165526	166407	-	PXW99754.1	Mo-nitrogenase iron protein subunit NifH	Paraburkholderia caballeronis	TNe-835	GCA_003201635.1
+124958140	INSDC	QLMB01000008.1	165526	166407	-	RAJ96708.1	Mo-nitrogenase iron protein subunit NifH	Paraburkholderia caballeronis	NZu-6	GCA_003259875.1
+124958140	INSDC	FNSR01000003.1	754151	755032	+	SEE76425.1	Mo-nitrogenase iron protein subunit NifH	Paraburkholderia caballeronis	TNe-841	GCA_900104845.1
+124958140	INSDC	FOAJ01000001.1	221336	222217	-	SEK21524.1	Mo-nitrogenase iron protein subunit NifH	Paraburkholderia caballeronis	LMG 26416	GCA_900109675.1
+124958140	INSDC	SOCJ01000006.1	221369	222250	-	TDV15740.1	Mo-nitrogenase iron protein subunit NifH	Paraburkholderia caballeronis	TNe-8683	GCA_004368685.1
+124958140	INSDC	SOCK01000005.1	221369	222250	-	TDV17995.1	Mo-nitrogenase iron protein subunit NifH	Paraburkholderia caballeronis	TNe-8641	GCA_004366045.1
+124958140	INSDC	SOCL01000006.1	101091	101972	+	TDV26391.1	Mo-nitrogenase iron protein subunit NifH	Paraburkholderia caballeronis	TNe-834	GCA_004365795.1
+124958140	INSDC	SOCM01000018.1	96797	97678	+	TDV26881.1	Mo-nitrogenase iron protein subunit NifH	Paraburkholderia caballeronis	TNe-8682	GCA_004365245.1

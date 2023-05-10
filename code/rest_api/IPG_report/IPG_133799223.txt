@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+133799223	RefSeq	NZ_MQNM01000002.1	42059	42817	-	WP_074501229.1	nitrogenase iron protein NifH	Megasphaera cerevisiae	NSB1	GCF_001913815.1
+133799223	INSDC	MQNM01000002.1	42059	42817	-	OKY54650.1	nitrogenase iron protein	Megasphaera cerevisiae	NSB1	GCA_001913815.1

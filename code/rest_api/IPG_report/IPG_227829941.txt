@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+227829941	RefSeq	NZ_CP029758.2	2597704	2598474	-	WP_127721528.1	nitrogenase iron protein NifH	Clostridium sp. AWRP	AWRP	GCF_004006395.2
+227829941	INSDC	CP029758.2	2597704	2598474	-	AZV57253.1	nitrogenase iron protein	Clostridium sp. AWRP	AWRP	GCA_004006395.2

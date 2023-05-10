@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+329198077	RefSeq	NZ_JAAIOC010000017.1	16607	17437	-	WP_173793263.1	nitrogenase iron protein NifH	Dorea longicatena	MSK.10.4	GCF_013301315.1
+329198077	RefSeq	NZ_JAAIOD010000015.1	59651	60481	+	WP_173793263.1	nitrogenase iron protein NifH	Dorea longicatena	MSK.10.16	GCF_013301325.1
+329198077	INSDC	JAAIOC010000017.1	16607	17437	-	NSE50810.1	AAA family ATPase	Dorea longicatena	MSK.10.4	GCA_013301315.1
+329198077	INSDC	JAAIOD010000015.1	59651	60481	+	NSE58713.1	AAA family ATPase	Dorea longicatena	MSK.10.16	GCA_013301325.1

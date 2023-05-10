@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+18833453	INSDC	GQ907227.1	1	331	+	ACY02883.1	NifH	Bradyrhizobium sp. DASA 68056	DASA 68056	

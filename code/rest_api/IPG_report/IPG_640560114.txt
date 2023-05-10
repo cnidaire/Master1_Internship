@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+640560114	RefSeq	NZ_CAJZEO010000021.1	366	1178	+	WP_276723715.1	nitrogenase iron protein NifH	Selenomonas noxia		GCF_915068245.1

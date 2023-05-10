@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+26118574	RefSeq	NC_016627.1	2451286	2452107	-	WP_014255313.1	nitrogenase iron protein	Acetivibrio clariflavus DSM 19732	DSM 19732	GCF_000237085.1
+26118574	RefSeq	NZ_KI913112.1	703414	704235	-	WP_014255313.1	nitrogenase iron protein	Acetivibrio clariflavus 4-2a	4-2a	GCF_000519985.1
+26118574	INSDC	CP003065.1	2451286	2452107	-	AEV68734.1	Mo-nitrogenase iron protein subunit NifH	Acetivibrio clariflavus DSM 19732	DSM 19732	GCA_000237085.1

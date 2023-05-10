@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+104367105	RefSeq	NZ_NRRM01000014.1	29746	30621	-	WP_207148254.1	nitrogenase iron protein	Halorhodospira halochloris	DSM 1059	GCF_016583605.1
+104367105	INSDC	AP017372.2	1297426	1298301	+	BAU57913.1	nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Halorhodospira halochloris	DSM 1059	GCA_002356555.2

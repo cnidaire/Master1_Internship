@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+147315966	INSDC	FXAI01000004.1	158757	159644	+	SMF28088.1	nitrogenase iron protein NifH	Alteromonadaceae bacterium Bs31	Bs31	GCA_900177435.1

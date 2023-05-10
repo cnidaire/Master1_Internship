@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+87655583	RefSeq	NZ_CVTD020000028.1	70075	70929	+	WP_103203846.1	nitrogenase iron protein	Herbinix hemicellulosilytica		GCF_002904165.1
+87655583	RefSeq	NZ_QNRW01000026.1	18026	18880	+	WP_103203846.1	nitrogenase iron protein	Herbinix hemicellulosilytica	DSM 29228	GCF_003315275.1
+87655583	INSDC	CVTD020000028.1	70075	70929	+	CRZ35778.1	Nitrogenase iron protein 4	Herbinix hemicellulosilytica		GCA_002904165.1
+87655583	INSDC	QNRW01000026.1	18026	18880	+	RBP57251.1	Mo-nitrogenase iron protein subunit NifH	Herbinix hemicellulosilytica	DSM 29228	GCA_003315275.1

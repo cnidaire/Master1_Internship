@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+132979728	RefSeq	NZ_LT635539.1	1591582	1592343	-	WP_072522100.1	nitrogenase iron protein NifH	Blautia sp. Marseille-P3087	Marseille-P3087T	GCF_900120195.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+1506090	RefSeq	NC_010628.1	512909	513802	-	WP_012407220.1	nitrogenase iron protein	Nostoc punctiforme PCC 73102	ATCC 29133; PCC 73102	GCF_000020025.1
+1506090	INSDC	CP001037.1	512909	513802	-	ACC79194.1	nitrogenase iron protein NifH	Nostoc punctiforme PCC 73102	ATCC 29133; PCC 73102	GCA_000020025.1

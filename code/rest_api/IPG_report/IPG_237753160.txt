@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+237753160	RefSeq	NZ_SLWW01000003.1	25471	26346	+	WP_132542189.1	nitrogenase iron protein	Rhodovulum euryhalinum	DSM 4868	GCF_004342445.1
+237753160	INSDC	SLWW01000003.1	25471	26346	+	TCO72796.1	Mo-nitrogenase iron protein subunit NifH	Rhodovulum euryhalinum	DSM 4868	GCA_004342445.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+1783596	INSDC	AY367396.1	1	332	+	AAQ72422.1	NifH	Raoultella terrigena	ATCC 33257	

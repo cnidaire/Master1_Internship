@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+56516802	RefSeq	NZ_JHXF01000013.1	52460	53224	-	WP_028515065.1	nitrogenase iron protein NifH	Ruminococcus flavefaciens MA2007	MA2007	GCF_000621845.1

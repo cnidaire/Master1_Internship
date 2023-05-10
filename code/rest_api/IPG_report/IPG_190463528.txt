@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+190463528	RefSeq	NZ_QKMR01000011.1	15164	16021	+	WP_110462078.1	nitrogenase iron protein	Ruminiclostridium sufflavum DSM 19573	DSM 19573	GCF_003208175.1
+190463528	INSDC	QKMR01000011.1	15164	16021	+	PYG87375.1	nitrogenase iron protein NifH	Ruminiclostridium sufflavum DSM 19573	DSM 19573	GCA_003208175.1

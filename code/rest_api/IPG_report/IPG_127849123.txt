@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+127849123	RefSeq	NZ_FOOX01000003.1	92633	93451	+	WP_092469421.1	nitrogenase iron protein	Desulfotruncus arcticus DSM 17038	DSM 17038	GCF_900113335.1
+127849123	INSDC	FOOX01000003.1	92633	93451	+	SFG23097.1	Mo-nitrogenase iron protein subunit NifH	Desulfotruncus arcticus DSM 17038	DSM 17038	GCA_900113335.1

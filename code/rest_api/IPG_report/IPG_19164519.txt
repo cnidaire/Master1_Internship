@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+19164519	INSDC	GU216631.1	1	340	+	ADA60156.1	NifH protein	Azospirillum brasilense		

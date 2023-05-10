@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+31247958	INSDC	ALAO01000123.1	3	359	+	EKO39670.1	nitrogenase subunit NifH (ATPase)	Solidesulfovibrio magneticus str. Maddingley MBC34	Maddingley MBC34	GCA_000307955.1

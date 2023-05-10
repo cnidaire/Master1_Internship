@@ -1,0 +1,9 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+189190541	RefSeq	NZ_CP019962.1	3392777	3393634	+	WP_227207240.1	nitrogenase iron protein NifH	Eubacterium limosum	ATCC 8486	GCF_000807675.2
+189190541	RefSeq	NZ_CP097376.1	283226	284083	+	WP_227207240.1	nitrogenase iron protein NifH	Eubacterium limosum	B2	GCF_023520755.1
+189190541	RefSeq	NZ_JAJCLO010000006.1	192868	193725	-	WP_227207240.1	nitrogenase iron protein NifH	Eubacterium limosum	DFI.6.107	GCF_020559625.1
+189190541	RefSeq	NZ_JAQSVD010000001.1	464517	465374	+	WP_227207240.1	nitrogenase iron protein NifH	Eubacterium limosum	KGMB01548	GCF_028861895.1
+189190541	RefSeq	NZ_QGUD01000004.1	87529	88386	-	WP_227207240.1	nitrogenase iron protein NifH	Eubacterium limosum	8486cho	GCF_003182515.1
+189190541	INSDC	JAJCLO010000006.1	192868	193725	-	MCB6569741.1	nitrogenase iron protein NifH	Eubacterium limosum	DFI.6.107	GCA_020559625.1
+189190541	INSDC	QGUD01000004.1	87529	88386	-	PWW55051.1	nitrogenase iron protein NifH	Eubacterium limosum	8486cho	GCA_003182515.1
+189190541	INSDC	CP097376.1	283226	284083	+	UQZ22896.1	nitrogenase iron protein NifH	Eubacterium limosum	B2	GCA_023520755.1

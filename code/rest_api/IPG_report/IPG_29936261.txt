@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+29936261	INSDC	AKZI01000179.1	251	1225	+	EJW09446.1	Nitrogenase reductase and maturation protein NifH	Rhodovulum sp. PH10	PH10	GCA_000293785.1

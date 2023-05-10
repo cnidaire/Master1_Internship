@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+291343165	RefSeq	NZ_WWVR01000009.1	31693	32454	+	WP_161284869.1	nitrogenase iron protein NifH	Blautia sp. BIOML-A1	BIOML-A1	GCF_009883055.1
+291343165	INSDC	WWVR01000009.1	31693	32454	+	MZT65549.1	P-loop NTPase	Blautia sp. BIOML-A1	BIOML-A1	GCA_009883055.1

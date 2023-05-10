@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+448754791	RefSeq	NZ_CAMIZT010000131.1	2746	3510	-	WP_277220087.1	nitrogenase iron protein NifH	Phascolarctobacterium succinatutens		GCF_946403375.1
+448754791	INSDC	JABLYI010000075.1	5990	6754	-	MBS1362525.1	AAA family ATPase	Acidaminococcaceae bacterium		GCA_018265935.1
+448754791	INSDC	JAGZDY010000011.1	2789	3553	-	MBS5426560.1	AAA family ATPase	Phascolarctobacterium succinatutens		GCA_018368575.1

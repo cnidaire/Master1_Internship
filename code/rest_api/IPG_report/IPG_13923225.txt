@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+13923225	INSDC	AM501470.1	1	327	+	CAM58154.1	NifH protein	Pelomonas saccharophila	type strain: ATCC 15946	
+13923225	INSDC	AM501471.1	1	326	+	CAM58155.1	NifH protein	Pelomonas saccharophila	type strain: DSM 654	
+13923225	INSDC	AM501472.1	1	326	+	CAM58156.1	NifH protein	Pelomonas saccharophila	type strain: IAM 14368	
+13923225	INSDC	AM501473.1	1	326	+	CAM58157.1	NifH protein	Pelomonas saccharophila	type strain: LMG 2256	
+13923225	INSDC	AM501474.1	1	326	+	CAM58158.1	NifH protein	Pelomonas saccharophila	type strain: CCUG 32988	

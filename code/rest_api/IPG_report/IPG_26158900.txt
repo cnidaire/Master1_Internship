@@ -1,0 +1,11 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+26158900	RefSeq	NC_007907.1	421238	422083	+	WP_005810407.1	nitrogenase iron protein NifH	Desulfitobacterium hafniense Y51	Y51	GCF_000010045.1
+26158900	RefSeq	NZ_CABKQQ010000025.1	295986	296831	-	WP_005810407.1	nitrogenase iron protein NifH	Desulfitobacterium hafniense		GCF_902374595.1
+26158900	RefSeq	NZ_JH414456.1	295986	296831	-	WP_005810407.1	nitrogenase iron protein NifH	Desulfitobacterium hafniense DP7	DP7	GCF_000238035.1
+26158900	RefSeq	NZ_LK996017.1	488108	488953	+	WP_005810407.1	nitrogenase iron protein NifH	Desulfitobacterium hafniense	PCE-S	GCF_000944695.1
+26158900	RefSeq	NZ_LOCK01000021.1	21348	22193	+	WP_005810407.1	nitrogenase iron protein NifH	Desulfitobacterium hafniense	DH	GCF_001468785.1
+26158900	INSDC	LK996017.1	488108	488953	+	CDX00354.1	Nitrogenase iron protein	Desulfitobacterium hafniense	PCE-S	GCA_000944695.1
+26158900	INSDC	AFZX01000032.1	182149	182994	-	EHL08017.1	putative nitrogenase iron protein	Desulfitobacterium hafniense DP7	DP7	GCA_000238035.1
+26158900	INSDC	JH414456.1	295986	296831	-	EHL08017.1	putative nitrogenase iron protein	Desulfitobacterium hafniense DP7	DP7	GCA_000238035.1
+26158900	INSDC	LOCK01000021.1	21348	22193	+	KTE91640.1	nitrogenase iron protein	Desulfitobacterium hafniense	DH	GCA_001468785.1
+26158900	INSDC	VSSQ01000136.1	92191	93036	-	MPL80378.1	Nitrogenase iron protein 1	bioreactor metagenome		GCA_008761695.1

@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+40591351	RefSeq	NZ_ARQF01000021.1	508512	509342	-	WP_020001632.1	nitrogenase iron protein	Halodesulfovibrio aestuarii DSM 17919 = ATCC 29578	ATCC 29578	GCF_000384815.1
+40591351	RefSeq	NZ_FQZR01000002.1	508229	509059	-	WP_020001632.1	nitrogenase iron protein	Halodesulfovibrio aestuarii	DSM 17919	GCF_900142115.1
+40591351	INSDC	FQZR01000002.1	508229	509059	-	SHI62869.1	nitrogenase iron protein NifH	Halodesulfovibrio aestuarii	DSM 17919	GCA_900142115.1

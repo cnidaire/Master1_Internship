@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+16703726	RefSeq	NZ_ACEP01000004.1	13395	14150	+	WP_005343387.1	nitrogenase iron protein NifH	Anaerobutyricum hallii DSM 3353	DSM 3353	GCF_000173975.1
+16703726	RefSeq	NZ_CP073280.1	742885	743640	+	WP_005343387.1	nitrogenase iron protein NifH	Anaerobutyricum hallii	EHAL	GCF_018140635.1
+16703726	INSDC	ACEP01000004.1	13395	14150	+	EEG38057.1	putative nitrogenase iron protein	Anaerobutyricum hallii DSM 3353	DSM 3353	GCA_000173975.1
+16703726	INSDC	CP073280.1	742885	743640	+	QUF80847.1	AAA family ATPase	Anaerobutyricum hallii	EHAL	GCA_018140635.1

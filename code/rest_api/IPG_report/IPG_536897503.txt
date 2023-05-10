@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+536897503	INSDC	JALFBM010000020.1	59878	60639	-	MCI6158451.1	nitrogenase iron protein NifH	Selenomonadaceae bacterium		GCA_022773425.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+161736949	RefSeq	NZ_OBMT01000007.1	56335	57162	-	WP_097070193.1	nitrogenase iron protein	Rhodobacter maris	JA276	GCF_900217815.1
+161736949	INSDC	OBMT01000007.1	56335	57162	-	SOC09053.1	Mo-nitrogenase iron protein subunit NifH /Fe-only nitrogenase iron protein subunit AnfH	Rhodobacter maris	JA276	GCA_900217815.1

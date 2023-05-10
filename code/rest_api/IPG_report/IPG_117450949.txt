@@ -1,0 +1,10 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+117450949	RefSeq	NZ_MABH01000172.1	9190	10065	-	WP_069332891.1	nitrogenase iron protein	Cereibacter johrii	JA192	GCF_001720585.1
+117450949	RefSeq	NZ_PHOB01000155.1	9328	10203	-	WP_069332891.1	nitrogenase iron protein	Cereibacter sphaeroides	YL101	GCF_002844435.1
+117450949	RefSeq	NZ_PZZW01000003.1	102166	103041	-	WP_069332891.1	nitrogenase iron protein	Cereibacter johrii	JA192	GCF_003046325.1
+117450949	RefSeq	NZ_QMCC01000014.1	45794	46669	+	WP_069332891.1	nitrogenase iron protein	Cereibacter johrii	CDR-SL 7Cii	GCF_003290005.1
+117450949	RefSeq	NZ_QRBG01000001.1	126	1001	+	WP_069332891.1	nitrogenase iron protein	Cereibacter sphaeroides f. sp. denitrificans	IL106	GCF_003363065.1
+117450949	INSDC	MABH01000172.1	9190	10065	-	ODM42091.1	nitrogenase iron protein	Cereibacter johrii	JA192	GCA_001720585.1
+117450949	INSDC	PZZW01000003.1	102166	103041	-	PTM79005.1	Mo-nitrogenase iron protein subunit NifH	Cereibacter johrii	JA192	GCA_003046325.1
+117450949	INSDC	QMCC01000014.1	45794	46669	+	RAZ82330.1	nitrogenase iron protein	Cereibacter johrii	CDR-SL 7Cii	GCA_003290005.1
+117450949	INSDC	QRBG01000001.1	126	1001	+	RDS97732.1	nitrogenase iron protein	Cereibacter sphaeroides f. sp. denitrificans	IL106	GCA_003363065.1

@@ -1,0 +1,10 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+33769899	RefSeq	NC_020291.1	3356607	3357428	+	WP_015393155.1	nitrogenase iron protein	Clostridium saccharoperbutylacetonicum N1-4(HMT)	N1-4(HMT)	GCF_000340885.1
+33769899	RefSeq	NZ_AOIF01000079.1	27270	28091	-	WP_015393155.1	nitrogenase iron protein	Clostridium saccharoperbutylacetonicum N1-4(HMT)	ATCC 27021	GCF_000334435.1
+33769899	RefSeq	NZ_JABSWN010000001.1	4321449	4322270	-	WP_015393155.1	nitrogenase iron protein	Clostridium saccharoperbutylacetonicum	DJ069	GCF_013294445.1
+33769899	RefSeq	NZ_JABTEA010000001.1	5497478	5498299	-	WP_015393155.1	nitrogenase iron protein	Clostridium saccharoperbutylacetonicum	DJ098	GCF_013297125.1
+33769899	RefSeq	NZ_JABTEB010000001.1	3062218	3063039	-	WP_015393155.1	nitrogenase iron protein	Clostridium saccharoperbutylacetonicum	DJ048	GCF_013297165.1
+33769899	INSDC	CP004121.1	3356607	3357428	+	AGF56836.1	nitrogenase iron protein 5	Clostridium saccharoperbutylacetonicum N1-4(HMT)	N1-4(HMT)	GCA_000340885.1
+33769899	INSDC	JABSWN010000001.1	4321449	4322270	-	NRT62407.1	nitrogenase iron protein NifH	Clostridium saccharoperbutylacetonicum	DJ069	GCA_013294445.1
+33769899	INSDC	JABTEB010000001.1	3062218	3063039	-	NSB25747.1	nitrogenase iron protein NifH	Clostridium saccharoperbutylacetonicum	DJ048	GCA_013297165.1
+33769899	INSDC	JABTEA010000001.1	5497478	5498299	-	NSB45113.1	nitrogenase iron protein NifH	Clostridium saccharoperbutylacetonicum	DJ098	GCA_013297125.1

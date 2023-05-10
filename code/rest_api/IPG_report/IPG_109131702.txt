@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+109131702	INSDC	LRTJ01000005.1	21659	22522	+	OAA30768.1	Mo-nitrogenase iron protein subunit NifH	Frankia casuarinae	BR	GCA_001636575.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+178266958	INSDC	BFAV01000073.1	48642	49499	+	GBF33070.1	nitrogenase reductase and maturation protein NifH	Desulfocucumis palustris	NAW-5	GCA_002933875.1

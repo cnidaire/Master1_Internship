@@ -1,0 +1,10 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+24598529	RefSeq	NC_016616.1	980747	981622	+	WP_014236061.1	nitrogenase iron protein	Azospira oryzae PS	PS	GCF_000236665.1
+24598529	RefSeq	NZ_AP021844.1	2729622	2730497	+	WP_014236061.1	nitrogenase iron protein	Azospira sp. I09	I09	GCF_009177135.1
+24598529	RefSeq	NZ_CAJHOC010000010.1	51361	52236	+	WP_014236061.1	nitrogenase iron protein	Azospira oryzae PS		GCF_905120365.1
+24598529	RefSeq	NZ_SHKM01000002.1	374556	375431	-	WP_014236061.1	nitrogenase iron protein	Azospira oryzae	DSM 21223	GCF_004217225.1
+24598529	INSDC	CP003153.1	980747	981622	+	AEV25360.1	nitrogenase iron protein	Azospira oryzae PS	PS	GCA_000236665.1
+24598529	INSDC	AP021844.1	2729622	2730497	+	BBN89494.1	nitrogenase iron protein	Azospira sp. I09	I09	GCA_009177135.1
+24598529	INSDC	JAGODV010000124.1	1014	1889	+	MBP7489285.1	nitrogenase iron protein	Azospira sp.		GCA_017998055.1
+24598529	INSDC	SHKM01000002.1	374556	375431	-	RZT76304.1	Mo-nitrogenase iron protein subunit NifH	Azospira oryzae	DSM 21223	GCA_004217225.1
+24598529	INSDC	VAUH01000074.1	403	1278	+	TLS17288.1	nitrogenase iron protein	Betaproteobacteria bacterium		GCA_005774505.1

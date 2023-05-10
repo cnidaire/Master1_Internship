@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+23455332	INSDC	HQ836213.1	1	383	+	AEF33320.1	NifH	Anabaena sp. LCRNK_9	LCRNK_9	

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+213618260	INSDC	QMUN01000062.1	3299	4315	-	RLF94472.1	nitrogen fixation protein NifH	Thermococci archaeon		GCA_003660605.1

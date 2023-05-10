@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+100515640	RefSeq	NZ_LN848257.1	2373917	2374801	+	WP_093187896.1	nitrogenase iron protein	Thiocapsa sp. KS1	KS1	GCF_001499735.1
+100515640	INSDC	CVPF01000075.1	759	1643	+	CRI63950.1	Nitrogenase iron protein NifH	Thiocapsa sp. KS1	KS1	GCA_001499735.1
+100515640	INSDC	LN848257.1	2373917	2374801	+	CRI63950.1	Nitrogenase iron protein NifH	Thiocapsa sp. KS1	KS1	GCA_001499735.1

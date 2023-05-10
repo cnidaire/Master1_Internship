@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+197803721	RefSeq	NZ_QPJW01000002.1	368705	369577	-	WP_114496139.1	nitrogenase iron protein	Fontibacillus phaseoli	CECT 8333	GCF_003337355.1
+197803721	INSDC	QPJW01000002.1	368705	369577	-	RCX21595.1	Mo-nitrogenase iron protein subunit NifH	Fontibacillus phaseoli	CECT 8333	GCA_003337355.1

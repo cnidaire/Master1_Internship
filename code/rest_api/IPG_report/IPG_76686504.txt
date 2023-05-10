@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+76686504	RefSeq	NZ_AP014705.1	526881	527879	+	WP_060850004.1	chlorophyllide a reductase iron protein subunit X	Methylobacterium aquaticum	MA-22A	GCF_001548015.1
+76686504	INSDC	AP014705.1	526881	527879	+	BAQ48817.1	chitin-binding protein	Methylobacterium aquaticum	MA-22A	GCA_001548015.1
+76686504	INSDC	AB935112.1	1	999	+	BAX51326.1	bacteriochlorophyllide reductase iron protein subunit BchX	Methylobacterium aquaticum	22A	
+76686504	INSDC	AB598550.1	1	999	+	BCB67574.1	Nitrogenase subunit NifH, ATPase	Methylobacterium aquaticum	22A	

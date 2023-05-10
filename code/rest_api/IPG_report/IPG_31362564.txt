@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+31362564	INSDC	AMGN01000004.1	17662	18459	-	EKQ55605.1	nitrogenase subunit NifH (ATPase)	Methanobacterium sp. Maddingley MBC34		GCA_000309865.1

@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+1554683	RefSeq	NC_007952.1	1762951	1763832	-	WP_011491824.1	nitrogenase iron protein	Paraburkholderia xenovorans LB400	LB400	GCF_000013645.1
+1554683	RefSeq	NZ_CP008762.1	2630870	2631751	+	WP_011491824.1	nitrogenase iron protein	Paraburkholderia xenovorans LB400	LB400	GCF_000756045.1
+1554683	RefSeq	NZ_WOEX01000002.1	180973	181854	-	WP_011491824.1	nitrogenase iron protein	Paraburkholderia xenovorans	4B	GCF_013177705.1
+1554683	INSDC	CP000271.1	1762951	1763832	-	ABE34499.1	Mo-nitrogenase iron protein subunit NifH	Paraburkholderia xenovorans LB400	LB400	GCA_000013645.1
+1554683	INSDC	CP008762.1	2630870	2631751	+	AIP35553.1	nitrogenase iron protein	Paraburkholderia xenovorans LB400	LB400	GCA_000756045.1
+1554683	INSDC	WOEX01000002.1	180973	181854	-	NPT33299.1	nitrogenase iron protein	Paraburkholderia xenovorans	4B	GCA_013177705.1

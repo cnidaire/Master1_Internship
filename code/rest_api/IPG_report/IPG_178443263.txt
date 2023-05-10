@@ -1,0 +1,11 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+178443263	RefSeq	NZ_CAADAZ010000020.1	5115	5864	-	WP_104851047.1	nitrogenase iron protein NifH	Clostridioides difficile	078GUE029	GCF_900688755.1
+178443263	RefSeq	NZ_CAADBD010000021.1	5115	5864	-	WP_104851047.1	nitrogenase iron protein NifH	Clostridioides difficile	078GUE030	GCF_900688725.1
+178443263	RefSeq	NZ_CP026613.2	1814415	1815164	+	WP_104851047.1	nitrogenase iron protein NifH	Clostridioides difficile	R1	GCF_002946515.2
+178443263	RefSeq	NZ_CP026614.2	1814418	1815167	+	WP_104851047.1	nitrogenase iron protein NifH	Clostridioides difficile	R2	GCF_002946555.2
+178443263	RefSeq	NZ_CP026615.2	2279677	2280426	-	WP_104851047.1	nitrogenase iron protein NifH	Clostridioides difficile	R3	GCF_002946535.2
+178443263	INSDC	CP026615.2	2279677	2280426	-	AVD35107.1	nitrogenase iron protein	Clostridioides difficile	R3	GCA_002946535.2
+178443263	INSDC	CP026614.2	1814418	1815167	+	AVD38033.1	nitrogenase iron protein	Clostridioides difficile	R2	GCA_002946555.2
+178443263	INSDC	CP026613.2	1814415	1815164	+	AVD41560.1	nitrogenase iron protein	Clostridioides difficile	R1	GCA_002946515.2
+178443263	INSDC	CAADAZ010000020.1	5115	5864	-	VFD88636.1	nitrogenase iron protein NifH	Clostridioides difficile	078GUE029	GCA_900688755.1
+178443263	INSDC	CAADBD010000021.1	5115	5864	-	VFD92930.1	nitrogenase iron protein NifH	Clostridioides difficile	078GUE030	GCA_900688725.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+318237921	INSDC	JAAZOQ010000046.1	787	1812	-	NMC84043.1	nitrogen fixation protein NifH	Anaerolineaceae bacterium		GCA_012797695.1

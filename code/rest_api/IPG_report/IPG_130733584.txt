@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+130733584	RefSeq	NZ_FQXU01000020.1	33535	34362	+	WP_073022658.1	nitrogenase iron protein	Clostridium intestinale DSM 6191	DSM 6191	GCF_900130055.1
+130733584	INSDC	FQXU01000020.1	33535	34362	+	SHI79324.1	nitrogenase iron protein NifH	Clostridium intestinale DSM 6191	DSM 6191	GCA_900130055.1

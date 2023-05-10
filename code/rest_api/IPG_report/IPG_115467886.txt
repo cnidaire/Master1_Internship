@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+115467886	RefSeq	NZ_MCGV01000001.1	2102480	2103241	-	WP_066021109.1	nitrogenase iron protein NifH	Clostridium pasteurianum	GL11	GCF_001705235.1
+115467886	RefSeq	NZ_PETE01000002.1	2102480	2103241	-	WP_066021109.1	nitrogenase iron protein NifH	Clostridium sp. CT7	CT7	GCF_002796935.1
+115467886	INSDC	PETE01000002.1	2102480	2103241	-	PJI08218.1	nitrogen fixation protein NifH	Clostridium sp. CT7	CT7	GCA_002796935.1

@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+307577053	RefSeq	NZ_BAPE01000014.1	56621	57520	-	WP_166114117.1	nitrogenase iron protein	Acetobacter lovaniensis NRIC 0474	NRIC 0474	GCF_025995695.1
+307577053	RefSeq	NZ_JACHIE010000004.1	83822	84721	-	WP_166114117.1	nitrogenase iron protein	Acetobacter lovaniensis	DSM 4491	GCF_014207635.1
+307577053	RefSeq	NZ_WOTC01000006.1	129436	130335	+	WP_166114117.1	nitrogenase iron protein	Acetobacter lovaniensis	LMG 1617	GCF_011516875.1
+307577053	INSDC	BAPE01000014.1	56621	57520	-	GBQ65547.1	nitrogenase reductase	Acetobacter lovaniensis NRIC 0474	NRIC 0474	GCA_025995695.1
+307577053	INSDC	JACHIE010000004.1	83822	84721	-	MBB6456698.1	nitrogenase iron protein NifH	Acetobacter lovaniensis	DSM 4491	GCA_014207635.1
+307577053	INSDC	WOTC01000006.1	129436	130335	+	NHN81483.1	nitrogenase iron protein	Acetobacter lovaniensis	LMG 1617	GCA_011516875.1

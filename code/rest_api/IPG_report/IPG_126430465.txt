@@ -1,0 +1,9 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+126430465	RefSeq	NZ_CP015113.1	2333731	2334612	-	WP_071920768.1	nitrogenase iron protein	Kosakonia radicincitans	GXGL-4A	GCF_001887675.1
+126430465	RefSeq	NZ_CP040392.1	3004041	3004922	+	WP_071920768.1	nitrogenase iron protein	Kosakonia radicincitans	DSM 107547	GCF_008330085.1
+126430465	RefSeq	NZ_FOHP01000001.1	1506259	1507140	+	WP_071920768.1	nitrogenase iron protein	Kosakonia radicincitans	NFIX09	GCF_900111655.1
+126430465	RefSeq	NZ_LT799040.1	4281408	4282289	+	WP_071920768.1	nitrogenase iron protein	Kosakonia radicincitans	D4	GCF_900168185.1
+126430465	INSDC	CP015113.1	2333731	2334612	-	APG18007.1	nitrogenase reductase	Kosakonia radicincitans	GXGL-4A	GCA_001887675.1
+126430465	INSDC	CP040392.1	3004041	3004922	+	QEM91722.1	nitrogenase iron protein	Kosakonia radicincitans	DSM 107547	GCA_008330085.1
+126430465	INSDC	FOHP01000001.1	1506259	1507140	+	SES92741.1	Mo-nitrogenase iron protein subunit NifH	Kosakonia radicincitans	NFIX09	GCA_900111655.1
+126430465	INSDC	LT799040.1	4281408	4282289	+	SKC22055.1	Mo-nitrogenase iron protein subunit NifH	Kosakonia radicincitans	D4	GCA_900168185.1

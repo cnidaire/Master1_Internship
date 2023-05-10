@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+197034071	RefSeq	NZ_QRDT01000008.1	227183	228079	-	WP_114357898.1	nitrogenase iron protein	Rhodopseudomonas pentothenatexigens	JA575	GCF_003385925.1
+197034071	RefSeq	NZ_QUMP01000008.1	227183	228079	-	WP_114357898.1	nitrogenase iron protein	Rhodopseudomonas thermotolerans	JA576,NBRC 108863,KCTC 15144	GCF_003387125.1
+197034071	RefSeq	NZ_UFQQ01000008.1	227183	228079	-	WP_114357898.1	nitrogenase iron protein	Rhodopseudomonas pentothenatexigens	JA575	GCF_900218015.1
+197034071	INSDC	QRDT01000008.1	227183	228079	-	RED36286.1	Mo-nitrogenase iron protein subunit NifH /V-nitrogenase iron protein subunit VnfH	Rhodopseudomonas pentothenatexigens	JA575	GCA_003385925.1
+197034071	INSDC	QUMP01000008.1	227183	228079	-	REG03659.1	Mo-nitrogenase iron protein subunit NifH /V-nitrogenase iron protein subunit VnfH	Rhodopseudomonas thermotolerans	JA576,NBRC 108863,KCTC 15144	GCA_003387125.1
+197034071	INSDC	UFQQ01000008.1	227183	228079	-	SSW90846.1	Mo-nitrogenase iron protein subunit NifH /V-nitrogenase iron protein subunit VnfH	Rhodopseudomonas pentothenatexigens	JA575	GCA_900218015.1

@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+29887270	RefSeq	NZ_ALNL01000019.1	63864	64616	+	WP_009643617.1	nitrogenase iron protein NifH	Mogibacterium sp. CM50	CM50	GCF_000293155.1
+29887270	RefSeq	NZ_JALU01000027.1	36064	36816	+	WP_009643617.1	nitrogenase iron protein NifH	Mogibacterium timidum ATCC 33093	ATCC 33093	GCF_000525775.1
+29887270	INSDC	ALNL01000019.1	63864	64616	+	EJU22267.1	putative nitrogenase iron protein	Mogibacterium sp. CM50	CM50	GCA_000293155.1
+29887270	INSDC	JALU01000027.1	36064	36816	+	EUC51612.1	putative nitrogenase iron protein	Mogibacterium timidum ATCC 33093	ATCC 33093	GCA_000525775.1

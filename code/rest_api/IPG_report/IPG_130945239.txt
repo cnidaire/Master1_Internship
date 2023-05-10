@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+130945239	RefSeq	NZ_FQZU01000040.1	15308	16132	+	WP_073478409.1	nitrogenase iron protein	Desulfatibacillum alkenivorans DSM 16219	DSM 16219	GCF_900142135.1
+130945239	INSDC	FQZU01000040.1	15308	16132	+	SHK98019.1	Mo-nitrogenase iron protein subunit NifH	Desulfatibacillum alkenivorans DSM 16219	DSM 16219	GCA_900142135.1

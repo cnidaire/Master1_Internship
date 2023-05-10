@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+131991320	RefSeq	NZ_FRFD01000003.1	182023	182901	+	WP_073586925.1	nitrogenase iron protein	Anaerocolumna xylanovorans DSM 12503	DSM 12503	GCF_900143645.1
+131991320	INSDC	FRFD01000003.1	182023	182901	+	SHO43296.1	nitrogenase iron protein NifH	Anaerocolumna xylanovorans DSM 12503	DSM 12503	GCA_900143645.1

@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+180114234	RefSeq	NZ_PTIY01000019.1	21734	22615	+	WP_104425158.1	nitrogenase iron protein	Methylobacter tundripaludum	OWC-G53F	GCF_002934365.1
+180114234	INSDC	JAIPFK010000012.1	97210	98091	+	MCF7965517.1	nitrogenase iron protein	Methylobacter tundripaludum		GCA_021736725.1
+180114234	INSDC	PTIY01000019.1	21734	22615	+	PPK65716.1	nitrogenase iron protein NifH	Methylobacter tundripaludum	OWC-G53F	GCA_002934365.1
+180114234	INSDC	SCTW01000147.1	8894	9775	-	TAK59870.1	nitrogenase iron protein	Methylobacter sp.		GCA_004322395.1

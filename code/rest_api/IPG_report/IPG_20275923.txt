@@ -1,0 +1,10 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+20275923	INSDC	HM057566.1	1	707	+	ADI72801.1	nitrogenase Fe protein	Sinorhizobium fredii	CCBAU 05698	
+20275923	INSDC	HM997096.1	1	707	+	ADU05386.1	nitrogenase Fe protein	Ensifer sojae	CCBAU 05699	
+20275923	INSDC	HQ174501.1	1	707	+	ADX05518.1	nitrogenase Fe protein	Sinorhizobium sp. CCBAU 05696	CCBAU 05696	
+20275923	INSDC	HQ231521.1	1	706	+	ADZ23536.1	NifH	Sinorhizobium fredii	CCBAU 45417	
+20275923	INSDC	HQ231523.1	1	706	+	ADZ23538.1	NifH	Sinorhizobium fredii	CCBAU 45424	
+20275923	INSDC	HQ231530.1	1	706	+	ADZ23545.1	NifH	Sinorhizobium fredii	CCBAU 45448	
+20275923	INSDC	HQ231543.1	1	705	+	ADZ23558.1	NifH	Sinorhizobium sp. CCBAU 051127	CCBAU 051127	
+20275923	INSDC	HQ231550.1	1	705	+	ADZ23565.1	NifH	Sinorhizobium fredii	CCBAU 23319	
+20275923	INSDC	HQ231554.1	1	706	+	ADZ23569.1	NifH	Sinorhizobium fredii	CCBAU 23314	

@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+126345434	RefSeq	NZ_FNZE01000018.1	36333	37214	-	WP_090313069.1	nitrogenase iron protein	Pseudomonas linyingensis	LMG 25967	GCF_900109175.1
+126345434	INSDC	RCUR01000711.1	3434	4315	-	MNF32826.1	Nitrogenase iron protein 1	compost metagenome		GCA_003941925.1
+126345434	INSDC	RCUJ01001269.1	1897	2778	+	MNQ19294.1	Nitrogenase iron protein 1	compost metagenome		GCA_003942125.1
+126345434	INSDC	FNZE01000018.1	36333	37214	-	SEJ79211.1	Mo-nitrogenase iron protein subunit NifH	Pseudomonas linyingensis	LMG 25967	GCA_900109175.1

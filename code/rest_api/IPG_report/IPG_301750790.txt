@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+301750790	RefSeq	NZ_JAAKGU010000014.1	84404	85270	-	WP_165103218.1	nitrogenase iron protein NifH	Paenibacillus apii	7124	GCF_011043685.1
+301750790	RefSeq	NZ_JAAUHL010000025.1	21413	22279	-	WP_165103218.1	nitrogenase iron protein NifH	Paenibacillus apii	7028	GCF_012030475.1
+301750790	INSDC	JAAKGU010000014.1	84404	85270	-	NGM85194.1	AAA family ATPase	Paenibacillus apii	7124	GCA_011043685.1
+301750790	INSDC	JAAUHL010000025.1	21413	22279	-	NJJ42414.1	AAA family ATPase	Paenibacillus apii	7028	GCA_012030475.1

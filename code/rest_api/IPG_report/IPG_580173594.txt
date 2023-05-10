@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+580173594	INSDC	JAOASB010000052.1	354546	355304	+	MCT4566436.1	nitrogenase iron protein NifH	Maledivibacter sp.		GCA_025210375.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+127552941	RefSeq	NZ_FOTO01000012.1	43430	44260	+	WP_092193637.1	nitrogenase iron protein	Desulfomicrobium norvegicum	DSM 1741	GCF_900114595.1
+127552941	INSDC	FOTO01000012.1	43430	44260	+	SFM03851.1	nitrogenase iron protein NifH	Desulfomicrobium norvegicum	DSM 1741	GCA_900114595.1

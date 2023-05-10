@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+26851522	RefSeq	NZ_CP020028.1	4492776	4493642	-	WP_007429042.1	nitrogenase iron protein	Paenibacillus kribbensis	AM49	GCF_002240415.1
+26851522	RefSeq	NZ_CP041731.1	2409156	2410022	+	WP_007429042.1	nitrogenase iron protein	Paenibacillus kribbensis	PS04	GCF_013394225.1
+26851522	RefSeq	NZ_JH601048.1	35918	36784	+	WP_007429042.1	nitrogenase iron protein	Paenibacillus sp. Aloe-11	Aloe-11	GCF_000245715.1
+26851522	RefSeq	NZ_MCBP01000003.1	169399	170265	+	WP_007429042.1	nitrogenase iron protein	Paenibacillus kribbensis	6hRe76	GCF_001705305.1
+26851522	INSDC	CP020028.1	4492776	4493642	-	ASR48825.1	nitrogenase iron protein	Paenibacillus kribbensis	AM49	GCA_002240415.1
+26851522	INSDC	JH601048.1	35918	36784	+	EHS58803.1	nitrogenase iron protein subunit NifH	Paenibacillus sp. Aloe-11	Aloe-11	GCA_000245715.1

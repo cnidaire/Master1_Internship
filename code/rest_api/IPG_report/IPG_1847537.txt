@@ -1,0 +1,94 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+1847537	RefSeq	NZ_CP107022.1	1215247	1216068	+	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	CloBei18h	GCF_025962575.1
+1847537	RefSeq	NZ_JABAGD010000034.1	48751	49572	+	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	WB01_NA02	GCF_012843965.1
+1847537	RefSeq	NZ_JABAGV010000036.1	27281	28102	-	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	DJ015	GCF_014230655.1
+1847537	RefSeq	NZ_JABAGW010000034.1	27282	28103	-	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	DJ083	GCF_014230745.1
+1847537	RefSeq	NZ_JABFUE010000001.1	1212535	1213356	+	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	DJ051	GCF_013149485.1
+1847537	RefSeq	NZ_JABFUL010000005.1	350314	351135	+	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	DJ076	GCF_013149515.1
+1847537	RefSeq	NZ_JABFUM010000001.1	1485593	1486414	+	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	DJ077	GCF_013149565.1
+1847537	RefSeq	NZ_JABFUN010000001.1	2426451	2427272	-	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	DJ078	GCF_013149405.1
+1847537	RefSeq	NZ_JABFUP010000002.1	2219749	2220570	-	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	DJ091	GCF_013149425.1
+1847537	RefSeq	NZ_JABSWC010000001.1	2672679	2673500	+	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	DJ030	GCF_013294155.1
+1847537	RefSeq	NZ_JABSWJ010000001.1	3226119	3226940	-	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	DJ034	GCF_013294345.1
+1847537	RefSeq	NZ_JABSWK010000001.1	4362965	4363786	-	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	DJ035	GCF_013294375.1
+1847537	RefSeq	NZ_JABSWL010000001.1	1208004	1208825	+	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	DJ036	GCF_013294365.1
+1847537	RefSeq	NZ_JABSWW010000001.1	1992952	1993773	-	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	DJ080	GCF_013294615.1
+1847537	RefSeq	NZ_JABTAE010000001.1	4571213	4572034	+	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	DJ316	GCF_013296325.1
+1847537	RefSeq	NZ_JABTAG010000001.1	1398363	1399184	+	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	DJ323	GCF_013296395.1
+1847537	RefSeq	NZ_JABTBM010000002.1	1974736	1975557	+	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	DJ124	GCF_013294205.1
+1847537	RefSeq	NZ_JABTDW010000001.1	4217978	4218799	-	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	DJ123	GCF_013297045.1
+1847537	RefSeq	NZ_JACAZK010000001.1	3644378	3645199	-	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	DJ031	GCF_013407535.1
+1847537	RefSeq	NZ_JACBNK010000002.1	23050	23871	-	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	DJ281	GCF_013407255.1
+1847537	RefSeq	NZ_JACGYY010000001.1	3540520	3541341	-	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	DJ028	GCF_014137795.1
+1847537	RefSeq	NZ_JAERQL010000025.1	22111	22932	-	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	3_8b	GCF_017330245.1
+1847537	RefSeq	NZ_JAEVFY010000031.1	51376	52197	+	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	G3_1a	GCF_017176505.1
+1847537	RefSeq	NZ_JAEVFZ010000031.1	22111	22932	-	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	G3_3b	GCF_017176495.1
+1847537	RefSeq	NZ_JAFEKE010000031.1	51232	52053	+	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	G3_5a	GCF_017176535.1
+1847537	RefSeq	NZ_JAJSOL010000008.1	51760	52581	+	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	CUEA02	GCF_028335065.1
+1847537	RefSeq	NZ_JAQCRM010000004.1	49221	50042	-	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	AF101-19	GCF_027687085.1
+1847537	RefSeq	NZ_JARUNZ010000058.1	21751	22572	+	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	csp1.3	GCF_029715615.1
+1847537	RefSeq	NZ_LN908213.1	2479788	2480609	+	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii		GCF_900010805.1
+1847537	RefSeq	NZ_LZZB01000069.1	24175	24996	+	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	NRRL B-596	GCF_002006435.1
+1847537	RefSeq	NZ_LZZI01000051.1	16340	17161	+	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	DSM 53	GCF_002006205.1
+1847537	RefSeq	NZ_LZZJ01000255.1	60032	60853	-	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	NRRL B-593	GCF_002006325.1
+1847537	RefSeq	NZ_LZZK01000007.1	51340	52161	+	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	NRRL B-528	GCF_002006405.1
+1847537	RefSeq	NZ_MWMH01000011.1	130570	131391	-	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	Br21	GCF_002009885.1
+1847537	RefSeq	NZ_PQCR01000024.1	44733	45554	+	WP_077839355.1	nitrogenase iron protein	Clostridium sp. 2-1	2-1	GCF_002915295.1
+1847537	RefSeq	NZ_WWUA01000022.1	52056	52877	+	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	BIOML-A11	GCF_009876465.1
+1847537	RefSeq	NZ_WWUB01000022.1	55204	56025	+	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	BIOML-A10	GCF_009876475.1
+1847537	RefSeq	NZ_WWUC01000020.1	52056	52877	+	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	BIOML-A9	GCF_009876525.1
+1847537	RefSeq	NZ_WWUD01000023.1	52056	52877	+	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	BIOML-A8	GCF_009876515.1
+1847537	RefSeq	NZ_WWUE01000020.1	52056	52877	+	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	BIOML-A7	GCF_009876565.1
+1847537	RefSeq	NZ_WWUF01000022.1	52056	52877	+	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	BIOML-A6	GCF_009876575.1
+1847537	RefSeq	NZ_WWUG01000019.1	52056	52877	+	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	BIOML-A5	GCF_009876555.1
+1847537	RefSeq	NZ_WWUH01000020.1	52056	52877	+	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	BIOML-A4	GCF_009876605.1
+1847537	RefSeq	NZ_WWUI01000020.1	52056	52877	+	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	BIOML-A3	GCF_009876625.1
+1847537	RefSeq	NZ_WWUJ01000021.1	52056	52877	+	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	BIOML-A2	GCF_009876655.1
+1847537	RefSeq	NZ_WWUK01000021.1	52056	52877	+	WP_077839355.1	nitrogenase iron protein	Clostridium beijerinckii	BIOML-A1	GCF_009876665.1
+1847537	INSDC	AF266462.3	2452	3273	+	AAF77055.2	nitrogenase iron protein	Clostridium beijerinckii	NRRL B593	
+1847537	INSDC	LN908213.1	2479788	2480609	+	CUU47494.1	Nitrogenase iron protein 5	Clostridium beijerinckii		GCA_900010805.1
+1847537	INSDC	JACGYY010000001.1	3540520	3541341	-	MBA8935377.1	nitrogenase iron protein NifH	Clostridium beijerinckii	DJ028	GCA_014137795.1
+1847537	INSDC	JABAGW010000034.1	27282	28103	-	MBC2458436.1	nitrogenase iron protein	Clostridium beijerinckii	DJ083	GCA_014230745.1
+1847537	INSDC	JABAGV010000036.1	27281	28102	-	MBC2475857.1	nitrogenase iron protein	Clostridium beijerinckii	DJ015	GCA_014230655.1
+1847537	INSDC	JAEVFY010000031.1	51376	52197	+	MBN7575745.1	nitrogenase iron protein	Clostridium beijerinckii	G3_1a	GCA_017176505.1
+1847537	INSDC	JAEVFZ010000031.1	22111	22932	-	MBN7580909.1	nitrogenase iron protein	Clostridium beijerinckii	G3_3b	GCA_017176495.1
+1847537	INSDC	JAFEKE010000031.1	51232	52053	+	MBN7585521.1	nitrogenase iron protein	Clostridium beijerinckii	G3_5a	GCA_017176535.1
+1847537	INSDC	JAERQL010000025.1	22111	22932	-	MBO0521162.1	nitrogenase iron protein	Clostridium beijerinckii	3_8b	GCA_017330245.1
+1847537	INSDC	JALCJE010000028.1	53530	54351	+	MCI1580543.1	nitrogenase iron protein	Clostridium beijerinckii		GCA_022646365.1
+1847537	INSDC	JALCJM010000031.1	43300	44121	+	MCI1583963.1	nitrogenase iron protein	Clostridium beijerinckii		GCA_022646625.1
+1847537	INSDC	JALCJW010000043.1	10066	10887	-	MCI1624294.1	nitrogenase iron protein	Clostridium beijerinckii		GCA_022646985.1
+1847537	INSDC	WWUH01000020.1	52056	52877	+	MZK51514.1	nitrogenase iron protein	Clostridium beijerinckii	BIOML-A4	GCA_009876605.1
+1847537	INSDC	WWUB01000022.1	55204	56025	+	MZK59789.1	nitrogenase iron protein	Clostridium beijerinckii	BIOML-A10	GCA_009876475.1
+1847537	INSDC	WWUD01000023.1	52056	52877	+	MZK70006.1	nitrogenase iron protein	Clostridium beijerinckii	BIOML-A8	GCA_009876515.1
+1847537	INSDC	WWUA01000022.1	52056	52877	+	MZK75308.1	nitrogenase iron protein	Clostridium beijerinckii	BIOML-A11	GCA_009876465.1
+1847537	INSDC	WWUE01000020.1	52056	52877	+	MZK84924.1	nitrogenase iron protein	Clostridium beijerinckii	BIOML-A7	GCA_009876565.1
+1847537	INSDC	WWUF01000022.1	52056	52877	+	MZK99471.1	nitrogenase iron protein	Clostridium beijerinckii	BIOML-A6	GCA_009876575.1
+1847537	INSDC	WWUC01000020.1	52056	52877	+	MZL09100.1	nitrogenase iron protein	Clostridium beijerinckii	BIOML-A9	GCA_009876525.1
+1847537	INSDC	WWUK01000021.1	52056	52877	+	MZL19121.1	nitrogenase iron protein	Clostridium beijerinckii	BIOML-A1	GCA_009876665.1
+1847537	INSDC	WWUG01000019.1	52056	52877	+	MZL28985.1	nitrogenase iron protein	Clostridium beijerinckii	BIOML-A5	GCA_009876555.1
+1847537	INSDC	WWUI01000020.1	52056	52877	+	MZL38421.1	nitrogenase iron protein	Clostridium beijerinckii	BIOML-A3	GCA_009876625.1
+1847537	INSDC	WWUJ01000021.1	52056	52877	+	MZL48325.1	nitrogenase iron protein	Clostridium beijerinckii	BIOML-A2	GCA_009876655.1
+1847537	INSDC	JABAGD010000034.1	48751	49572	+	NMF06458.1	nitrogenase iron protein	Clostridium beijerinckii	WB01_NA02	GCA_012843965.1
+1847537	INSDC	JABFUM010000001.1	1485593	1486414	+	NOV59495.1	nitrogenase iron protein NifH	Clostridium beijerinckii	DJ077	GCA_013149565.1
+1847537	INSDC	JABFUL010000005.1	350314	351135	+	NOV72650.1	nitrogenase iron protein NifH	Clostridium beijerinckii	DJ076	GCA_013149515.1
+1847537	INSDC	JABFUE010000001.1	1212535	1213356	+	NOW03549.1	nitrogenase iron protein NifH	Clostridium beijerinckii	DJ051	GCA_013149485.1
+1847537	INSDC	JABFUP010000002.1	2219749	2220570	-	NOW34651.1	nitrogenase iron protein NifH	Clostridium beijerinckii	DJ091	GCA_013149425.1
+1847537	INSDC	JABFUN010000001.1	2426451	2427272	-	NOW84397.1	nitrogenase iron protein NifH	Clostridium beijerinckii	DJ078	GCA_013149405.1
+1847537	INSDC	JABSWC010000001.1	2672679	2673500	+	NRT34452.1	nitrogenase iron protein NifH	Clostridium beijerinckii	DJ030	GCA_013294155.1
+1847537	INSDC	JABSWJ010000001.1	3226119	3226940	-	NRT46117.1	nitrogenase iron protein NifH	Clostridium beijerinckii	DJ034	GCA_013294345.1
+1847537	INSDC	JABSWL010000001.1	1208004	1208825	+	NRT71104.1	nitrogenase iron protein NifH	Clostridium beijerinckii	DJ036	GCA_013294365.1
+1847537	INSDC	JABSWW010000001.1	1992952	1993773	-	NRT88200.1	nitrogenase iron protein NifH	Clostridium beijerinckii	DJ080	GCA_013294615.1
+1847537	INSDC	JABSWK010000001.1	4362965	4363786	-	NRU39771.1	nitrogenase iron protein NifH	Clostridium beijerinckii	DJ035	GCA_013294375.1
+1847537	INSDC	JABTAE010000001.1	4571213	4572034	+	NRY62934.1	nitrogenase iron protein NifH	Clostridium beijerinckii	DJ316	GCA_013296325.1
+1847537	INSDC	JABTAG010000001.1	1398363	1399184	+	NRZ19881.1	nitrogenase iron protein NifH	Clostridium beijerinckii	DJ323	GCA_013296395.1
+1847537	INSDC	JABTBM010000002.1	1974736	1975557	+	NSA96950.1	nitrogenase iron protein NifH	Clostridium beijerinckii	DJ124	GCA_013294205.1
+1847537	INSDC	JABTDW010000001.1	4217978	4218799	-	NSB15456.1	nitrogenase iron protein NifH	Clostridium beijerinckii	DJ123	GCA_013297045.1
+1847537	INSDC	JACAZK010000001.1	3644378	3645199	-	NYC03309.1	nitrogenase iron protein NifH	Clostridium beijerinckii	DJ031	GCA_013407535.1
+1847537	INSDC	JACBNK010000002.1	23050	23871	-	NYC73657.1	nitrogenase iron protein NifH	Clostridium beijerinckii	DJ281	GCA_013407255.1
+1847537	INSDC	LZZB01000069.1	24175	24996	+	OOM25779.1	nitrogenase iron protein 1	Clostridium beijerinckii	NRRL B-596	GCA_002006435.1
+1847537	INSDC	LZZJ01000255.1	60032	60853	-	OOM54107.1	nitrogenase iron protein 1	Clostridium beijerinckii	NRRL B-593	GCA_002006325.1
+1847537	INSDC	LZZI01000051.1	16340	17161	+	OOM60418.1	nitrogenase iron protein 1	Clostridium beijerinckii	DSM 53	GCA_002006205.1
+1847537	INSDC	LZZK01000007.1	51340	52161	+	OOM71908.1	nitrogenase iron protein 1	Clostridium beijerinckii	NRRL B-528	GCA_002006405.1
+1847537	INSDC	MWMH01000011.1	130570	131391	-	OOP70970.1	nitrogenase iron protein	Clostridium beijerinckii	Br21	GCA_002009885.1
+1847537	INSDC	PQCR01000024.1	44733	45554	+	POO91226.1	nitrogenase iron protein	Clostridium sp. 2-1	2-1	GCA_002915295.1
+1847537	INSDC	CP107022.1	1215247	1216068	+	UYZ37136.1	nitrogenase iron protein	Clostridium beijerinckii	CloBei18h	GCA_025962575.1

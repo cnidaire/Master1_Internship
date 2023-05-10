@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+57978602	RefSeq	NZ_AUZA01000009.1	122237	122986	+	WP_076040434.1	nitrogenase iron protein NifH	Clostridium botulinum A2B7 92	A2B7 92	GCF_000711005.1
+57978602	INSDC	AUZA01000009.1	122237	122986	+	KEJ00109.1	nitrogenase iron protein	Clostridium botulinum A2B7 92	A2B7 92	GCA_000711005.1

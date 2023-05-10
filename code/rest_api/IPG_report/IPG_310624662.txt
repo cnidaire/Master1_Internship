@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+310624662	RefSeq	NZ_JAATJA010000002.1	311345	312112	-	WP_167941290.1	nitrogen fixation protein NifH	Desulfobaculum xiamenense	DSM 24233	GCF_011927665.1
+310624662	INSDC	JAATJA010000002.1	311345	312112	-	NJB68204.1	nitrogenase iron protein NifH	Desulfobaculum xiamenense	DSM 24233	GCA_011927665.1

@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+111118993	RefSeq	NZ_CP014007.2	2830838	2831719	+	WP_064566545.1	nitrogenase iron protein	Kosakonia oryzae	Ola 51	GCF_001658025.2
+111118993	RefSeq	NZ_FOKO01000002.1	496923	497804	-	WP_064566545.1	nitrogenase iron protein	Kosakonia oryzae	CGMCC 1.7012	GCF_900112145.1
+111118993	INSDC	CP014007.2	2830838	2831719	+	ANI83083.1	nitrogenase iron protein	Kosakonia oryzae	Ola 51	GCA_001658025.2
+111118993	INSDC	FOKO01000002.1	496923	497804	-	SFC10412.1	Mo-nitrogenase iron protein subunit NifH	Kosakonia oryzae	CGMCC 1.7012	GCA_900112145.1

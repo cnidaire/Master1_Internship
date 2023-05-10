@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+18772765	RefSeq	NC_015437.1	1359472	1360284	-	WP_006192285.1	nitrogenase iron protein NifH	Selenomonas sputigena ATCC 35185	ATCC 35185	GCF_000208405.1
+18772765	RefSeq	NZ_GG698596.1	949185	949997	+	WP_006192285.1	nitrogenase iron protein NifH	Selenomonas sputigena ATCC 35185	ATCC 35185	GCF_000160495.1
+18772765	INSDC	CP002637.1	1359472	1360284	-	AEC00164.1	Nitrogenase	Selenomonas sputigena ATCC 35185	ATCC 35185	GCA_000208405.1
+18772765	INSDC	ACKP02000015.1	244528	245340	+	EEX77752.1	putative nitrogenase iron protein	Selenomonas sputigena ATCC 35185	ATCC 35185	GCA_000160495.1
+18772765	INSDC	GG698596.1	949185	949997	+	EEX77752.1	putative nitrogenase iron protein	Selenomonas sputigena ATCC 35185	ATCC 35185	GCA_000160495.1

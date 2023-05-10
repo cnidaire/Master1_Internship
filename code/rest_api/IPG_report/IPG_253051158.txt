@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+253051158	RefSeq	NZ_SPHT01000016.1	14271	15047	+	WP_138375961.1	nitrogenase iron protein NifH	Dorea longicatena	1001175st1_H1	GCF_005844655.1
+253051158	INSDC	JAJCHH010000026.1	29882	30658	-	MCB7081337.1	nitrogenase iron protein NifH	bacterium 210928-DFI.3.100	DFI.3.100	GCA_020554405.1
+253051158	INSDC	JALEMM010000050.1	7477	8253	-	MCI5769768.1	nitrogenase iron protein NifH	Dorea longicatena		GCA_022767975.1

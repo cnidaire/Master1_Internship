@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+185314362	RefSeq	NZ_CP031751.1	716367	717239	-	WP_108222354.1	nitrogenase iron protein NifH	Cereibacter sphaeroides	EBL0706	GCF_003429265.1
+185314362	RefSeq	NZ_CP090022.1	337522	338394	+	WP_108222354.1	nitrogenase iron protein NifH	Cereibacter azotoformans	SY5	GCF_021391315.1
+185314362	RefSeq	NZ_QAOT01000023.1	26980	27852	+	WP_108222354.1	nitrogenase iron protein NifH	Cereibacter azotoformans	KA25	GCF_003050905.1
+185314362	INSDC	CP031751.1	716367	717239	-	AXQ95733.1	nitrogenase iron protein	Cereibacter sphaeroides	EBL0706	GCA_003429265.1
+185314362	INSDC	QAOT01000023.1	26980	27852	+	PTR12971.1	nitrogenase iron protein NifH	Cereibacter azotoformans	KA25	GCA_003050905.1
+185314362	INSDC	CP090022.1	337522	338394	+	UIJ32767.1	nitrogenase iron protein NifH	Cereibacter azotoformans	SY5	GCA_021391315.1

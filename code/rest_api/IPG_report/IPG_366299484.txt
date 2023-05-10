@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+366299484	INSDC	JADBLO010000094.1	67472	68503	-	MBE3122292.1	nitrogen fixation protein NifH	Thermoplasmata archaeon		GCA_014894395.1
+366299484	INSDC	JADBLJ010000238.1	5473	6504	+	MBE3140103.1	nitrogen fixation protein NifH	Thermoplasmata archaeon		GCA_014894475.1

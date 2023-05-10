@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+15706026	INSDC	EU697999.1	1	498	+	ACI47350.1	NifH	Mesorhizobium temperatum	CCNWNX0085	

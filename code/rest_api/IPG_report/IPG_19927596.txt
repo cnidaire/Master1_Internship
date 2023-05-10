@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+19927596	RefSeq	NC_021022.1	1668890	1669651	+	WP_015541880.1	nitrogenase iron protein NifH	Blautia obeum A2-162	A2-162	GCF_000210015.1
+19927596	INSDC	FP929054.1	1668890	1669651	+	CBL23059.1	Mo-nitrogenase iron protein subunit NifH	Blautia obeum A2-162	A2-162	GCA_000210015.1

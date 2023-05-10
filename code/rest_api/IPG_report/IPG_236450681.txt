@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+236450681	RefSeq	NZ_LR130816.1	1042316	1043113	+	WP_130848918.1	nitrogenase iron protein NifH	Intestinimonas timonensis	GD4	GCF_900626145.1

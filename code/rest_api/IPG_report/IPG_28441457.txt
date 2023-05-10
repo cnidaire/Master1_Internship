@@ -1,0 +1,10 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+28441457	RefSeq	NZ_AKVJ01000031.1	134870	135691	-	WP_007936450.1	nitrogenase iron protein	Pelosinus fermentans B4	B4	GCF_000271505.1
+28441457	RefSeq	NZ_AKVM01000074.1	111166	111987	+	WP_007936450.1	nitrogenase iron protein	Pelosinus fermentans A11	A11	GCF_000271545.1
+28441457	RefSeq	NZ_AKVN02000001.1	2115123	2115944	-	WP_007936450.1	nitrogenase iron protein	Pelosinus fermentans DSM 17108	R7	GCF_000271485.2
+28441457	RefSeq	NZ_AMZI01000039.1	39038	39859	-	WP_007936450.1	nitrogenase iron protein	Pelosinus sp. HCF1	HCF1	GCF_000317005.1
+28441457	RefSeq	NZ_FNKF01000002.1	2115123	2115944	-	WP_007936450.1	nitrogenase iron protein	Pelosinus fermentans	R7, DSM 17108	GCF_900100555.1
+28441457	INSDC	AKVJ01000031.1	134870	135691	-	EIW17144.1	nitrogenase iron protein	Pelosinus fermentans B4	B4	GCA_000271505.1
+28441457	INSDC	AKVM01000074.1	111166	111987	+	EIW23057.1	Nitrogenase iron protein	Pelosinus fermentans A11	A11	GCA_000271545.1
+28441457	INSDC	AKVN02000001.1	2115123	2115944	-	OAM93901.1	Nitrogenase iron protein	Pelosinus fermentans DSM 17108	R7	GCA_000271485.2
+28441457	INSDC	FNKF01000002.1	2115123	2115944	-	SDQ93888.1	Mo-nitrogenase iron protein subunit NifH	Pelosinus fermentans	R7, DSM 17108	GCA_900100555.1

@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+57430919	RefSeq	NZ_FMXM01000054.1	902	1795	+	WP_038654982.1	nitrogenase iron protein	Mesorhizobium qingshengii	CGMCC 1.12097	GCF_900103325.1
+57430919	RefSeq	NZ_JAKVPV010000069.1	676	1569	+	WP_038654982.1	nitrogenase iron protein	Mesorhizobium jarvisii	CAASH41096	GCF_022487465.1
+57430919	INSDC	CP006583.2	96851	97744	+	AID34766.1	nitrogenase iron protein	Mesorhizobium huakuii 7653R	7653R	GCA_000709395.2
+57430919	INSDC	JAKVPV010000069.1	676	1569	+	MCH4561183.1	nitrogenase iron protein	Mesorhizobium jarvisii	CAASH41096	GCA_022487465.1
+57430919	INSDC	FMXM01000054.1	902	1795	+	SDA99703.1	Mo-nitrogenase iron protein subunit NifH	Mesorhizobium qingshengii	CGMCC 1.12097	GCA_900103325.1

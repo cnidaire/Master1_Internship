@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+109685851	RefSeq	NZ_LN890656.1	42904	43944	-	WP_095044970.1	nitrogen fixation protein NifH	Candidatus Promineofilum breve	Cfx-K	GCF_900066015.1
+109685851	INSDC	LN890656.1	42904	43944	-	CUS05575.1	Nitrogenase subunit NifH (ATPase)-like protein	Candidatus Promineofilum breve	Cfx-K	GCA_900066015.1

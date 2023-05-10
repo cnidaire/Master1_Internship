@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+120711568	RefSeq	NZ_FMUX01000042.1	9539	10363	+	WP_092215976.1	nitrogenase iron protein	Desulfoluna spongiiphila	AA1	GCF_900101345.1
+120711568	RefSeq	NZ_LR701292.1	1756530	1757354	+	WP_092215976.1	nitrogenase iron protein	Desulfoluna spongiiphila		GCF_902498735.1
+120711568	INSDC	FMUX01000042.1	9539	10363	+	SCY90881.1	Mo-nitrogenase iron protein subunit NifH	Desulfoluna spongiiphila	AA1	GCA_900101345.1
+120711568	INSDC	CABVLC010000002.1	1370174	1370998	+	VVS91836.1	nitrogenase iron protein nifh	Desulfoluna spongiiphila		GCA_902498735.1
+120711568	INSDC	LR701292.1	1756530	1757354	+	VVS91836.1	nitrogenase iron protein nifh	Desulfoluna spongiiphila		GCA_902498735.1

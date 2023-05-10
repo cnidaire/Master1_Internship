@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+147900738	RefSeq	NZ_FXBR01000005.1	379738	380640	+	WP_085555032.1	nitrogenase iron protein	Azospirillum lipoferum	R1C	GCF_900177475.1
+147900738	RefSeq	NZ_JAGINM010000011.1	45548	46450	-	WP_085555032.1	nitrogenase iron protein	Azospirillum agricola	CC-HIH038	GCF_017876095.1
+147900738	RefSeq	NZ_JAIFZR010000005.1	379738	380640	+	WP_085555032.1	nitrogenase iron protein	Azospirillum agricola	R1C	GCF_020005195.1
+147900738	INSDC	JAGINM010000011.1	45548	46450	-	MBP2230200.1	nitrogenase iron protein NifH	Azospirillum agricola	CC-HIH038	GCA_017876095.1
+147900738	INSDC	FXBR01000005.1	379738	380640	+	SMH53228.1	Mo-nitrogenase iron protein subunit NifH	Azospirillum lipoferum	R1C	GCA_900177475.1

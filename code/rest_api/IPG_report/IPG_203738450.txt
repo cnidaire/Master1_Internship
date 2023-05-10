@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+203738450	INSDC	DMNO01000156.1	3547	4308	-	HAM68909.1	nitrogen fixation protein NifH	Ruminococcus sp.		GCA_003452715.1

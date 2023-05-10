@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+13010953	RefSeq	NC_009706.1	2543863	2544618	-	WP_012102807.1	nitrogenase iron protein NifH	Clostridium kluyveri DSM 555	DSM 555	GCF_000016505.1
+13010953	RefSeq	NC_011837.1	2475366	2476121	-	WP_012102807.1	nitrogenase iron protein NifH	Clostridium kluyveri NBRC 12016	NBRC 12016	GCF_000010265.1
+13010953	INSDC	AP009049.1	2475366	2476121	-	BAH07226.1	hypothetical protein	Clostridium kluyveri NBRC 12016	NBRC 12016	GCA_000010265.1
+13010953	INSDC	CP000673.1	2543863	2544618	-	EDK34473.1	NifH3	Clostridium kluyveri DSM 555	DSM 555	GCA_000016505.1

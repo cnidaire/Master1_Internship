@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+197901825	RefSeq	NZ_CABIWO010000001.1	1841569	1842312	-	WP_114542990.1	nitrogenase iron protein NifH	Paraclostridium bifermentans		GCF_902362415.1
+197901825	RefSeq	NZ_JAGZZZ010000005.1	195501	196244	-	WP_114542990.1	nitrogenase iron protein NifH	Paraclostridium bifermentans		GCF_018377115.1
+197901825	INSDC	JAGZZZ010000005.1	195501	196244	-	MBS6507602.1	AAA family ATPase	Paraclostridium bifermentans		GCA_018377115.1
+197901825	INSDC	QPKU01000259.1	3370	4113	-	RDC49935.1	nitrogenase iron protein	Acinetobacter sp. RIT592	RIT592	GCA_003340505.1

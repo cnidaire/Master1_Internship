@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+73127051	RefSeq	NZ_KI273051.1	23495	24307	+	WP_040636613.1	nitrogenase iron protein NifH	Mitsuokella sp. oral taxon 131 str. W9106	W9106	GCF_000469545.1

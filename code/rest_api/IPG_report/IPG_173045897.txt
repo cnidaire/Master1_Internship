@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+173045897	INSDC	PHEV01000009.1	28958	29944	+	PKQ24567.1	nitrogen fixation protein NifH	Actinobacteria bacterium HGW-Actinobacteria-5		GCA_002843035.1

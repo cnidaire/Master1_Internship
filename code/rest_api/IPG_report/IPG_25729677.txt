@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+25729677	RefSeq	NC_016622.1	639402	640298	-	WP_014247088.1	nitrogenase iron protein	Azospirillum lipoferum 4B	4B	GCF_000283655.1
+25729677	RefSeq	NZ_VTTO01000003.1	53020	53916	-	WP_014247088.1	nitrogenase iron protein	Azospirillum sp. B21	B21	GCF_008364825.1
+25729677	INSDC	FQ311868.1	639402	640298	-	CBS86044.1	nitrogenase iron protein, nifH; dinitrogenase reductase	Azospirillum lipoferum 4B	4B	GCA_000283655.1
+25729677	INSDC	VTTO01000003.1	53020	53916	-	KAA0580981.1	nitrogenase iron protein	Azospirillum sp. B21	B21	GCA_008364825.1

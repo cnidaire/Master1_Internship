@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+134103625	INSDC	MNRE01000141.1	12029	12688	+	OKZ51995.1	nitrogen fixation protein NifH	Clostridiales bacterium 41_21_two_genomes		GCA_001915775.1

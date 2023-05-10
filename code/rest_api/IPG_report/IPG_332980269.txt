@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+332980269	RefSeq	NZ_JACHDE010000019.1	72967	73848	+	WP_176383403.1	nitrogenase iron protein	Paraburkholderia youngii	JPY162	GCF_014200925.1
+332980269	RefSeq	NZ_VOMD01000030.1	17420	18301	-	WP_176383403.1	nitrogenase iron protein	Paraburkholderia youngii	JPY432	GCF_013371975.1
+332980269	INSDC	JACHDE010000019.1	72967	73848	+	MBB5404365.1	nitrogenase iron protein NifH	Paraburkholderia youngii	JPY162	GCA_014200925.1
+332980269	INSDC	VOMD01000030.1	17420	18301	-	NVH76812.1	nitrogenase iron protein	Paraburkholderia youngii	JPY432	GCA_013371975.1

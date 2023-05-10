@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+237796490	RefSeq	NZ_JACIGF010000005.1	70267	71151	-	WP_132708440.1	nitrogenase iron protein	Rhodothalassium salexigens DSM 2132	DSM 2132	GCF_014197775.1
+237796490	RefSeq	NZ_NRRX01000065.1	13069	13953	-	WP_132708440.1	nitrogenase iron protein	Rhodothalassium salexigens DSM 2132	DSM 2132	GCF_016583875.1
+237796490	RefSeq	NZ_SLXO01000005.1	161680	162564	+	WP_132708440.1	nitrogenase iron protein	Rhodothalassium salexigens DSM 2132	DSM 2132	GCF_004341375.1
+237796490	INSDC	JACIGF010000005.1	70267	71151	-	MBB4211557.1	nitrogenase iron protein NifH	Rhodothalassium salexigens DSM 2132	DSM 2132	GCA_014197775.1
+237796490	INSDC	NRRX01000065.1	13069	13953	-	MBK1639795.1	nitrogenase iron protein	Rhodothalassium salexigens DSM 2132	DSM 2132	GCA_016583875.1
+237796490	INSDC	SLXO01000005.1	161680	162564	+	TCP34511.1	nitrogenase iron protein NifH	Rhodothalassium salexigens DSM 2132	DSM 2132	GCA_004341375.1

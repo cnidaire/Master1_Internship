@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+18140174	INSDC	GQ167292.1	1	825	+	ACT67949.1	NifH	Mesorhizobium amorphae	CCBAU 11242	

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+23455321	INSDC	HQ836202.1	1	668	+	AEF33309.1	NifH	Leptolyngbya sp. LCRNK_20	LCRNK_20	

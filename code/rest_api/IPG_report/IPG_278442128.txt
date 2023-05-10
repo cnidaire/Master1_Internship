@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+278442128	RefSeq	NZ_JACIGE010000001.1	57264	58091	+	WP_153117131.1	nitrogenase iron protein	Rhodocyclus tenuis	2761	GCF_014197755.1
+278442128	INSDC	JACIGE010000001.1	57264	58091	+	MBB4245699.1	nitrogenase iron protein NifH	Rhodocyclus tenuis	2761	GCA_014197755.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+41121224	RefSeq	NZ_KB900391.1	944443	945222	-	WP_020493346.1	nitrogenase iron protein NifH	Desulfitobacterium hafniense TCP-A	TCP-A	GCF_000378805.1

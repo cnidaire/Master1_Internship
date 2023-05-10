@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+13799777	RefSeq	NC_013552.1	1345541	1346578	-	WP_228368647.1	nitrogen fixation protein NifH	Dehalococcoides mccartyi VS	VS	GCF_000025025.1

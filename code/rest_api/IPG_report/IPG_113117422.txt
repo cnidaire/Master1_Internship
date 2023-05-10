@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+113117422	INSDC	KU886163.1	1	894	+	ANQ45515.1	NifH	Nostoc flagelliforme NX-09	NX-09	

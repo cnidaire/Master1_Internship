@@ -1,0 +1,8 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+105297914	RefSeq	NZ_CP115659.1	2679649	2680530	+	WP_061495732.1	nitrogenase iron protein	Kosakonia oryzendophytica	FY-07	GCF_027886705.1
+105297914	RefSeq	NZ_FMAY01000009.1	180043	180924	-	WP_061495732.1	nitrogenase iron protein	Kosakonia oryzendophytica	REICA_082	GCF_900094925.1
+105297914	RefSeq	NZ_FYBE01000083.1	179827	180708	-	WP_061495732.1	nitrogenase iron protein	Kosakonia oryzendophytica		GCF_900185945.1
+105297914	INSDC	CP012487.1	3062094	3062975	-	AMO49431.1	Nitrogenase iron protein	Enterobacter sp. FY-07	FY-07	GCA_001582075.1
+105297914	INSDC	FMAY01000009.1	180043	180924	-	SCC24668.1	Mo-nitrogenase iron protein subunit NifH	Kosakonia oryzendophytica	REICA_082	GCA_900094925.1
+105297914	INSDC	SOBB01000001.1	1320925	1321806	+	TDT59666.1	Mo-nitrogenase iron protein subunit NifH	Enterobacter sp. AG5470	AG5470	GCA_004379835.1
+105297914	INSDC	CP115659.1	2679649	2680530	+	WBT56112.1	nitrogenase iron protein	Kosakonia oryzendophytica	FY-07	GCA_027886705.1

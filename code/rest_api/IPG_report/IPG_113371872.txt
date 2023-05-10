@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+113371872	INSDC	KT832408.1	1	311	+	ANS71371.1	NifH	Stigonema elegans WYS5-11		

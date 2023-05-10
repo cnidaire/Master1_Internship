@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+294709312	INSDC	JAACRF010000299.1	1	496	+	NCQ53753.1	nitrogen fixation protein NifH	Caldisericota bacterium		GCA_009994535.1

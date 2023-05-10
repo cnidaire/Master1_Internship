@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+156942378	RefSeq	NZ_NOKA02000001.1	323649	324383	+	WP_094378172.1	nitrogenase iron protein NifH	Lachnotalea glycerini	CCRI-19302	GCF_002251225.2
+156942378	RefSeq	NZ_QICS01000001.1	437650	438384	-	WP_094378172.1	nitrogenase iron protein NifH	Lachnotalea glycerini	DSM 28816	GCF_003201285.1
+156942378	INSDC	QICS01000001.1	437650	438384	-	PXV95726.1	nitrogenase iron protein NifH	Lachnotalea glycerini	DSM 28816	GCA_003201285.1
+156942378	INSDC	NOKA02000001.1	323649	324383	+	RDY33205.1	nitrogenase iron protein	Lachnotalea glycerini	CCRI-19302	GCA_002251225.2

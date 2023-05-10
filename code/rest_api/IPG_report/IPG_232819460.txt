@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+232819460	INSDC	RPGO01000033.1	42539	43357	+	RZB28926.1	nitrogenase iron protein NifH	Candidatus Argoarchaeum ethanivorans		GCA_004193545.1

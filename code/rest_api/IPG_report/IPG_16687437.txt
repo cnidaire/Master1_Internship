@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+16687437	INSDC	FJ623146.1	1	469	+	ACN69182.1	NifH	Mesorhizobium sp. LMG 4270	LMG 4270	
+16687437	INSDC	FJ623148.1	1	469	+	ACN69184.1	NifH	Mesorhizobium sp. rob11	rob11	

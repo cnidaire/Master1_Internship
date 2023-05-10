@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+20804220	INSDC	HM146187.1	694	1560	+	ADM26623.1	nitrognesae reductase NifH	Paenibacillus polymyxa	P2b-2R	

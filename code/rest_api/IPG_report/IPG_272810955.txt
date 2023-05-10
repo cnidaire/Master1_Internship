@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+272810955	RefSeq	NZ_OW485601.1	2779133	2780008	+	WP_150040423.1	nitrogenase iron protein NifH	Rhodovastum atsumiense	G2-11	GCF_937425535.1
+272810955	RefSeq	NZ_VWPK01000011.1	116483	117358	-	WP_150040423.1	nitrogenase iron protein NifH	Rhodovastum atsumiense	DSM 21279	GCF_008630155.1
+272810955	INSDC	OW485601.1	2779133	2780008	+	CAH2601293.1	Nitrogenase iron protein 2	Rhodovastum atsumiense	G2-11	GCA_937425535.1
+272810955	INSDC	VWPK01000011.1	116483	117358	-	KAA5612608.1	AAA family ATPase	Rhodovastum atsumiense	DSM 21279	GCA_008630155.1

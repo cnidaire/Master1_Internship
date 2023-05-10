@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+130728297	RefSeq	NZ_FQXM01000009.1	87100	87936	+	WP_073338252.1	nitrogenase iron protein	Clostridium grantii DSM 8605	DSM 8605	GCF_900129965.1
+130728297	INSDC	FQXM01000009.1	87100	87936	+	SHH67399.1	nitrogenase iron protein NifH	Clostridium grantii DSM 8605	DSM 8605	GCA_900129965.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+197801753	RefSeq	NZ_QPJT01000003.1	69957	70715	+	WP_114296397.1	nitrogenase iron protein NifH	Anaerobacterium chartisolvens	DSM 27016	GCF_003337415.1
+197801753	INSDC	QPJT01000003.1	69957	70715	+	RCX19322.1	nitrogenase iron protein NifH	Anaerobacterium chartisolvens	DSM 27016	GCA_003337415.1

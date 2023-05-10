@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+171898895	RefSeq	NZ_CP017768.1	1486799	1487806	-	WP_100909309.1	terpene cyclase/mutase family protein	Methanobacterium subterraneum	A8p	GCF_002813695.1
+171898895	INSDC	CP017768.1	1486799	1487806	-	AUB60468.1	nitrogen fixation protein NifH	Methanobacterium subterraneum	A8p	GCA_002813695.1

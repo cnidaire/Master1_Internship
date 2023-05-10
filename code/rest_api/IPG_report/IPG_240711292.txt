@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+240711292	RefSeq	NZ_QFFZ01000027.1	30957	31766	+	WP_134214232.1	nitrogenase iron protein NifH	Pelotomaculum propionicicum	MGP	GCF_004369225.1
+240711292	INSDC	QFFZ01000027.1	30957	31766	+	TEB10398.1	Nitrogenase iron protein 1	Pelotomaculum propionicicum	MGP	GCA_004369225.1

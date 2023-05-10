@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+291323121	INSDC	JAFBDC010000004.1	40162	40989	+	MBM7866262.1	nitrogenase iron protein NifH	Heliomicrobium gestii	DSM 11169	GCA_016908025.1
+291323121	INSDC	WXEX01000005.1	255503	256330	-	MZP42944.1	nitrogenase iron protein	Heliomicrobium gestii	DSM 11169	GCA_009877435.1

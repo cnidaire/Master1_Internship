@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+54839013	RefSeq	NZ_JHWJ01000005.1	294731	295489	-	WP_026891450.1	nitrogenase iron protein NifH	[Clostridium] aerotolerans DSM 5434	DSM 5434	GCF_000687555.1

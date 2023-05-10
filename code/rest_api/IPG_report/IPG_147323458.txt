@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+147323458	RefSeq	NZ_FXAM01000003.1	16456	17337	+	WP_085216561.1	nitrogenase iron protein	Methylomagnum ishizawai	175	GCF_900155475.1
+147323458	INSDC	FXAM01000003.1	16456	17337	+	SMF97532.1	Mo-nitrogenase iron protein subunit NifH	Methylomagnum ishizawai	175	GCA_900155475.1

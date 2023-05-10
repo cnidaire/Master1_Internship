@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+156821229	RefSeq	NZ_CP026681.1	125661	126554	+	WP_094327394.1	nitrogenase iron protein	Nostoc sp. 'Peltigera membranacea cyanobiont' N6	N6	GCF_002949735.1
+156821229	RefSeq	NZ_NOLI01000002.1	25409	26302	+	WP_094327394.1	nitrogenase iron protein	Nostoc sp. 'Peltigera membranacea cyanobiont' 213	213	GCF_002245975.1
+156821229	RefSeq	NZ_WWFG01000001.1	332456	333349	-	WP_094327394.1	nitrogenase iron protein	Nostoc sp. KVJ3	KVJ3	GCF_026127265.1
+156821229	INSDC	CP026681.1	125661	126554	+	AVH61994.1	Mo-nitrogenase iron protein subunit NifH	Nostoc sp. 'Peltigera membranacea cyanobiont' N6	N6	GCA_002949735.1
+156821229	INSDC	NOLI01000002.1	25409	26302	+	OYD99451.1	nitrogenase iron protein	Nostoc sp. 'Peltigera membranacea cyanobiont' 213	213	GCA_002245975.1

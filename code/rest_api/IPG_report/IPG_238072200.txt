@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+238072200	INSDC	SMAO01000001.1	369172	370032	+	TCT24019.1	nitrogenase iron protein NifH	Thiobaca trueperi	DSM 13587	GCA_004342175.1

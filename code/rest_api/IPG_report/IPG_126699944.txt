@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+126699944	RefSeq	NZ_CADFGN010000023.1	33425	34306	-	WP_074987565.1	nitrogenase iron protein	Paraburkholderia tropica	LMG 22274	GCF_902833865.1
+126699944	RefSeq	NZ_FNZM01000033.1	33614	34495	-	WP_074987565.1	nitrogenase iron protein	Paraburkholderia tropica	LMG 22274	GCF_900109265.1
+126699944	RefSeq	NZ_JRQP01000034.1	28951	29832	+	WP_074987565.1	nitrogenase iron protein	Paraburkholderia tropica	KACC13422	GCF_007474615.1
+126699944	RefSeq	NZ_MSDZ01000007.1	29509	30390	+	WP_074987565.1	nitrogenase iron protein	Paraburkholderia tropica	Ppe8	GCF_002071575.1
+126699944	INSDC	RQIZ01000021.1	132967	133848	-	RQN36324.1	nitrogenase iron protein	Paraburkholderia tropica	BE15	GCA_003849695.1
+126699944	INSDC	FNZM01000033.1	33614	34495	-	SEK15020.1	Mo-nitrogenase iron protein subunit NifH	Paraburkholderia tropica	LMG 22274	GCA_900109265.1

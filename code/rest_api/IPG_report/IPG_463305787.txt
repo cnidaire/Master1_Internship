@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+463305787	RefSeq	NZ_JAHLQG010000043.1	86815	87576	+	WP_216460356.1	nitrogenase iron protein NifH	Blautia sp. MSJ-9	MSJ-9	GCF_018919065.1
+463305787	INSDC	JAHLQG010000043.1	86815	87576	+	MBU5681283.1	P-loop NTPase	Blautia sp. MSJ-9	MSJ-9	GCA_018919065.1

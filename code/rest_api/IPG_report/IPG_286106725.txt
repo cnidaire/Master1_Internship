@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+286106725	INSDC	WOUU01000463.1	1635	2258	+	KAF0120744.1	nifH	Methylocystaceae bacterium		GCA_009773015.1

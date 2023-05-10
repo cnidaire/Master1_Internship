@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+73250572	RefSeq	NZ_AORV01000033.1	118639	119502	-	WP_040761017.1	nitrogenase iron protein NifH	Ruminiclostridium cellobioparum subsp. termitidis CT1112	CT1112	GCF_000350485.1

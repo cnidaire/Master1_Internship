@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+210204204	INSDC	UOFM01000472.1	134	1012	-	VAW82484.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	hydrothermal vent metagenome		GCA_900491095.1

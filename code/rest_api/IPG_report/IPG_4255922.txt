@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+4255922	INSDC	DQ029204.1	1	308	+	AAY46308.1	NifH	Azonexus fungiphilus	LMG 19178	

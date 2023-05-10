@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+312306347	RefSeq	NZ_SIJA01000067.1	81537	82544	+	WP_167816148.1	nitrogen fixation protein NifH	Methanocorpusculum sp. GPch4	GPch4	GCF_012062385.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+78738364	RefSeq	NZ_JYNH01000002.1	56499	57326	+	WP_045572734.1	nitrogenase iron protein	Desulfosporosinus sp. I2	I2	GCF_000960765.1
+78738364	INSDC	JYNH01000002.1	56499	57326	+	KJR49376.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Desulfosporosinus sp. I2	I2	GCA_000960765.1

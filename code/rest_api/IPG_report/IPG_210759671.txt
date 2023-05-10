@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+210759671	INSDC	QZJE01000017.1	56878	57855	+	RJQ31363.1	nitrogen fixation protein NifH	Actinomycetota bacterium		GCA_003599235.1

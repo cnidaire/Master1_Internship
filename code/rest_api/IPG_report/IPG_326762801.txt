@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+326762801	RefSeq	NZ_CP053716.1	512931	513686	-	WP_173163920.1	nitrogenase iron protein NifH	Berryella wangjianweii	zg-1050	GCF_013201155.1
+326762801	INSDC	CP053716.1	512931	513686	-	QKF07073.1	AAA family ATPase	Berryella wangjianweii	zg-1050	GCA_013201155.1

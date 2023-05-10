@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+124881648	RefSeq	NZ_FNPI01000001.1	854280	855128	+	WP_090885364.1	nitrogenase iron protein	Evansella caseinilytica	SP	GCF_900107275.1
+124881648	INSDC	FNPI01000001.1	854280	855128	+	SDY24128.1	nitrogenase iron protein NifH	Evansella caseinilytica	SP	GCA_900107275.1

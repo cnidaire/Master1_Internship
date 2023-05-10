@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+639571	INSDC	AY098588.1	1	392	+	AAM22271.1	NifH	Paraburkholderia kururiensis	M130	
+639571	INSDC	AY098590.1	1	392	+	AAM22273.1	NifH	Paraburkholderia kururiensis JCM 10599 = LMG 19447	KP23	

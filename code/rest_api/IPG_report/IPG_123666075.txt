@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+123666075	RefSeq	NZ_FNCL01000001.1	326332	327222	+	WP_092419747.1	nitrogenase iron protein	Yangia pacifica	CGMCC 1.3455	GCF_900100725.1
+123666075	RefSeq	NZ_FOZW01000002.1	326801	327691	+	WP_092419747.1	nitrogenase iron protein	Yangia pacifica	DSM 26894	GCF_900116195.1
+123666075	INSDC	FNCL01000001.1	326332	327222	+	SDF98586.1	Mo-nitrogenase iron protein subunit NifH	Yangia pacifica	CGMCC 1.3455	GCA_900100725.1
+123666075	INSDC	FOZW01000002.1	326801	327691	+	SFS55728.1	Mo-nitrogenase iron protein subunit NifH	Yangia pacifica	DSM 26894	GCA_900116195.1

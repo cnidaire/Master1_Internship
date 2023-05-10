@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+147355920	RefSeq	NZ_CP029829.1	551592	552488	-	WP_085088510.1	nitrogenase iron protein	Azospirillum ramasamyi	M2T2B2	GCF_003233655.1
+147355920	RefSeq	NZ_FXAK01000007.1	845850	846746	-	WP_085088510.1	nitrogenase iron protein	Azospirillum oryzae	A2P	GCF_900177515.1
+147355920	INSDC	CP029829.1	551592	552488	-	AWU93239.1	nitrogenase iron protein	Azospirillum ramasamyi	M2T2B2	GCA_003233655.1
+147355920	INSDC	FXAK01000007.1	845850	846746	-	SMF70371.1	Mo-nitrogenase iron protein subunit NifH	Azospirillum oryzae	A2P	GCA_900177515.1

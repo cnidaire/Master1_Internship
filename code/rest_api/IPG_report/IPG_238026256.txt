@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+238026256	INSDC	SLZW01000007.1	146856	147752	+	TCS61741.1	nitrogenase iron protein NifH	Varunaivibrio sulfuroxidans	DSM 101688	GCA_004341725.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+127062695	RefSeq	NZ_FOUU01000006.1	24942	25772	-	WP_093395402.1	nitrogenase iron protein	Thermodesulforhabdus norvegica	DSM 9990	GCF_900114975.1
+127062695	INSDC	FOUU01000006.1	24942	25772	-	SFM88887.1	nitrogenase iron protein NifH	Thermodesulforhabdus norvegica	DSM 9990	GCA_900114975.1

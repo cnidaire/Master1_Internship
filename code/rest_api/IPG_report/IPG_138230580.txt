@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+138230580	RefSeq	NZ_CP016087.1	3049562	3050383	+	WP_077363296.1	nitrogenase iron protein	Clostridium saccharoperbutylacetonicum	N1-504	GCF_002003305.1
+138230580	RefSeq	NZ_JABTDV010000001.1	2520087	2520908	+	WP_077363296.1	nitrogenase iron protein	Clostridium saccharoperbutylacetonicum	049	GCF_013296975.1
+138230580	RefSeq	NZ_JAKJJY010000010.1	53596	54417	-	WP_077363296.1	nitrogenase iron protein	Clostridium sp. YIM B02555	YIM B02555	GCF_022320955.1
+138230580	INSDC	CP016087.1	3049562	3050383	+	AQR95500.1	nitrogenase iron protein 1	Clostridium saccharoperbutylacetonicum	N1-504	GCA_002003305.1
+138230580	INSDC	JABTDV010000001.1	2520087	2520908	+	NSB31359.1	nitrogenase iron protein NifH	Clostridium saccharoperbutylacetonicum	049	GCA_013296975.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+243349753	RefSeq	NZ_SPQQ01000003.1	176522	177373	+	WP_135546076.1	nitrogenase iron protein NifH	Desulfosporosinus fructosivorans	63.6F	GCF_004766045.1
+243349753	INSDC	SPQQ01000003.1	176522	177373	+	TGE38095.1	nitrogenase iron protein	Desulfosporosinus fructosivorans	63.6F	GCA_004766045.1

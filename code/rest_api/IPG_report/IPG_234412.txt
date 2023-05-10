@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+234412	INSDC	U23650.1	1	327	+	AAA65435.1	nifH	Vibrio diazotrophicus	ATCC33466	
+234412	INSDC	AF046842.1	1	327	+	AAD23115.1	nitrogenase reductase	marine proteobacterium 'Sippewissett 2'	Sippewissett 2	
+234412	INSDC	MT507515.1	1	327	+	QXL99783.1	subunit of nitrogenase reductase	marine metagenome		
+234412	INSDC	MT507541.1	1	327	+	QXL99807.1	subunit of nitrogenase reductase	marine metagenome		
+234412	INSDC	MT507575.1	1	327	+	QXL99840.1	subunit of nitrogenase reductase	marine metagenome		

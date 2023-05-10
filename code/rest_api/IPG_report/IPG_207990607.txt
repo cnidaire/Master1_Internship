@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+207990607	INSDC	DPTL01000037.1	8659	9672	-	HCJ66039.1	nitrogen fixation protein NifH	Elusimicrobiota bacterium		GCA_003530275.1

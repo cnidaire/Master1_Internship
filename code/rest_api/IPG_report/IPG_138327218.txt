@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+138327218	RefSeq	NZ_FUHN01000007.1	610691	611458	-	WP_077391245.1	nitrogenase iron protein NifH	Mobilibacterium timonense	Marseille-P3194T	GCF_900155555.1

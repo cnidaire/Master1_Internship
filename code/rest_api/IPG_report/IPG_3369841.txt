@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+3369841	INSDC	AY533866.1	1	658	+	AAT06093.1	NifH	Paraburkholderia nodosa	Br3461	

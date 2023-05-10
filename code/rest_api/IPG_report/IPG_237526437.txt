@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+237526437	RefSeq	NZ_SMGQ01000013.1	311066	311809	+	WP_132282669.1	nitrogenase iron protein NifH	Natranaerovirga hydrolytica	DSM 24176	GCF_004339095.1
+237526437	INSDC	SMGQ01000013.1	311066	311809	+	TCK92812.1	nitrogenase iron protein NifH	Natranaerovirga hydrolytica	DSM 24176	GCA_004339095.1

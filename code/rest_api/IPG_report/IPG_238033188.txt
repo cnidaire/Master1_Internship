@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+238033188	RefSeq	NZ_WIQN01000012.1	62853	63710	+	WP_132550791.1	nitrogenase iron protein	Pectinatus cerevisiiphilus	MB134	GCF_015732175.1
+238033188	INSDC	SMAA01000015.1	24326	25183	-	TCS77477.1	Mo-nitrogenase iron protein subunit NifH	Pectinatus cerevisiiphilus	DSM 20467	GCA_004341685.1

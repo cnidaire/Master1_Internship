@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+27230608	INSDC	JN991108.1	1	692	+	AFD62626.1	NifH	Rhizobium yanglingense		

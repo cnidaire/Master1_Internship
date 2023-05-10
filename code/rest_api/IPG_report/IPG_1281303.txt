@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+1281303	RefSeq	NC_000916.1	569846	570643	-	WP_010876281.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanothermobacter thermautotrophicus str. Delta H	Delta H	GCF_000008645.1
+1281303	RefSeq	NZ_CP064324.1	569851	570648	-	WP_010876281.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanothermobacter thermautotrophicus	Delta H	GCF_027554905.1
+1281303	Swiss-Prot	N/A				O26739.1	Nitrogenase iron protein 2	Methanothermobacter thermautotrophicus str. Delta H		
+1281303	INSDC	AE000666.1	569846	570643	-	AAB85148.1	nitrogenase NifH subunit	Methanothermobacter thermautotrophicus str. Delta H	Delta H	GCA_000008645.1
+1281303	INSDC	CP064324.1	569851	570648	-	WBF06884.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanothermobacter thermautotrophicus	Delta H	GCA_027554905.1

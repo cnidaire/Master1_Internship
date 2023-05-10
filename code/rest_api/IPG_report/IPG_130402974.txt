@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+130402974	RefSeq	NZ_FQUG01000003.1	193801	194613	+	WP_072934880.1	nitrogenase iron protein NifH	Schwartzia succinivorans DSM 10502	DSM 10502	GCF_900129225.1
+130402974	INSDC	JAFPLJ010000084.1	1	810	-	MBQ4151646.1	nitrogenase iron protein	Schwartzia sp. (in: firmicutes)		GCA_017402865.1
+130402974	INSDC	JAILKZ010000089.1	28	840	-	MCR5446544.1	nitrogenase iron protein	Schwartzia sp. (in: firmicutes)		GCA_024693405.1
+130402974	INSDC	FQUG01000003.1	193801	194613	+	SHE60125.1	nitrogenase iron protein NifH	Schwartzia succinivorans DSM 10502	DSM 10502	GCA_900129225.1

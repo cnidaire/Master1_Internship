@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+23877660	INSDC	HQ834241.1	1	320	+	AEI90784.1	NifH	Pseudacidovorax sp. NH-1	NH-1	

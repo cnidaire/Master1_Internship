@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+202038728	RefSeq	NZ_QVFD01000023.1	19423	20199	+	WP_117541678.1	nitrogenase iron protein NifH	Coprococcus catus	AM28-39	GCF_003434235.1
+202038728	INSDC	RKGE01000031.1	5747	6523	+	MBD8965583.1	nitrogen fixation protein NifH	Coprococcus catus		GCA_014848515.1
+202038728	INSDC	QVFD01000023.1	19423	20199	+	RGC43286.1	nitrogen fixation protein NifH	Coprococcus catus	AM28-39	GCA_003434235.1

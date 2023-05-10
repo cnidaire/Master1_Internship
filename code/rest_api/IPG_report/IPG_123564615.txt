@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+123564615	RefSeq	NZ_FNDD01000018.1	29081	29962	+	WP_093275479.1	nitrogenase iron protein	Vibrio xiamenensis	CGMCC 1.10228	GCF_900100015.1
+123564615	INSDC	FNDD01000018.1	29081	29962	+	SDH51215.1	nitrogenase iron protein NifH	Vibrio xiamenensis	CGMCC 1.10228	GCA_900100015.1

@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+4567662	RefSeq	NC_008554.1	1254398	1255222	-	WP_011697884.1	nitrogenase iron protein	Syntrophobacter fumaroxidans MPOB	MPOB	GCF_000014965.1
+4567662	Swiss-Prot	N/A				A0LH11.1	Nitrogenase iron protein	Syntrophobacter fumaroxidans MPOB		
+4567662	INSDC	CP000478.1	1254398	1255222	-	ABK16713.1	nitrogenase iron protein subunit NifH	Syntrophobacter fumaroxidans MPOB	MPOB	GCA_000014965.1

@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+26189197	RefSeq	NZ_CABKQM010000008.1	1075270	1076025	-	WP_008713021.1	nitrogenase iron protein NifH	Cloacibacillus evryensis		GCF_902374565.1
+26189197	INSDC	ACUH01000060.1	141604	142359	-	EHL64126.1	nitrogenase iron protein	Synergistes sp. 3_1_syn1	3_1_syn1	GCA_000238615.1
+26189197	INSDC	JH414697.1	1075270	1076025	-	EHL64126.1	nitrogenase iron protein	Synergistes sp. 3_1_syn1	3_1_syn1	GCA_000238615.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+100260145	RefSeq	NZ_LOPS01000013.1	34119	34916	+	WP_058747302.1	nitrogenase iron protein NifH	Candidatus Methanomethylophilus sp. 1R26	1R26	GCF_001481295.1
+100260145	INSDC	LOPS01000013.1	34119	34916	+	KUE74086.1	nitrogen fixation protein NifH	Candidatus Methanomethylophilus sp. 1R26	1R26	GCA_001481295.1

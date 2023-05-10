@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+459788206	RefSeq	NZ_WQOR01000042.1	92013	92774	-	WP_215725938.1	nitrogenase iron protein NifH	Eubacterium ramulus	MCC545	GCF_018784765.1
+459788206	INSDC	WQOR01000042.1	92013	92774	-	MBT9704137.1	P-loop NTPase	Eubacterium ramulus	MCC545	GCA_018784765.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+153094272	INSDC	AP018269.1	4236518	4237117	-	BAZ31178.1	nitrogenase iron protein NifH	Cylindrospermum sp. NIES-4074	NIES-4074	GCA_003994795.1

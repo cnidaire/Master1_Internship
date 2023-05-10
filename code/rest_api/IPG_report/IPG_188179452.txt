@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+188179452	INSDC	QGFZ01000003.1	214975	215721	+	PWJ68764.1	nitrogenase iron protein NifH	Ruminococcaceae bacterium R-25	R-25	GCA_003149065.1
+188179452	INSDC	UHJI01000003.1	214975	215721	+	SUQ22339.1	nitrogenase iron protein NifH	Oscillospiraceae bacterium	R-25	GCA_900199645.1

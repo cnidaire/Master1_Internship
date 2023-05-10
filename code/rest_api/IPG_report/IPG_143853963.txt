@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+143853963	RefSeq	NZ_FWXI01000023.1	64998	65825	+	WP_084577806.1	nitrogenase iron protein	Sporomusa malonica	DSM 5090	GCF_900176355.1
+143853963	INSDC	FWXI01000023.1	64998	65825	+	SMD08022.1	Mo-nitrogenase iron protein subunit NifH	Sporomusa malonica	DSM 5090	GCA_900176355.1

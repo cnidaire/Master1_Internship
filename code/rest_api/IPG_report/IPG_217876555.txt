@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+217876555	RefSeq	NZ_AP019309.1	1409295	1410047	+	WP_125119243.1	nitrogenase iron protein NifH	Intestinibaculum porci	SG0102	GCF_003925875.1
+217876555	INSDC	AP019309.1	1409295	1410047	+	BBH26370.1	nitrogenase subunit nifH	Intestinibaculum porci	SG0102	GCA_003925875.1

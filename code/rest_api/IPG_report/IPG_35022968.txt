@@ -1,0 +1,9 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+35022968	RefSeq	NC_020913.1	1325525	1326331	-	WP_015505201.1	nitrogenase iron protein NifH	Candidatus Methanomethylophilus alvus Mx1201	Mx1201	GCF_000300255.2
+35022968	RefSeq	NZ_CP017686.1	1325497	1326303	-	WP_015505201.1	nitrogenase iron protein NifH	Candidatus Methanomethylophilus alvus	Mx-05	GCF_003711245.1
+35022968	RefSeq	NZ_LR699000.1	1325525	1326331	-	WP_015505201.1	nitrogenase iron protein NifH	Candidatus Methanomethylophilus alvus		GCF_902387285.1
+35022968	INSDC	CP004049.1	1325525	1326331	-	AGI86054.1	Nitrogenase subunit NifH-like, type 2	Candidatus Methanomethylophilus alvus Mx1201	Mx1201	GCA_000300255.2
+35022968	INSDC	CP017686.1	1325497	1326303	-	AYQ55433.1	nitrogen fixation protein NifH	Candidatus Methanomethylophilus alvus	Mx-05	GCA_003711245.1
+35022968	INSDC	CBKQ010000014.1	17769	18575	-	CDF30207.1	nitrogenase	Methanoculleus sp. CAG:1088		GCA_000437835.1
+35022968	INSDC	FR903864.1	17769	18575	-	CDF30207.1	nitrogenase	Methanoculleus sp. CAG:1088		GCA_000437835.1
+35022968	INSDC	JALEIG010000067.1	16395	17201	+	MCI5974187.1	nitrogenase iron protein NifH	Candidatus Methanomethylophilus alvus		GCA_022769885.1

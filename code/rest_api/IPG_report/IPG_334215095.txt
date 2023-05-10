@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+334215095	RefSeq	NZ_AP023239.1	4903475	4904341	-	WP_179037204.1	nitrogenase iron protein NifH	Paenibacillus sp. URB8-2	URB8-2	GCF_013393385.1
+334215095	INSDC	AP023239.1	4903475	4904341	-	BCG61085.1	nitrogenase iron protein	Paenibacillus sp. URB8-2	URB8-2	GCA_013393385.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+204104201	RefSeq	NZ_OW711693.1	1389043	1389798	+	WP_250229803.1	nitrogenase iron protein NifH	Anaeropeptidivorans aminofermentans	M3/9	GCF_940670685.1
+204104201	INSDC	DMJQ01000197.1	1652	2407	+	HAQ42185.1	nitrogenase iron protein	Clostridiales bacterium		GCA_003457065.1

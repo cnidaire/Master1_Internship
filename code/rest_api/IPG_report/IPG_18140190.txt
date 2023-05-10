@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+18140190	INSDC	GQ167298.1	1	620	+	ACT67967.1	NifH	Mesorhizobium chacoense	LMG 19008	

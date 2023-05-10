@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+459828164	RefSeq	NZ_WQQD01000003.1	44285	45058	+	WP_215638059.1	nitrogenase iron protein NifH	Blautia sp. MCC270	MCC270	GCF_018785605.1
+459828164	INSDC	WQQD01000003.1	44285	45058	+	MBT9835184.1	P-loop NTPase	Blautia sp. MCC270	MCC270	GCA_018785605.1

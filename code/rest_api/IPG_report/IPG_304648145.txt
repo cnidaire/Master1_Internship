@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+304648145	RefSeq	NZ_CP048877.1	575572	576396	-	WP_166031481.1	nitrogenase iron protein	Thermosulfuriphilus ammonigenes	ST65	GCF_011207455.1
+304648145	RefSeq	NZ_JACDUQ010000001.1	984973	985797	+	WP_166031481.1	nitrogenase iron protein	Thermosulfuriphilus ammonigenes	DSM 102941	GCF_013761125.1
+304648145	INSDC	DRNM01000006.1	559	1383	+	HFB83164.1	nitrogenase iron protein	Thermodesulfatator sp.		GCA_011322185.1
+304648145	INSDC	JACDUQ010000001.1	984973	985797	+	MBA2848602.1	nitrogenase iron protein NifH	Thermosulfuriphilus ammonigenes	DSM 102941	GCA_013761125.1
+304648145	INSDC	CP048877.1	575572	576396	-	QIJ71259.1	nitrogenase iron protein	Thermosulfuriphilus ammonigenes	ST65	GCA_011207455.1

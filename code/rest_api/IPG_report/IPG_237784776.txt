@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+237784776	RefSeq	NZ_NRRP01000026.1	5753	6637	-	WP_132602882.1	nitrogenase iron protein	Rhodovulum adriaticum	DSM 2781	GCF_016583705.1
+237784776	RefSeq	NZ_SLXL01000005.1	132565	133449	-	WP_132602882.1	nitrogenase iron protein	Rhodovulum adriaticum	DSM 2781	GCF_004345735.1
+237784776	INSDC	NRRP01000026.1	5753	6637	-	MBK1636341.1	nitrogenase iron protein	Rhodovulum adriaticum	DSM 2781	GCA_016583705.1
+237784776	INSDC	SLXL01000005.1	132565	133449	-	TCP22830.1	Mo-nitrogenase iron protein subunit NifH	Rhodovulum adriaticum	DSM 2781	GCA_004345735.1

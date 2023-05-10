@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+19305714	INSDC	GU256452.1	1	376	+	ADB57032.1	NifH	Azospirillum rugosum	DSM 19657	

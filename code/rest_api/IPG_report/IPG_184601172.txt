@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+184601172	RefSeq	NZ_BDUD01000001.1	6944738	6945631	+	WP_109012212.1	nitrogenase iron protein	Nostoc commune NIES-4072	NIES-4072	GCF_003113895.1
+184601172	INSDC	AP018326.1	3268051	3268944	-	BBD66533.1	nitrogenase iron protein NifH	Nostoc commune HK-02	NIES-4070	GCA_003990685.1
+184601172	INSDC	BDUD01000001.1	6944738	6945631	+	GBG22486.1	nitrogenase iron protein NifH	Nostoc commune NIES-4072	NIES-4072	GCA_003113895.1

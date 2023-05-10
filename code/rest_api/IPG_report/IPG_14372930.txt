@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+14372930	INSDC	EU291979.1	1	558	+	ABZ89806.1	NifH	Sinorhizobium chiapanecum	ITTG S68	

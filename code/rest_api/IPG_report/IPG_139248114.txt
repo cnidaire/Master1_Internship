@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+139248114	RefSeq	NZ_FUXX01000010.1	25786	26616	+	WP_078928382.1	nitrogenase iron protein	Succinivibrio dextrinosolvens DSM 3072	DSM 3072	GCF_900167015.1
+139248114	RefSeq	NZ_SUVD01000001.1	75819	76649	-	WP_078928382.1	nitrogenase iron protein	Succinivibrio dextrinosolvens		GCF_015062185.1
+139248114	INSDC	SUVD01000001.1	75819	76649	-	MBE6421911.1	nitrogenase iron protein	Succinivibrio dextrinosolvens		GCA_015062185.1
+139248114	INSDC	JAFPYJ010000063.1	28896	29726	-	MBQ3678877.1	nitrogenase iron protein	Succinivibrio sp.		GCA_017412225.1
+139248114	INSDC	FUXX01000010.1	25786	26616	+	SKA60271.1	nitrogenase iron protein NifH	Succinivibrio dextrinosolvens DSM 3072	DSM 3072	GCA_900167015.1

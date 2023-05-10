@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+165388352	RefSeq	NZ_MINB01000001.1	163261	164079	-	WP_099252509.1	nitrogenase iron protein	Thermoanaerobacterium thermosaccharolyticum	GSU5	GCF_002701205.1
+165388352	RefSeq	NZ_VWOK01000002.1	7220	8038	-	WP_099252509.1	nitrogenase iron protein	Thermoanaerobacterium thermosaccharolyticum	SP-H2	GCF_008632855.1
+165388352	INSDC	VWOK01000002.1	7220	8038	-	KAA5807876.1	nitrogenase iron protein	Thermoanaerobacterium thermosaccharolyticum	SP-H2	GCA_008632855.1
+165388352	INSDC	MINB01000001.1	163261	164079	-	PHO08480.1	nitrogenase iron protein	Thermoanaerobacterium thermosaccharolyticum	GSU5	GCA_002701205.1
+165388352	INSDC	SMDB01000005.1	137887	138705	+	TCW39567.1	Mo-nitrogenase iron protein subunit NifH	Thermohydrogenium kirishiense	DSM 11055	GCA_004343465.1

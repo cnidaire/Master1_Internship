@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+29891491	RefSeq	NZ_ALNM01000028.1	125618	126430	-	WP_009646275.1	nitrogenase iron protein NifH	Selenomonas sp. CM52	CM52	GCF_000292955.1
+29891491	RefSeq	NZ_CP110231.1	605533	606345	-	WP_009646275.1	nitrogenase iron protein NifH	Selenomonas sputigena	KCOM 20461	GCF_026013845.1
+29891491	INSDC	ALNM01000028.1	125618	126430	-	EJU27856.1	putative nitrogenase iron protein	Selenomonas sp. CM52	CM52	GCA_000292955.1
+29891491	INSDC	CP110231.1	605533	606345	-	UZD43834.1	nitrogenase iron protein NifH	Selenomonas sputigena	KCOM 20461	GCA_026013845.1

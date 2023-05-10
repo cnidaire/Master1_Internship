@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+203718707	INSDC	DMMH01000245.1	4671	5414	+	HAL60548.1	nitrogen fixation protein NifH	Sarcina sp.		GCA_003453135.1

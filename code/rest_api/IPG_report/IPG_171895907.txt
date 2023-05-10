@@ -1,0 +1,9 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+171895907	RefSeq	NZ_CP017766.1	1305608	1306615	+	WP_100905647.1	terpene cyclase/mutase family protein	Methanobacterium subterraneum	MO-MB1	GCF_002813655.1
+171895907	RefSeq	NZ_CP017767.1	559279	560286	-	WP_100905647.1	terpene cyclase/mutase family protein	Methanobacterium sp. MZ-A1	MZ-A1	GCF_002813675.1
+171895907	RefSeq	NZ_JABBYL010000004.1	11288	12295	+	WP_100905647.1	terpene cyclase/mutase family protein	Methanobacterium subterraneum		GCF_012933645.1
+171895907	INSDC	CP017766.1	1305608	1306615	+	AUB55669.1	nitrogen fixation protein NifH	Methanobacterium subterraneum	MO-MB1	GCA_002813655.1
+171895907	INSDC	CP017767.1	559279	560286	-	AUB57345.1	nitrogen fixation protein NifH	Methanobacterium sp. MZ-A1	MZ-A1	GCA_002813675.1
+171895907	INSDC	JABNAD010000179.1	25299	26306	-	KAF5074722.1	hypothetical protein	anaerobic digester metagenome		GCA_013282525.1
+171895907	INSDC	JAHQCO010000001.1	2284565	2285572	-	MBW4258244.1	terpene cyclase/mutase family protein	Methanobacterium sp. YSL	YSL	GCA_019351055.1
+171895907	INSDC	JABBYL010000004.1	11288	12295	+	NMO08403.1	terpene cyclase/mutase family protein	Methanobacterium subterraneum		GCA_012933645.1

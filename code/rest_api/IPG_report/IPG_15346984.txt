@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+15346984	INSDC	EU867444.1	1	324	+	ACF72881.1	NifH	Paenibacillus sonchi X19-5	X19-5	
+15346984	INSDC	GQ985392.1	1	325	+	ACX70148.1	nitrogenase reductase	Paenibacillus jilunlii	Be17	
+15346984	INSDC	GU328707.1	1	325	+	ADB90265.1	nitrogenase reductase	Paenibacillus sp. By56	By56	

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+316683153	INSDC	AP013103.1	8317073	8317984	-	BBC02590.1	dinitrogenase reductase protein NifH	Bradyrhizobium elkanii USDA 61	USDA 61	GCA_012871055.1

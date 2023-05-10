@@ -1,0 +1,14 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+113457044	RefSeq	NZ_CAJZZO010000048.1	4715	5596	+	WP_065807238.1	nitrogenase iron protein	Klebsiella pneumoniae		GCF_916172585.1
+113457044	RefSeq	NZ_FLVQ01000023.1	51547	52428	-	WP_065807238.1	nitrogenase iron protein	Klebsiella pneumoniae	W2-1-ERG2	GCF_900093055.1
+113457044	RefSeq	NZ_JAJHHA010000175.1	5059	5940	+	WP_065807238.1	nitrogenase iron protein	Klebsiella pneumoniae	12KE	GCF_020805735.1
+113457044	RefSeq	NZ_JAJHHI010000021.1	73347	74228	-	WP_065807238.1	nitrogenase iron protein	Klebsiella pneumoniae	1KE	GCF_020805755.1
+113457044	INSDC	DAGBRU010000052.1	18713	19594	-	HBS9937809.1	nitrogenase iron protein	Klebsiella pneumoniae	AUSMDU00011823	GCA_021988915.1
+113457044	INSDC	DAGKNV010000059.1	18846	19727	-	HBW2277537.1	nitrogenase iron protein	Klebsiella pneumoniae		GCA_022175505.1
+113457044	INSDC	DAGOXJ010000048.1	18713	19594	-	HBX6033799.1	nitrogenase iron protein	Klebsiella pneumoniae	Klebsiella pneumoniae	GCA_022249695.1
+113457044	INSDC	DAGXSQ010000028.1	18721	19602	-	HCA5394929.1	nitrogenase iron protein	Klebsiella pneumoniae	Kp6567	
+113457044	INSDC	DAGXUF010000026.1	18721	19602	-	HCA5618380.1	nitrogenase iron protein	Klebsiella pneumoniae	Kp7189	GCA_022965635.1
+113457044	INSDC	DAHKXW010000052.1	18713	19594	-	HCE0848505.1	nitrogenase iron protein	Klebsiella pneumoniae	Microbial	GCA_023783795.1
+113457044	INSDC	JAJHHA010000175.1	5059	5940	+	MCC4980573.1	nitrogenase iron protein	Klebsiella pneumoniae	12KE	GCA_020805735.1
+113457044	INSDC	JAJHHI010000021.1	73347	74228	-	MCC5012942.1	nitrogenase iron protein	Klebsiella pneumoniae	1KE	GCA_020805755.1
+113457044	INSDC	FLVQ01000023.1	51547	52428	-	SBZ17579.1	nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Klebsiella pneumoniae	W2-1-ERG2	GCA_900093055.1

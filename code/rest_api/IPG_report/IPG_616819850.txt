@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+616819850	INSDC	CABFNU020000133.1	82398	83078	+	VUD34055.1	nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Raoultella sp. NCTC 9187	NCTC9187	

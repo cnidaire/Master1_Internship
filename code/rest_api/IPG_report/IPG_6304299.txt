@@ -1,0 +1,9 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+6304299	RefSeq	NC_010627.1	517691	518572	+	WP_012406781.1	nitrogenase iron protein	Paraburkholderia phymatum STM815	STM815	GCF_000020045.1
+6304299	RefSeq	NZ_FNYE01000099.1	1226	2107	+	WP_012406781.1	nitrogenase iron protein	Paraburkholderia diazotrophica	LMG 26031	GCF_900108945.1
+6304299	RefSeq	NZ_JAGIPX010000179.1	1256	2137	+	WP_012406781.1	nitrogenase iron protein	Paraburkholderia sp. LEh10	LEh10	GCF_017814945.1
+6304299	RefSeq	NZ_PYUB01000189.1	982	1863	+	WP_012406781.1	nitrogenase iron protein	Paraburkholderia caribensis	TJ182	GCF_003028645.1
+6304299	INSDC	CP001046.1	517691	518572	+	ACC76639.1	nitrogenase iron protein	Paraburkholderia phymatum STM815	STM815	GCA_000020045.1
+6304299	INSDC	JAGIPX010000179.1	1256	2137	+	MBP0596367.1	nitrogenase iron protein	Paraburkholderia sp. LEh10	LEh10	GCA_017814945.1
+6304299	INSDC	PYUB01000189.1	982	1863	+	PTB22933.1	nitrogenase iron protein	Paraburkholderia caribensis	TJ182	GCA_003028645.1
+6304299	INSDC	FNYE01000099.1	1226	2107	+	SEK14337.1	Mo-nitrogenase iron protein subunit NifH	Paraburkholderia diazotrophica	LMG 26031	GCA_900108945.1

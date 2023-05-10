@@ -1,0 +1,10 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+24992349	RefSeq	NZ_AEYE02000038.1	16177	17070	-	WP_016558425.1	nitrogenase iron protein	Rhizobium grahamii CCGE 502	CCGE 502	GCF_000298315.2
+24992349	RefSeq	NZ_ATYY01000054.1	17915	18808	+	WP_016558425.1	nitrogenase iron protein	Rhizobium mesoamericanum STM6155	STM6155	GCF_000427925.1
+24992349	RefSeq	NZ_KZ857270.1	17588	18481	-	WP_016558425.1	nitrogenase iron protein	Rhizobium grahamii	CCGM3	GCF_003351175.1
+24992349	RefSeq	NZ_LNCD01000005.1	22098	22991	-	WP_016558425.1	nitrogenase iron protein	Rhizobium altiplani	BR 10423	GCF_001542405.1
+24992349	INSDC	JN021930.1	1	894	+	AEQ16447.1	nitrogenase Fe protein	Rhizobium grahamii CCGE 502	CCGE 502	
+24992349	INSDC	AEYE02000038.1	16177	17070	-	EPE93655.1	nitrogenase reductase NifH	Rhizobium grahamii CCGE 502	CCGE 502	GCA_000298315.2
+24992349	INSDC	LNCD01000005.1	22098	22991	-	KWV59781.1	nitrogenase reductase	Rhizobium altiplani	BR 10423	GCA_001542405.1
+24992349	INSDC	KZ857270.1	17588	18481	-	RDJ01940.1	nitrogenase iron protein	Rhizobium grahamii	CCGM3	GCA_003351175.1
+24992349	INSDC	NAAC01000049.1	17588	18481	-	RDJ01940.1	nitrogenase iron protein	Rhizobium grahamii	CCGM3	GCA_003351175.1

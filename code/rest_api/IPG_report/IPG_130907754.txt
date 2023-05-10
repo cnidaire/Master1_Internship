@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+130907754	RefSeq	NZ_FRDN01000007.1	290343	291170	-	WP_072772837.1	nitrogenase iron protein	Desulfitobacterium chlororespirans DSM 11544	DSM 11544	GCF_900143285.1
+130907754	INSDC	FRDN01000007.1	290343	291170	-	SHN73322.1	nitrogenase iron protein NifH	Desulfitobacterium chlororespirans DSM 11544	DSM 11544	GCA_900143285.1

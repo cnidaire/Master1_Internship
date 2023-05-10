@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+113371890	INSDC	KT832450.1	1	346	+	ANS71413.1	NifH	Mastigocladus sp. FACHB-785	FACHB785	

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+463335738	RefSeq	NZ_JAHLQL010000001.1	1591380	1592219	-	WP_216456542.1	nitrogenase iron protein NifH	Clostridium simiarum	MSJ-4	GCF_018919175.1
+463335738	INSDC	JAHLQL010000001.1	1591380	1592219	-	MBU5591600.1	AAA family ATPase	Clostridium simiarum	MSJ-4	GCA_018919175.1

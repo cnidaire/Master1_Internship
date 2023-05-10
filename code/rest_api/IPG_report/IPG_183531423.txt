@@ -1,0 +1,10 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+183531423	RefSeq	NZ_CP027779.1	1306881	1307630	+	WP_106899306.1	nitrogenase iron protein NifH	Clostridium botulinum	RF5	GCF_003017225.1
+183531423	RefSeq	NZ_JAIQUT010000001.1	72873	73622	-	WP_106899306.1	nitrogenase iron protein NifH	Clostridium sporogenes	3213061	GCF_026130345.1
+183531423	RefSeq	NZ_JAIQUU010000006.1	76078	76827	-	WP_106899306.1	nitrogenase iron protein NifH	Clostridium sporogenes	3213057	GCF_026130385.1
+183531423	RefSeq	NZ_JANKAE010000023.1	51441	52190	+	WP_106899306.1	nitrogenase iron protein NifH	Clostridium sporogenes	DSM 29422	GCF_024622885.1
+183531423	RefSeq	NZ_SXFQ01000004.1	305659	306408	+	WP_106899306.1	nitrogenase iron protein NifH	Clostridium sporogenes	IFR 18/067	GCF_011019675.1
+183531423	INSDC	CP027781.1	713647	714396	+	AVQ44871.1	nitrogenase iron protein	Clostridium botulinum	MAP 5	GCA_003017265.1
+183531423	INSDC	CP027779.1	1306881	1307630	+	AVQ48942.1	nitrogenase iron protein	Clostridium botulinum	RF5	GCA_003017225.1
+183531423	INSDC	JANKAE010000023.1	51441	52190	+	MCR1974320.1	nitrogenase iron protein NifH	Clostridium sporogenes	DSM 29422	GCA_024622885.1
+183531423	INSDC	SXFQ01000004.1	305659	306408	+	NFP92077.1	nitrogenase iron protein	Clostridium sporogenes	IFR 18/067	GCA_011019675.1

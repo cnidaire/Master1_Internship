@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+115203432	RefSeq	NZ_LT607803.1	1341482	1342363	-	WP_088953253.1	nitrogenase iron protein	Variovorax sp. HW608	HW608	GCF_900090195.1
+115203432	INSDC	LT607803.1	1341482	1342363	-	SCK17911.1	Mo-nitrogenase iron protein subunit NifH	Variovorax sp. HW608	HW608	GCA_900090195.1

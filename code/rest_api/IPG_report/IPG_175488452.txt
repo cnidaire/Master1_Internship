@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+175488452	RefSeq	NZ_CP058566.2	1028990	1030006	-	WP_102330299.1	nitrogen fixation protein NifH	Candidatus Dehalogenimonas etheniformans	GP	GCF_014672715.2
+175488452	RefSeq	NZ_JQAN02000006.1	418369	419385	+	WP_102330299.1	nitrogen fixation protein NifH	Candidatus Dehalogenimonas etheniformans	GP	GCF_002878295.2
+175488452	INSDC	JQAN02000006.1	418369	419385	+	PPD58815.1	nitrogen fixation protein NifH	Candidatus Dehalogenimonas etheniformans	GP	GCA_002878295.2
+175488452	INSDC	CP058566.2	1028990	1030006	-	QNT76416.1	nitrogen fixation protein NifH	Candidatus Dehalogenimonas etheniformans	GP	GCA_014672715.2

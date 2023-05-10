@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+5375208	INSDC	DQ364791.1	1	324	+	ABD58940.1	NifH	Paenibacillus zanthoxyli	JH34	

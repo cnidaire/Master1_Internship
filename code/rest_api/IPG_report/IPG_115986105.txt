@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+115986105	RefSeq	NZ_BCNX01000007.1	245906	246796	-	WP_066957524.1	nitrogenase iron protein NifH	Methanoculleus thermophilus	CR-1	GCF_001571405.1
+115986105	RefSeq	NZ_FNFT01000004.1	83305	84195	+	WP_066957524.1	nitrogenase iron protein NifH	Methanoculleus thermophilus	DSM 2373	GCF_900101055.1
+115986105	INSDC	FNFT01000004.1	83305	84195	+	SDK12655.1	nitrogenase iron protein NifH	Methanoculleus thermophilus	DSM 2373	GCA_900101055.1

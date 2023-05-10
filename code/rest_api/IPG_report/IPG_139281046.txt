@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+139281046	RefSeq	NZ_FUWR01000020.1	46727	47590	-	WP_078791107.1	nitrogenase iron protein	Trichlorobacter thiogenes	ATCC BAA-34	GCF_900167465.1
+139281046	INSDC	FUWR01000020.1	46727	47590	-	SKA15195.1	Mo-nitrogenase iron protein subunit NifH	Trichlorobacter thiogenes	ATCC BAA-34	GCA_900167465.1

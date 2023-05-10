@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+53228297	RefSeq	NZ_JAJFEB010000005.1	166565	167356	+	WP_025485098.1	nitrogenase iron protein NifH	Lachnoclostridium pacaense	SL.2.13	GCF_020709765.1
+53228297	RefSeq	NZ_LS999948.1	129557	130348	-	WP_025485098.1	nitrogenase iron protein NifH	Lachnoclostridium pacaense	Marseille-P3100	GCF_900566185.1
+53228297	INSDC	JAJFEB010000005.1	166565	167356	+	MCC2877049.1	nitrogenase iron protein NifH	Lachnoclostridium pacaense	SL.2.13	GCA_020709765.1
+53228297	INSDC	JAKNTF010000001.1	5177876	5178667	-	MCH1952061.1	nitrogenase iron protein NifH	Enterocloster sp. OA13	OA13	GCA_022440595.1
+53228297	INSDC	QVHJ01000020.1	131432	132223	-	RJW34485.1	nitrogenase iron protein	Clostridiales bacterium TF09-2AC	TF09-2AC	GCA_003603825.1

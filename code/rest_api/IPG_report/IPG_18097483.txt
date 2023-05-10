@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+18097483	INSDC	GQ226015.1	1	516	+	ACT31914.1	NifH	Rhizobium sphaerophysae	CCNWGS0187	

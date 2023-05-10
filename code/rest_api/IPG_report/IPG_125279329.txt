@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+125279329	RefSeq	NZ_FNVQ01000001.1	1947791	1948663	-	WP_104002709.1	nitrogenase iron protein	Marinobacterium lutimaris	DSM 22012	GCF_900108065.1
+125279329	INSDC	FNVQ01000001.1	1947791	1948663	-	SEG25851.1	Mo-nitrogenase iron protein subunit NifH	Marinobacterium lutimaris	DSM 22012	GCA_900108065.1

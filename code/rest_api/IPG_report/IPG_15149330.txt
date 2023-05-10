@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+15149330	INSDC	EU748935.1	1	698	+	ACF19771.1	NifH	Aminobacter sp. BA135	BA135	

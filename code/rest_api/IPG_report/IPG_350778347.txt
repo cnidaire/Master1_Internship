@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+350778347	RefSeq	NZ_JACIGK010000009.1	100759	101643	-	WP_184043750.1	nitrogenase iron protein	Roseospira visakhapatnamensis	JA131	GCF_014197915.1
+350778347	INSDC	JACIGK010000009.1	100759	101643	-	MBB4265914.1	nitrogenase iron protein NifH	Roseospira visakhapatnamensis	JA131	GCA_014197915.1

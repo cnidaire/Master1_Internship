@@ -1,0 +1,14 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+1940181	RefSeq	NC_002939.5	1547325	1548212	-	WP_010942056.1	Mrp/NBP35 family ATP-binding protein	Geobacter sulfurreducens PCA	PCA	GCF_000007985.2
+1940181	RefSeq	NC_017454.1	1516979	1517866	-	WP_010942056.1	Mrp/NBP35 family ATP-binding protein	Geobacter sulfurreducens KN400	KN400	GCF_000210155.1
+1940181	RefSeq	NZ_CP074693.1	1534886	1535773	-	WP_010942056.1	Mrp/NBP35 family ATP-binding protein	Geobacter sulfurreducens	YM35	GCF_018511305.1
+1940181	RefSeq	NZ_CP078092.1	1549014	1549901	-	WP_010942056.1	Mrp/NBP35 family ATP-binding protein	Geobacter sulfurreducens	PCA_v2	GCF_019904315.1
+1940181	INSDC	AE017180.2	1547325	1548212	-	AAR34783.1	MRP-like NifH superfamily NTPase	Geobacter sulfurreducens PCA	PCA	GCA_000007985.2
+1940181	INSDC	CP002031.1	1516979	1517866	-	ADI84248.2	MRP-like NifH superfamily NTPase	Geobacter sulfurreducens KN400	KN400	GCA_000210155.1
+1940181	INSDC	CP010430.1	4399176	4400063	+	AJY71996.1	ATPase	Geobacter sulfurreducens	AM-1	GCA_000961035.1
+1940181	INSDC	DNKT01000028.1	25405	26292	-	HBB68909.1	ATP-binding protein	Geobacter sulfurreducens		GCA_003488685.1
+1940181	INSDC	DPAK01000016.1	110957	111844	+	HCD96374.1	ATP-binding protein	Geobacter sulfurreducens		GCA_003517525.1
+1940181	INSDC	CP074693.1	1534886	1535773	-	QVW36928.1	Mrp/NBP35 family ATP-binding protein	Geobacter sulfurreducens	YM35	GCA_018511305.1
+1940181	INSDC	CP078092.1	1549014	1549901	-	UAC05801.1	Mrp/NBP35 family ATP-binding protein	Geobacter sulfurreducens	PCA_v2	GCA_019904315.1
+1940181	PAT	N/A				QPU55660.1	Sequence 45992 from patent US 10696975	Unknown		
+1940181	PAT	N/A				WFK88553.1	Sequence 45992 from patent US 11274312	Unknown		

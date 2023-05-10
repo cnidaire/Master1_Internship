@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+427182862	INSDC	JAGGKC010000011.1	4863	5534	-	MBP1919056.1	nitrogenase subunit NifH	Youngiibacter multivorans	DSM 6139	GCA_017873395.1

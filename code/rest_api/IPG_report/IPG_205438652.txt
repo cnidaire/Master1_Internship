@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+205438652	RefSeq	NZ_SLZZ01000007.1	87021	87839	-	WP_132380231.1	nitrogenase iron protein	Muricomes intestini	DSM 29489	GCF_004346165.1
+205438652	INSDC	DNEK01000081.1	22235	23053	-	HAX51348.1	nitrogenase iron protein	Lachnospiraceae bacterium		GCA_003487345.1
+205438652	INSDC	DQGH01000037.1	19428	20246	+	HCR82322.1	nitrogenase iron protein	Lachnospiraceae bacterium		GCA_003524895.1
+205438652	INSDC	SLZZ01000007.1	87021	87839	-	TCS79829.1	Mo-nitrogenase iron protein subunit NifH	Muricomes intestini	DSM 29489	GCA_004346165.1

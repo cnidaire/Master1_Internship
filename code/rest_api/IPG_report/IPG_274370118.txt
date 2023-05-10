@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+274370118	RefSeq	NZ_JABAFD010000003.1	325004	325747	-	WP_150842276.1	nitrogenase iron protein NifH	Paraclostridium bifermentans	Med78_4-601-WT-2	GCF_012843415.1
+274370118	RefSeq	NZ_JAFKOL010000001.1	412758	413501	+	WP_150842276.1	nitrogenase iron protein NifH	Paraclostridium bifermentans	S01	GCF_017288015.1
+274370118	RefSeq	NZ_JAIRBK010000002.1	191203	191946	-	WP_150842276.1	nitrogenase iron protein NifH	Paraclostridium bifermentans	GBRC	GCF_020089545.1
+274370118	INSDC	JAFKOL010000001.1	412758	413501	+	MBN8046563.1	AAA family ATPase	Paraclostridium bifermentans	S01	GCA_017288015.1
+274370118	INSDC	JAIRBK010000002.1	191203	191946	-	MBZ6004896.1	AAA family ATPase	Paraclostridium bifermentans	GBRC	GCA_020089545.1
+274370118	INSDC	JABAFD010000003.1	325004	325747	-	NME09368.1	AAA family ATPase	Paraclostridium bifermentans	Med78_4-601-WT-2	GCA_012843415.1

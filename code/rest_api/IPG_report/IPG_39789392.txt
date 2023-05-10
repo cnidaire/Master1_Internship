@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+39789392	RefSeq	NZ_CABLZR010000015.1	44163	44942	-	WP_019176683.1	nitrogenase iron protein NifH	Methanomassiliicoccus luminyensis		GCF_902383895.1
+39789392	RefSeq	NZ_CAJE01000012.1	44163	44942	-	WP_019176683.1	nitrogenase iron protein NifH	Methanomassiliicoccus luminyensis B10	B10	GCF_000308215.1
+39789392	PAT	N/A				QPZ16251.1	Sequence 76 from patent US 10793863	Unknown		

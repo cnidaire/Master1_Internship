@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+13635003	INSDC	EF620478.1	1	332	+	ABU49157.1	NifH	Azotobacter chroococcum	ISSDS-347	

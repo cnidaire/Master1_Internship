@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+66439782	INSDC	CP014476.1	1352741	1353625	+	AMK76098.1	nitrogenase reductase	Methylomonas denitrificans	FJG1	GCA_000785705.2
+66439782	INSDC	LUUF01000077.1	7447	8331	-	OAH99900.1	nitrogenase reductase	Methylomonas methanica	NCIMB 11130	GCA_001644045.1
+66439782	INSDC	SMCN01000008.1	7616	8500	-	TCV83881.1	Mo-nitrogenase iron protein subunit NifH	Methylomonas methanica	S-1	GCA_004343025.1

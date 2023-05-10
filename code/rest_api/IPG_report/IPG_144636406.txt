@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+144636406	INSDC	DUEK01000059.1	12941	13954	+	HEY73503.1	nitrogen fixation protein NifH	Thermoflexia bacterium		GCA_011192155.1
+144636406	INSDC	NBLW01000020.1	7605	8618	+	OQY24030.1	hypothetical protein	Anaerolineaceae bacterium 4572_32.2		GCA_002084625.1
+144636406	INSDC	QMOB01000273.1	5257	6270	+	RLC82856.1	nitrogen fixation protein NifH	Chloroflexota bacterium		GCA_003648075.1

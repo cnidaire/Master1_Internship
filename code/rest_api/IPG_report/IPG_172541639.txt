@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+172541639	INSDC	PGXQ01000364.1	2592	3635	-	PKL10982.1	nitrogen fixation protein NifH	Spirochaetae bacterium HGW-Spirochaetae-8		GCA_002839235.1
+172541639	INSDC	PGXU01000042.1	17997	19040	+	PKL20751.1	nitrogen fixation protein NifH	Spirochaetae bacterium HGW-Spirochaetae-4		GCA_002839335.1

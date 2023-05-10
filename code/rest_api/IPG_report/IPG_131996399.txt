@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+131996399	RefSeq	NZ_FRFE01000005.1	260701	261528	+	WP_073612834.1	nitrogenase iron protein	Desulfopila aestuarii DSM 18488	DSM 18488	GCF_900143695.1
+131996399	INSDC	FRFE01000005.1	260701	261528	+	SHO46460.1	nitrogenase iron protein NifH	Desulfopila aestuarii DSM 18488	DSM 18488	GCA_900143695.1

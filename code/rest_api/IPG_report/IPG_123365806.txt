@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+123365806	RefSeq	NZ_FNCY01000001.1	185023	185913	+	WP_091932041.1	nitrogenase iron protein	Propionivibrio dicarboxylicus	DSM 5885	GCF_900099695.1
+123365806	INSDC	FNCY01000001.1	185023	185913	+	SDG58585.1	Mo-nitrogenase iron protein subunit NifH /V-nitrogenase iron protein subunit VnfH	Propionivibrio dicarboxylicus	DSM 5885	GCA_900099695.1

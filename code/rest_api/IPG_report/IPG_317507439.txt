@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+317507439	INSDC	JAAYCF010000130.1	5534	6544	-	NLZ13372.1	nitrogen fixation protein NifH	Thermotogaceae bacterium		GCA_012744415.1

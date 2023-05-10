@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+126417619	RefSeq	NZ_FOIK01000004.1	118688	119554	-	WP_091070736.1	nitrogenase iron protein	Paenibacillus sp. NFR01	NFR01	GCF_900111565.1
+126417619	INSDC	FOIK01000004.1	118688	119554	-	SEU18380.1	nitrogenase iron protein NifH	Paenibacillus sp. NFR01	NFR01	GCA_900111565.1

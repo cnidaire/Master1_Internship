@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+211330155	RefSeq	NZ_RAPN01000001.1	4096304	4097128	+	WP_120274333.1	nitrogenase iron protein	Mangrovibacterium diazotrophicum	DSM 27148	GCF_003610535.1
+211330155	INSDC	RAPN01000001.1	4096304	4097128	+	RKD92899.1	Mo-nitrogenase iron protein subunit NifH	Mangrovibacterium diazotrophicum	DSM 27148	GCA_003610535.1

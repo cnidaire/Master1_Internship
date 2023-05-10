@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+261387226	INSDC	QYQM01000024.1	7354	8364	+	TSA38239.1	nitrogen fixation protein NifH	Porphyromonadaceae bacterium		GCA_007280905.1

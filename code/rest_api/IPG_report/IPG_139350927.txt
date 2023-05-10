@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+139350927	INSDC	LO017727.1	495328	496212	-	CRH04602.1	nitrogenase iron protein, nifH; dinitrogenase reductase	Candidatus Magnetococcus massalia	MO-1	

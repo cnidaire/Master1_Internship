@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+13926334	RefSeq	NZ_JANUCR010000003.1	38628	39464	-	WP_013180087.1	nitrogenase iron protein	Methanococcus voltae	C2	GCF_024807655.1
+13926334	INSDC	JANUCR010000003.1	38628	39464	-	MCS3901209.1	nitrogenase iron protein NifH	Methanococcus voltae	C2	GCA_024807655.1

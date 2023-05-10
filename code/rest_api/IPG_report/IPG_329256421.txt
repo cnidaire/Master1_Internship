@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+329256421	RefSeq	NZ_JAAITI010000021.1	35251	36018	+	WP_173772152.1	nitrogenase iron protein NifH	Blautia luti	MSK.16.34	GCF_013304735.1
+329256421	INSDC	JAAITI010000021.1	35251	36018	+	NSK43486.1	AAA family ATPase	Blautia luti	MSK.16.34	GCA_013304735.1

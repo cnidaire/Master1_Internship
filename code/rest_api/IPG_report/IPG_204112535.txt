@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+204112535	INSDC	DMRY01000103.1	15390	16208	-	HAQ45057.1	nitrogenase iron protein	Dialister sp.		GCA_003457195.1
+204112535	INSDC	JALFOU010000243.1	3278	4096	+	MCI6792863.1	nitrogenase iron protein NifH	Dialister sp.		GCA_022783105.1
+204112535	INSDC	JALFMV010000123.1	2465	3283	-	MCI7172503.1	nitrogenase iron protein NifH	Dialister sp.		GCA_022782565.1

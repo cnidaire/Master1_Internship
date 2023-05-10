@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+109666359	RefSeq	NZ_LVEM01000003.1	1265086	1265976	-	WP_063690816.1	nitrogenase iron protein	Bradyrhizobium stylosanthis	BR 446	GCF_001641335.1
+109666359	RefSeq	NZ_VITK01000005.1	663281	664171	-	WP_063690816.1	nitrogenase iron protein	Bradyrhizobium stylosanthis	BR 510	GCF_007827835.1
+109666359	INSDC	VITK01000005.1	663281	664171	-	TWA98952.1	Mo-nitrogenase iron protein subunit NifH	Bradyrhizobium stylosanthis	BR 510	GCA_007827835.1

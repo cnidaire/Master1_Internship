@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+133282010	RefSeq	NZ_CP017104.1	272314	273207	+	WP_074071009.1	nitrogenase iron protein	Rhizobium gallicum	IE4872	GCF_001908615.1
+133282010	INSDC	CP017104.1	272314	273207	+	APO70323.1	nitrogenase iron protein NifH	Rhizobium gallicum	IE4872	GCA_001908615.1

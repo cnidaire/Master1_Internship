@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+175078968	RefSeq	NZ_OEQH01000001.1	189802	190557	+	WP_101696326.1	nitrogenase iron protein NifH	Clostridium minihomine	Marseille-P4642	GCF_900240385.1

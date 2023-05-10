@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+172992436	INSDC	PHEE01000007.1	43514	44497	-	PKP70781.1	nitrogen fixation protein NifH	Alphaproteobacteria bacterium HGW-Alphaproteobacteria-4		GCA_002842855.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+237805199	RefSeq	NZ_SLXP01000002.1	564052	564936	-	WP_132461202.1	nitrogenase iron protein	Rhodovulum marinum	DSM 18063	GCF_004343075.1
+237805199	INSDC	SLXP01000002.1	564052	564936	-	TCP43369.1	Mo-nitrogenase iron protein subunit NifH	Rhodovulum marinum	DSM 18063	GCA_004343075.1

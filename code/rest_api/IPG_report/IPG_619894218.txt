@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+619894218	RefSeq	NZ_JAQMIQ010000009.1	22323	23072	+	WP_272155477.1	nitrogenase iron protein NifH	Turicibacter sanguinis	A2_h1001713B170204_200309	GCF_028324985.1

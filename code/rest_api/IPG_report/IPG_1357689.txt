@@ -1,0 +1,14 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+1357689	RefSeq	NC_002678.2	4771737	4772630	+	WP_010913608.1	nitrogenase iron protein	Mesorhizobium japonicum MAFF 303099	MAFF 303099	GCF_000009625.1
+1357689	RefSeq	NZ_AP023247.1	6558047	6558940	-	WP_010913608.1	nitrogenase iron protein	Mesorhizobium sp. 131-2-1	131-2-1	GCF_016756535.1
+1357689	RefSeq	NZ_AP023249.1	6777851	6778744	-	WP_010913608.1	nitrogenase iron protein	Mesorhizobium sp. 131-2-5	131-2-5	GCF_016756555.1
+1357689	RefSeq	NZ_AP023262.1	7353446	7354339	-	WP_010913608.1	nitrogenase iron protein	Mesorhizobium sp. L-8-3	L-8-3	GCF_016756615.1
+1357689	RefSeq	NZ_QGGH01000015.1	84109	85002	+	WP_010913608.1	nitrogenase iron protein	Mesorhizobium loti	DSM 2626	GCF_003148495.1
+1357689	Swiss-Prot	N/A				Q98AP7.1	Nitrogenase iron protein	Mesorhizobium japonicum MAFF 303099		
+1357689	INSDC	BA000012.4	4771737	4772630	+	BAB52275.1	nitrogenase iron protein; NifH	Mesorhizobium japonicum MAFF 303099	MAFF 303099	GCA_000009625.1
+1357689	INSDC	AP017605.1	5374361	5375254	+	BAV50138.1	nitrogenase reductase	Mesorhizobium loti	TONO	GCA_002356515.1
+1357689	INSDC	AP017986.1	1143730	1144623	+	BBD36208.1	nitrogenase iron protein NifH	Aminobacter sp. SS-2016	Y103A	
+1357689	INSDC	AP023247.1	6558047	6558940	-	BCG97491.1	nitrogenase iron protein	Mesorhizobium sp. 131-2-1	131-2-1	GCA_016756535.1
+1357689	INSDC	AP023249.1	6777851	6778744	-	BCH04559.1	nitrogenase iron protein	Mesorhizobium sp. 131-2-5	131-2-5	GCA_016756555.1
+1357689	INSDC	AP023262.1	7353446	7354339	-	BCH27082.1	nitrogenase iron protein	Mesorhizobium sp. L-8-3	L-8-3	GCA_016756615.1
+1357689	INSDC	QGGH01000015.1	84109	85002	+	PWJ87640.1	Mo-nitrogenase iron protein subunit NifH	Mesorhizobium loti	DSM 2626	GCA_003148495.1

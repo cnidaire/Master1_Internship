@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+127583626	RefSeq	NZ_FOKQ01000029.1	39060	39824	-	WP_074962634.1	AAA family ATPase	Ruminococcus albus	AR67	GCF_900112155.1
+127583626	INSDC	JAFZRL010000107.1	129129	129893	+	MBO4867994.1	AAA family ATPase	Ruminococcus sp.		GCA_017619875.1
+127583626	INSDC	FOKQ01000029.1	39060	39824	-	SFD01754.1	nitrogenase iron protein NifH	Ruminococcus albus	AR67	GCA_900112155.1

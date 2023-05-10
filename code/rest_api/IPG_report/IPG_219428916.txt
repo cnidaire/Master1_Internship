@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+219428916	INSDC	RPRM01001122.1	449	1495	-	RPH55083.1	nitrogen fixation protein NifH	Acidobacteriota bacterium		GCA_003818475.1

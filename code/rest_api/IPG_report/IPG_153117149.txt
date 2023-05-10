@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+153117149	RefSeq	NZ_AP018298.1	2993189	2994085	-	WP_096676010.1	nitrogenase iron protein	Fischerella sp. NIES-4106	NIES-4106	GCF_002368315.1
+153117149	INSDC	AP018298.1	2993189	2994085	-	BAZ67862.1	nitrogenase iron protein subunit NifH	Fischerella sp. NIES-4106	NIES-4106	GCA_002368315.1
+153117149	INSDC	JAHHHW010000143.1	66140	67036	+	MBW4434814.1	nitrogenase iron protein	Pelatocladus maniniholoensis HA4357-MV3		GCA_019359115.1

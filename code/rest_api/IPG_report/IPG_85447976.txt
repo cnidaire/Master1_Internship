@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+85447976	RefSeq	NZ_KQ235877.1	328157	328912	+	WP_048929735.1	nitrogenase iron protein NifH	[Clostridium] citroniae WAL-19142	WAL-19142	GCF_001078435.1
+85447976	INSDC	ADLK01000018.1	21905	22660	+	KMW20867.1	hypothetical protein	[Clostridium] citroniae WAL-19142	WAL-19142	GCA_001078435.1
+85447976	INSDC	KQ235877.1	328157	328912	+	KMW20867.1	hypothetical protein	[Clostridium] citroniae WAL-19142	WAL-19142	GCA_001078435.1

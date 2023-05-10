@@ -1,0 +1,14 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+20538028	RefSeq	NC_014328.1	2535844	2536605	-	WP_013238960.1	nitrogenase iron protein NifH	Clostridium ljungdahlii DSM 13528	DSM 13528	GCF_000143685.1
+20538028	RefSeq	NC_022592.1	401161	401922	-	WP_013238960.1	nitrogenase iron protein NifH	Clostridium autoethanogenum DSM 10061	DSM 10061	GCF_000484505.2
+20538028	RefSeq	NZ_ASZX01000004.1	110777	111538	-	WP_013238960.1	nitrogenase iron protein NifH	Clostridium autoethanogenum DSM 10061	DSM 10061	GCF_000427255.1
+20538028	RefSeq	NZ_CP012395.1	401194	401955	-	WP_013238960.1	nitrogenase iron protein NifH	Clostridium autoethanogenum DSM 10061	DSM 10061	GCF_001484725.1
+20538028	RefSeq	NZ_LITR01000003.1	309277	310038	-	WP_013238960.1	nitrogenase iron protein NifH	Clostridium autoethanogenum	JA1-1	GCF_002189005.1
+20538028	RefSeq	NZ_LITS01000004.1	80090	80851	-	WP_013238960.1	nitrogenase iron protein NifH	Clostridium ljungdahlii DSM 13528	PETC	GCF_001636855.1
+20538028	RefSeq	NZ_RFAQ01000015.1	42345	43106	+	WP_013238960.1	nitrogenase iron protein NifH	Clostridium autoethanogenum	H21-9	GCF_003693285.1
+20538028	INSDC	CP001666.1	2535844	2536605	-	ADK15370.1	nitrogenase iron protein	Clostridium ljungdahlii DSM 13528	DSM 13528	GCA_000143685.1
+20538028	INSDC	CP006763.1	401161	401922	-	AGY74604.1	nitrogenase iron protein NifH	Clostridium autoethanogenum DSM 10061	DSM 10061	GCA_000484505.2
+20538028	INSDC	CP012395.1	401194	401955	-	ALU34789.1	Nitrogenase component 2 NifH ATPase	Clostridium autoethanogenum DSM 10061	DSM 10061	GCA_001484725.1
+20538028	INSDC	LITS01000004.1	80090	80851	-	OAA88470.1	Nitrogenase iron protein 1	Clostridium ljungdahlii DSM 13528	PETC	GCA_001636855.1
+20538028	INSDC	LITR01000003.1	309277	310038	-	OVY51508.1	Nitrogenase iron protein 1	Clostridium autoethanogenum	JA1-1	GCA_002189005.1
+20538028	INSDC	RFAQ01000015.1	42345	43106	+	RMD02184.1	nitrogen fixation protein NifH	Clostridium autoethanogenum	H21-9	GCA_003693285.1

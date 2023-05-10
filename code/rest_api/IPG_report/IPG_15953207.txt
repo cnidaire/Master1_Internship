@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+15953207	RefSeq	NC_013771.1	694680	695543	+	WP_012954002.1	nitrogenase iron protein	Candidatus Atelocyanobacterium thalassa isolate ALOHA	ALOHA	GCF_000025125.1
+15953207	INSDC	CP001842.1	694680	695543	+	ACJ53724.1	Mo-nitrogenase iron protein subunit NifH	Candidatus Atelocyanobacterium thalassa isolate ALOHA		GCA_000025125.1

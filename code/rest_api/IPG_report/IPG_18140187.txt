@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+18140187	INSDC	GQ167297.1	1	828	+	ACT67964.1	NifH	Mesorhizobium plurifarium	LMG 11892	

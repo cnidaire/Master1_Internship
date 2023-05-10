@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+250174315	RefSeq	NZ_BJDN01000017.1	56000	56773	-	WP_137638077.1	nitrogenase iron protein NifH	Loigolactobacillus binensis	735-2	GCF_005405165.1

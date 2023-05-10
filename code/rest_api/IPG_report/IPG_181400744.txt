@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+181400744	INSDC	MG839612.1	1	364	+	AVK51779.1	NifH	Rhizobium sp.	CI083	
+181400744	INSDC	MG839637.1	1	364	+	AVK51804.1	NifH	Rhizobium sp.	CI135	

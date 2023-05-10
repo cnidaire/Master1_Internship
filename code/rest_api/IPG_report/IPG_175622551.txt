@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+175622551	RefSeq	NZ_PNYC01000027.1	39934	40815	+	WP_102607370.1	nitrogenase iron protein	Trinickia symbiotica	JPY 581	GCF_002879935.1
+175622551	RefSeq	NZ_PTIR01000032.1	39902	40783	+	WP_102607370.1	nitrogenase iron protein	Trinickia symbiotica	JPY-345	GCF_002934455.1
+175622551	INSDC	PNYC01000027.1	39934	40815	+	PMS31204.1	nitrogenase iron protein	Trinickia symbiotica	JPY 581	GCA_002879935.1
+175622551	INSDC	PTIR01000032.1	39902	40783	+	PPK41367.1	Mo-nitrogenase iron protein subunit NifH	Trinickia symbiotica	JPY-345	GCA_002934455.1

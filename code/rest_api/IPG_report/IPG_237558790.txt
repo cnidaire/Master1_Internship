@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+237558790	RefSeq	NZ_SLUN01000019.1	17092	17916	+	WP_132015164.1	nitrogenase iron protein	Hydrogenispora ethanolica	LX-B	GCF_004340685.1
+237558790	INSDC	SLUN01000019.1	17092	17916	+	TCL64216.1	Mo-nitrogenase iron protein subunit NifH	Hydrogenispora ethanolica	LX-B	GCA_004340685.1

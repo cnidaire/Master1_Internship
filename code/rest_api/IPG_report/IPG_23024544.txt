@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+23024544	RefSeq	NC_015416.1	539892	540707	+	WP_013718497.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanothrix soehngenii GP6	GP6	GCF_000204415.1
+23024544	RefSeq	NZ_CAJYDL010000001.1	2704837	2705652	+	WP_013718497.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanothrix soehngenii		GCF_913757535.1
+23024544	INSDC	CP002565.1	539892	540707	+	AEB67436.1	Nitrogenase iron protein 2	Methanothrix soehngenii GP6	GP6	GCA_000204415.1
+23024544	INSDC	LNQE01001464.1	2635	3450	-	KUG17083.1	nitrogenase (molybdenum-iron) reductase and maturation protein nifh	hydrocarbon metagenome		GCA_001483165.1

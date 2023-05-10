@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+152948256	RefSeq	NZ_BDUC01000005.1	111314	112210	-	WP_089128945.1	nitrogenase iron protein	Tolypothrix sp. NIES-4075	NIES-4075	GCF_002218085.1
+152948256	INSDC	BDUC01000005.1	111314	112210	-	GAX43217.1	nitrogenase iron protein subunit NifH	Tolypothrix sp. NIES-4075	NIES-4075	GCA_002218085.1

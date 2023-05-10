@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+18893347	INSDC	GU001619.1	1	698	+	ACY38115.1	NifH	Bradyrhizobium cytisi	CTAW22	
+18893347	INSDC	GU001624.1	1	698	+	ACY38120.1	NifH	Bradyrhizobium cytisi	CTAW38	

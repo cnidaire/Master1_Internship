@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+237543566	RefSeq	NZ_SLUI01000025.1	9528	10283	+	WP_132083618.1	nitrogenase iron protein NifH	Anaerospora hongkongensis	DSM 15969	GCF_004339805.1
+237543566	INSDC	SLUI01000025.1	9528	10283	+	TCL31968.1	nitrogenase iron protein NifH	Anaerospora hongkongensis	DSM 15969	GCA_004339805.1

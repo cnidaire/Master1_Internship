@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+150864143	RefSeq	NZ_NFLV01000011.1	89174	89944	+	WP_087314700.1	nitrogenase iron protein NifH	Eubacterium sp. An11	An11	GCF_002161065.1
+150864143	INSDC	DWWR01000002.1	87772	88542	-	HJC30570.1	AAA family ATPase	Candidatus Anaerobutyricum faecale		GCA_019119645.1
+150864143	INSDC	NFLV01000011.1	89174	89944	+	OUQ66785.1	nitrogenase iron protein	Eubacterium sp. An11	An11	GCA_002161065.1

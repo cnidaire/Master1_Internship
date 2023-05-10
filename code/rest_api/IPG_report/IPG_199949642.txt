@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+199949642	RefSeq	NZ_LS483235.1	161119	162000	+	WP_116386193.1	nitrogenase iron protein	Cupriavidus taiwanensis		GCF_900249975.1
+199949642	INSDC	LS483235.1	161119	162000	+	SPS02126.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249975.1
+199949642	INSDC	OVTA01000052.1	18427	19308	+	SPS02126.1	NifH nitrogenase Fe protein (Nitrogenase component II)(dinitrogenase reductase)	Cupriavidus taiwanensis		GCA_900249975.1

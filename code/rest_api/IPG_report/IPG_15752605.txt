@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+15752605	RefSeq	NC_011420.2	3814476	3815375	-	WP_012568805.1	nitrogenase iron protein	Rhodospirillum centenum SW	SW; ATCC 51521	GCF_000016185.1
+15752605	INSDC	CP000613.2	3814476	3815375	-	ACJ01032.1	NifH, 4Fe-4S iron sulfur cluster binding protein	Rhodospirillum centenum SW	SW; ATCC 51521	GCA_000016185.1

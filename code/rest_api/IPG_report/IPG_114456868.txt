@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+114456868	RefSeq	NZ_FMBC01000012.1	43781	44662	-	WP_090135063.1	nitrogenase iron protein	Kosakonia oryziphila	REICA_142	GCF_900094795.1
+114456868	INSDC	FMBC01000012.1	43781	44662	-	SCC20815.1	Mo-nitrogenase iron protein subunit NifH	Kosakonia oryziphila	REICA_142	GCA_900094795.1

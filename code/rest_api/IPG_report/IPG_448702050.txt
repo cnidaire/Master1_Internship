@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+448702050	INSDC	JAGTSK010000109.1	1601	2401	-	MBS1193550.1	nifH	Methanomicrobia archaeon		GCA_018261175.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+1783539	INSDC	AY367393.1	1	339	+	AAQ72419.1	NifH	Klebsiella variicola	T29A	
+1783539	INSDC	AY367395.1	1	339	+	AAQ72421.1	NifH	Klebsiella variicola	801	

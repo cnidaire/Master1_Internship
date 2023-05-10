@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+129741664	INSDC	FPJT01000003.1	196359	197213	+	SFX25465.1	nitrogenase iron protein NifH	Ruminococcus flavefaciens	XPD3002	GCA_900119535.1

@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+104278607	RefSeq	NZ_CP014206.1	1624005	1624832	+	WP_066802111.1	nitrogenase iron protein	Pseudodesulfovibrio indicus	J2	GCF_001563225.1
+104278607	RefSeq	NZ_SOBK01000001.1	406949	407776	+	WP_066802111.1	nitrogenase iron protein	Pseudodesulfovibrio indicus	DSM 101483	GCF_004365595.1
+104278607	INSDC	CP014206.1	1624005	1624832	+	AMK10973.1	nitrogenase reductase	Pseudodesulfovibrio indicus	J2	GCA_001563225.1
+104278607	INSDC	SOBK01000001.1	406949	407776	+	TDT91973.1	nitrogenase iron protein NifH	Pseudodesulfovibrio indicus	DSM 101483	GCA_004365595.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+123273397	INSDC	FNJF01000001.1	76768	77682	-	SDO20003.1	nitrogenase iron protein NifH	Eubacterium maltosivorans	32_A2	GCA_900103155.1

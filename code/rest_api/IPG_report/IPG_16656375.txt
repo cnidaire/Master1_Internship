@@ -1,0 +1,8 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+16656375	RefSeq	NZ_ACCL02000003.1	251921	252745	+	WP_006860741.1	nitrogenase iron protein	Marvinbryantia formatexigens DSM 14469	DSM 14469	GCF_000173815.1
+16656375	RefSeq	NZ_CABLBZ010000005.1	199312	200136	+	WP_006860741.1	nitrogenase iron protein	Marvinbryantia formatexigens		GCF_902377505.1
+16656375	RefSeq	NZ_CP102268.1	1653019	1653843	-	WP_006860741.1	nitrogenase iron protein	Marvinbryantia formatexigens DSM 14469	DSM 14469	GCF_025148285.1
+16656375	RefSeq	NZ_FNBY01000005.1	199312	200136	+	WP_006860741.1	nitrogenase iron protein	Marvinbryantia formatexigens	I-52	GCF_900102475.1
+16656375	INSDC	ACCL02000003.1	251921	252745	+	EET62280.1	nitrogenase iron protein	Marvinbryantia formatexigens DSM 14469	DSM 14469	GCA_000173815.1
+16656375	INSDC	FNBY01000005.1	199312	200136	+	SDF82398.1	nitrogenase iron protein NifH	Marvinbryantia formatexigens	I-52	GCA_900102475.1
+16656375	INSDC	CP102268.1	1653019	1653843	-	UWO26408.1	nitrogenase iron protein	Marvinbryantia formatexigens DSM 14469	DSM 14469	GCA_025148285.1

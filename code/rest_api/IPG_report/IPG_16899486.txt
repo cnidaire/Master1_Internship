@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+16899486	INSDC	FJ348667.1	1	687	+	ACO58676.1	NifH	Bradyrhizobium sp. RRSSET16	RRSSET16	

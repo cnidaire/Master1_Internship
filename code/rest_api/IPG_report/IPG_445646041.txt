@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+445646041	INSDC	JAFXWE010000121.1	3100	3612	-	MBR6037937.1	nitrogen fixation protein NifH	Candidatus Methanomethylophilaceae archaeon		GCA_017542975.1

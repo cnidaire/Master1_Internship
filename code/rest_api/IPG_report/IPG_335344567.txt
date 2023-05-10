@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+335344567	RefSeq	NZ_JACRSQ010000027.1	6037	6801	-	WP_177720260.1	nitrogenase iron protein NifH	Bianquea renquensis	NSJ-32	GCF_014384895.1
+335344567	INSDC	JACRSQ010000027.1	6037	6801	-	MBC8544646.1	AAA family ATPase	Bianquea renquensis	NSJ-32	GCA_014384895.1

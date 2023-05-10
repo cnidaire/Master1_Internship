@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+18140141	INSDC	GQ167280.1	1	828	+	ACT67913.1	NifH	Mesorhizobium mediterraneum	USDA 3392	

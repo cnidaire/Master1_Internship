@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+113371868	INSDC	KT832402.1	1	335	+	ANS71365.1	NifH	Stigonema anomalum TM01-1		

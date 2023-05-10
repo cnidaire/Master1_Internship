@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+31728291	INSDC	ALVN01000001.1	1160216	1161094	+	EKV00060.1	Mo-nitrogenase iron protein subunit NifH	Leptolyngbya sp. PCC 7375	PCC 7375	GCA_000316115.1
+31728291	INSDC	JH993797.1	1160216	1161094	+	EKV00060.1	Mo-nitrogenase iron protein subunit NifH	Leptolyngbya sp. PCC 7375	PCC 7375	GCA_000316115.1

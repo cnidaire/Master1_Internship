@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+188848583	RefSeq	NZ_QGMZ01000056.1	2555	3313	-	WP_109942349.1	nitrogenase iron protein NifH	Methanospirillum stamsii	Pt1	GCF_003173335.1
+188848583	INSDC	QGMZ01000056.1	2555	3313	-	PWR69673.1	nitrogenase iron protein	Methanospirillum stamsii	Pt1	GCA_003173335.1

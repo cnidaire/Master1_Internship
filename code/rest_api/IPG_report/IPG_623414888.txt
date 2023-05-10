@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+623414888	RefSeq	NZ_OV788641.1	2235742	2236560	-	WP_273187141.1	nitrogenase iron protein NifH	Dialister succinatiphilus		GCF_928721695.1

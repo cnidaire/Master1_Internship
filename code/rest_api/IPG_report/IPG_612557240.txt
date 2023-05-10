@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+612557240	RefSeq	NZ_JAQEDB010000013.1	26757	27533	+	WP_270842012.1	nitrogenase iron protein NifH	Mediterraneibacter faecis	AM44-6	GCF_027669685.1

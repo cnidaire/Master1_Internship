@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+589103233	RefSeq	NZ_CP107547.1	536614	537360	+	WP_264150273.1	nitrogenase iron protein NifH	Oceanotoga sp. DSM 15011	DSM 15011	GCF_025837015.1
+589103233	INSDC	CP107547.1	536614	537360	+	UYP00589.1	nitrogenase iron protein NifH	Oceanotoga sp. DSM 15011	DSM 15011	GCA_025837015.1

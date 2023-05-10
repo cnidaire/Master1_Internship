@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+42108669	INSDC	CBKE010000135.1	617	1363	+	CDF04744.1	putative nitrogenase iron protein	Megasphaera elsdenii CAG:570		GCA_000437935.1
+42108669	INSDC	FR902661.1	13189	13935	+	CDF04744.1	putative nitrogenase iron protein	Megasphaera elsdenii CAG:570		GCA_000437935.1
+42108669	INSDC	JALFEU010000023.1	9131	9877	-	MCI6923893.1	nitrogenase iron protein NifH	Megasphaera elsdenii		GCA_022778065.1
+42108669	INSDC	JALFLY010000103.1	10350	11096	-	MCI7059751.1	nitrogenase iron protein NifH	Megasphaera elsdenii		GCA_022774445.1
+42108669	INSDC	JALEVD010000063.1	11031	11777	-	MCI7216615.1	nitrogenase iron protein NifH	Megasphaera elsdenii		GCA_022780665.1

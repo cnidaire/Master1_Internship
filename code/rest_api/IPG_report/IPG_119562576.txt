@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+119562576	RefSeq	NZ_CABMJZ010000055.1	25436	26296	-	WP_070041173.1	nitrogenase iron protein NifH	Robinsoniella peoriensis		GCF_902386795.1
+119562576	RefSeq	NZ_FMJR01000055.1	25436	26296	-	WP_070041173.1	nitrogenase iron protein NifH	Robinsoniella peoriensis		GCF_900096675.1
+119562576	RefSeq	NZ_QGQD01000060.1	31910	32770	+	WP_070041173.1	nitrogenase iron protein NifH	Robinsoniella peoriensis	DSM 106044	GCF_005519995.1
+119562576	INSDC	QGQD01000060.1	31910	32770	+	TLC99979.1	Nitrogenase iron protein 1	Robinsoniella peoriensis	DSM 106044	GCA_005519995.1

@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+31137913	RefSeq	NC_018870.1	898527	899354	+	WP_015049976.1	nitrogenase iron protein	Thermacetogenium phaeum DSM 12270	DSM 12270	GCF_000305935.1
+31137913	RefSeq	NZ_KI912609.1	1477377	1478204	-	WP_015049976.1	nitrogenase iron protein	Thermacetogenium phaeum DSM 12270	DSM 12270	GCF_000519285.1
+31137913	INSDC	CP003732.1	898527	899354	+	AFV11095.1	nitrogenase iron protein NifH	Thermacetogenium phaeum DSM 12270	DSM 12270	GCA_000305935.1

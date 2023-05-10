@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+176821503	INSDC	MUGC01000018.1	8409	9419	-	PNX49394.1	nitrogen fixation protein NifH	Thermoplasmata archaeon M9B1D		GCA_002900535.1
+176821503	INSDC	MUGB01000047.1	4675	5685	-	PNX51105.1	nitrogen fixation protein NifH	Thermoplasmata archaeon M8B2D		GCA_002900525.1

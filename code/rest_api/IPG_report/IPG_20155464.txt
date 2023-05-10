@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+20155464	INSDC	GQ336837.1	1	635	+	ADI25004.1	NifH	Bradyrhizobium sp. STM 3090	STM3090	
+20155464	INSDC	GQ336838.1	1	635	+	ADI25005.1	NifH	Bradyrhizobium sp. STM 3049	STM3049	
+20155464	INSDC	GQ336839.1	1	635	+	ADI25006.1	NifH	Bradyrhizobium sp. STM 3091	STM3091	
+20155464	INSDC	GQ336847.1	1	635	+	ADI25014.1	NifH	Bradyrhizobium sp. STM 3059	STM3059	

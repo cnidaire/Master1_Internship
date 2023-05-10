@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+110709219	RefSeq	NZ_CP042909.1	797262	798095	-	WP_068669439.1	nitrogenase iron protein	Thermosulfurimonas marina	SU872	GCF_012317585.1
+110709219	RefSeq	NZ_LWLG01000003.1	24588	25421	+	WP_068669439.1	nitrogenase iron protein	Thermosulfurimonas dismutans	S95	GCF_001652585.1
+110709219	INSDC	LWLG01000003.1	24588	25421	+	OAQ21094.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Thermosulfurimonas dismutans	S95	GCA_001652585.1
+110709219	INSDC	CP042909.1	797262	798095	-	QJA06058.1	nitrogenase iron protein	Thermosulfurimonas marina	SU872	GCA_012317585.1

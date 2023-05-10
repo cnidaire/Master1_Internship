@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+258817921	RefSeq	NZ_VFOF01000001.1	312654	313496	+	WP_141919143.1	nitrogenase iron protein	Zymomonas mobilis	AN0101	GCF_006715975.1
+258817921	INSDC	VFOF01000001.1	312654	313496	+	TQL16735.1	Mo-nitrogenase iron protein subunit NifH /Fe-only nitrogenase iron protein subunit AnfH	Zymomonas mobilis	AN0101	GCA_006715975.1

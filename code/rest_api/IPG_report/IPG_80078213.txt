@@ -1,0 +1,11 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+80078213	RefSeq	NZ_CP009501.1	112638	113537	-	WP_048166113.1	nitrogenase iron protein NifH	Methanosarcina thermophila TM-1	TM-1	GCF_000969885.1
+80078213	RefSeq	NZ_CP009502.1	793358	794257	+	WP_048166113.1	nitrogenase iron protein NifH	Methanosarcina thermophila CHTI-55	CHTI-55	GCF_000969925.1
+80078213	RefSeq	NZ_FPAO01000016.1	3181	4080	-	WP_048166113.1	nitrogenase iron protein NifH	Methanosarcina thermophila	DSM 11855	GCF_900116525.1
+80078213	INSDC	CP009501.1	112638	113537	-	AKB11845.1	nitrogenase reductase-like protein	Methanosarcina thermophila TM-1	TM-1	GCA_000969885.1
+80078213	INSDC	CP009502.1	793358	794257	+	AKB14961.1	nitrogenase reductase-like protein	Methanosarcina thermophila CHTI-55	CHTI-55	GCA_000969925.1
+80078213	INSDC	CP011449.1	3121241	3122140	+	ALK06492.1	nitrogenase iron protein	Methanosarcina sp. 795		GCA_001402855.1
+80078213	INSDC	AP017646.1	1803346	1804245	-	BAW29477.1	nitrogenase iron protein	Methanosarcina thermophila	MT-1	GCA_003584605.1
+80078213	INSDC	BSDL01000026.1	2961	3860	-	GLI15510.1	nitrogenase iron protein	Methanosarcina thermophila MST-A1	MST-A1	GCA_027925105.1
+80078213	INSDC	JAAYAF010000029.1	12080	12979	+	NLU56965.1	AAA family ATPase	Methanosarcina thermophila		GCA_012719515.1
+80078213	INSDC	FPAO01000016.1	3181	4080	-	SFT84555.1	nitrogenase iron protein NifH	Methanosarcina thermophila	DSM 11855	GCA_900116525.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+162947156	RefSeq	NZ_LYXE01000078.1	71504	72514	+	WP_097652207.1	nitrogen fixation protein NifH	Candidatus Chloroploca asiatica	B7-9	GCF_002532075.1
+162947156	INSDC	LYXE01000078.1	71504	72514	+	PDV99279.1	hypothetical protein	Candidatus Chloroploca asiatica	B7-9	GCA_002532075.1

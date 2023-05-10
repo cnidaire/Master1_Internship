@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+237496992	RefSeq	NZ_OU594967.1	2456792	2457664	-	WP_131911476.1	nitrogenase iron protein	Celerinatantimonas diazotrophica		GCF_914590485.1
+237496992	RefSeq	NZ_SMGD01000011.1	7936	8808	-	WP_131911476.1	nitrogenase iron protein	Celerinatantimonas diazotrophica	DSM 18577	GCF_004339545.1
+237496992	INSDC	OU594967.1	2456792	2457664	-	CAG9297132.1	Nitrogenase iron protein 1	Celerinatantimonas diazotrophica		GCA_914590485.1
+237496992	INSDC	SMGD01000011.1	7936	8808	-	TCK58503.1	nitrogenase iron protein NifH	Celerinatantimonas diazotrophica	DSM 18577	GCA_004339545.1

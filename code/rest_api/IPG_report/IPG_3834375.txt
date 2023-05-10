@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+3834375	INSDC	AY786992.1	1	480	-	AAV49035.1	nitrogenase subunit NifH	Azospirillum lipoferum	4VI	

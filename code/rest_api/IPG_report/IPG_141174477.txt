@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+141174477	RefSeq	NZ_MZGX01000019.1	63043	63918	+	WP_080065281.1	nitrogenase iron protein NifH	Ruminiclostridium hungatei	DSM 14427	GCF_002051585.1
+141174477	INSDC	MZGX01000019.1	63043	63918	+	OPX43281.1	nitrogenase iron protein 1	Ruminiclostridium hungatei	DSM 14427	GCA_002051585.1

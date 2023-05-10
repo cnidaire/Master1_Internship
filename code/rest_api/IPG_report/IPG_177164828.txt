@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+177164828	RefSeq	NZ_PPCN01000001.1	308690	309574	+	WP_103220494.1	nitrogenase iron protein	Roseibium marinum	DSM 17023	GCF_002906165.1
+177164828	INSDC	PPCN01000001.1	308690	309574	+	POF33835.1	Mo-nitrogenase iron protein subunit NifH	Roseibium marinum	DSM 17023	GCA_002906165.1

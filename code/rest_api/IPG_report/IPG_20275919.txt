@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+20275919	INSDC	HM057561.1	1	719	+	ADI72796.1	nitrogenase Fe protein	Bradyrhizobium japonicum	CCBAU 05707	
+20275919	INSDC	HQ231518.1	1	718	+	ADZ23533.1	NifH	Bradyrhizobium sp. CCBAU 25437	CCBAU 25437	
+20275919	INSDC	HQ231519.1	1	718	+	ADZ23534.1	NifH	Bradyrhizobium japonicum	CCBAU 051160	
+20275919	INSDC	KF749188.1	1	719	+	AHL17204.1	nitrogenase iron protein	Bradyrhizobium sp. SDD10-1	SDD10-1	

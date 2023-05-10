@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+19432885	INSDC	GU201867.1	1	376	+	ADC83986.1	NifH	Mesorhizobium gobiense	Zw-19	

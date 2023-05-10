@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+15542733	INSDC	EU938523.1	1	362	+	ACH73170.1	NifH	Erwinia sp. gx104	gx104	
+15542733	INSDC	FJ822996.1	1	362	-	ACN88696.1	nitrogenase iron protein	Kluyvera ascorbata	gx-130	

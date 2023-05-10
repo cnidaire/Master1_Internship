@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+20056665	RefSeq	NC_015275.1	463987	464751	+	WP_013655415.1	nitrogenase iron protein NifH	Cellulosilyticum lentocellum DSM 5427	DSM 5427	GCF_000178835.2
+20056665	INSDC	CP002582.1	463987	464751	+	ADZ82114.1	Nitrogenase	Cellulosilyticum lentocellum DSM 5427	DSM 5427	GCA_000178835.2

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+123148115	RefSeq	NZ_FNGU01000006.1	91233	92111	-	WP_279615550.1	nitrogenase iron protein	Geoalkalibacter ferrihydriticus	DSM 17813	GCF_900103065.1
+123148115	INSDC	FNGU01000006.1	91233	92111	-	SDM44764.1	Mo-nitrogenase iron protein subunit NifH	Geoalkalibacter ferrihydriticus	DSM 17813	GCA_900103065.1

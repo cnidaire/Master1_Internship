@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+16450036	INSDC	FJ619296.1	1	557	+	ACM66889.1	NifH protein	Mesorhizobium amorphae	CCNWGS102	

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+147833794	RefSeq	NZ_MWJJ01000001.1	333298	334047	+	WP_085333154.1	nitrogenase iron protein NifH	Clostridium sporogenes	CLS_DGF_0088_06	GCF_002104055.1
+147833794	INSDC	MWJJ01000001.1	333298	334047	+	OSB17843.1	nitrogenase iron protein	Clostridium sporogenes	CLS_DGF_0088_06	GCA_002104055.1

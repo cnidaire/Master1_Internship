@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+560532796	INSDC	JAMXHS010000007.1	404870	405721	-	MCO5385302.1	nitrogenase iron protein NifH	Desulfosporosinus sp.		GCA_023955555.1

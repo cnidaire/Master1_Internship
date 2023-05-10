@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+130461904	RefSeq	NZ_FQUY01000008.1	76799	77617	-	WP_073237983.1	nitrogenase iron protein	Desulforamulus putei DSM 12395	DSM 12395	GCF_900129195.1
+130461904	INSDC	FQUY01000008.1	76799	77617	-	SHE93223.1	Mo-nitrogenase iron protein subunit NifH	Desulforamulus putei DSM 12395	DSM 12395	GCA_900129195.1

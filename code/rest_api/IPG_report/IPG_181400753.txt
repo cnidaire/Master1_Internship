@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+181400753	INSDC	MG839619.1	1	360	+	AVK51786.1	NifH	Bradyrhizobium sp.	CI105	

@@ -1,0 +1,18 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+1449315	RefSeq	NC_005296.1	2973960	2974832	+	WP_011158165.1	nitrogenase iron protein NifH	Rhodopseudomonas palustris CGA009	CGA009	GCF_000195775.1
+1449315	RefSeq	NC_011004.1	3148233	3149105	+	WP_011158165.1	nitrogenase iron protein NifH	Rhodopseudomonas palustris TIE-1	TIE-1	GCF_000020445.1
+1449315	RefSeq	NZ_CP066699.1	2962742	2963614	+	WP_011158165.1	nitrogenase iron protein NifH	Rhodopseudomonas palustris	RCB100	GCF_016584445.1
+1449315	RefSeq	NZ_CP113083.1	2973283	2974155	+	WP_011158165.1	nitrogenase iron protein NifH	Rhodopseudomonas palustris	CGA0092	GCF_026625025.1
+1449315	RefSeq	NZ_CP115713.1	2629185	2630057	+	WP_011158165.1	nitrogenase iron protein NifH	Rhodopseudomonas palustris	k7	GCF_027912195.1
+1449315	RefSeq	NZ_MVOD01000020.1	402933	403805	-	WP_011158165.1	nitrogenase iron protein NifH	Rhodopseudomonas palustris	ELI 1980	GCF_002026345.1
+1449315	RefSeq	NZ_NRSI01000001.1	624739	625611	-	WP_011158165.1	nitrogenase iron protein NifH	Rhodopseudomonas palustris	DSM 126	GCF_002937155.1
+1449315	RefSeq	NZ_QYYC01000007.1	11773	12645	+	WP_011158165.1	nitrogenase iron protein NifH	Rhodopseudomonas palustris	2.1.37	GCF_003591275.1
+1449315	INSDC	CP001096.1	3148233	3149105	+	ACF01394.1	Nitrogenase	Rhodopseudomonas palustris TIE-1	TIE-1	GCA_000020445.1
+1449315	INSDC	BX572601.1	182474	183346	+	CAE28056.1	putative nitrogenase iron protein (nitrogenase component II) (nitrogenase reductase)	Rhodopseudomonas palustris CGA009	CGA009	GCA_000195775.1
+1449315	INSDC	MVOD01000020.1	402933	403805	-	OPF90149.1	nitrogenase iron protein	Rhodopseudomonas palustris	ELI 1980	GCA_002026345.1
+1449315	INSDC	NRSI01000001.1	624739	625611	-	PPQ45670.1	nitrogenase iron protein	Rhodopseudomonas palustris	DSM 126	GCA_002937155.1
+1449315	INSDC	CP066699.1	2962742	2963614	+	QQM04138.1	Nitrogenase iron protein 1	Rhodopseudomonas palustris	RCB100	GCA_016584445.1
+1449315	INSDC	QYYC01000007.1	11773	12645	+	RJF70043.1	nitrogenase iron protein	Rhodopseudomonas palustris	2.1.37	GCA_003591275.1
+1449315	INSDC	CP113083.1	2973283	2974155	+	WAB75531.1	nitrogenase iron protein NifH	Rhodopseudomonas palustris	CGA0092	GCA_026625025.1
+1449315	INSDC	CP115713.1	2629185	2630057	+	WBU32192.1	nitrogenase iron protein NifH	Rhodopseudomonas palustris	k7	GCA_027912195.1
+1449315	INSDC	CP116810.1	2973961	2974833	+	WCL92777.1	nitrogenase iron protein NifH	Rhodopseudomonas palustris CGA009	CGA009	

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+541774886	INSDC	JALHWI010000034.1	240	1109	+	MCJ7735763.1	nitrogenase iron protein NifH	Anaerolineae bacterium		GCA_022866595.1

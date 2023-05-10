@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+123015166	RefSeq	NZ_FMXT01000001.1	821787	822665	-	WP_090417114.1	nitrogenase iron protein NifH	Pseudobutyrivibrio sp. YE44	YE44	GCF_900104335.1
+123015166	INSDC	FMXT01000001.1	821787	822665	-	SDB14827.1	nitrogenase iron protein NifH	Pseudobutyrivibrio sp. YE44	YE44	GCA_900104335.1

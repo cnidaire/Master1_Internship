@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+300518220	RefSeq	NZ_BLLI01000013.1	22378	23157	+	WP_172207979.1	nitrogenase iron protein NifH	Lactococcus hodotermopsidis	Hs30E4-3	GCF_011170085.1
+300518220	INSDC	BLLI01000013.1	22378	23157	+	GFH42130.1	nitrogenase subunit nifH	Lactococcus hodotermopsidis	Hs30E4-3	GCA_011170085.1

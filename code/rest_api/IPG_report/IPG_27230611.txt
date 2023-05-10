@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+27230611	INSDC	JN991121.1	1	687	+	AFD62639.1	NifH	Mesorhizobium sp. CCBAU 75057		

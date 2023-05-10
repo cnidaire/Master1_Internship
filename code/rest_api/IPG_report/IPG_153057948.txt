@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+153057948	INSDC	AP018227.1	6854261	6854683	+	BAY85887.1	nitrogenase iron protein NifH	Calothrix parasitica NIES-267	NIES-267	GCA_002368095.1

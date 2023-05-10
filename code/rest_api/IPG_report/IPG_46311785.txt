@@ -1,0 +1,11 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+46311785	RefSeq	NZ_AYPR01000026.1	117865	118737	-	WP_023911608.1	nitrogenase iron protein NifH	Rhodobacter capsulatus DE442	DE442	GCF_000505785.1
+46311785	RefSeq	NZ_AYQA01000084.1	121583	122455	-	WP_023911608.1	nitrogenase iron protein NifH	Rhodobacter capsulatus B6	B6	GCF_000506425.2
+46311785	RefSeq	NZ_AYQB01000031.1	117887	118759	-	WP_023911608.1	nitrogenase iron protein NifH	Rhodobacter capsulatus Y262	Y262	GCF_000506965.2
+46311785	RefSeq	NZ_AYQC01000026.1	41571	42443	-	WP_023911608.1	nitrogenase iron protein NifH	Rhodobacter capsulatus R121	R121	GCF_000506565.2
+46311785	RefSeq	NZ_VIBE01000001.1	118524	119396	-	WP_023911608.1	nitrogenase iron protein NifH	Rhodobacter capsulatus	SL	GCF_006546695.1
+46311785	INSDC	AYPR01000026.1	117865	118737	-	ETD01065.1	nitrogenase iron protein	Rhodobacter capsulatus DE442	DE442	GCA_000505785.1
+46311785	INSDC	AYQC01000026.1	41571	42443	-	ETD75650.1	nitrogenase iron protein	Rhodobacter capsulatus R121	R121	GCA_000506565.2
+46311785	INSDC	AYQA01000084.1	121583	122455	-	ETD79863.1	nitrogenase iron protein	Rhodobacter capsulatus B6	B6	GCA_000506425.2
+46311785	INSDC	AYQB01000031.1	117887	118759	-	ETE53282.1	nitrogenase iron protein	Rhodobacter capsulatus Y262	Y262	GCA_000506965.2
+46311785	INSDC	VIBE01000001.1	118524	119396	-	TQD38239.1	AAA family ATPase	Rhodobacter capsulatus	SL	GCA_006546695.1

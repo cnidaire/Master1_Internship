@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+18893350	INSDC	GU001627.1	1	698	+	ACY38123.1	NifH	Bradyrhizobium rifense	CTAW71	

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+130622989	RefSeq	NZ_FQZT01000024.1	24762	25643	-	WP_279626000.1	nitrogenase iron protein	Malonomonas rubra DSM 5091	DSM 5091	GCF_900142125.1
+130622989	INSDC	FQZT01000024.1	24762	25643	-	SHJ90511.1	Mo-nitrogenase iron protein subunit NifH	Malonomonas rubra DSM 5091	DSM 5091	GCA_900142125.1

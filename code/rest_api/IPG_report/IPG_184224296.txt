@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+184224296	RefSeq	NZ_PYMH01000001.1	385440	386258	+	WP_107347070.1	nitrogenase iron protein NifH	Photobacterium lutimaris	JCM 13586	GCF_003025555.1
+184224296	RefSeq	NZ_SNZO01000001.1	385603	386421	+	WP_107347070.1	nitrogenase iron protein NifH	Photobacterium lutimaris	CECT 7642	GCF_004363665.1
+184224296	INSDC	PYMH01000001.1	385440	386258	+	PSU35715.1	nitrogenase iron protein	Photobacterium lutimaris	JCM 13586	GCA_003025555.1
+184224296	INSDC	SNZO01000001.1	385603	386421	+	TDR78777.1	Mo-nitrogenase iron protein subunit NifH	Photobacterium lutimaris	CECT 7642	GCA_004363665.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+294251057	INSDC	SAAV01000224.1	1	988	+	NCB53313.1	nitrogen fixation protein NifH	Clostridia bacterium		GCA_009929255.1

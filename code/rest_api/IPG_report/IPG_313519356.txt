@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+313519356	RefSeq	NZ_CP051144.1	892448	893194	+	WP_168572840.1	nitrogenase iron protein NifH	Romboutsia sp. CE17	CE17	GCF_012317385.1
+313519356	INSDC	CP051144.1	892448	893194	+	QJA08199.1	AAA family ATPase	Romboutsia sp. CE17	CE17	GCA_012317385.1

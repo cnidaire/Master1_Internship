@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+153005400	RefSeq	NZ_AP018172.1	5088749	5089642	-	WP_096590560.1	nitrogenase iron protein	Calothrix sp. NIES-2098	NIES-2098	GCF_002368175.1
+153005400	INSDC	AP018172.1	5088749	5089642	-	BAY11076.1	nitrogenase iron protein subunit NifH	Calothrix sp. NIES-2098	NIES-2098	GCA_002368175.1

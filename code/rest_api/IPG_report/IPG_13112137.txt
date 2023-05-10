@@ -1,0 +1,10 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+13112137	RefSeq	NC_009515.1	1752235	1753032	+	WP_011954712.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanobrevibacter smithii ATCC 35061	ATCC 35061; PS; DSMZ 861	GCF_000016525.1
+13112137	RefSeq	NZ_CAMBLZ010000052.1	439	1236	-	WP_011954712.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanobrevibacter smithii		GCF_945868565.1
+13112137	RefSeq	NZ_CP117965.1	1752235	1753032	+	WP_011954712.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanobrevibacter smithii ATCC 35061	DSM 861	GCF_028743435.1
+13112137	RefSeq	NZ_JALFUI010000011.1	12391	13188	-	WP_011954712.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanobrevibacter smithii		GCF_022784485.1
+13112137	RefSeq	NZ_JAQYFZ010000026.1	18522	19319	-	WP_011954712.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanobrevibacter smithii		GCF_028722865.1
+13112137	RefSeq	NZ_MAIE01000080.1	13565	14362	+	WP_011954712.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanobrevibacter sp. A54	A54	GCF_001729455.1
+13112137	INSDC	CP000678.1	1752235	1753032	+	ABQ87912.1	nitrogenase NifH subunit, NifH	Methanobrevibacter smithii ATCC 35061	ATCC 35061; PS; DSMZ 861	GCA_000016525.1
+13112137	INSDC	JALFUI010000011.1	12391	13188	-	MCI7354897.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanobrevibacter smithii		GCA_022784485.1
+13112137	INSDC	MAIE01000080.1	13565	14362	+	OED03066.1	nitrogenase iron protein	Methanobrevibacter sp. A54	A54	GCA_001729455.1

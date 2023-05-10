@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+262331504	RefSeq	NZ_SULJ01000008.1	151291	152025	-	WP_143321771.1	nitrogenase iron protein NifH	Clostridium sp. HBUAS56010	HBUAS56010	GCF_007115105.1

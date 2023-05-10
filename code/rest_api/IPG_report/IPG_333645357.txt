@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+333645357	INSDC	JACAAZ010000026.1	14308	15306	+	NVO21450.1	nitrogen fixation protein NifH	Bacteroidota bacterium		GCA_013376995.1

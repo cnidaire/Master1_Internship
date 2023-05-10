@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+15706033	INSDC	EU698007.1	1	536	+	ACI47358.1	NifH	Mesorhizobium albiziae	CCNWNX0147	

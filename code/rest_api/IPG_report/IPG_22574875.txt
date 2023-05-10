@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+22574875	INSDC	HQ231514.1	1	706	+	ADZ23529.1	NifH	Bradyrhizobium elkanii	CCBAU 051156	

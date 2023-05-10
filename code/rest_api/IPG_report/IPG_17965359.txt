@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+17965359	RefSeq	NC_017262.1	1532328	1533215	-	WP_014501003.1	nitrogenase iron protein	Zymomonas mobilis subsp. mobilis ATCC 10988	ATCC 10988	GCF_000175255.2
+17965359	RefSeq	NZ_VFOH01000001.1	607218	608105	+	WP_014501003.1	nitrogenase iron protein	Zymomonas mobilis	DSM 12495	GCF_006715985.1
+17965359	RefSeq	NZ_VFOI01000002.1	249765	250652	+	WP_014501003.1	nitrogenase iron protein	Zymomonas mobilis	DSM 12494	GCF_006716005.1
+17965359	INSDC	CP002850.1	1532328	1533215	-	AEH63154.1	nitrogenase iron protein	Zymomonas mobilis subsp. mobilis ATCC 10988	ATCC 10988	GCA_000175255.2
+17965359	INSDC	VFOH01000001.1	607218	608105	+	TQL27233.1	Mo-nitrogenase iron protein subunit NifH	Zymomonas mobilis	DSM 12495	GCA_006715985.1
+17965359	INSDC	VFOI01000002.1	249765	250652	+	TQL28663.1	Mo-nitrogenase iron protein subunit NifH	Zymomonas mobilis	DSM 12494	GCA_006716005.1

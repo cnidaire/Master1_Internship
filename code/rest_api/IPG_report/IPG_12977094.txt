@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+12977094	INSDC	EF200510.1	1	304	+	ABP97017.1	NifH	Klebsiella sp. NTI31	NTI31	
+12977094	INSDC	EF200511.1	1	304	+	ABP97018.1	NifH	Klebsiella sp. TT001	TT001	

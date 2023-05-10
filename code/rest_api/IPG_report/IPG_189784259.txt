@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+189784259	RefSeq	NZ_CALCOA010000153.1	3560	4444	+	WP_110389903.1	nitrogenase iron protein	Rivicola pingtungensis		GCF_937897795.1
+189784259	RefSeq	NZ_QJKI01000003.1	229033	229917	-	WP_110389903.1	nitrogenase iron protein	Rivicola pingtungensis	DSM 29661	GCF_003201855.1
+189784259	INSDC	QJKI01000003.1	229033	229917	-	PXX80876.1	Mo-nitrogenase iron protein subunit NifH	Rivicola pingtungensis	DSM 29661	GCA_003201855.1

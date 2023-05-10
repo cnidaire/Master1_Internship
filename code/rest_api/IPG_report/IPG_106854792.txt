@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+106854792	RefSeq	NZ_BDCO01000002.1	1525122	1525946	+	WP_075078689.1	nitrogenase iron protein	Terrimicrobium sacchariphilum	NM-5	GCF_001613545.1
+106854792	INSDC	BDCO01000002.1	1525122	1525946	+	GAT32889.1	nitrogenase iron protein NifH	Terrimicrobium sacchariphilum	NM-5	GCA_001613545.1
+106854792	INSDC	JAFKMU010000048.1	89022	89846	-	MBN8710573.1	nitrogenase iron protein	Verrucomicrobiota bacterium		GCA_017305195.1
+106854792	INSDC	MKSI01000190.1	3	827	+	OJV04166.1	nitrogenase iron protein	Verrucomicrobia bacterium 61-8		GCA_001897195.1
+106854792	INSDC	QAYZ01000015.1	145570	146394	-	PTX95429.1	nitrogenase iron protein	Spartobacteria bacterium LR76	LR76	GCA_003054655.1

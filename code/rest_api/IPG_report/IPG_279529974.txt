@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+279529974	RefSeq	NZ_AP021879.1	2647484	2648329	+	WP_155310410.1	nitrogenase iron protein NifH	Desulfosarcina ovata subsp. ovata	oXyS1	GCF_009689005.1
+279529974	INSDC	AP021879.1	2647484	2648329	+	BBO89180.1	nitrogenase iron protein	Desulfosarcina ovata subsp. ovata	oXyS1	GCA_009689005.1

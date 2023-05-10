@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+127477437	RefSeq	NZ_FOSN01000001.1	340030	340914	+	WP_091676476.1	nitrogenase iron protein	Methylocapsa palsarum	NE2	GCF_900114285.1
+127477437	INSDC	FOSN01000001.1	340030	340914	+	SFK01857.1	Mo-nitrogenase iron protein subunit NifH	Methylocapsa palsarum	NE2	GCA_900114285.1

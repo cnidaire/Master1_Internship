@@ -1,0 +1,8 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+3422825	INSDC	AY601521.1	1	720	+	AAT28202.1	NifH	Mesorhizobium ciceri biovar biserrulae	WSM1271	
+3422825	INSDC	MG429760.1	1	720	+	AYC76576.1	nitrogenase iron protein	Mesorhizobium ciceri	S3N1	
+3422825	INSDC	MG429761.1	1	720	+	AYC76577.1	nitrogenase iron protein	Mesorhizobium ciceri	PHD11	
+3422825	INSDC	MG429762.1	1	720	+	AYC76578.1	nitrogenase iron protein	Mesorhizobium ciceri	PHD8	
+3422825	INSDC	MG429763.1	1	720	+	AYC76579.1	nitrogenase iron protein	Mesorhizobium ciceri	VAR2.2	
+3422825	INSDC	MG429764.1	1	720	+	AYC76580.1	nitrogenase iron protein	Mesorhizobium ciceri	PHD1	
+3422825	INSDC	MG429765.1	1	720	+	AYC76581.1	nitrogenase iron protein	Mesorhizobium ciceri	PHD2	

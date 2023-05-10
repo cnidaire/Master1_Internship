@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+205680767	INSDC	DNKC01000191.1	1517	2518	-	HBC80251.1	nitrogen fixation protein NifH	Bacteroidales bacterium		GCA_003488885.1

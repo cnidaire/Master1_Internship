@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+18834496	RefSeq	NZ_CAJPMT010000013.1	19634	20446	-	WP_006695452.1	nitrogenase iron protein NifH	Selenomonas noxia		GCF_905371815.1
+18834496	RefSeq	NZ_GG749282.1	111472	112284	-	WP_006695452.1	nitrogenase iron protein NifH	Selenomonas noxia ATCC 43541	ATCC 43541	GCF_000160555.1
+18834496	INSDC	ACKT01000013.1	16458	17270	-	EFF66827.1	putative nitrogenase iron protein	Selenomonas noxia ATCC 43541	ATCC 43541	GCA_000160555.1
+18834496	INSDC	GG749282.1	111472	112284	-	EFF66827.1	putative nitrogenase iron protein	Selenomonas noxia ATCC 43541	ATCC 43541	GCA_000160555.1

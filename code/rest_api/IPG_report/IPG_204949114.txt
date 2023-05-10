@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+204949114	INSDC	JAGTTP010000001.1	266298	267059	-	MBR9945117.1	P-loop NTPase	Clostridiaceae bacterium Marseille-Q4145	Marseille-Q4145	GCA_018223365.1
+204949114	INSDC	JAJEPS010000014.1	78915	79676	-	MCC2127100.1	nitrogenase iron protein NifH	Lachnospiraceae bacterium CLA-AA-H276	CLA-AA-H276	GCA_020686965.1
+204949114	INSDC	CP073693.1	2539060	2539821	+	QUO21352.1	P-loop NTPase	Clostridiaceae bacterium Marseille-Q4143	Marseille-Q4143	GCA_018228645.1
+204949114	INSDC	QUKV01000002.1	162149	162910	+	RHU84195.1	nitrogen fixation protein NifH	Clostridiaceae bacterium OM08-6BH	OM08-6BH	GCA_003481535.1

@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+19094660	RefSeq	NC_014120.1	161893	162774	+	WP_013094509.1	nitrogenase iron protein	Paraburkholderia atlantica	CCGE1002	GCF_000092885.1
+19094660	RefSeq	NZ_JACHDG010000022.1	2349	3230	+	WP_013094509.1	nitrogenase iron protein	Paraburkholderia atlantica	JPY681	GCF_014200955.1
+19094660	INSDC	CP002016.1	161893	162774	+	ADG20727.1	nitrogenase iron protein	Paraburkholderia atlantica	CCGE1002	GCA_000092885.1
+19094660	INSDC	JACHDG010000022.1	2349	3230	+	MBB5509987.1	nitrogenase iron protein NifH	Paraburkholderia atlantica	JPY681	GCA_014200955.1

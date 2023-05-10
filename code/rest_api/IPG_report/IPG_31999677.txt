@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+31999677	RefSeq	NC_019738.1	1480545	1481444	-	WP_015181338.1	nitrogenase iron protein	Allocoleopsis franciscana PCC 7113	PCC 7113	GCF_000317515.1
+31999677	INSDC	CP003630.1	1480545	1481444	-	AFZ17178.1	Mo-nitrogenase iron protein subunit NifH	Allocoleopsis franciscana PCC 7113	PCC 7113	GCA_000317515.1

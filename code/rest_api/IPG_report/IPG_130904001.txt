@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+130904001	RefSeq	NZ_FQXJ01000004.1	430635	431462	-	WP_073028688.1	nitrogenase iron protein	Desulfosporosinus lacus DSM 15449	DSM 15449	GCF_900129935.1
+130904001	RefSeq	NZ_JAMHFY010000004.1	44515	45342	-	WP_073028688.1	nitrogenase iron protein	Desulfosporosinus nitroreducens	59.4F	GCF_023897015.1
+130904001	INSDC	JAMHFY010000004.1	44515	45342	-	MCO1600876.1	nitrogenase iron protein	Desulfosporosinus nitroreducens	59.4F	GCA_023897015.1
+130904001	INSDC	JAMXHS010000010.1	339621	340448	-	MCO5385700.1	nitrogenase iron protein	Desulfosporosinus sp.		GCA_023955555.1
+130904001	INSDC	FQXJ01000004.1	430635	431462	-	SHH73244.1	Mo-nitrogenase iron protein subunit NifH	Desulfosporosinus lacus DSM 15449	DSM 15449	GCA_900129935.1

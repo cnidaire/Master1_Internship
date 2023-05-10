@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+740932	Swiss-Prot	N/A				O34106.1	Nitrogenase iron protein	Trichodesmium erythraeum IMS101		
+740932	INSDC	U90952.1	67	957	+	AAB70120.1	dinitrogenase reductase	Trichodesmium erythraeum IMS101	IMS101	
+740932	INSDC	AF016484.1	222	1112	+	AAD03796.1	Fe protein of nitrogenase	Trichodesmium erythraeum IMS101	IMS101	
+740932	INSDC	AF167538.1	3676	4566	+	AAF82637.1	NifH	Trichodesmium erythraeum IMS101		
+740932	INSDC	JAGGDU010000046.1	179378	180268	+	MBS9769933.1	nitrogenase iron protein	Trichodesmium erythraeum GBRTRLIN201		GCA_018457135.1

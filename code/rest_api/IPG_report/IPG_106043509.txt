@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+106043509	INSDC	LSSC01000080.1	15140	16000	-	KYK33705.1	hypothetical protein	Theionarchaea archaeon DG-70-1		GCA_001595815.1
+106043509	INSDC	JACVHA010000658.1	12597	13457	-	MBU7030702.1	nitrogen fixation protein NifH	Theionarchaea archaeon		GCA_019008485.1

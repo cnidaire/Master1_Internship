@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+193559112	RefSeq	NZ_NHSK01000114.1	10178	10981	-	WP_111356811.1	nitrogenase iron protein NifH	Rhodoplanes elegans	DSM 11907	GCF_016653355.1
+193559112	RefSeq	NZ_NPEU01000074.1	7135	7938	-	WP_111356811.1	nitrogenase iron protein NifH	Rhodoplanes elegans	DSM 11907	GCF_003258805.1
+193559112	INSDC	NHSK01000114.1	10178	10981	-	MBK5959448.1	nitrogenase iron protein	Rhodoplanes elegans	DSM 11907	GCA_016653355.1
+193559112	INSDC	NPEU01000074.1	7135	7938	-	RAI39496.1	nitrogenase iron protein	Rhodoplanes elegans	DSM 11907	GCA_003258805.1

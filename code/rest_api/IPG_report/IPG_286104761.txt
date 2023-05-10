@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+286104761	INSDC	WOUV01000018.1	4917	5552	+	KAF0118754.1	nitrogenase iron protein NifH	Rhodospirillaceae bacterium		GCA_009773045.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+264947017	RefSeq	NZ_VLLC01000023.1	18098	18922	-	WP_144685763.1	nitrogenase iron protein	Desulfobotulus alkaliphilus	ASO4-4	GCF_007830435.1
+264947017	INSDC	VLLC01000023.1	18098	18922	-	TWI68142.1	Mo-nitrogenase iron protein subunit NifH	Desulfobotulus alkaliphilus	ASO4-4	GCA_007830435.1

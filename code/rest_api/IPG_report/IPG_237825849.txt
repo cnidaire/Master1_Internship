@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+237825849	RefSeq	NZ_JAOQNU010000007.1	116729	117604	+	WP_131918756.1	nitrogenase iron protein	Heliophilum fasciatum	MTM	GCF_025961515.1
+237825849	RefSeq	NZ_SLXT01000007.1	116729	117604	+	WP_131918756.1	nitrogenase iron protein	Heliophilum fasciatum	DSM 11170	GCF_004341395.1
+237825849	INSDC	SLXT01000007.1	116729	117604	+	TCP65032.1	nitrogenase iron protein NifH	Heliophilum fasciatum	DSM 11170	GCA_004341395.1

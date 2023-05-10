@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+121845226	INSDC	DMLT01000054.1	14411	15427	+	HAL16538.1	nitrogen fixation protein NifH	Anaerolineaceae bacterium		GCA_003453955.1
+121845226	INSDC	DNJD01000284.1	979	1995	+	HBA92475.1	nitrogen fixation protein NifH	Anaerolineaceae bacterium		GCA_003489205.1
+121845226	INSDC	MGMG01000025.1	25650	26666	+	OGN81301.1	hypothetical protein	Chloroflexi bacterium GWB2_54_36		GCA_001796355.1

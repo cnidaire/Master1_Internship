@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+126469379	RefSeq	NZ_FOIP01000001.1	313908	314669	-	WP_092240222.1	nitrogenase iron protein NifH	Lacrimispora sphenoides	DSM 4024	GCF_900105215.1
+126469379	INSDC	FOIP01000001.1	313908	314669	-	SET50259.1	nitrogenase iron protein NifH	Lacrimispora sphenoides	DSM 4024	GCA_900105215.1

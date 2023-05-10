@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+281032940	RefSeq	NZ_VUMD01000004.1	139293	140081	-	WP_154471599.1	nitrogenase iron protein NifH	Clostridium porci	WCA-389-WT-23D1	GCF_009696375.1
+281032940	INSDC	JALFBW010000044.1	53999	54787	+	MCI6140371.1	nitrogenase iron protein NifH	Clostridium sp.		GCA_022771995.1
+281032940	INSDC	VUMD01000004.1	139293	140081	-	MSS36105.1	AAA family ATPase	Clostridium porci	WCA-389-WT-23D1	GCA_009696375.1

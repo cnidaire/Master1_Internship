@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+238064922	RefSeq	NZ_SMAL01000003.1	11851	12669	-	WP_132250896.1	nitrogenase iron protein	Natranaerovirga pectinivora	DSM 24629	GCF_004342165.1
+238064922	INSDC	SMAL01000003.1	11851	12669	-	TCT15309.1	Mo-nitrogenase iron protein subunit NifH	Natranaerovirga pectinivora	DSM 24629	GCA_004342165.1

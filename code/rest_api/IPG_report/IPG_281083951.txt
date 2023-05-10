@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+281083951	RefSeq	NZ_VUNM01000024.1	17983	18735	-	WP_154517382.1	nitrogenase iron protein NifH	Sharpea porci	CA-Schmier-601-WT-3	GCF_009695655.1
+281083951	INSDC	VUNM01000024.1	17983	18735	-	MST89774.1	AAA family ATPase	Sharpea azabuensis	CA-Schmier-601-WT-3	GCA_009695655.1

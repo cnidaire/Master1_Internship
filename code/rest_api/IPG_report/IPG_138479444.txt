@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+138479444	RefSeq	NZ_JAFIBZ010000002.1	43107	43988	-	WP_077729123.1	nitrogenase iron protein	Methylocaldum sp. RMAD-M	RMAD-M	GCF_017832375.1
+138479444	RefSeq	NZ_MSCV01000006.1	154031	154912	+	WP_077729123.1	nitrogenase iron protein	Methylocaldum sp. 14B	14B	GCF_002005105.1
+138479444	INSDC	JAFIBZ010000002.1	43107	43988	-	MBP1148636.1	nitrogenase iron protein NifH	Methylocaldum sp. RMAD-M	RMAD-M	GCA_017832375.1
+138479444	INSDC	SEJA01000001.1	97534	98415	+	MVF20081.1	nitrogenase iron protein	Methylocaldum sp. BRCS4	BRCS4	GCA_009749305.1

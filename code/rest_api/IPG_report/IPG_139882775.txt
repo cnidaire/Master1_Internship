@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+139882775	RefSeq	NZ_LIIR01000024.1	82231	82980	+	WP_079006743.1	nitrogenase iron protein NifH	Clostridium botulinum	301-13	GCF_002024395.1
+139882775	INSDC	SWWH01000001.1	329125	329874	+	NFM44853.1	nitrogenase iron protein	Clostridium botulinum	IFR 18/002	GCA_011017125.1
+139882775	INSDC	LIIR01000024.1	82231	82980	+	OPD23144.1	nitrogenase iron protein	Clostridium botulinum	301-13	GCA_002024395.1

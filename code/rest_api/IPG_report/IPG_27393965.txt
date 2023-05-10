@@ -1,0 +1,10 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+27393965	RefSeq	NC_017075.1	4587848	4588729	+	WP_014430473.1	nitrogenase iron protein	Rubrivivax gelatinosus IL144	IL144	GCF_000284255.1
+27393965	RefSeq	NZ_AJFF01000107.1	5908	6789	+	WP_014430473.1	nitrogenase iron protein	Rubrivivax gelatinosus CBS	CBS	GCF_000257145.1
+27393965	RefSeq	NZ_JADOUB010000001.1	1362496	1363377	+	WP_014430473.1	nitrogenase iron protein	Rubrivivax gelatinosus	CBS	GCF_015751865.1
+27393965	RefSeq	NZ_NRRI01000008.1	70381	71262	+	WP_014430473.1	nitrogenase iron protein	Rubrivivax gelatinosus	DSM 1709	GCF_016583525.1
+27393965	RefSeq	NZ_SLXD01000012.1	70582	71463	+	WP_014430473.1	nitrogenase iron protein	Rubrivivax gelatinosus	DSM 1709	GCF_004340905.1
+27393965	INSDC	AP012320.1	4587848	4588729	+	BAL97624.1	nitrogenase iron protein NifH	Rubrivivax gelatinosus IL144	IL144	GCA_000284255.1
+27393965	INSDC	JADOUB010000001.1	1362496	1363377	+	MBG6079556.1	nitrogenase iron protein NifH	Rubrivivax gelatinosus	CBS	GCA_015751865.1
+27393965	INSDC	NRRI01000008.1	70381	71262	+	MBK1687127.1	nitrogenase iron protein	Rubrivivax gelatinosus	DSM 1709	GCA_016583525.1
+27393965	INSDC	SLXD01000012.1	70582	71463	+	TCP00641.1	Mo-nitrogenase iron protein subunit NifH	Rubrivivax gelatinosus	DSM 1709	GCA_004340905.1

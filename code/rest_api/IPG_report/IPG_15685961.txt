@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+15685961	INSDC	EU818925.1	1	705	+	ACI23530.1	NifH	Bradyrhizobium liaoningense	LMG 18230	

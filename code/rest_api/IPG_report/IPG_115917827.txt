@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+115917827	RefSeq	NZ_CABKWO010000005.1	1900676	1901428	-	WP_066874356.1	nitrogenase iron protein NifH	Clostridium mediterraneense		GCF_902376185.1
+115917827	RefSeq	NZ_LT594785.1	1900676	1901428	-	WP_066874356.1	nitrogenase iron protein NifH	Clostridium mediterraneense	Marseille-P2434T	GCF_900091705.1

@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+47103436	RefSeq	NZ_HF545616.1	209070	209834	+	WP_038670343.1	nitrogenase iron protein NifH	Ruminococcus bicirculans	80/3	GCF_000723465.1
+47103436	RefSeq	NZ_MNTN01000019.1	32112	32876	+	WP_038670343.1	nitrogenase iron protein NifH	Ruminococcus bicirculans		GCF_001917015.1
+47103436	INSDC	HF545616.1	209070	209834	+	CCO03909.1	Nitrogenase iron protein	Ruminococcus bicirculans	80/3	GCA_000723465.1
+47103436	INSDC	MNTN01000019.1	32112	32876	+	OLA47440.1	nitrogenase iron protein	Ruminococcus bicirculans		GCA_001917015.1

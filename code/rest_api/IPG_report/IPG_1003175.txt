@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+1003175	INSDC	EU291987.1	1	558	+	ABZ89814.1	NifH	Sinorhizobium saheli bv. sesbaniae	ORS600	
+1003175	INSDC	Z95211.1	1	558	+	CAB08515.1	nifH	Sinorhizobium sp. HAMBI 1394	HAMBI1394	
+1003175	INSDC	Z95217.1	1	558	+	CAB08521.1	nifH	Sinorhizobium kostiense	HAMBI1476	
+1003175	INSDC	Z95221.1	1	558	+	CAB08525.1	nifH	Sinorhizobium saheli	ORS609	

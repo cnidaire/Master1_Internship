@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+27281763	RefSeq	NZ_CAHP01000020.1	283472	284299	-	WP_002728509.1	nitrogenase iron protein	Magnetospirillum molischianum DSM 120	DSM 120	GCF_000294655.1
+27281763	INSDC	CAHP01000020.1	283472	284299	-	CCG41425.1	nitrogenase iron protein, nifH; dinitrogenase reductase	Magnetospirillum molischianum DSM 120	DSM 120	GCA_000294655.1

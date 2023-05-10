@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+97096932	INSDC	KR092331.1	1	723	+	ALM23377.1	NifH	Bradyrhizobium japonicum	B3	
+97096932	INSDC	MH339855.1	1	720	+	AZM65176.1	NifH	Bradyrhizobium sp.	TUTVUGH4	

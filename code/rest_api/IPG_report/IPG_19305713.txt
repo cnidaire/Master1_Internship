@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+19305713	INSDC	GU256451.1	1	372	+	ADB57031.1	NifH	Azospirillum picis	DSM 19922	

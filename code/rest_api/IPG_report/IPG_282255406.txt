@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+282255406	RefSeq	NZ_WNAK01000010.1	20870	21679	-	WP_155176065.1	nitrogenase iron protein NifH	Roseburia faecis	BIOML-A2	GCF_009718405.1
+282255406	RefSeq	NZ_WNAL01000010.1	20870	21679	-	WP_155176065.1	nitrogenase iron protein NifH	Roseburia faecis	BIOML-A1	GCF_009718425.1
+282255406	INSDC	WNAL01000010.1	20870	21679	-	MTR81273.1	AAA family ATPase	Roseburia faecis	BIOML-A1	GCA_009718425.1
+282255406	INSDC	WNAK01000010.1	20870	21679	-	MTR90682.1	AAA family ATPase	Roseburia faecis	BIOML-A2	GCA_009718405.1

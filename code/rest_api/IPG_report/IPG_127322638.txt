@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+127322638	RefSeq	NZ_FOYM01000036.1	10961	11779	-	WP_092487034.1	nitrogenase iron protein	Desulfoscipio geothermicus DSM 3669	DSM 3669	GCF_900115975.1
+127322638	INSDC	FOYM01000036.1	10961	11779	-	SFR15569.1	nitrogenase iron protein NifH	Desulfoscipio geothermicus DSM 3669	DSM 3669	GCA_900115975.1

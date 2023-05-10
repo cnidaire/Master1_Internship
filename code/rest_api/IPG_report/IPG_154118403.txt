@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+154118403	RefSeq	NZ_FZOB01000004.1	85182	86075	-	WP_219350072.1	nitrogenase iron protein	Desulfurobacterium atlanticum	DSM 15668	GCF_900188395.1
+154118403	INSDC	FZOB01000004.1	85182	86075	-	SNR73087.1	Mo-nitrogenase iron protein subunit NifH /V-nitrogenase iron protein subunit VnfH	Desulfurobacterium atlanticum	DSM 15668	GCA_900188395.1

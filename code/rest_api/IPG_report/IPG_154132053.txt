@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+154132053	RefSeq	NZ_FZOC01000003.1	455498	456325	-	WP_089274151.1	AAA family ATPase	Humidesulfovibrio mexicanus	DSM 13116	GCF_900188225.1
+154132053	INSDC	FZOC01000003.1	455498	456325	-	SNR92487.1	nitrogenase iron protein NifH	Humidesulfovibrio mexicanus	DSM 13116	GCA_900188225.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+204257346	INSDC	QSCN01000003.1	71026	71787	-	RGY07577.1	nitrogen fixation protein NifH	Blautia obeum	OF03-14	GCA_003463085.1

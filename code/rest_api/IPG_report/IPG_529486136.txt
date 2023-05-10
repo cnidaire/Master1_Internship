@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+529486136	INSDC	JAKVON010000001.1	176982	177743	-	MCH3942249.1	nitrogenase iron protein NifH	Atopobiaceae bacterium		GCA_022482785.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+343900609	RefSeq	NZ_CP059378.1	4506578	4507324	-	WP_181601771.1	nitrogenase iron protein NifH	Clostridium intestinale	Lx1	GCF_013781885.1
+343900609	INSDC	CP059378.1	4506578	4507324	-	QLY79777.1	AAA family ATPase	Clostridium intestinale	Lx1	GCA_013781885.1

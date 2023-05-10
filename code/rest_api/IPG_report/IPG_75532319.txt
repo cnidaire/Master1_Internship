@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+75532319	RefSeq	NZ_KK211376.1	94912	95790	-	WP_042707923.1	nitrogenase iron protein NifH	Methanobrevibacter wolinii SH	SH	GCF_000621965.1

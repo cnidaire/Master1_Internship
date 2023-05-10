@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+207313293	RefSeq	NZ_CP031941.1	1046922	1047815	-	WP_118163822.1	nitrogenase iron protein	Nostoc sphaeroides	Kutzing En	GCF_003443655.1
+207313293	RefSeq	NZ_CP045226.1	760645	761538	+	WP_118163822.1	nitrogenase iron protein	Nostoc sphaeroides CCNUC1		GCF_009372195.1
+207313293	RefSeq	NZ_JAIVFZ010000001.1	1969132	1970025	+	WP_118163822.1	nitrogenase iron protein	Nostoc sphaeroides CHAB 2801	CHAB 2801	GCF_020829465.1
+207313293	INSDC	JAIVFZ010000001.1	1969132	1970025	+	MCC5628195.1	nitrogenase iron protein	Nostoc sphaeroides CHAB 2801	CHAB 2801	GCA_020829465.1
+207313293	INSDC	CP045226.1	760645	761538	+	QFS43346.1	nifH, nitrogenase iron protein NifH	Nostoc sphaeroides CCNUC1		GCA_009372195.1

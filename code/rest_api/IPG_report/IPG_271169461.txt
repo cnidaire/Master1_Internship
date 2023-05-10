@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+271169461	RefSeq	NZ_FQZP01000045.1	10174	10995	+	WP_149679280.1	nitrogenase iron protein	Thermoclostridium caenicola	DSM 19027	GCF_900142095.1
+271169461	INSDC	FQZP01000045.1	10174	10995	+	SHJ35501.1	Mo-nitrogenase iron protein subunit NifH	Thermoclostridium caenicola	DSM 19027	GCA_900142095.1

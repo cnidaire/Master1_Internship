@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+329103115	RefSeq	NZ_JABTAT010000001.1	201984	202814	-	WP_254638649.1	nitrogenase iron protein	Clostridium beijerinckii	DJ249	GCF_013296605.1
+329103115	INSDC	JABTAT010000001.1	201984	202814	-	NRZ84386.1	nitrogenase iron protein NifH	Clostridium beijerinckii	DJ249	GCA_013296605.1

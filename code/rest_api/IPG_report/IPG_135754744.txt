@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+135754744	RefSeq	NZ_FTOM01000003.1	188448	189323	-	WP_076365267.1	nitrogenase iron protein	Phaeovulum vinaykumarii	DSM 18714	GCF_900156695.1
+135754744	RefSeq	NZ_OBMN01000003.1	188156	189031	-	WP_076365267.1	nitrogenase iron protein	Phaeovulum vinaykumarii	JA123	GCF_900217755.1
+135754744	INSDC	FTOM01000003.1	188448	189323	-	SIS74410.1	Mo-nitrogenase iron protein subunit NifH	Phaeovulum vinaykumarii	DSM 18714	GCA_900156695.1
+135754744	INSDC	OBMN01000003.1	188156	189031	-	SOC05014.1	Mo-nitrogenase iron protein subunit NifH	Phaeovulum vinaykumarii	JA123	GCA_900217755.1

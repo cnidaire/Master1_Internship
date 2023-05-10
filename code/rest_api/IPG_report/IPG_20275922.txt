@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+20275922	INSDC	HM057565.1	1	713	+	ADI72800.1	nitrogenase Fe protein	Bradyrhizobium elkanii CCBAU 05737	CCBAU 05737	
+20275922	INSDC	MF140388.1	1	713	+	AWC08842.1	NifH	Bradyrhizobium sp.	TUTRAH8A	

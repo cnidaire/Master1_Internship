@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+115985544	RefSeq	NZ_BCNX01000006.1	418713	419531	-	WP_066956598.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanoculleus thermophilus	CR-1	GCF_001571405.1
+115985544	RefSeq	NZ_FNFT01000001.1	341145	341963	-	WP_066956598.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanoculleus thermophilus	DSM 2373	GCF_900101055.1
+115985544	INSDC	JAAYLZ010000115.1	39057	39875	-	NLN09468.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanoculleus thermophilus		GCA_012521595.1
+115985544	INSDC	FNFT01000001.1	341145	341963	-	SDJ88275.1	Mo-nitrogenase iron protein subunit NifH	Methanoculleus thermophilus	DSM 2373	GCA_900101055.1

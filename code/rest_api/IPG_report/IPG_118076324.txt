@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+118076324	INSDC	MCBE01000280.1	4624	5634	-	ODS35379.1	nitrogen fixation protein NifH	Candidatus Altiarchaeales archaeon WOR_SM1_SCG		GCA_001723845.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+36332471	RefSeq	NZ_AQPN01000090.1	44684	45508	-	WP_016195754.1	nitrogenase iron protein	Arcticibacter svalbardensis MN12-7	MN12-7	GCF_000403135.1
+36332471	INSDC	AQPN01000090.1	44684	45508	-	EOR94282.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Arcticibacter svalbardensis MN12-7	MN12-7	GCA_000403135.1

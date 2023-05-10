@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+19305707	INSDC	GU256445.1	1	373	+	ADB57025.1	NifH	Nitrospirillum amazonense	DSM 2787	

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+209073237	RefSeq	NZ_AP018449.1	322854	323729	-	WP_126305788.1	nitrogenase iron protein NifH	Methylomusa anaerophila	MMFC1	GCF_003966895.1
+209073237	INSDC	AP018449.1	322854	323729	-	BBB89636.1	nitrogenase iron protein 1	Methylomusa anaerophila	MMFC1	GCA_003966895.1

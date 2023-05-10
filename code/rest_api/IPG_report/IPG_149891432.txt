@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+149891432	RefSeq	NZ_MRZU01000002.1	153108	153926	+	WP_086636589.1	P-loop NTPase	Methanonatronarchaeum thermophilum	AMET1	GCF_002153915.1
+149891432	INSDC	MRZU01000002.1	153108	153926	+	OUJ19494.1	Nitrogenase subunit NifH, ATPase	Methanonatronarchaeum thermophilum	AMET1	GCA_002153915.1

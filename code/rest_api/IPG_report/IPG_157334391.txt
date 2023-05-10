@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+157334391	INSDC	NOLH01000199.1	2062	2760	+	OYV11387.1	nitrogenase iron protein NifH	Methanosaeta sp. ASM2		GCA_002256665.1

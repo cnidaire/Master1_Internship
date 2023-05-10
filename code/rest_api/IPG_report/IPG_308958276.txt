@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+308958276	RefSeq	NZ_JAAMOZ010000001.1	1904983	1905810	-	WP_167166535.1	nitrogenase iron protein	Brooklawnia cerclae	DSM 19609	GCF_011758645.1
+308958276	INSDC	JAAMOZ010000001.1	1904983	1905810	-	NIH57100.1	nitrogenase iron protein NifH	Brooklawnia cerclae	DSM 19609	GCA_011758645.1

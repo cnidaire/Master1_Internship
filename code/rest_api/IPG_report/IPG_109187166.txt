@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+109187166	RefSeq	NZ_LITQ01000027.1	4057	4818	+	WP_063601867.1	nitrogenase iron protein NifH	Clostridium coskatii	PS02	GCF_001636835.1
+109187166	RefSeq	NZ_LROR01000089.1	4056	4817	+	WP_063601867.1	nitrogenase iron protein NifH	Clostridium coskatii	PTA-10522	GCF_001675205.1
+109187166	INSDC	LITQ01000027.1	4057	4818	+	OAA91113.1	Nitrogenase iron protein 1	Clostridium coskatii	PS02	GCA_001636835.1
+109187166	INSDC	LROR01000089.1	4056	4817	+	OBR90540.1	nitrogenase iron protein 1	Clostridium coskatii	PTA-10522	GCA_001675205.1

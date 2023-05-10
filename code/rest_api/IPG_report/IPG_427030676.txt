@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+427030676	INSDC	JAGDMW010000126.1	8666	9679	-	MBP1693370.1	Nitrogenase subunit NifH (ATPase)-like protein	Chloroflexota bacterium		GCA_017860695.1

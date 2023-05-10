@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+30366315	RefSeq	NZ_JH815513.1	54267	55136	+	WP_005432955.1	nitrogenase iron protein NifH	Sutterella wadsworthensis 2_1_59BFAA	2_1_59BFAA	GCF_000297775.1
+30366315	INSDC	ADMG01000002.1	44603	45472	+	EKB32362.1	nitrogenase iron protein	Sutterella wadsworthensis 2_1_59BFAA	2_1_59BFAA	GCA_000297775.1
+30366315	INSDC	JH815513.1	54267	55136	+	EKB32362.1	nitrogenase iron protein	Sutterella wadsworthensis 2_1_59BFAA	2_1_59BFAA	GCA_000297775.1

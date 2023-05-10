@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+184670326	RefSeq	NZ_PZKG01000009.1	24886	25761	-	WP_107662511.1	nitrogenase iron protein	Cereibacter changlensis JA139	JA139	GCF_003034985.1
+184670326	RefSeq	NZ_QKZS01000016.1	26489	27364	-	WP_107662511.1	nitrogenase iron protein	Cereibacter changlensis	DSM 18774	GCF_003254335.1
+184670326	INSDC	PZKG01000009.1	24886	25761	-	PTE23141.1	nitrogenase iron protein	Cereibacter changlensis JA139	JA139	GCA_003034985.1
+184670326	INSDC	QKZS01000016.1	26489	27364	-	PZX49254.1	Mo-nitrogenase iron protein subunit NifH	Cereibacter changlensis	DSM 18774	GCA_003254335.1

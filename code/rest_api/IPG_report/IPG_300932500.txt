@@ -1,0 +1,15 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+300932500	RefSeq	NZ_CP082942.1	1427624	1428373	-	WP_163205206.1	nitrogenase iron protein NifH	Clostridium sporogenes	FDAARGOS_1471	GCF_019933195.1
+300932500	RefSeq	NZ_SWSN01000003.1	307704	308453	+	WP_163205206.1	nitrogenase iron protein NifH	Clostridium sporogenes	2113/01	GCF_011015155.1
+300932500	RefSeq	NZ_SWXC01000003.1	75637	76386	+	WP_163205206.1	nitrogenase iron protein NifH	Clostridium sporogenes	IFR 18/154	GCF_011017215.1
+300932500	RefSeq	NZ_SWXH01000002.1	185634	186383	+	WP_163205206.1	nitrogenase iron protein NifH	Clostridium sporogenes	IFR 18/149	GCF_011017365.1
+300932500	RefSeq	NZ_SXEL01000003.1	250936	251685	+	WP_163205206.1	nitrogenase iron protein NifH	Clostridium sporogenes	FT236	GCF_011021555.1
+300932500	RefSeq	NZ_SXFJ01000003.1	196725	197474	-	WP_163205206.1	nitrogenase iron protein NifH	Clostridium sporogenes	1779	GCF_011019515.1
+300932500	INSDC	SGJP01000001.1	41636	42385	+	NFA58882.1	nitrogenase iron protein	Clostridium botulinum	R1125/03	GCA_011010005.1
+300932500	INSDC	SWSN01000003.1	307704	308453	+	NFI73465.1	nitrogenase iron protein	Clostridium sporogenes	2113/01	GCA_011015155.1
+300932500	INSDC	SWXC01000003.1	75637	76386	+	NFL71517.1	nitrogenase iron protein	Clostridium sporogenes	IFR 18/154	GCA_011017215.1
+300932500	INSDC	SWXH01000002.1	185634	186383	+	NFM23324.1	nitrogenase iron protein	Clostridium sporogenes	IFR 18/149	GCA_011017365.1
+300932500	INSDC	SXFJ01000003.1	196725	197474	-	NFP61287.1	nitrogenase iron protein	Clostridium sporogenes	1779	GCA_011019515.1
+300932500	INSDC	SXEL01000003.1	250936	251685	+	NFU94297.1	nitrogenase iron protein	Clostridium sporogenes	FT236	GCA_011021555.1
+300932500	INSDC	SGJO01000001.1	67843	68592	+	NFV67538.1	nitrogenase iron protein	Clostridium botulinum	R1135/03	GCA_011022075.1
+300932500	INSDC	CP082942.1	1427624	1428373	-	UAL60990.1	AAA family ATPase	Clostridium sporogenes	FDAARGOS_1471	GCA_019933195.1

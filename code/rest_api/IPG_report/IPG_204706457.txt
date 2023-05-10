@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+204706457	RefSeq	NZ_QUDV01000006.1	102894	103655	+	WP_118452818.1	nitrogenase iron protein NifH	Dorea sp. AF36-15AT	AF36-15AT	GCF_003477705.1
+204706457	INSDC	QUDV01000006.1	102894	103655	+	RHP07857.1	nitrogen fixation protein NifH	Dorea sp. AF36-15AT	AF36-15AT	GCA_003477705.1

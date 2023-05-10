@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+259726830	INSDC	LVVR01000001.1	602956	603735	+	TQS79744.1	nitrogen fixation protein NifH	Methanomassiliicoccales archaeon Mx-03		GCA_006954425.1

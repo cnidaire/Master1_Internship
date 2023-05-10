@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+342204281	RefSeq	NZ_CP041240.1	276239	277132	-	WP_180941993.1	nitrogenase iron protein	Ensifer mexicanus	ITTG R7	GCF_013488225.1
+342204281	RefSeq	NZ_JAGGJT010000006.1	17124	18017	-	WP_180941993.1	nitrogenase iron protein	Ensifer mexicanus	DSM 18446	GCF_017873105.1
+342204281	INSDC	JAGGJT010000006.1	17124	18017	-	MBP1884794.1	nitrogenase iron protein NifH	Ensifer mexicanus	DSM 18446	GCA_017873105.1
+342204281	INSDC	CP041240.1	276239	277132	-	QLL64455.1	nitrogenase iron protein	Ensifer mexicanus	ITTG R7	GCA_013488225.1

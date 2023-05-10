@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+286143860	INSDC	WSNO01000022.1	73830	74669	-	KAF0180578.1	nitrogenase iron protein NifH	Nitrospirota bacterium		GCA_009773415.1
