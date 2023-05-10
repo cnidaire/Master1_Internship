@@ -636,6 +636,99 @@ else:
 
 
 
+## Download each corresponding XML file
+
+```python
+import requests
+
+url = "https://www.ncbi.nlm.nih.gov/nuccore/FOVE01000009.1?from=53785&to=54663&strand=2"
+file_number = 0
+for url in link:
+    # Send a GET request to the URL
+    response = requests.get(url)
+    file_number += 1
+    # Check if the request was successful (status code 200)
+    if response.status_code == 200:
+        # Extract the content of the response (XML file)
+        xml_content = response.text
+        file_name = f"xml_file/file_{file_number}.xml"
+        # Save the XML content to a file
+        with open(file_name, "w") as file:
+            file.write(xml_content)
+            
+        print("XML file downloaded successfully.")
+    else:
+        print("Failed to download the XML file.")
+
+```
+
+
+
+# Day 16: 10/05/2023
+
+objective of the day: reconstruct the url of the first sequence of each file (only if INSDC or RefSeq, not SwissProt or PAT)
+
+In the case of only PAT or Swiss prot, save the prot name to access it later on
+
+then download the corresponding xml file
+
+## recreate the url
+
+```python
+import pandas as pd
+import numpy as np
+
+link = list()
+
+for name in seq_id:
+    file = "IPG_report/IPG_"+name+".txt"
+    ipg = pd.read_csv(file, sep="\t")
+
+    insdc = np.array(ipg.loc[:,"Source"] == "INSDC", dtype="bool")
+    refseq = np.array(ipg.loc[:,"Source"] == "RefSeq", dtype="bool")
+
+    in_ncbi = ipg.loc[refseq | insdc,:]
+    in_ncbi = in_ncbi.reset_index()
+    url = str()
+    if len(in_ncbi) != 0:
+        # print(file)
+        name = str(in_ncbi.loc[0,"Nucleotide Accession"])
+        start = str(in_ncbi.loc[0,"Start"])
+        stop = str(in_ncbi.loc[0,"Stop"])
+        if str(in_ncbi.loc[0,"Strand"]) == "+":
+            strand = "1"
+        elif str(in_ncbi.loc[0,"Strand"]) == "-":
+            strand = "2"
+
+        url = "https://ncbi.nlm.nih.gov/nuccore/"+name+"?from="+start+"&to="+stop+"&strand="+strand
+        link.append(url)
+    else:
+        print(file+" is not in NCBI")
+
+print(link)
+```
+
+
+
+## write in a file
+
+```python
+file = open('links.txt','w')
+for item in link:
+	file.write(item+"\n")
+file.close()
+```
+
+
+
+## obtain the xml file for each link
+
+```python
+
+```
+
+
+
 # Pipeline
 
 - [ ] Collect marine? nifH amplicon sequences from NCBI and ENA
