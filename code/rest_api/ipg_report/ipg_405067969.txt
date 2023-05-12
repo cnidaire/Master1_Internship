@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+405067969	INSDC	VGJD01000312.1	1625	2635	+	MBM3311585.1	nitrogen fixation protein NifH	Candidatus Aminicenantes bacterium		GCA_016867575.1

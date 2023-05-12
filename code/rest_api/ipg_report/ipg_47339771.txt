@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+47339771	RefSeq	NZ_ASPX01000013.1	10881	11747	-	WP_036723486.1	nitrogenase iron protein	Paenibacillus sp. FSL R7-277	FSL R7-277	GCF_000517965.1
+47339771	INSDC	ASPX01000013.1	10881	11747	-	ETT76099.1	nitrogenase iron protein subunit NifH	Paenibacillus sp. FSL R7-277	FSL R7-277	GCA_000517965.1

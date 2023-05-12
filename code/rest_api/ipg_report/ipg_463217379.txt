@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+463217379	RefSeq	NZ_JAHLOJ010000001.1	1437007	1437780	-	WP_216464908.1	nitrogenase iron protein NifH	Sarcina ventriculi	N1	GCF_018917345.1
+463217379	INSDC	JAHLOJ010000001.1	1437007	1437780	-	MBU5322611.1	AAA family ATPase	Sarcina ventriculi	N1	GCA_018917345.1

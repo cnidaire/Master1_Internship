@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+61476417	INSDC	KJ814970.1	1	870	+	AIK66905.1	nitrogenase subunit NifH	Azoarcus sp. CIB	CIB	
+61476417	INSDC	CP011072.1	793145	794014	-	AKU10611.1	nitrogenase iron protein	Azoarcus sp. CIB	CIB	GCA_001190925.1

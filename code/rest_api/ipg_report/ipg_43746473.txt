@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+43746473	RefSeq	NZ_KI260546.1	30296	31108	+	WP_021685699.1	nitrogenase iron protein NifH	Selenomonas sp. oral taxon 892 str. F0426	F0426	GCF_000468035.1
+43746473	INSDC	AWVG01000107.1	30296	31108	+	ERJ89427.1	putative nitrogenase iron protein	Selenomonas sp. oral taxon 892 str. F0426	F0426	GCA_000468035.1
+43746473	INSDC	KI260546.1	30296	31108	+	ERJ89427.1	putative nitrogenase iron protein	Selenomonas sp. oral taxon 892 str. F0426	F0426	GCA_000468035.1

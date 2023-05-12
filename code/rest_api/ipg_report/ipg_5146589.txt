@@ -1,0 +1,10 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+5146589	RefSeq	NC_007681.1	1290217	1291005	-	WP_011406701.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosphaera stadtmanae DSM 3091	DSM 3091	GCF_000012545.1
+5146589	RefSeq	NZ_LR698975.1	1290217	1291005	-	WP_011406701.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosphaera stadtmanae		GCF_902384015.1
+5146589	RefSeq	NZ_MAIF01000157.1	1377	2165	-	WP_011406701.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosphaera sp. A6	A6	GCF_001729395.1
+5146589	RefSeq	NZ_NGJK01000076.1	1254	2042	-	WP_011406701.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosphaera stadtmanae	PA5	GCF_003265405.1
+5146589	INSDC	CP000102.1	1290217	1291005	-	ABC57502.1	NifH	Methanosphaera stadtmanae DSM 3091	DSM 3091	GCA_000012545.1
+5146589	INSDC	MAIF01000157.1	1377	2165	-	OEC85578.1	nitrogenase iron protein	Methanosphaera sp. A6	A6	GCA_001729395.1
+5146589	INSDC	NGJK01000076.1	1254	2042	-	RAP02804.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosphaera stadtmanae	PA5	GCA_003265405.1
+5146589	INSDC	MUZW01000058.1	1570	2358	-	RAP46817.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosphaera sp. DEW79		GCA_003266085.1
+5146589	PAT	N/A				QPZ16260.1	Sequence 85 from patent US 10793863	Unknown		

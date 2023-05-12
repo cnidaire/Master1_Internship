@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+477047995	INSDC	JAIBEP010000565.1	2344	3345	-	MBW8384006.1	nitrogen fixation protein NifH	Youngiibacter sp.		GCA_019459205.1

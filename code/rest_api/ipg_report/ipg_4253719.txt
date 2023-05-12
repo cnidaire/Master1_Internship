@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+4253719	INSDC	DQ022841.1	1	373	+	AAY44096.1	NifH	Mesorhizobium amorphae	RCAN13	

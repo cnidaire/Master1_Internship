@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+62822526	INSDC	CCNB01000015.1	45880	46773	-	CDX38138.1	nitrogenase iron protein, nifH; dinitrogenase reductase	Mesorhizobium plurifarium		GCA_000824785.1

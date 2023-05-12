@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+643950729	RefSeq	NZ_CP091092.1	465509	466396	+	WP_278100079.1	nitrogenase iron protein NifH	Methanomicrobium antiquum	DSM 21220	GCF_029633915.1
+643950729	INSDC	CP091092.1	465509	466396	+	WFN37239.1	nitrogenase iron protein NifH	Methanomicrobium antiquum	DSM 21220	GCA_029633915.1

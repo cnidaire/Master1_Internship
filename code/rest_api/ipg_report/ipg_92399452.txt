@@ -1,0 +1,18 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+92399452	RefSeq	NZ_CP019966.1	5007491	5008384	-	WP_054161688.1	nitrogenase iron protein	Rhodopseudomonas palustris	PS3	GCF_003031265.1
+92399452	RefSeq	NZ_CP019967.1	5057417	5058310	-	WP_054161688.1	nitrogenase iron protein	Rhodopseudomonas palustris	YSC3	GCF_003031245.1
+92399452	RefSeq	NZ_CP076676.1	4935493	4936386	-	WP_054161688.1	nitrogenase iron protein	Rhodopseudomonas palustris	TLS06	GCF_025811215.1
+92399452	RefSeq	NZ_CP076677.1	5037467	5038360	-	WP_054161688.1	nitrogenase iron protein	Rhodopseudomonas palustris	PP803	GCF_025811355.1
+92399452	RefSeq	NZ_CP076679.1	5177805	5178698	-	WP_054161688.1	nitrogenase iron protein	Rhodopseudomonas palustris	VNW64	GCF_025811435.1
+92399452	RefSeq	NZ_LJIC01000031.1	8404	9297	-	WP_054161688.1	nitrogenase iron protein	Rhodopseudomonas sp. AAP120	AAP120	GCF_001295845.1
+92399452	RefSeq	NZ_QTKI01000018.1	6102	6995	-	WP_054161688.1	nitrogenase iron protein	Rhodopseudomonas sp. BR0C11	BR0C11	GCF_010820945.1
+92399452	RefSeq	NZ_QUML01000037.1	41078	41971	+	WP_054161688.1	nitrogenase iron protein	Rhodopseudomonas sp. BR0G17	BR0G17	GCF_010907025.1
+92399452	INSDC	CP019966.1	5007491	5008384	-	AVT78643.1	nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Rhodopseudomonas palustris	PS3	GCA_003031265.1
+92399452	INSDC	CP019967.1	5057417	5058310	-	AVT83488.1	nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Rhodopseudomonas palustris	YSC3	GCA_003031245.1
+92399452	INSDC	LJIC01000031.1	8404	9297	-	KPG00728.1	nitrogenase reductase	Rhodopseudomonas sp. AAP120	AAP120	GCA_001295845.1
+92399452	INSDC	QTKI01000018.1	6102	6995	-	NEV76049.1	nitrogenase iron protein	Rhodopseudomonas sp. BR0C11	BR0C11	GCA_010820945.1
+92399452	INSDC	QUML01000037.1	41078	41971	+	NEW99439.1	nitrogenase iron protein	Rhodopseudomonas sp. BR0G17	BR0G17	GCA_010907025.1
+92399452	INSDC	CP076676.1	4935493	4936386	-	UYO39515.1	nitrogenase iron protein	Rhodopseudomonas palustris	TLS06	GCA_025811215.1
+92399452	INSDC	CP076677.1	5037467	5038360	-	UYO44232.1	nitrogenase iron protein	Rhodopseudomonas palustris	PP803	GCA_025811355.1
+92399452	INSDC	CP076678.1	5069095	5069988	-	UYO48860.1	nitrogenase iron protein	Rhodopseudomonas palustris	KTSSR54	GCA_025811415.1
+92399452	INSDC	CP076679.1	5177805	5178698	-	UYO53605.1	nitrogenase iron protein	Rhodopseudomonas palustris	VNW64	GCA_025811435.1

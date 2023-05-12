@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+562519323	INSDC	CP099988.1	74362	75243	+	UTB32805.1	nitrogenase iron protein NifH	Methanobacterium sp. ERen5	ERen5	GCA_024167805.1

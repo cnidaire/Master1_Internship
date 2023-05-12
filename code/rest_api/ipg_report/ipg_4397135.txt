@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+4397135	RefSeq	NZ_JAFBDC010000022.1	4763	5617	+	WP_161263157.1	nitrogenase iron protein	Heliomicrobium gestii	DSM 11169	GCF_016908025.1
+4397135	RefSeq	NZ_WXEX01000020.1	24444	25298	-	WP_161263157.1	nitrogenase iron protein	Heliomicrobium gestii	DSM 11169	GCF_009877435.1
+4397135	INSDC	AB126254.2	1966	2820	+	BAE02721.1	dinitrogenase reductase	Heliomicrobium gestii	DSM 11169	
+4397135	INSDC	JAFBDC010000022.1	4763	5617	+	MBM7868421.1	nitrogenase iron protein NifH	Heliomicrobium gestii	DSM 11169	GCA_016908025.1
+4397135	INSDC	WXEX01000020.1	24444	25298	-	MZP44590.1	nitrogenase iron protein	Heliomicrobium gestii	DSM 11169	GCA_009877435.1

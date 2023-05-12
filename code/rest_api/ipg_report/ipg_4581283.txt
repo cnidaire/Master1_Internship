@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+4581283	RefSeq	NC_008609.1	3829863	3830729	+	WP_011737276.1	nitrogenase iron protein	Pelobacter propionicus DSM 2379	DSM 2379	GCF_000015045.1
+4581283	INSDC	CP000482.1	3829863	3830729	+	ABL01060.1	Mo-nitrogenase iron protein subunit NifH	Pelobacter propionicus DSM 2379	DSM 2379	GCA_000015045.1

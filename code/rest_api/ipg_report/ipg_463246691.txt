@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+463246691	INSDC	JAHLPG010000003.1	64937	65686	-	MBU5405011.1	AAA family ATPase	Paraeggerthella hongkongensis	N94	GCA_018917785.1
+463246691	INSDC	JAJNOQ010000003.1	180290	181039	+	MCD2432898.1	nitrogenase iron protein NifH	Paraeggerthella hominis	NSJ-152	GCA_021044775.1

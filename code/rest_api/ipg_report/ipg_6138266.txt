@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+6138266	INSDC	AJ968686.1	1	314	+	CAI91555.1	NifH protein	Agromyces sp. ORS 1437	ORS 1437	

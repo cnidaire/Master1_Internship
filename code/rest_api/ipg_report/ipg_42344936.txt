@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+42344936	RefSeq	NC_021909.1	335773	336666	-	WP_020923547.1	nitrogenase iron protein	Rhizobium etli bv. mimosae str. Mim1	Mim1	GCF_000442435.1
+42344936	INSDC	CP005955.1	335773	336666	-	AGS25390.1	nitrogenase iron protein NifH 1	Rhizobium etli bv. mimosae str. Mim1	Mim1	GCA_000442435.1

@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+44430214	RefSeq	NZ_ATVV01000010.1	80562	81404	+	WP_022761476.1	nitrogenase iron protein	Butyrivibrio sp. AD3002	AD3002	GCF_000420905.1
+44430214	RefSeq	NZ_AUJZ01000004.1	46367	47209	-	WP_022761476.1	nitrogenase iron protein	Butyrivibrio sp. WCD2001	WCD2001	GCF_000424485.1
+44430214	RefSeq	NZ_FMYB01000018.1	87476	88318	-	WP_022761476.1	nitrogenase iron protein	Butyrivibrio sp. INlla16	INlla16	GCF_900104155.1
+44430214	INSDC	FMYB01000018.1	87476	88318	-	SDB43018.1	nitrogenase iron protein NifH	Butyrivibrio sp. INlla16	INlla16	GCA_900104155.1

@@ -1,0 +1,9 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+500188336	RefSeq	NZ_CABMIZ010000001.1	12339	13094	+	WP_227909528.1	nitrogenase iron protein NifH	Clostridium septicum		GCF_902386445.1
+500188336	RefSeq	NZ_CP023671.1	2468681	2469436	+	WP_227909528.1	nitrogenase iron protein NifH	Clostridium septicum	DSM 7534	GCF_003606265.1
+500188336	RefSeq	NZ_CP034358.1	1279498	1280253	+	WP_227909528.1	nitrogenase iron protein NifH	Clostridium septicum	VAT12	GCF_004101825.1
+500188336	RefSeq	NZ_CP086003.1	2897456	2898211	-	WP_227909528.1	nitrogenase iron protein NifH	Clostridium septicum	FDAARGOS_1551	GCF_020736665.1
+500188336	RefSeq	NZ_CP099799.1	741605	742360	+	WP_227909528.1	nitrogenase iron protein NifH	Clostridium septicum	RMA 8861	GCF_023988885.1
+500188336	RefSeq	NZ_FLTT01000001.1	12339	13094	+	WP_227909528.1	nitrogenase iron protein NifH	Clostridium septicum	P1044	GCF_900092375.1
+500188336	INSDC	CP086003.1	2897456	2898211	-	UEC20397.1	nitrogenase iron protein NifH	Clostridium septicum	FDAARGOS_1551	GCA_020736665.1
+500188336	INSDC	CP099799.1	741605	742360	+	USS01548.1	nitrogenase iron protein NifH	Clostridium septicum	RMA 8861	GCA_023988885.1

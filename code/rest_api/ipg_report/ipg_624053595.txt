@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+624053595	INSDC	ON565453.1	1	344	+	WDE32942.1	nifH	Cylindrospermopsis raciborskii GIHE-HR1	GIHE-HR1	

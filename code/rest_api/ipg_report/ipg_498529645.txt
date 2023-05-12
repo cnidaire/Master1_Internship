@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+498529645	INSDC	JACKCB010000006.1	116429	117445	+	MCB8919847.1	nitrogen fixation protein NifH	Ardenticatenaceae bacterium		GCA_020634235.1

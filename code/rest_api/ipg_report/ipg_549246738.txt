@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+549246738	RefSeq	NZ_JALKIF010000002.1	106982	107860	-	WP_248610685.1	nitrogenase iron protein NifH	Methanobacterium alcaliphilum	DSM 3459	GCF_023227715.1
+549246738	INSDC	JALKIF010000002.1	106982	107860	-	MCK9150674.1	nitrogenase iron protein NifH	Methanobacterium alcaliphilum	DSM 3459	GCA_023227715.1

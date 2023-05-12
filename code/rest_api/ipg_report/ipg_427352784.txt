@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+427352784	RefSeq	NZ_JAGGML010000001.1	2063501	2064385	+	WP_209486269.1	nitrogenase iron protein	Xanthobacter flavus	WS4821	GCF_017875275.1
+427352784	INSDC	JAGGML010000001.1	2063501	2064385	+	MBP2149258.1	nitrogenase iron protein NifH	Xanthobacter flavus	WS4821	GCA_017875275.1
+427352784	INSDC	JAGGML010000001.1	2102570	2103454	-	MBP2149311.1	nitrogenase iron protein NifH	Xanthobacter flavus	WS4821	GCA_017875275.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+459805112	RefSeq	NZ_WQPO01000012.1	95901	96656	-	WP_215633665.1	nitrogenase iron protein NifH	Coprococcus comes	MCC346	GCF_018785285.1
+459805112	INSDC	WQPO01000012.1	95901	96656	-	MBT9780547.1	P-loop NTPase	Coprococcus comes	MCC346	GCA_018785285.1

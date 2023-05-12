@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+556283660	RefSeq	NZ_JAMOKJ010000010.1	82972	83748	+	WP_250799333.1	nitrogenase iron protein NifH	Coprococcus sp. B2-R-112	B2-R-112	GCF_023656595.1
+556283660	INSDC	JAMOKJ010000010.1	82972	83748	+	MCM0663142.1	nitrogenase iron protein NifH	Coprococcus sp. B2-R-112	B2-R-112	GCA_023656595.1

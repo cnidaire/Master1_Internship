@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+499013045	INSDC	CP067345.1	2500528	2501277	-	UDN56818.1	AAA family ATPase	Clostridioides sp. ES-S-0010-02	ES-S-0010-02	GCA_020641055.1

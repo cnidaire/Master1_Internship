@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+5468503	INSDC	AP008230.1	421247	422083	+	BAE82151.1	putative nitrogenase subunit nifH	Desulfitobacterium hafniense Y51	Y51	GCA_000010045.1

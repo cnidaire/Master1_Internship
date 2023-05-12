@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+91250473	INSDC	KP869001.1	1	301	+	ALC78854.1	NifH	Marileptolyngbya sina SCSIO T-2	SCSIO T-2	

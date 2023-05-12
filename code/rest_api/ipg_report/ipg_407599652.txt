@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+407599652	RefSeq	NZ_JADOBB010000148.1	1177	1947	+	WP_273269834.1	nitrogenase iron protein NifH	Pseudoramibacter alactolyticus		GCF_016901195.1
+407599652	INSDC	JADOBB010000148.1	1177	1947	+	MBM6969108.1	AAA family ATPase	Pseudoramibacter alactolyticus		GCA_016901195.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+350866440	RefSeq	NZ_JACIIZ010000017.1	161008	161892	-	WP_184806964.1	nitrogenase iron protein	Nitrospirillum iridis	DSM 22198	GCF_014205765.1
+350866440	INSDC	JACIIZ010000017.1	161008	161892	-	MBB6254500.1	nitrogenase iron protein NifH	Nitrospirillum iridis	DSM 22198	GCA_014205765.1

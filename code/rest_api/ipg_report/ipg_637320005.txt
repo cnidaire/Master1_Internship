@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+637320005	RefSeq	NZ_CP107254.1	609941	610819	-	WP_275883104.1	nitrogenase iron protein	Halorhabdus sp. BNX81	BNX81	GCF_029229925.1
+637320005	INSDC	CP107254.1	609941	610819	-	WEL20652.1	Nitrogenase iron protein NifH	Halorhabdus sp. BNX81	BNX81	GCA_029229925.1

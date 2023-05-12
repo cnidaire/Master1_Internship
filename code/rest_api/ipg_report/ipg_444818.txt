@@ -1,0 +1,56 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+444818	RefSeq	NC_000914.2	140214	141104	-	WP_010875130.1	nitrogenase iron protein	Sinorhizobium fredii NGR234	NGR234	
+444818	RefSeq	NT_187147.1	159944	160834	-	WP_010875130.1	nitrogenase iron protein	Sinorhizobium fredii HH103	HH103	GCF_000283895.1
+444818	RefSeq	NT_187151.1	120384	121274	-	WP_010875130.1	nitrogenase iron protein	Sinorhizobium fredii USDA 257	USDA 257	GCF_000265205.3
+444818	RefSeq	NZ_AJQM01000308.1	235	1125	+	WP_010875130.1	nitrogenase iron protein	Sinorhizobium fredii CCBAU 05557	CCBAU 05557	GCF_000261845.1
+444818	RefSeq	NZ_AJQN01000360.1	235	1125	+	WP_010875130.1	nitrogenase iron protein	Sinorhizobium fredii CCBAU 25509	CCBAU 25509	GCF_000261865.1
+444818	RefSeq	NZ_AJQO01000267.1	26283	27173	+	WP_010875130.1	nitrogenase iron protein	Sinorhizobium fredii CCBAU 45436	CCBAU 45436	GCF_000261885.1
+444818	RefSeq	NZ_AJQO01000307.1	95	985	-	WP_010875130.1	nitrogenase iron protein	Sinorhizobium fredii CCBAU 45436	CCBAU 45436	GCF_000261885.1
+444818	RefSeq	NZ_AJQP01000226.1	766	1656	+	WP_010875130.1	nitrogenase iron protein	Sinorhizobium fredii CCBAU 83622	CCBAU 83622	GCF_000261905.1
+444818	RefSeq	NZ_AJQQ01000333.1	3274	4164	-	WP_010875130.1	nitrogenase iron protein	Sinorhizobium fredii CCBAU 83643	CCBAU 83643	GCF_000261925.1
+444818	RefSeq	NZ_AJQR01000445.1	76	966	-	WP_010875130.1	nitrogenase iron protein	Sinorhizobium fredii CCBAU 83666	CCBAU 83666	GCF_000261945.1
+444818	RefSeq	NZ_AJQS01000262.1	766	1656	+	WP_010875130.1	nitrogenase iron protein	Sinorhizobium fredii CCBAU 83753	CCBAU 83753	GCF_000261965.1
+444818	RefSeq	NZ_AJQT01000196.1	235	1125	+	WP_010875130.1	nitrogenase iron protein	Ensifer sojae CCBAU 05684	CCBAU 05684	GCF_000261485.1
+444818	RefSeq	NZ_CP023065.1	378074	378964	-	WP_010875130.1	nitrogenase iron protein	Sinorhizobium sp. CCBAU 05631	CCBAU 05631	GCF_002288505.1
+444818	RefSeq	NZ_CP023069.1	385338	386228	-	WP_010875130.1	nitrogenase iron protein	Ensifer sojae CCBAU 05684	CCBAU 05684	GCF_002288525.1
+444818	RefSeq	NZ_CP023072.1	440045	440935	+	WP_010875130.1	nitrogenase iron protein	Sinorhizobium fredii CCBAU 83666	CCBAU 83666	GCF_002288485.1
+444818	RefSeq	NZ_CP029233.1	393054	393944	-	WP_010875130.1	nitrogenase iron protein	Sinorhizobium fredii CCBAU 45436	ccbau 45436	GCF_003100575.1
+444818	RefSeq	NZ_CP029453.1	376548	377438	-	WP_010875130.1	nitrogenase iron protein	Sinorhizobium fredii CCBAU 25509	CCBAU 25509	GCF_003177055.1
+444818	RefSeq	NZ_CP035039.1	443914	444804	-	WP_010875130.1	nitrogenase iron protein	Sinorhizobium fredii	SMH12	GCF_024400375.1
+444818	RefSeq	NZ_LPUX01000056.1	21406	22296	+	WP_010875130.1	nitrogenase iron protein	Sinorhizobium glycinis	CCBAU 23380	GCF_001651865.1
+444818	RefSeq	NZ_NWTC01000081.1	108	998	+	WP_010875130.1	nitrogenase iron protein	Sinorhizobium fredii	PCH1	GCF_002531965.1
+444818	RefSeq	NZ_WISZ01000180.1	19698	20588	-	WP_010875130.1	nitrogenase iron protein	Sinorhizobium fredii	USDA205	GCF_009601405.1
+444818	RefSeq	NZ_WISZ01000214.1	947	1837	+	WP_010875130.1	nitrogenase iron protein	Sinorhizobium fredii	USDA205	GCF_009601405.1
+444818	RefSeq	NZ_WITA01000202.1	235	1125	+	WP_010875130.1	nitrogenase iron protein	Sinorhizobium fredii	USDA207	GCF_009601515.1
+444818	RefSeq	NZ_WITA01000224.1	20453	21343	-	WP_010875130.1	nitrogenase iron protein	Sinorhizobium fredii	USDA207	GCF_009601515.1
+444818	RefSeq	NZ_WITA01000270.1	1017	1907	+	WP_010875130.1	nitrogenase iron protein	Sinorhizobium fredii	USDA207	GCF_009601515.1
+444818	RefSeq	NZ_WITA01000280.1	3273	4163	-	WP_010875130.1	nitrogenase iron protein	Sinorhizobium fredii	USDA207	GCF_009601515.1
+444818	Swiss-Prot	N/A				P19068.2	Nitrogenase iron protein	Sinorhizobium fredii NGR234		
+444818	INSDC	U00090.2	140214	141104	-	AAB91899.1	nitrogenase iron protein NifH1	Sinorhizobium fredii NGR234	NGR234	GCA_000018545.1
+444818	INSDC	U00090.2	108336	109226	-	AAB91923.1	nitrogenase iron protein NifH2	Sinorhizobium fredii NGR234	NGR234	GCA_000018545.1
+444818	INSDC	CP003565.1	13891	14781	+	AFL54961.1	nitrogenase iron protein NifH	Sinorhizobium fredii USDA 257	USDA 257	GCA_000265205.2
+444818	INSDC	CP003565.1	120384	121274	-	AFL55084.1	nitrogenase iron protein NifH	Sinorhizobium fredii USDA 257	USDA 257	GCA_000265205.2
+444818	INSDC	CP023065.1	378074	378964	-	ASY60955.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Sinorhizobium sp. CCBAU 05631	CCBAU 05631	GCA_002288505.1
+444818	INSDC	CP023069.1	252935	253825	+	ASY67285.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Ensifer sojae CCBAU 05684	CCBAU 05684	GCA_002288525.1
+444818	INSDC	CP023069.1	385338	386228	-	ASY67410.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Ensifer sojae CCBAU 05684	CCBAU 05684	GCA_002288525.1
+444818	INSDC	CP023072.1	404684	405574	+	ASY73984.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Sinorhizobium fredii CCBAU 83666	CCBAU 83666	GCA_002288485.1
+444818	INSDC	CP023072.1	440045	440935	+	ASY74010.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Sinorhizobium fredii CCBAU 83666	CCBAU 83666	GCA_002288485.1
+444818	INSDC	CP029233.1	255188	256078	+	AWI61986.1	hypothetical protein	Sinorhizobium fredii CCBAU 45436	CCBAU 45436	GCA_003100575.1
+444818	INSDC	CP029233.1	393054	393944	-	AWI62127.1	hypothetical protein	Sinorhizobium fredii CCBAU 45436	CCBAU 45436	GCA_003100575.1
+444818	INSDC	CP029453.1	239545	240435	+	AWM29915.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Sinorhizobium fredii CCBAU 25509	CCBAU 25509	GCA_003177055.1
+444818	INSDC	CP029453.1	376548	377438	-	AWM30057.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Sinorhizobium fredii CCBAU 25509	CCBAU 25509	GCA_003177055.1
+444818	INSDC	HE616895.1	102510	103400	-	CCE98825.1	hypothetical protein	Sinorhizobium fredii HH103	HH103	GCA_000283895.1
+444818	INSDC	HE616895.1	159944	160834	-	CCE98881.1	hypothetical protein	Sinorhizobium fredii HH103	HH103	GCA_000283895.1
+444818	INSDC	CDSA010000003.1	115736	116626	+	CEO91436.1	nitrogenase iron protein	Sinorhizobium fredii HH103	HH103	GCA_002900825.1
+444818	INSDC	CDSA010000003.1	173170	174060	+	CEO91500.1	nitrogenase reductase	Sinorhizobium fredii HH103	HH103	GCA_002900825.1
+444818	INSDC	JALMMB010000049.1	235	1125	+	MCK3781313.1	nitrogenase iron protein	Ensifer sesbaniae	SDT23	GCA_023108975.1
+444818	INSDC	WITA01000202.1	235	1125	+	MQW98043.1	nitrogenase iron protein	Sinorhizobium fredii	USDA207	GCA_009601515.1
+444818	INSDC	WITA01000224.1	20453	21343	-	MQW98434.1	nitrogenase iron protein	Sinorhizobium fredii	USDA207	GCA_009601515.1
+444818	INSDC	WITA01000270.1	1017	1907	+	MQW99348.1	nitrogenase iron protein	Sinorhizobium fredii	USDA207	GCA_009601515.1
+444818	INSDC	WITA01000280.1	3273	4163	-	MQW99478.1	nitrogenase iron protein	Sinorhizobium fredii	USDA207	GCA_009601515.1
+444818	INSDC	WISZ01000180.1	19698	20588	-	MQX11493.1	nitrogenase iron protein	Sinorhizobium fredii	USDA205	GCA_009601405.1
+444818	INSDC	WISZ01000214.1	947	1837	+	MQX12104.1	nitrogenase iron protein	Sinorhizobium fredii	USDA205	GCA_009601405.1
+444818	INSDC	LPUX01000056.1	21406	22296	+	OAP39607.1	nitrogenase reductase	Sinorhizobium glycinis	CCBAU 23380	GCA_001651865.1
+444818	INSDC	NWTC01000081.1	108	998	+	PDT43690.1	nitrogenase iron protein	Sinorhizobium fredii	PCH1	GCA_002531965.1
+444818	INSDC	CP035039.1	307905	308795	+	UTY47690.1	nitrogenase iron protein	Sinorhizobium fredii	SMH12	GCA_024400375.1
+444818	INSDC	CP035039.1	443914	444804	-	UTY47792.1	nitrogenase iron protein	Sinorhizobium fredii	SMH12	GCA_024400375.1

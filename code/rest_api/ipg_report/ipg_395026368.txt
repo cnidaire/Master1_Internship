@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+395026368	INSDC	JADKGW010000001.1	2059568	2060581	+	MBK9941571.1	nitrogen fixation protein NifH	Kouleothrix sp.		GCA_016722075.1

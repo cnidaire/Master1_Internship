@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+497648523	RefSeq	NZ_JAJCHC010000011.1	134818	135591	+	WP_227114661.1	nitrogenase iron protein NifH	Eggerthella sinensis	DFI.5.73	GCF_020554275.1
+497648523	INSDC	JAJCHC010000011.1	134818	135591	+	MCB7039258.1	nitrogenase iron protein NifH	Eggerthella sinensis	DFI.5.73	GCA_020554275.1

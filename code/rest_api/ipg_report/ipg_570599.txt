@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+570599	INSDC	Z95229.1	1	558	+	CAB08533.1	nifH	Sinorhizobium fredii	USDA191	

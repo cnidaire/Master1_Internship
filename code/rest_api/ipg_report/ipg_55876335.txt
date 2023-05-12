@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+55876335	RefSeq	NZ_KK211309.1	297232	297996	+	WP_027871975.1	nitrogenase iron protein NifH	[Eubacterium] cellulosolvens LD2006	LD2006	GCF_000621585.1

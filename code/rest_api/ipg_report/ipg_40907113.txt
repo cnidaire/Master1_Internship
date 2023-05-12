@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+40907113	RefSeq	NZ_APHX01000051.1	11196	11942	-	WP_020310440.1	nitrogenase iron protein NifH	Megasphaera sp. BL7	BL7	GCF_000417525.1
+40907113	RefSeq	NZ_APHY01000021.1	11241	11987	+	WP_020310440.1	nitrogenase iron protein NifH	Megasphaera sp. NM10	NM10	GCF_000417505.1
+40907113	INSDC	APHX01000051.1	11196	11942	-	EPP15687.1	nitrogenase iron protein	Megasphaera sp. BL7	BL7	GCA_000417525.1
+40907113	INSDC	APHY01000021.1	11241	11987	+	EPP18231.1	nitrogenase iron protein	Megasphaera sp. NM10	NM10	GCA_000417505.1

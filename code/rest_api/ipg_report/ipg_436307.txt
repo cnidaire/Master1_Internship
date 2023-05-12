@@ -1,0 +1,64 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+436307	RefSeq	NC_016617.1	1186660	1187541	-	WP_014239786.1	nitrogenase iron protein	Azospirillum baldaniorum	Sp245	GCF_000237365.1
+436307	RefSeq	NZ_APHV01000078.1	30374	31255	-	WP_014239786.1	nitrogenase iron protein	Azospirillum brasilense FP2	FP2	GCF_000404045.1
+436307	RefSeq	NZ_CP012914.1	1026467	1027348	-	WP_014239786.1	nitrogenase iron protein	Azospirillum brasilense	Sp 7	GCF_001315015.1
+436307	RefSeq	NZ_CP022253.1	2450238	2451119	+	WP_014239786.1	nitrogenase iron protein	Azospirillum baldaniorum	Sp245	GCF_003119195.2
+436307	RefSeq	NZ_CP032321.1	2898951	2899832	-	WP_014239786.1	nitrogenase iron protein	Azospirillum argentinense	MTCC4035	GCF_005222165.1
+436307	RefSeq	NZ_CP032339.1	2732712	2733593	-	WP_014239786.1	nitrogenase iron protein	Azospirillum brasilense	MTCC4038	GCF_005222145.1
+436307	RefSeq	NZ_CP032345.1	2406183	2407064	-	WP_014239786.1	nitrogenase iron protein	Azospirillum brasilense	MTCC4039	GCF_005222205.1
+436307	RefSeq	NZ_CP033312.1	1173330	1174211	-	WP_014239786.1	nitrogenase iron protein	Azospirillum brasilense	Sp 7	GCF_008274945.1
+436307	RefSeq	NZ_CP033318.1	1243899	1244780	-	WP_014239786.1	nitrogenase iron protein	Azospirillum brasilense	Cd	GCF_008274965.1
+436307	RefSeq	NZ_CP059449.1	197252	198133	+	WP_014239786.1	nitrogenase iron protein	Azospirillum brasilense	2020WEIHUA_K	GCF_022023855.1
+436307	RefSeq	NZ_JABEXZ010000001.1	855268	856149	-	WP_014239786.1	nitrogenase iron protein	Azospirillum formosense	Nfb7	GCF_019780885.1
+436307	RefSeq	NZ_JACCJY010000013.1	90434	91315	-	WP_014239786.1	nitrogenase iron protein	Azospirillum tabaci	W712	GCF_014596085.1
+436307	RefSeq	NZ_JACHYN010000010.1	178622	179503	-	WP_014239786.1	nitrogenase iron protein	Azospirillum sp. OGB3	OGB3	GCF_014192915.1
+436307	RefSeq	NZ_JAMZIJ010000004.1	6103	6984	+	WP_014239786.1	nitrogenase iron protein	Azospirillum brasilense	JLH21	GCF_024178045.1
+436307	RefSeq	NZ_JPIR01000063.1	45639	46520	-	WP_014239786.1	nitrogenase iron protein	Azospirillum brasilense	Sp 7	GCF_002027385.1
+436307	RefSeq	NZ_JPIS01000112.1	3022	3903	+	WP_014239786.1	nitrogenase iron protein	Azospirillum brasilense	V6	GCF_002027445.1
+436307	RefSeq	NZ_LGRK01000001.1	98126	99007	-	WP_014239786.1	nitrogenase iron protein	Azospirillum sp. Sp 7	Sp 7	GCF_003116055.1
+436307	RefSeq	NZ_NOWT01000028.1	1216	2097	+	WP_014239786.1	nitrogenase iron protein	Azospirillum brasilense	2A1	GCF_002245955.1
+436307	RefSeq	NZ_POQV01000005.1	383952	384833	-	WP_014239786.1	nitrogenase iron protein	Azospirillum brasilense	Ab-V5	GCF_002940725.1
+436307	RefSeq	NZ_POTD01000004.1	383342	384223	-	WP_014239786.1	nitrogenase iron protein	Azospirillum brasilense	Ab-V6	GCF_002940755.1
+436307	RefSeq	NZ_QLKQ01000067.1	28842	29723	+	WP_014239786.1	nitrogenase iron protein	Azospirillum brasilense	HAMBI_3172	GCF_003349955.1
+436307	RefSeq	NZ_QXHE01000008.1	99994	100875	-	WP_014239786.1	nitrogenase iron protein	Azospirillum brasilense	SR80	GCF_003584185.1
+436307	RefSeq	NZ_VISK01000015.1	262164	263045	+	WP_014239786.1	nitrogenase iron protein	Azospirillum brasilense	Sp 7	GCF_007827425.1
+436307	RefSeq	NZ_VITE01000014.1	142101	142982	-	WP_014239786.1	nitrogenase iron protein	Azospirillum baldaniorum	BR 12001	GCF_007827765.1
+436307	RefSeq	NZ_VITG01000012.1	73343	74224	+	WP_014239786.1	nitrogenase iron protein	Azospirillum brasilense	BR 11005	GCF_007827915.1
+436307	RefSeq	NZ_VITH01000012.1	122673	123554	-	WP_014239786.1	nitrogenase iron protein	Azospirillum brasilense	BR 11650	GCF_007827815.1
+436307	RefSeq	NZ_VITX01000006.1	66111	66992	+	WP_014239786.1	nitrogenase iron protein	Azospirillum brasilense	BR 11002	GCF_007828115.1
+436307	RefSeq	NZ_VSRJ01000002.1	73898	74779	-	WP_014239786.1	nitrogenase iron protein	Azospirillum baldaniorum	Vi22	GCF_013341015.1
+436307	RefSeq	NZ_WFKA01000051.1	27995	28876	+	WP_014239786.1	nitrogenase iron protein	Azospirillum brasilense	BR11017	GCF_013340975.1
+436307	RefSeq	NZ_WFKB01001008.1	1137	2018	+	WP_014239786.1	nitrogenase iron protein	Azospirillum brasilense	BR11019	GCF_013340985.1
+436307	RefSeq	NZ_WFKC01000048.1	3351	4232	-	WP_014239786.1	nitrogenase iron protein	Azospirillum brasilense	BR11138	GCF_016622105.1
+436307	RefSeq	NZ_WFKD01000124.1	16639	17520	+	WP_014239786.1	nitrogenase iron protein	Azospirillum brasilense	BR11649	GCF_013340915.1
+436307	RefSeq	NZ_WHOR01000113.1	9633	10514	-	WP_014239786.1	nitrogenase iron protein	Azospirillum formosense	CC-NFb-7	GCF_013340925.1
+436307	Swiss-Prot	N/A				P17303.1	Nitrogenase iron protein	Azospirillum brasilense		
+436307	INSDC	M64344.1	361	1242	+	AAB02342.1	nifH	Azospirillum brasilense		
+436307	INSDC	CP012914.1	1026467	1027348	-	ALJ34765.1	nitrogenase reductase	Azospirillum brasilense	Sp 7	GCA_001315015.1
+436307	INSDC	CP022253.1	2450238	2451119	+	AWJ90380.1	nitrogenase iron protein	Azospirillum baldaniorum	Sp245	GCA_003119195.2
+436307	INSDC	X51500.1	721	1602	+	CAA35868.1	nifH	Azospirillum brasilense	Sp 7	
+436307	INSDC	HE577327.1	1186660	1187541	-	CCC97492.1	nitrogenase iron protein, nifH; dinitrogenase reductase	Azospirillum baldaniorum	Sp245	GCA_000237365.1
+436307	INSDC	JACHYN010000010.1	178622	179503	-	MBB3266400.1	nitrogenase iron protein NifH	Azospirillum sp. OGB3	OGB3	GCA_014192915.1
+436307	INSDC	WFKC01000048.1	3351	4232	-	MBK3733495.1	nitrogenase iron protein	Azospirillum brasilense	BR11138	GCA_016622105.1
+436307	INSDC	JABEXZ010000001.1	855268	856149	-	MBY3752412.1	nitrogenase iron protein	Azospirillum formosense	Nfb7	GCA_019780885.1
+436307	INSDC	VSRJ01000002.1	73898	74779	-	NUB04825.1	nitrogenase iron protein	Azospirillum baldaniorum	Vi22	GCA_013341015.1
+436307	INSDC	WFKB01001008.1	1137	2018	+	NUB16871.1	nitrogenase iron protein	Azospirillum brasilense	BR11019	GCA_013340985.1
+436307	INSDC	WHOR01000113.1	9633	10514	-	NUB20668.1	nitrogenase iron protein	Azospirillum formosense	CC-NFb-7	GCA_013340925.1
+436307	INSDC	WFKD01000124.1	16639	17520	+	NUB27333.1	nitrogenase iron protein	Azospirillum brasilense	BR11649	GCA_013340915.1
+436307	INSDC	WFKA01000051.1	27995	28876	+	NUB32955.1	nitrogenase iron protein	Azospirillum brasilense	BR11017	GCA_013340975.1
+436307	INSDC	JPIS01000112.1	3022	3903	+	OPH12150.1	nitrogenase reductase	Azospirillum brasilense	V6	GCA_002027445.1
+436307	INSDC	JPIR01000063.1	45639	46520	-	OPH18782.1	nitrogenase reductase	Azospirillum brasilense	Sp 7	GCA_002027385.1
+436307	INSDC	NOWT01000028.1	1216	2097	+	OYD81830.1	nitrogenase iron protein	Azospirillum brasilense	2A1	GCA_002245955.1
+436307	INSDC	LGRK01000001.1	98126	99007	-	PWC97886.1	nitrogenase reductase	Azospirillum sp. Sp 7	Sp 7	GCA_003116055.1
+436307	INSDC	CP032321.1	2898951	2899832	-	QCN96214.1	nitrogenase iron protein	Azospirillum argentinense	MTCC4035	GCA_005222165.1
+436307	INSDC	CP032339.1	2732712	2733593	-	QCO09824.1	nitrogenase iron protein	Azospirillum brasilense	MTCC4038	GCA_005222145.1
+436307	INSDC	CP032345.1	2406183	2407064	-	QCO15795.1	nitrogenase iron protein	Azospirillum brasilense	MTCC4039	GCA_005222205.1
+436307	INSDC	CP033312.1	1173330	1174211	-	QEL89621.1	nitrogenase iron protein	Azospirillum brasilense	Sp 7	GCA_008274945.1
+436307	INSDC	CP033318.1	1243899	1244780	-	QEL95923.1	nitrogenase iron protein	Azospirillum brasilense	Cd	GCA_008274965.1
+436307	INSDC	QXHE01000008.1	99994	100875	-	RIW05698.1	nitrogenase iron protein	Azospirillum brasilense	SR80	GCA_003584185.1
+436307	INSDC	VISK01000015.1	262164	263045	+	TVZ53902.1	Mo-nitrogenase iron protein subunit NifH	Azospirillum brasilense	Sp 7	GCA_007827425.1
+436307	INSDC	VITE01000014.1	142101	142982	-	TWA60550.1	Mo-nitrogenase iron protein subunit NifH	Azospirillum baldaniorum	BR 12001	GCA_007827765.1
+436307	INSDC	VITG01000012.1	73343	74224	+	TWA75249.1	Mo-nitrogenase iron protein subunit NifH	Azospirillum brasilense	BR 11005	GCA_007827915.1
+436307	INSDC	VITH01000012.1	122673	123554	-	TWA78614.1	Mo-nitrogenase iron protein subunit NifH	Azospirillum brasilense	BR 11650	GCA_007827815.1
+436307	INSDC	VITX01000006.1	66111	66992	+	TWB80432.1	Mo-nitrogenase iron protein subunit NifH	Azospirillum brasilense	BR 11002	GCA_007828115.1
+436307	INSDC	CP059449.1	197252	198133	+	UKJ73230.1	nitrogenase iron protein	Azospirillum brasilense	2020WEIHUA_K	GCA_022023855.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+568643810	INSDC	JANFYV010000028.1	258	1055	-	MCQ4786251.1	nitrogenase iron protein NifH	Flavonifractor plautii	DFI.9.87	GCA_024460695.1

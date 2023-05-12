@@ -1,0 +1,9 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+343802330	RefSeq	NZ_JACDUI010000002.1	116574	117452	-	WP_181488131.1	nitrogenase iron protein	Methanococcus maripaludis	A4	GCF_013761055.1
+343802330	RefSeq	NZ_JACDUM010000002.1	116573	117451	-	WP_181488131.1	nitrogenase iron protein	Methanococcus maripaludis	C9	GCF_013761085.1
+343802330	RefSeq	NZ_JACDUP010000002.1	487745	488623	+	WP_181488131.1	nitrogenase iron protein	Methanococcus maripaludis	C14	GCF_013761205.1
+343802330	RefSeq	NZ_JACHEC010000002.1	362751	363629	+	WP_181488131.1	nitrogenase iron protein	Methanococcus maripaludis	C11	GCF_014207325.1
+343802330	INSDC	JACDUI010000002.1	116574	117452	-	MBA2840549.1	nitrogenase iron protein NifH	Methanococcus maripaludis	A4	GCA_013761055.1
+343802330	INSDC	JACDUM010000002.1	116573	117451	-	MBA2860248.1	nitrogenase iron protein NifH	Methanococcus maripaludis	C9	GCA_013761085.1
+343802330	INSDC	JACDUP010000002.1	487745	488623	+	MBA2869288.1	nitrogenase iron protein NifH	Methanococcus maripaludis	C14	GCA_013761205.1
+343802330	INSDC	JACHEC010000002.1	362751	363629	+	MBB6401979.1	nitrogenase iron protein NifH	Methanococcus maripaludis	C11	GCA_014207325.1

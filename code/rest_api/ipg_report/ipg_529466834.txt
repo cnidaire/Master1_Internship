@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+529466834	INSDC	JAKVKU010000001.1	537514	538278	+	MCH4170079.1	nitrogenase iron protein NifH	Lactobacillus sp.		GCA_022484695.1

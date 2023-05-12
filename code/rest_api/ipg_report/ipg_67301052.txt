@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+67301052	RefSeq	NZ_BAZF01000011.1	88912	89787	-	WP_041972206.1	nitrogenase iron protein NifH	Geobacter sp. OR-1	OR-1	GCF_000813145.1
+67301052	INSDC	BAZF01000011.1	88912	89787	-	GAM10277.1	nitrogenase iron protein 2	Geobacter sp. OR-1	OR-1	GCA_000813145.1

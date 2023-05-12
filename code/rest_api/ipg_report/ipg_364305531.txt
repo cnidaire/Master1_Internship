@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+364305531	RefSeq	NZ_JAQCUN010000099.1	1973	2722	+	WP_270445905.1	nitrogenase iron protein NifH	Anaeroglobus sp. AF13-6AC	AF13-6AC	GCF_027685385.1
+364305531	INSDC	RKDD01000094.1	2014	2763	-	MBD8936535.1	nitrogen fixation protein NifH	Anaeroglobus sp.		GCA_014847225.1
+364305531	INSDC	JABZPW010000010.1	11170	11919	+	MBF1334526.1	AAA family ATPase	Megasphaera micronuciformis		GCA_015263965.1
+364305531	INSDC	JAGZFY010000005.1	26426	27175	-	MBS5347377.1	AAA family ATPase	Megasphaera micronuciformis		GCA_018367555.1
+364305531	INSDC	JAGZAG010000356.1	440	1189	-	MBS5718770.1	AAA family ATPase	Megasphaera micronuciformis		GCA_018370555.1
+364305531	INSDC	JAGZRI010000012.1	26487	27236	-	MBS7044141.1	AAA family ATPase	Megasphaera micronuciformis		GCA_018381695.1

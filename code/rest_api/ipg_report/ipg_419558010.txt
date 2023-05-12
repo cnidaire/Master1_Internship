@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+419558010	RefSeq	NZ_JADNGR010000001.1	65073	65924	-	WP_207735799.1	nitrogenase iron protein NifH	Intestinimonas butyriciproducens	BSD2780061687b_171204_A3	GCF_015553415.1

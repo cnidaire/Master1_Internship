@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+4179770	INSDC	AY768414.1	1	338	+	AAX82503.1	NifH	Scytonema hofmannii PCC 7110	PCC 7110	

@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+838938	Swiss-Prot	N/A				P71156.1	Nitrogenase iron protein	Megalodesulfovibrio gigas		
+838938	INSDC	U68183.1	243	1067	+	AAB09059.1	Fe protein of nitrogenase	Megalodesulfovibrio gigas		
+838938	PRF	N/A				1613194A	nifH gene	Megalodesulfovibrio gigas		

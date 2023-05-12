@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+79635182	RefSeq	NZ_CP013242.1	2592392	2593141	-	WP_045897906.1	nitrogenase iron protein NifH	Clostridium sporogenes	CDC_67071	GCF_001886775.1
+79635182	INSDC	CP013242.1	2592392	2593141	-	APF26673.1	4Fe-4S iron sulfur cluster binding s, NifH/frxC family protein	Clostridium sporogenes	CDC_67071	GCA_001886775.1
+79635182	INSDC	ABIBKW010000001.1	317624	318373	+	EJT3175825.1	AAA family ATPase	Clostridium botulinum	BT-22100019	GCA_025030455.1

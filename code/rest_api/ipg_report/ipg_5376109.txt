@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+5376109	INSDC	DQ364801.1	1	327	+	ABD58950.1	NifH	Klebsiella sp. BM92	BM92	

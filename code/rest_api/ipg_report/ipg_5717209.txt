@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+5717209	RefSeq	NC_009523.1	1471846	1472667	-	WP_011955961.1	nitrogenase iron protein	Roseiflexus sp. RS-1	RS-1	GCF_000016665.1
+5717209	Swiss-Prot	N/A				A5USK5.1	Nitrogenase iron protein	Roseiflexus sp. RS-1		
+5717209	INSDC	CP000686.1	1471846	1472667	-	ABQ89608.1	nitrogenase iron protein subunit NifH	Roseiflexus sp. RS-1	RS-1	GCA_000016665.1

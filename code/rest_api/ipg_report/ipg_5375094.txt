@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+5375094	INSDC	CP000477.1	1265238	1266032	+	ABK14960.1	Mo-nitrogenase iron protein subunit NifH	Methanothrix thermoacetophila PT	PT	GCA_000014945.1
+5375094	INSDC	JACIVY010000001.1	97914	98708	+	MBC7078958.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanothrix sp.		GCA_014361255.1

@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+562730558	INSDC	JALJZE010000001.1	2167321	2168133	-	MCP1839035.1	nitrogenase iron protein NifH	Bradyrhizobium sp. USDA 4538	USDA 4538	GCA_024171045.1
+562730558	INSDC	JALJZO010000001.1	1280004	1280816	-	MCP1899602.1	nitrogenase iron protein NifH	Bradyrhizobium sp. USDA 4537	USDA 4537	GCA_024171345.1
+562730558	INSDC	JALJZK010000001.1	2565295	2566107	-	MCP1909886.1	nitrogenase iron protein NifH	Bradyrhizobium elkanii	USDA 33	GCA_024171245.1
+562730558	INSDC	JALJZP010000002.1	506316	507128	+	MCP1986289.1	nitrogenase iron protein NifH	Bradyrhizobium sp. USDA 4539	USDA 4539	GCA_024171385.1

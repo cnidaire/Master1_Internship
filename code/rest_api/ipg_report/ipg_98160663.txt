@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+98160663	RefSeq	NZ_AZDA01000034.1	3863	4666	+	WP_057904103.1	nitrogenase iron protein NifH	Loigolactobacillus bifermentans DSM 20003	DSM 20003	GCF_001434575.1
+98160663	RefSeq	NZ_CP045872.1	2882215	2883018	+	WP_057904103.1	nitrogenase iron protein NifH	Loigolactobacillus bifermentans	LB003	GCF_009650015.1
+98160663	INSDC	CP045872.1	2882215	2883018	+	QGG61496.1	AAA family ATPase	Loigolactobacillus bifermentans	LB003	GCA_009650015.1

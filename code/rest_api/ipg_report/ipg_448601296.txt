@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+448601296	INSDC	JAGSYV010000169.1	6909	7581	-	MBS1168464.1	nitrogenase iron protein subunit NifH	Pseudomonadota bacterium		GCA_018262505.1

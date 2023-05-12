@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+399857668	INSDC	JADHWK010000004.1	24987	25988	-	MBL7073977.1	nitrogen fixation protein NifH	candidate division KSB1 bacterium		GCA_016783505.1

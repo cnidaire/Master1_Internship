@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+529540142	INSDC	JAKVPN010000001.1	2351056	2351802	+	MCH3904098.1	nitrogenase iron protein NifH	Limosilactobacillus oris		GCA_022482265.1
+529540142	INSDC	JAKVPG010000001.1	103488	104234	-	MCH3930839.1	nitrogenase iron protein NifH	Megasphaera sp.		GCA_022482415.1
+529540142	INSDC	JALCOG010000018.1	33991	34737	-	MCI1888441.1	nitrogenase iron protein NifH	Sporolactobacillus sp.		GCA_022649575.1
+529540142	INSDC	JALCOR010000017.1	13459	14205	+	MCI1906222.1	nitrogenase iron protein NifH	Enterococcaceae bacterium		GCA_022649765.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+355983700	RefSeq	NZ_JACRSS010000002.1	290423	291187	+	WP_249280309.1	nitrogenase iron protein NifH	Guopingia tenuis	NSJ-63	GCF_014384805.1
+355983700	INSDC	JACRSS010000002.1	290423	291187	+	MBC8538570.1	AAA family ATPase	Guopingia tenuis	NSJ-63	GCA_014384805.1

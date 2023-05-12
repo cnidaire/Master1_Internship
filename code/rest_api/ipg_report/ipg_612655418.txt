@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+612655418	RefSeq	NZ_JAPNNV010000008.1	115344	116090	+	WP_270942390.1	nitrogenase iron protein NifH	Romboutsia lituseburensis	CML 137	GCF_027853495.1

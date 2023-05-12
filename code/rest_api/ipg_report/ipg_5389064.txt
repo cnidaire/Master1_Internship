@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+5389064	INSDC	DQ393890.1	1	351	-	ABD59748.1	NifH	Azospirillum canadense	DS2	

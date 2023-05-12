@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+5376840	RefSeq	NC_009253.1	3061934	3062752	-	WP_011879120.1	nitrogenase iron protein	Desulforamulus reducens MI-1	MI-1	GCF_000016165.1
+5376840	Swiss-Prot	N/A				A4J8C2.1	Nitrogenase iron protein	Desulforamulus reducens MI-1		
+5376840	INSDC	CP000612.1	3061934	3062752	-	ABO51325.1	Mo-nitrogenase iron protein subunit NifH	Desulforamulus reducens MI-1	MI-1	GCA_000016165.1

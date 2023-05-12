@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+427299397	RefSeq	NZ_JAGGLM010000003.1	35840	36658	-	WP_209701084.1	nitrogenase iron protein	Clostridium algifaecis	DSM 28783	GCF_017874415.1
+427299397	INSDC	JAGGLM010000003.1	35840	36658	-	MBP2032152.1	nitrogenase iron protein NifH	Clostridium algifaecis	DSM 28783	GCA_017874415.1

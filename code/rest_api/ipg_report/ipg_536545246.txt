@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+536545246	INSDC	JALEHP010000037.1	14	778	-	MCI6007451.1	nitrogenase iron protein NifH	Ruminococcus sp.		GCA_022770565.1

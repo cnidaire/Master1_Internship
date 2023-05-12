@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+53571220	RefSeq	NZ_AZRQ01000012.1	38912	39661	-	WP_025774488.1	nitrogenase iron protein NifH	Clostridium botulinum CDC54085	CDC54085	GCF_000582435.1

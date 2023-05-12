@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+645138677	RefSeq	NZ_CAMDYL010000020.1	47144	47899	-	WP_278968002.1	nitrogenase iron protein NifH	Megasphaera elsdenii		GCF_945910515.1

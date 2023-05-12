@@ -1,0 +1,136 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+6145268	RefSeq	NC_008381.1	161748	162641	-	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae 3841	3841	GCF_000009265.1
+6145268	RefSeq	NZ_ARRT01000005.1	85755	86648	-	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae 248	248	GCF_000385155.1
+6145268	RefSeq	NZ_ATYQ01000029.1	37485	38378	+	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae VF39	VF39	GCF_000427765.1
+6145268	RefSeq	NZ_CP048285.1	99261	100154	-	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae 248	248	GCF_010365265.1
+6145268	RefSeq	NZ_CP088096.1	465509	466402	-	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae	SU303	GCF_021052345.1
+6145268	RefSeq	NZ_CP104035.1	3951943	3952836	+	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae	SRDI969	GCF_025152725.1
+6145268	RefSeq	NZ_JAAXBM010000029.1	10954	11847	+	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum	GLR33	GCF_019798145.1
+6145268	RefSeq	NZ_JAAXBN010000018.1	45004	45897	+	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum	GLR32	GCF_019798225.1
+6145268	RefSeq	NZ_JAAXBR010000013.1	143693	144586	-	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum	GLR28	GCF_020224055.1
+6145268	RefSeq	NZ_JAAXBS010000010.1	207621	208514	-	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum	GLR25	GCF_019798265.1
+6145268	RefSeq	NZ_JAAXBX010000035.1	12286	13179	-	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum	V1	GCF_019778005.1
+6145268	RefSeq	NZ_JAAXCH010000035.1	20220	21113	+	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum	LEN1	GCF_019778225.1
+6145268	RefSeq	NZ_JAAXCL010000006.1	364319	365212	-	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum	NZLR25b	GCF_019778365.1
+6145268	RefSeq	NZ_JAAXDJ010000033.1	36330	37223	+	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum	H3	GCF_019798445.1
+6145268	RefSeq	NZ_JAAXDQ010000012.1	146513	147406	-	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum	GLR7	GCF_019798585.1
+6145268	RefSeq	NZ_JAAXFH010000025.1	78086	78979	-	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum	GLR50	GCF_019799555.1
+6145268	RefSeq	NZ_JAAXFJ010000013.1	169354	170247	-	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum	GLR49	GCF_019799525.1
+6145268	RefSeq	NZ_JAAXFN010000045.1	16389	17282	+	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum	GLR2	GCF_019799615.1
+6145268	RefSeq	NZ_JAAXFQ010000034.1	26188	27081	+	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum	GLR11	GCF_020224115.1
+6145268	RefSeq	NZ_JAAXQQ010000019.1	19487	20380	+	WP_011654205.1	nitrogenase iron protein	Rhizobium laguerreae	TLR9	GCF_019778485.1
+6145268	RefSeq	NZ_JAAXRZ010000018.1	38318	39211	-	WP_011654205.1	nitrogenase iron protein	Rhizobium laguerreae	H2	GCF_019779155.1
+6145268	RefSeq	NZ_JAAXSH010000012.1	48497	49390	-	WP_011654205.1	nitrogenase iron protein	Rhizobium laguerreae	MLR6	GCF_019779395.1
+6145268	RefSeq	NZ_JABDWX010000025.1	9571	10464	-	WP_011654205.1	nitrogenase iron protein	Rhizobium bangladeshense	PLR8_3b	GCF_019684135.1
+6145268	RefSeq	NZ_JABDWY010000024.1	10471	11364	-	WP_011654205.1	nitrogenase iron protein	Rhizobium bangladeshense	PLR8_1b	GCF_019684095.1
+6145268	RefSeq	NZ_JABDXL010000032.1	19981	20874	+	WP_011654205.1	nitrogenase iron protein	Rhizobium binae	NLR19a	GCF_019684275.1
+6145268	RefSeq	NZ_JABDXO010000036.1	7680	8573	-	WP_011654205.1	nitrogenase iron protein	Rhizobium binae	BLR228	GCF_019684355.1
+6145268	RefSeq	NZ_JABDXU010000027.1	18238	19131	+	WP_011654205.1	nitrogenase iron protein	Rhizobium lentis	NLR5b	GCF_019684495.1
+6145268	RefSeq	NZ_JABDXX010000055.1	7087	7980	+	WP_011654205.1	nitrogenase iron protein	Rhizobium lentis	BLR98	GCF_019684545.1
+6145268	RefSeq	NZ_JABDYJ010000037.1	7087	7980	+	WP_011654205.1	nitrogenase iron protein	Rhizobium lentis	BLR174	GCF_019684755.1
+6145268	RefSeq	NZ_JABDYK010000039.1	7087	7980	+	WP_011654205.1	nitrogenase iron protein	Rhizobium lentis	BLR139	GCF_019684775.1
+6145268	RefSeq	NZ_JABDYL010000039.1	7087	7980	+	WP_011654205.1	nitrogenase iron protein	Rhizobium lentis	BLR137	GCF_019684815.1
+6145268	RefSeq	NZ_JABTXH010000018.1	30755	31648	+	WP_011654205.1	nitrogenase iron protein	Rhizobium bangladeshense	PLR7_2a	GCF_019780005.1
+6145268	RefSeq	NZ_JABTXI010000015.1	144404	145297	-	WP_011654205.1	nitrogenase iron protein	Rhizobium bangladeshense	PLR6_1b	GCF_019780025.1
+6145268	RefSeq	NZ_JACHXX010000019.1	21306	22199	-	WP_011654205.1	nitrogenase iron protein	Rhizobium laguerreae	CECT 8280	GCF_014192445.1
+6145268	RefSeq	NZ_JACIDG010000032.1	16546	17439	-	WP_011654205.1	nitrogenase iron protein	Rhizobium fabae	DSM 19331	GCF_014196235.1
+6145268	RefSeq	NZ_MRDM01000012.1	52432	53325	+	WP_011654205.1	nitrogenase iron protein	Rhizobium laguerreae	FB206	GCF_002008165.1
+6145268	RefSeq	NZ_SJMC01000010.1	77177	78070	-	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae	SEF4G12	GCF_004329985.1
+6145268	RefSeq	NZ_SJMK01000001.1	865	1758	+	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae	RSF1B9	GCF_004330175.1
+6145268	RefSeq	NZ_SJMN01000001.1	2170	3063	+	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae	FRP5C5	GCF_004330225.1
+6145268	RefSeq	NZ_SJMO01000028.1	68311	69204	+	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae	FRP5A4	GCF_004330235.1
+6145268	RefSeq	NZ_SJMP01000051.1	2123	3016	+	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae	FRP4H3	GCF_004330265.1
+6145268	RefSeq	NZ_SJMS01000021.1	68157	69050	+	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae	FRP3E5	GCF_004330535.1
+6145268	RefSeq	NZ_SJMU01000027.1	45772	46665	-	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae	FRP3A12	GCF_004330515.1
+6145268	RefSeq	NZ_SJMV01000005.1	425801	426694	-	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae	FRP2D7	GCF_004330615.1
+6145268	RefSeq	NZ_SJMW01000032.1	68226	69119	+	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae	FRF3E2	GCF_004330645.1
+6145268	RefSeq	NZ_SJMY01000001.1	26039	26932	+	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae	FRF1D12	GCF_004330655.1
+6145268	RefSeq	NZ_SJMZ01000014.1	68311	69204	+	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae	FRF1A1	GCF_004330635.1
+6145268	RefSeq	NZ_SJNC01000014.1	204638	205531	-	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae	CZP3G7	GCF_004330735.1
+6145268	RefSeq	NZ_SJNM01000011.1	236016	236909	-	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae	CZF1F8	GCF_004330935.1
+6145268	RefSeq	NZ_SJNO01000031.1	21210	22103	-	WP_011654205.1	nitrogenase iron protein	Rhizobium laguerreae	SPF4F7	GCF_004329795.1
+6145268	RefSeq	NZ_SJNP01000008.1	185308	186201	+	WP_011654205.1	nitrogenase iron protein	Rhizobium laguerreae	SPF2F4	GCF_004329785.1
+6145268	RefSeq	NZ_SJNQ01000008.1	114708	115601	-	WP_011654205.1	nitrogenase iron protein	Rhizobium laguerreae	SPF2A11	GCF_004329805.1
+6145268	RefSeq	NZ_SMBI01000019.1	14264	15157	-	WP_011654205.1	nitrogenase iron protein	Rhizobium laguerreae	FB403	GCF_004346285.1
+6145268	RefSeq	NZ_VCHT01000023.1	33018	33911	+	WP_011654205.1	nitrogenase iron protein	Rhizobium sp. MHM7A	MHM7A	GCF_005862215.1
+6145268	RefSeq	NZ_WIFA01000003.1	100513	101406	-	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae	L141	GCF_012276275.1
+6145268	RefSeq	NZ_WIFB01000040.1	16343	17236	+	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae	GLR2	GCF_012276355.1
+6145268	RefSeq	NZ_WIFM01000023.1	44120	45013	-	WP_011654205.1	nitrogenase iron protein	Rhizobium anhuiense	CCBAU43229	GCF_012276505.1
+6145268	RefSeq	NZ_WUEQ01000014.1	146907	147800	-	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum	JHI1600	GCF_010668195.1
+6145268	RefSeq	NZ_WUES01000007.1	327351	328244	+	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum	JHI1587	GCF_010668175.1
+6145268	RefSeq	NZ_WUEV01000014.1	57195	58088	+	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum	JHI1415	GCF_010668265.1
+6145268	RefSeq	NZ_WUFE01000014.1	45197	46090	+	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum	JHI974	GCF_010668475.1
+6145268	RefSeq	NZ_WUFF01000013.1	2123	3016	+	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum	JHI973	GCF_010668505.1
+6145268	RefSeq	NZ_WUFG01000026.1	57903	58796	+	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum	JHI963	GCF_010668515.1
+6145268	RefSeq	NZ_WUFJ01000034.1	42351	43244	+	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum	JHI925	GCF_010668625.1
+6145268	RefSeq	NZ_WUFO01000019.1	2137	3030	+	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum	JHI585	GCF_010668715.1
+6145268	RefSeq	NZ_WUFP01000017.1	42990	43883	+	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum	JHI535	GCF_010668705.1
+6145268	RefSeq	NZ_WUFT01000009.1	273188	274081	-	WP_011654205.1	nitrogenase iron protein	Rhizobium phaseoli	JHI366	GCF_010668805.1
+6145268	RefSeq	NZ_WXXP01000027.1	2129	3022	+	WP_011654205.1	nitrogenase iron protein	Rhizobium leguminosarum	JHI944	GCF_010668605.1
+6145268	INSDC	AM236084.1	161748	162641	-	CAK10385.1	putative nitrogenase iron protein	Rhizobium leguminosarum bv. viciae 3841	3841	GCA_000009265.1
+6145268	INSDC	JACHXX010000019.1	21306	22199	-	MBB3166580.1	nitrogenase iron protein NifH	Rhizobium laguerreae	CECT 8280	GCA_014192445.1
+6145268	INSDC	JACIDG010000032.1	16546	17439	-	MBB3919666.1	nitrogenase iron protein NifH	Rhizobium fabae	DSM 19331	GCA_014196235.1
+6145268	INSDC	JABDWY010000024.1	10471	11364	-	MBX4876898.1	nitrogenase iron protein	Rhizobium bangladeshense	PLR8_1b	GCA_019684095.1
+6145268	INSDC	JABDWX010000025.1	9571	10464	-	MBX4887886.1	nitrogenase iron protein	Rhizobium bangladeshense	PLR8_3b	GCA_019684135.1
+6145268	INSDC	JABDXL010000032.1	19981	20874	+	MBX4951289.1	nitrogenase iron protein	Rhizobium binae	NLR19a	GCA_019684275.1
+6145268	INSDC	JABDXO010000036.1	7680	8573	-	MBX4963863.1	nitrogenase iron protein	Rhizobium binae	BLR228	GCA_019684355.1
+6145268	INSDC	JABDXU010000027.1	18238	19131	+	MBX5002155.1	nitrogenase iron protein	Rhizobium lentis	NLR5b	GCA_019684495.1
+6145268	INSDC	JABDXX010000055.1	7087	7980	+	MBX5020897.1	nitrogenase iron protein	Rhizobium lentis	BLR98	GCA_019684545.1
+6145268	INSDC	JABDYJ010000037.1	7087	7980	+	MBX5087396.1	nitrogenase iron protein	Rhizobium lentis	BLR174	GCA_019684755.1
+6145268	INSDC	JABDYL010000039.1	7087	7980	+	MBX5100124.1	nitrogenase iron protein	Rhizobium lentis	BLR137	GCA_019684815.1
+6145268	INSDC	JABDYK010000039.1	7087	7980	+	MBX5124823.1	nitrogenase iron protein	Rhizobium lentis	BLR139	GCA_019684775.1
+6145268	INSDC	JAAXCH010000035.1	20220	21113	+	MBY2925972.1	nitrogenase iron protein	Rhizobium leguminosarum	LEN1	GCA_019778225.1
+6145268	INSDC	JAAXBX010000035.1	12286	13179	-	MBY2937750.1	nitrogenase iron protein	Rhizobium leguminosarum	V1	GCA_019778005.1
+6145268	INSDC	JAAXCL010000006.1	364319	365212	-	MBY3044247.1	nitrogenase iron protein	Rhizobium leguminosarum	NZLR25b	GCA_019778365.1
+6145268	INSDC	JAAXQQ010000019.1	19487	20380	+	MBY3068640.1	nitrogenase iron protein	Rhizobium laguerreae	TLR9	GCA_019778485.1
+6145268	INSDC	JAAXRZ010000018.1	38318	39211	-	MBY3314535.1	nitrogenase iron protein	Rhizobium laguerreae	H2	GCA_019779155.1
+6145268	INSDC	JAAXSH010000012.1	48497	49390	-	MBY3381708.1	nitrogenase iron protein	Rhizobium laguerreae	MLR6	GCA_019779395.1
+6145268	INSDC	JABTXI010000015.1	144404	145297	-	MBY3593988.1	nitrogenase iron protein	Rhizobium bangladeshense	PLR6_1b	GCA_019780025.1
+6145268	INSDC	JABTXH010000018.1	30755	31648	+	MBY3600012.1	nitrogenase iron protein	Rhizobium bangladeshense	PLR7_2a	GCA_019780005.1
+6145268	INSDC	JAAXBM010000029.1	10954	11847	+	MBY5325422.1	nitrogenase iron protein	Rhizobium leguminosarum	GLR33	GCA_019798145.1
+6145268	INSDC	JAAXBN010000018.1	45004	45897	+	MBY5385384.1	nitrogenase iron protein	Rhizobium leguminosarum	GLR32	GCA_019798225.1
+6145268	INSDC	JAAXBS010000010.1	207621	208514	-	MBY5427230.1	nitrogenase iron protein	Rhizobium leguminosarum	GLR25	GCA_019798265.1
+6145268	INSDC	JAAXDJ010000033.1	36330	37223	+	MBY5447826.1	nitrogenase iron protein	Rhizobium leguminosarum	H3	GCA_019798445.1
+6145268	INSDC	JAAXDQ010000012.1	146513	147406	-	MBY5466458.1	nitrogenase iron protein	Rhizobium leguminosarum	GLR7	GCA_019798585.1
+6145268	INSDC	JAAXFH010000025.1	78086	78979	-	MBY5754759.1	nitrogenase iron protein	Rhizobium leguminosarum	GLR50	GCA_019799555.1
+6145268	INSDC	JAAXFJ010000013.1	169354	170247	-	MBY5788212.1	nitrogenase iron protein	Rhizobium leguminosarum	GLR49	GCA_019799525.1
+6145268	INSDC	JAAXFN010000045.1	16389	17282	+	MBY5870340.1	nitrogenase iron protein	Rhizobium leguminosarum	GLR2	GCA_019799615.1
+6145268	INSDC	JAAXFQ010000034.1	26188	27081	+	MCA2412240.1	nitrogenase iron protein	Rhizobium leguminosarum	GLR11	GCA_020224115.1
+6145268	INSDC	JAAXBR010000013.1	143693	144586	-	MCA2435626.1	nitrogenase iron protein	Rhizobium leguminosarum	GLR28	GCA_020224055.1
+6145268	INSDC	WUEQ01000014.1	146907	147800	-	NEH46533.1	nitrogenase iron protein	Rhizobium leguminosarum	JHI1600	GCA_010668195.1
+6145268	INSDC	WUES01000007.1	327351	328244	+	NEH71065.1	nitrogenase iron protein	Rhizobium leguminosarum	JHI1587	GCA_010668175.1
+6145268	INSDC	WUEV01000014.1	57195	58088	+	NEI02676.1	nitrogenase iron protein	Rhizobium leguminosarum	JHI1415	GCA_010668265.1
+6145268	INSDC	WUFE01000014.1	45197	46090	+	NEI58932.1	nitrogenase iron protein	Rhizobium leguminosarum	JHI974	GCA_010668475.1
+6145268	INSDC	WUFF01000013.1	2123	3016	+	NEI87774.1	nitrogenase iron protein	Rhizobium leguminosarum	JHI973	GCA_010668505.1
+6145268	INSDC	WUFG01000026.1	57903	58796	+	NEI95573.1	nitrogenase iron protein	Rhizobium leguminosarum	JHI963	GCA_010668515.1
+6145268	INSDC	WUFJ01000034.1	42351	43244	+	NEJ23716.1	nitrogenase iron protein	Rhizobium leguminosarum	JHI925	GCA_010668625.1
+6145268	INSDC	WUFO01000019.1	2137	3030	+	NEJ47364.1	nitrogenase iron protein	Rhizobium leguminosarum	JHI585	GCA_010668715.1
+6145268	INSDC	WUFP01000017.1	42990	43883	+	NEJ54265.1	nitrogenase iron protein	Rhizobium leguminosarum	JHI535	GCA_010668705.1
+6145268	INSDC	WUFT01000009.1	273188	274081	-	NEJ72108.1	nitrogenase iron protein	Rhizobium phaseoli	JHI366	GCA_010668805.1
+6145268	INSDC	WUFH01000047.1	24026	24919	-	NEJ81978.1	nitrogenase iron protein	Rhizobium leguminosarum	JHI960	GCA_010668545.1
+6145268	INSDC	WXXP01000027.1	2129	3022	+	NEK54435.1	nitrogenase iron protein	Rhizobium leguminosarum	JHI944	GCA_010668605.1
+6145268	INSDC	WIFA01000003.1	100513	101406	-	NKL96862.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae	L141	GCA_012276275.1
+6145268	INSDC	WIFB01000040.1	16343	17236	+	NKM09186.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae	GLR2	GCA_012276355.1
+6145268	INSDC	WIFM01000023.1	44120	45013	-	NKM58055.1	nitrogenase iron protein	Rhizobium anhuiense	CCBAU43229	GCA_012276505.1
+6145268	INSDC	MRDM01000012.1	52432	53325	+	OOO49309.1	nitrogenase iron protein	Rhizobium laguerreae	FB206	GCA_002008165.1
+6145268	INSDC	CP048285.1	99261	100154	-	QHW29259.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae 248	248	GCA_010365265.1
+6145268	INSDC	SJNO01000031.1	21210	22103	-	TBX72211.1	nitrogenase iron protein	Rhizobium laguerreae	SPF4F7	GCA_004329795.1
+6145268	INSDC	SJNQ01000008.1	114708	115601	-	TBY08086.1	nitrogenase iron protein	Rhizobium laguerreae	SPF2A11	GCA_004329805.1
+6145268	INSDC	SJNP01000008.1	185308	186201	+	TBY10150.1	nitrogenase iron protein	Rhizobium laguerreae	SPF2F4	GCA_004329785.1
+6145268	INSDC	SJMC01000010.1	77177	78070	-	TBY46666.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae	SEF4G12	GCA_004329985.1
+6145268	INSDC	SJMK01000001.1	865	1758	+	TBZ20944.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae	RSF1B9	GCA_004330175.1
+6145268	INSDC	SJMO01000028.1	68311	69204	+	TBZ34981.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae	FRP5A4	GCA_004330235.1
+6145268	INSDC	SJMN01000001.1	2170	3063	+	TBZ44295.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae	FRP5C5	GCA_004330225.1
+6145268	INSDC	SJMP01000051.1	2123	3016	+	TBZ46482.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae	FRP4H3	GCA_004330265.1
+6145268	INSDC	SJMU01000027.1	45772	46665	-	TBZ73311.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae	FRP3A12	GCA_004330515.1
+6145268	INSDC	SJMS01000021.1	68157	69050	+	TBZ80458.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae	FRP3E5	GCA_004330535.1
+6145268	INSDC	SJMV01000005.1	425801	426694	-	TBZ94150.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae	FRP2D7	GCA_004330615.1
+6145268	INSDC	SJMW01000032.1	68226	69119	+	TCA07234.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae	FRF3E2	GCA_004330645.1
+6145268	INSDC	SJMY01000001.1	26039	26932	+	TCA12069.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae	FRF1D12	GCA_004330655.1
+6145268	INSDC	SJMZ01000014.1	68311	69204	+	TCA20149.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae	FRF1A1	GCA_004330635.1
+6145268	INSDC	SJNC01000014.1	204638	205531	-	TCA59926.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae	CZP3G7	GCA_004330735.1
+6145268	INSDC	SJNM01000011.1	236016	236909	-	TCB24673.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae	CZF1F8	GCA_004330935.1
+6145268	INSDC	SMBI01000019.1	14264	15157	-	TCU15466.1	Mo-nitrogenase iron protein subunit NifH	Rhizobium laguerreae	FB403	GCA_004346285.1
+6145268	INSDC	VCHT01000023.1	33018	33911	+	TLW99712.1	nitrogenase iron protein	Rhizobium sp. MHM7A	MHM7A	GCA_005862215.1
+6145268	INSDC	CP088096.1	465509	466402	-	UFW81659.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae	SU303	GCA_021052345.1
+6145268	INSDC	CP104035.1	3951943	3952836	+	UWM80859.1	nitrogenase iron protein	Rhizobium leguminosarum bv. viciae	SRDI969	GCA_025152725.1

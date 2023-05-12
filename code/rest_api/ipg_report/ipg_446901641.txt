@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+446901641	RefSeq	NZ_CP058649.1	2180911	2181660	+	WP_212697903.1	nitrogenase iron protein NifH	Vallitalea pronyensis	FatNI3	GCF_018141445.1
+446901641	INSDC	CP058649.1	2180911	2181660	+	QUI22418.1	AAA family ATPase	Vallitalea pronyensis	FatNI3	GCA_018141445.1

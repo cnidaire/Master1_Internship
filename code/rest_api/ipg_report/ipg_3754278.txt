@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+3754278	INSDC	AY714296.1	1	315	+	AAU93874.1	NifH	actinomycete L3		

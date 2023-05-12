@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+568627389	INSDC	JANFXS010000002.1	110889	111650	-	MCQ4725657.1	nitrogenase iron protein NifH	Anaerotignum faecicola	SL.2.27	GCA_024460105.1

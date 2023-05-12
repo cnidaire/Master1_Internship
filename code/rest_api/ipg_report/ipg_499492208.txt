@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+499492208	RefSeq	NZ_JAJEPR010000004.1	158680	159456	+	WP_227614404.1	nitrogenase iron protein NifH	Fusicatenibacter sp. CLA-AA-H277	CLA-AA-H277	GCF_020686945.1
+499492208	INSDC	JAJEPR010000004.1	158680	159456	+	MCC2188953.1	nitrogenase iron protein NifH	Fusicatenibacter sp. CLA-AA-H277	CLA-AA-H277	GCA_020686945.1

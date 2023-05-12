@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+6303801	INSDC	DQ913882.1	1	380	+	ABK59906.1	NifH	Celerinatantimonas diazotrophica	J-G1-5	

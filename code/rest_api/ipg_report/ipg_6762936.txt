@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+6762936	RefSeq	NC_008942.1	150434	151240	-	WP_011832542.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanocorpusculum labreanum Z	Z	GCF_000015765.1
+6762936	INSDC	CP000559.1	150434	151240	-	ABN06341.1	nitrogenase iron protein subunit NifH	Methanocorpusculum labreanum Z	Z	GCA_000015765.1
+6762936	PAT	N/A				QPZ16244.1	Sequence 69 from patent US 10793863	Unknown		

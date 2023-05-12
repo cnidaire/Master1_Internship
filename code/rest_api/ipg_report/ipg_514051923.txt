@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+514051923	INSDC	JAJFTP010000095.1	79767	80528	-	MCE5202544.1	nitrogenase iron protein NifH	Synergistaceae bacterium		GCA_021372895.1

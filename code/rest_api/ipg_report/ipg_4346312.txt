@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+4346312	INSDC	DQ002937.1	1	319	+	AAY82090.1	NifH	Methylocaldum szegediense O-12	O-12	

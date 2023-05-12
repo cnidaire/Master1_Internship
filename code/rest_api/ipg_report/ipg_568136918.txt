@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+568136918	INSDC	JAKSTW010000001.1	67100	67846	-	MCQ2603483.1	nitrogenase iron protein NifH	Spirochaetia bacterium		GCA_024402405.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+589968203	RefSeq	NZ_CP004078.1	4579004	4579894	-	WP_264370911.1	nitrogenase iron protein NifH	Paenibacillus sabinae T27	T27	GCF_000612505.1

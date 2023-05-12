@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+568665751	INSDC	JANFZW010000010.1	61461	62225	-	MCQ4877333.1	nitrogenase iron protein NifH	Ruminococcus bicirculans	DFI.9.2	GCA_024461595.1

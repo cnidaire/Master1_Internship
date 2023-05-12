@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+77720622	INSDC	CP009687.1	1505576	1506394	+	AKL94862.1	nitrogenase iron protein NifH	Clostridium aceticum	DSM 1496	GCA_001042715.1
+77720622	INSDC	JYHU01000004.1	174735	175553	+	KJF27790.1	nitrogenase reductase	Clostridium aceticum	DSM 1496	GCA_000949285.1

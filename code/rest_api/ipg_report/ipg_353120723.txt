@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+353120723	RefSeq	NZ_JACOGK010000047.1	13828	14580	+	WP_186504451.1	nitrogenase iron protein NifH	Megasphaera hominis	NSJ-59	GCF_014269395.1
+353120723	INSDC	JACOGK010000047.1	13828	14580	+	MBC3537880.1	AAA family ATPase	Megasphaera hominis	NSJ-59	GCA_014269395.1

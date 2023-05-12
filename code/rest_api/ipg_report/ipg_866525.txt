@@ -1,0 +1,33 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+866525	RefSeq	NC_003030.1	283892	284710	+	WP_010963576.1	nitrogenase iron protein	Clostridium acetobutylicum ATCC 824	ATCC 824	GCF_000008765.1
+866525	RefSeq	NC_015687.1	283890	284708	+	WP_010963576.1	nitrogenase iron protein	Clostridium acetobutylicum DSM 1731	DSM 1731	GCF_000218855.1
+866525	RefSeq	NC_017295.1	283882	284700	+	WP_010963576.1	nitrogenase iron protein	Clostridium acetobutylicum EA 2018	EA 2018	GCF_000191905.1
+866525	RefSeq	NZ_CP030018.1	3776416	3777234	+	WP_010963576.1	nitrogenase iron protein	Clostridium acetobutylicum	LJ4	GCF_003254825.1
+866525	RefSeq	NZ_JAAZWQ010000018.1	24414	25232	+	WP_010963576.1	nitrogenase iron protein	Clostridium acetobutylicum	DJ038	GCF_014230495.1
+866525	RefSeq	NZ_JABANX010000028.1	24414	25232	+	WP_010963576.1	nitrogenase iron protein	Clostridium acetobutylicum	DJ103	GCF_014231285.1
+866525	RefSeq	NZ_JABFUK010000001.1	2219965	2220783	+	WP_010963576.1	nitrogenase iron protein	Clostridium acetobutylicum	DJ074	GCF_013149375.1
+866525	RefSeq	NZ_JABFUZ010000001.1	55921	56739	-	WP_010963576.1	nitrogenase iron protein	Clostridium acetobutylicum	DJ313	GCF_013149385.1
+866525	RefSeq	NZ_JABTAD010000001.1	110242	111060	+	WP_010963576.1	nitrogenase iron protein	Clostridium acetobutylicum	DJ310	GCF_013296345.1
+866525	RefSeq	NZ_JACBAB010000004.1	54816	55634	-	WP_010963576.1	nitrogenase iron protein	Clostridium acetobutylicum	DJ311	GCF_013410925.1
+866525	RefSeq	NZ_LZYX01000007.1	24464	25282	+	WP_010963576.1	nitrogenase iron protein	Clostridium acetobutylicum	NCCB 24020	GCF_002006385.1
+866525	RefSeq	NZ_LZYY01000011.1	24473	25291	+	WP_010963576.1	nitrogenase iron protein	Clostridium acetobutylicum	DSM 1732	GCF_002006425.1
+866525	RefSeq	NZ_NERI01000010.1	26203	27021	-	WP_010963576.1	nitrogenase iron protein	Clostridium acetobutylicum	ATCC 55025	GCF_002216305.2
+866525	RefSeq	NZ_NERJ01000013.1	26319	27137	-	WP_010963576.1	nitrogenase iron protein	Clostridium acetobutylicum	JB200	GCF_002216285.2
+866525	RefSeq	NZ_PIQQ01000006.1	24392	25210	+	WP_010963576.1	nitrogenase iron protein	Clostridium acetobutylicum	WA	GCF_002954145.1
+866525	RefSeq	NZ_PYBN01000007.1	24446	25264	+	WP_010963576.1	nitrogenase iron protein	Clostridium sp. NJ4	NJ4	GCF_003014985.1
+866525	RefSeq	NZ_VIBM01000012.1	26243	27061	-	WP_010963576.1	nitrogenase iron protein	Clostridium acetobutylicum	BOH3	GCF_006546765.1
+866525	Swiss-Prot	N/A				Q97ME5.1	Nitrogenase iron protein	Clostridium acetobutylicum ATCC 824		
+866525	INSDC	AE001437.1	283892	284710	+	AAK78234.1	Nitrogenase iron protein (nitrogenase component II) gene nifH	Clostridium acetobutylicum ATCC 824	ATCC 824	GCA_000008765.1
+866525	INSDC	CP002118.1	283882	284700	+	ADZ19300.1	Nitrogenase iron protein (nitrogenase component II) gene nifH	Clostridium acetobutylicum EA 2018	EA 2018	GCA_000191905.1
+866525	INSDC	CP002660.1	283890	284708	+	AEI33975.1	nitrogenase iron protein, nitrogenase component II, nifH	Clostridium acetobutylicum DSM 1731	DSM 1731	GCA_000218855.1
+866525	INSDC	CP030018.1	3776416	3777234	+	AWV82041.1	nitrogenase iron protein	Clostridium acetobutylicum	LJ4	GCA_003254825.1
+866525	INSDC	JAAZWQ010000018.1	24414	25232	+	MBC2396087.1	nitrogenase iron protein	Clostridium acetobutylicum	DJ038	GCA_014230495.1
+866525	INSDC	JABANX010000028.1	24414	25232	+	MBC2586748.1	nitrogenase iron protein	Clostridium acetobutylicum	DJ103	GCA_014231285.1
+866525	INSDC	JABFUZ010000001.1	55921	56739	-	NOV86927.1	nitrogenase iron protein NifH	Clostridium acetobutylicum	DJ313	GCA_013149385.1
+866525	INSDC	JABFUK010000001.1	2219965	2220783	+	NOW14728.1	nitrogenase iron protein NifH	Clostridium acetobutylicum	DJ074	GCA_013149375.1
+866525	INSDC	JABTAD010000001.1	110242	111060	+	NRY54982.1	nitrogenase iron protein NifH	Clostridium acetobutylicum	DJ310	GCA_013296345.1
+866525	INSDC	JACBAB010000004.1	54816	55634	-	NYC96211.1	nitrogenase iron protein NifH	Clostridium acetobutylicum	DJ311	GCA_013410925.1
+866525	INSDC	LZYX01000007.1	24464	25282	+	OOL97073.1	nitrogenase iron protein 1	Clostridium acetobutylicum	NCCB 24020	GCA_002006385.1
+866525	INSDC	LZYY01000011.1	24473	25291	+	OOM05264.1	nitrogenase iron protein 1	Clostridium acetobutylicum	DSM 1732	GCA_002006425.1
+866525	INSDC	PYBN01000007.1	24446	25264	+	PSM04206.1	nitrogenase iron protein	Clostridium sp. NJ4	NJ4	GCA_003014985.1
+866525	INSDC	VIBM01000012.1	26243	27061	-	TQD45638.1	nitrogenase iron protein	Clostridium acetobutylicum	BOH3	GCA_006546765.1

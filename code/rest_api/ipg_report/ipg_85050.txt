@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+85050	INSDC	AF117977.1	1	357	+	AAD29988.1	NifH	Stutzerimonas stutzeri A15	LMG 10652	
+85050	INSDC	AF117978.1	1	357	+	AAD29989.1	NifH	Stutzerimonas stutzeri DSM 4166	DSM 4166	
+85050	INSDC	JQ952673.1	1	357	+	AFP87410.1	dinitrogenase reductase	Enterobacter sp. B-12	B-12	

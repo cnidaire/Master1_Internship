@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+44688444	RefSeq	NZ_AWXA01000041.1	129581	130351	+	WP_023054018.1	nitrogenase iron protein NifH	Megasphaera vaginalis	BV3C16-1	GCF_000478965.1
+44688444	RefSeq	NZ_OEQB01000004.1	39278	40048	-	WP_023054018.1	nitrogenase iron protein NifH	'Megasphaera vaginalis' Bordigoni et al. 2020	Marseille-P4857	GCF_900240295.1
+44688444	INSDC	AWXA01000041.1	129581	130351	+	ERT58719.1	putative nitrogenase iron protein	Megasphaera vaginalis	BV3C16-1	GCA_000478965.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+46636197	INSDC	KF802662.1	1	348	-	AHC97693.1	NifH	Azorhizobium sp. MM5717	MM5717	

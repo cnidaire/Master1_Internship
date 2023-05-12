@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+611930871	RefSeq	NZ_JAQDGQ010000003.1	35187	35948	-	WP_270209210.1	nitrogenase iron protein NifH	Dorea amylophila	AF98-49	GCF_027664025.1

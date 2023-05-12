@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+510242626	INSDC	JAJOIL010000022.1	105767	106522	+	MCD8553613.1	nitrogenase iron protein NifH	Seleniivibrio sp.		GCA_021209385.1

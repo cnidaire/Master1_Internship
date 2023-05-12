@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+365460760	RefSeq	NZ_JADBGG010000010.1	59355	60185	-	WP_192623420.1	nitrogenase iron protein	Desulfomicrobium macestii	DSM 4194	GCF_014873765.1
+365460760	INSDC	JADBGG010000010.1	59355	60185	-	MBE1425009.1	nitrogenase iron protein NifH	Desulfomicrobium macestii	DSM 4194	GCA_014873765.1

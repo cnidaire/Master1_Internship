@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+3422829	INSDC	AY601525.1	1	718	+	AAT28206.1	NifH	Mesorhizobium sp. N2076	N2076	

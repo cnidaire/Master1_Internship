@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+537858478	INSDC	JALFPT010000042.1	1635	2370	-	MCI7523330.1	nitrogenase iron protein NifH	Roseburia hominis		GCA_022786045.1

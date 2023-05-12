@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+637271350	INSDC	CP118523.1	3324896	3325636	-	WDV44938.1	nitrogenase iron protein NifH	Clostridiaceae bacterium M8S5	M8S5	GCA_029227815.1

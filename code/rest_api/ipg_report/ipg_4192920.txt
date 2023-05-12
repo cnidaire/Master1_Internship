@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+4192920	INSDC	AY972874.1	1	362	-	AAX84829.1	NifH	gamma proteobacterium BAL281	BAL281	

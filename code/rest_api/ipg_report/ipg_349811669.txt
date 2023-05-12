@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+349811669	RefSeq	NZ_JACHGJ010000002.1	918650	919468	+	WP_184745999.1	nitrogenase iron protein	Spirochaeta isovalerica	DSM 2461	GCF_014207565.1
+349811669	INSDC	JACHGJ010000002.1	918650	919468	+	MBB6480142.1	nitrogenase iron protein NifH	Spirochaeta isovalerica	DSM 2461	GCA_014207565.1

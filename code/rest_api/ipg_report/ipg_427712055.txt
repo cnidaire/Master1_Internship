@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+427712055	RefSeq	NZ_CP058315.1	1986963	1987742	-	WP_210121209.1	nitrogenase iron protein NifH	Treponema parvum	OMZ 843	GCF_017893985.1
+427712055	INSDC	CP058315.1	1986963	1987742	-	QTQ16821.1	AAA family ATPase	Treponema parvum	OMZ 843	GCA_017893985.1

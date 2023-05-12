@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+544258602	RefSeq	NZ_QGMY01000009.1	69768	70682	+	WP_245926553.1	nitrogenase iron protein NifH	Methanospirillum lacunae	Ki8-1	GCF_003173355.1

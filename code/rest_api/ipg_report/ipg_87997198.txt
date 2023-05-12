@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+87997198	INSDC	KT207554.1	1	581	+	AKV17365.1	NifH	Bradyrhizobium sp. TUTVSBEG	TUTVSBEG	

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+549392063	INSDC	JALNYB010000097.1	1349	2149	-	MCK9323620.1	nitrogenase iron protein NifH	Candidatus Methanomethylophilaceae archaeon		GCA_023230065.1

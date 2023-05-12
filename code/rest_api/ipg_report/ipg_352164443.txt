@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+352164443	RefSeq	NZ_CP060204.1	1357948	1358760	+	WP_185979733.1	nitrogenase iron protein NifH	Selenomonas timonae	Marseille-Q3039	GCF_014250475.1
+352164443	INSDC	CP060204.1	1357948	1358760	+	QNH53543.1	AAA family ATPase	Selenomonas timonae	Marseille-Q3039	GCA_014250475.1

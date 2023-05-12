@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+4179816	INSDC	AY768416.1	1	339	+	AAX82505.1	NifH	Lyngbya aestuarii PCC 7419	PCC 7419	

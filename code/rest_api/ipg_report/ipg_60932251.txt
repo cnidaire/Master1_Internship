@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+60932251	RefSeq	NZ_CP006951.1	1299922	1300959	-	WP_238569781.1	nitrogen fixation protein NifH	Dehalococcoides mccartyi CG5	CG5	GCF_000830885.1
+60932251	INSDC	CP006951.1	1299922	1300959	-	AII61554.1	nitrogenase subunit NifH	Dehalococcoides mccartyi CG5	CG5	GCA_000830885.1

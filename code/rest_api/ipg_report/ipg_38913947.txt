@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+38913947	RefSeq	NZ_KB902317.1	102773	103531	+	WP_018304979.1	nitrogenase iron protein NifH	Desulfitobacterium hafniense PCP-1	PCP-1	GCF_000379505.1
+38913947	RefSeq	NZ_LK996017.1	4337057	4337815	-	WP_018304979.1	nitrogenase iron protein NifH	Desulfitobacterium hafniense	PCE-S	GCF_000944695.1
+38913947	INSDC	LK996017.1	4337057	4337815	-	CDX04022.1	Nitrogenase iron protein	Desulfitobacterium hafniense	PCE-S	GCA_000944695.1

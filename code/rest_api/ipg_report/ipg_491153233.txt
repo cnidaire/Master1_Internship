@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+491153233	INSDC	CP070751.1	2594582	2595622	+	UCE39595.1	nitrogen fixation protein NifH	Thermoplasmata archaeon		GCA_020348445.1

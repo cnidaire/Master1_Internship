@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+71845111	RefSeq	NZ_CP006879.1	256893	257786	+	WP_040114461.1	nitrogenase iron protein	Rhizobium gallicum bv. gallicum R602sp	R602	GCF_000816845.1
+71845111	RefSeq	NZ_JABEPH010000184.1	4196	5089	-	WP_040114461.1	nitrogenase iron protein	Rhizobium sp. SEMIA 4085	SEMIA 4085	GCF_013004495.1
+71845111	INSDC	CP006879.1	256893	257786	+	AJD43817.1	nitrogenase iron protein NifH	Rhizobium gallicum bv. gallicum R602sp	R602	GCA_000816845.1
+71845111	INSDC	JABEPH010000184.1	4196	5089	-	NNH31443.1	nitrogenase iron protein	Rhizobium sp. SEMIA 4085	SEMIA 4085	GCA_013004495.1
+71845111	INSDC	SODG01000004.1	294954	295847	+	TDW34296.1	Mo-nitrogenase iron protein subunit NifH	Rhizobium azibense	23C2	GCA_004365425.1

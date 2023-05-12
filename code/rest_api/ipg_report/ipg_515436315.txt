@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+515436315	INSDC	QWII01000003.1	82059	83045	-	MCE7980045.1	nitrogen fixation protein NifH	Caldilinea sp. CFX5		GCA_021405325.1

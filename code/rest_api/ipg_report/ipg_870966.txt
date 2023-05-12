@@ -1,0 +1,217 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+870966	RefSeq	NC_004463.1	1928567	1929451	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens USDA 110	USDA110	GCF_000011365.1
+870966	RefSeq	NC_017249.1	8325041	8325925	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum USDA 6	USDA 6	GCF_000284375.1
+870966	RefSeq	NZ_ADOU02000002.1	53478	54362	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens SEMIA 5080	SEMIA 5080	GCF_000648595.1
+870966	RefSeq	NZ_AJPX01000730.1	8631	9515	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum CCBAU 15354	CCBAU 15354	GCF_000261545.1
+870966	RefSeq	NZ_AJPY01000630.1	11707	12591	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum CCBAU 15517	CCBAU 15517	GCF_000261565.1
+870966	RefSeq	NZ_AJPZ01000493.1	21288	22172	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum CCBAU 15618	CCBAU 15618	GCF_000261585.1
+870966	RefSeq	NZ_AJQA01000397.1	21292	22176	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum CCBAU 25435	CCBAU 25435	GCF_000261605.1
+870966	RefSeq	NZ_AJQB01000611.1	11677	12561	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum CCBAU 83623	CCBAU 83623	GCF_000261625.1
+870966	RefSeq	NZ_AJQC01000866.1	6510	7394	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium liaoningense CCBAU 05525	CCBAU 05525	GCF_000261645.1
+870966	RefSeq	NZ_AJQD01000643.1	1282	2166	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium liaoningense CCBAU 83689	CCBAU 83689	GCF_000261665.1
+870966	RefSeq	NZ_AJQE01000393.1	21278	22162	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium sp. CCBAU 43298	CCBAU 43298	GCF_000261685.1
+870966	RefSeq	NZ_AJQF01000506.1	21286	22170	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium sp. CCBAU 15544	CCBAU 15544	GCF_000261705.1
+870966	RefSeq	NZ_AJQG01000331.1	14961	15845	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium sp. CCBAU 15615	CCBAU 15615	GCF_000261725.1
+870966	RefSeq	NZ_AJQH01000357.1	21288	22172	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium sp. CCBAU 15635	CCBAU 15635	GCF_000261745.1
+870966	RefSeq	NZ_AJQI01000466.1	12229	13113	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	CCBAU 41267	GCF_000261765.1
+870966	RefSeq	NZ_AP014685.1	2599233	2600117	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	NK6	GCF_001549695.1
+870966	RefSeq	NZ_AP021854.1	8228470	8229354	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium ottawaense	SG09	GCF_009176665.1
+870966	RefSeq	NZ_AP022638.1	2252385	2253269	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	F07S3	GCF_014163475.1
+870966	RefSeq	NZ_AP022639.1	2327965	2328849	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	H12S4	GCF_014163435.1
+870966	RefSeq	NZ_AP022640.1	1990632	1991516	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	HF08	GCF_014163455.1
+870966	RefSeq	NZ_AP022641.1	1970341	1971225	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	HH15	GCF_014163415.1
+870966	RefSeq	NZ_AXAF01000044.1	21413	22297	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium ottawaense	USDA 4	GCF_000472725.1
+870966	RefSeq	NZ_AXAG01000045.1	21412	22296	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum USDA 38	USDA 38	GCF_000472745.1
+870966	RefSeq	NZ_AXAT01000267.1	7317	8201	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum USDA 135	USDA 135	GCF_000472945.1
+870966	RefSeq	NZ_AXAV01000040.1	8247	9131	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum USDA 6	USDA 6	GCF_000472985.1
+870966	RefSeq	NZ_AXAX01000042.1	8356	9240	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	USDA 122	GCF_000473025.1
+870966	RefSeq	NZ_AXVP01000150.1	7113	7997	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum USDA 123	USDA 123	GCF_000482525.1
+870966	RefSeq	NZ_BJNK01000065.1	7952	8836	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	NBRC 14783	GCF_006539645.1
+870966	RefSeq	NZ_CP007569.1	9524975	9525859	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum SEMIA 5079	SEMIA 5079	GCF_000661935.1
+870966	RefSeq	NZ_CP010313.1	8356905	8357789	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	E109	GCF_000807315.1
+870966	RefSeq	NZ_CP011360.1	1247956	1248840	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens USDA 110	USDA 110	GCF_001642675.1
+870966	RefSeq	NZ_CP013127.1	1971376	1972260	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	USDA 122	GCF_001908315.1
+870966	RefSeq	NZ_CP017637.1	9305430	9306314	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	J5	GCF_001887695.1
+870966	RefSeq	NZ_CP029425.1	1020350	1021234	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium ottawaense	OO99	GCF_002278135.2
+870966	RefSeq	NZ_CP029603.2	2045953	2046837	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	XF7	GCF_003183845.2
+870966	RefSeq	NZ_CP032617.1	1862544	1863428	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	110spc4	GCF_004359355.1
+870966	RefSeq	NZ_CP050064.1	7896642	7897526	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	172S4	GCF_011604625.1
+870966	RefSeq	NZ_CP055233.1	8058455	8059339	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	113-2	GCF_013390305.1
+870966	RefSeq	NZ_CP058354.1	1751334	1752218	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	5038	GCF_013752735.1
+870966	RefSeq	NZ_CP066351.1	2476698	2477582	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	S06B-BJ	GCF_023278145.1
+870966	RefSeq	NZ_CP066355.1	1283520	1284404	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	USDA 122-Bd	GCF_023278165.1
+870966	RefSeq	NZ_CP078066.1	6947708	6948592	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium arachidis	Hy4	GCF_024758445.1
+870966	RefSeq	NZ_CP081350.1	1475986	1476870	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	S10J-BJ	GCF_023277985.1
+870966	RefSeq	NZ_CP086136.1	9286036	9286920	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium barranii subsp. barranii	144S4	GCF_017565645.3
+870966	RefSeq	NZ_CP088014.1	7827886	7828770	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium daqingense	CCBAU 15774	GCF_021044685.1
+870966	RefSeq	NZ_CP088088.1	8077210	8078094	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	CB1809	GCF_021052285.1
+870966	RefSeq	NZ_CP088280.1	780989	781873	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium barranii subsp. barranii	323S2	GCF_011068405.5
+870966	RefSeq	NZ_JAFCKC010000125.1	7109	7993	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium liaoningense	SZCCT0342	GCF_018130595.1
+870966	RefSeq	NZ_JAFCKD010000212.1	1567	2451	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	SZCCT0341	GCF_018130635.1
+870966	RefSeq	NZ_JAFCKE010000211.1	1567	2451	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	SZCCT0340	GCF_018130585.1
+870966	RefSeq	NZ_JAFCKI010000135.1	12262	13146	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium liaoningense	SZCCT0293	GCF_018130525.1
+870966	RefSeq	NZ_JAFCKK010000206.1	1592	2476	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	SZCCT0287	GCF_018130485.1
+870966	RefSeq	NZ_JAFCKL010000176.1	2528	3412	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium liaoningense	SZCCT0285	GCF_018130445.1
+870966	RefSeq	NZ_JAFCKO010000157.1	8488	9372	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium liaoningense	SZCCT0233	GCF_018130275.1
+870966	RefSeq	NZ_JAFCLA010000132.1	12262	13146	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium liaoningense	SZCCT0133	GCF_018129855.1
+870966	RefSeq	NZ_JAFDOH010000040.1	21331	22215	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium ottawaense	SZCCT0284	GCF_018130425.1
+870966	RefSeq	NZ_JAFDOJ010000037.1	21330	22214	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium ottawaense	SZCCT0046	GCF_018131235.1
+870966	RefSeq	NZ_JAJQJJ010000044.1	8250	9134	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	SEMIA 566	GCF_021213785.1
+870966	RefSeq	NZ_JAJQTN010000071.1	21342	22226	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum SEMIA 5079	SEMIA 5079	GCF_021229285.1
+870966	RefSeq	NZ_JAJQTO010000056.1	8031	8915	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	SEMIA 5080	GCF_021229375.1
+870966	RefSeq	NZ_JAJSAZ010000046.1	8250	9134	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	S 204	GCF_021261335.1
+870966	RefSeq	NZ_JAJSBA010000051.1	8250	9134	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	S 340	GCF_021261355.1
+870966	RefSeq	NZ_JAJSBB010000043.1	8250	9134	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	S 370	GCF_021261305.1
+870966	RefSeq	NZ_JAJSBC010000046.1	8507	9391	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	SEMIA 586	GCF_021261485.1
+870966	RefSeq	NZ_JAJSBD010000049.1	8464	9348	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	CPAC 390	GCF_021261445.1
+870966	RefSeq	NZ_JAJSBE010000052.1	8507	9391	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	CPAC 392	GCF_021261415.1
+870966	RefSeq	NZ_JAJSBF010000042.1	8507	9391	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	CPAC 394	GCF_021261465.1
+870966	RefSeq	NZ_JAKRCG010000026.1	8180	9064	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	TXVA	GCF_023511065.1
+870966	RefSeq	NZ_JAKRCH010000026.1	8180	9064	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	TXEA	GCF_023511055.1
+870966	RefSeq	NZ_JALJYT010000001.1	10480005	10480889	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	USDA 2	GCF_024170825.1
+870966	RefSeq	NZ_JALJYU010000001.1	914486	915370	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	USDA 3	GCF_024170805.1
+870966	RefSeq	NZ_JALJYW010000002.1	2609790	2610674	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	USDA 19	GCF_024170905.1
+870966	RefSeq	NZ_JALJYX010000001.1	1230218	1231102	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	USDA 24	GCF_024170945.1
+870966	RefSeq	NZ_JALJYY010000001.1	2594396	2595280	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	USDA 34	GCF_024170925.1
+870966	RefSeq	NZ_JALJZA010000001.1	9724439	9725323	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	USDA 28	GCF_024170955.1
+870966	RefSeq	NZ_JALJZC010000001.1	9343608	9344492	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	USDA 1	GCF_024171025.1
+870966	RefSeq	NZ_JALJZG010000001.1	2961632	2962516	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	USDA 22	GCF_024171145.1
+870966	RefSeq	NZ_JALJZJ010000001.1	25451	26335	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	USDA 32	GCF_024171205.1
+870966	RefSeq	NZ_JALJZL010000002.1	2818675	2819559	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	USDA 7	GCF_024171265.1
+870966	RefSeq	NZ_JALJZM010000003.1	48863	49747	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	USDA 10	GCF_024171305.1
+870966	RefSeq	NZ_JALJZR010000002.1	9046994	9047878	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	USDA 27	GCF_024171445.1
+870966	RefSeq	NZ_JANUCW010000001.1	4716008	4716892	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	USDA 35	GCF_024808475.1
+870966	RefSeq	NZ_JANUCX010000001.1	8978875	8979759	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum USDA 38	USDA 38	GCF_024808455.1
+870966	RefSeq	NZ_JANUCZ010000001.1	8550648	8551532	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium elkanii	USDA 40	GCF_024807635.1
+870966	RefSeq	NZ_JANUDA010000001.1	6200029	6200913	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	USDA 41	GCF_024809355.1
+870966	RefSeq	NZ_JANUDB010000001.1	7780997	7781881	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	USDA 43	GCF_024808695.1
+870966	RefSeq	NZ_JANUDC010000001.1	2201956	2202840	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	USDA 45	GCF_024807285.1
+870966	RefSeq	NZ_JANUDE010000001.1	3292391	3293275	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	USDA 48	GCF_024809455.1
+870966	RefSeq	NZ_JANUDF010000001.1	2171039	2171923	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	USDA 50	GCF_024808735.1
+870966	RefSeq	NZ_JANUDG010000001.1	1304839	1305723	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	USDA 57	GCF_024809305.1
+870966	RefSeq	NZ_JANUDH010000001.1	6363945	6364829	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	USDA 58	GCF_024808485.1
+870966	RefSeq	NZ_JANUDI010000001.1	5541226	5542110	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	USDA 59	GCF_024809275.1
+870966	RefSeq	NZ_JANUDM010000001.1	3829239	3830123	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	USDA 66a	GCF_024809875.1
+870966	RefSeq	NZ_JANUDR010000002.1	66379	67263	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	USDA 37	GCF_024807115.1
+870966	RefSeq	NZ_JANUFJ010000001.1	2133495	2134379	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	USDA 72	GCF_024807795.1
+870966	RefSeq	NZ_JANUFK010000001.1	4187231	4188115	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	USDA 73	GCF_024807725.1
+870966	RefSeq	NZ_JANUFL010000001.1	5163638	5164522	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	USDA 78	GCF_024807735.1
+870966	RefSeq	NZ_JAOQNC010000001.1	8436926	8437810	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	USDA 114	GCF_025961095.1
+870966	RefSeq	NZ_JAOQNW010000003.1	10393623	10394507	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	USDA 105	GCF_025961545.1
+870966	RefSeq	NZ_JAOQOA010000001.1	784757	785641	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	USDA 115	GCF_025961635.1
+870966	RefSeq	NZ_JAQQTC010000005.1	3199369	3200253	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	MIAE00426	GCF_028561325.1
+870966	RefSeq	NZ_JARXVN010000026.1	8148	9032	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	SEMIA 417	GCF_029892585.1
+870966	RefSeq	NZ_JASAUS010000136.1	11787	12671	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium sp. Mp27	Mp27	GCF_029953005.1
+870966	RefSeq	NZ_JGCL01000038.1	8052	8936	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	FN1	GCF_001038185.1
+870966	RefSeq	NZ_JRPN01000070.1	21644	22528	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	Is-34	GCF_000773865.1
+870966	RefSeq	NZ_LGUJ01000050.1	21435	22319	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	Is-1	GCF_001280585.1
+870966	RefSeq	NZ_NWTE01000044.1	8013	8897	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	Y21	GCF_002531995.1
+870966	RefSeq	NZ_VLKL01000042.1	21344	22228	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium daqingense	CGMCC 1.10947	GCF_007830205.1
+870966	RefSeq	NZ_VLLA01000047.1	8367	9251	-	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium huanghuaihaiense	CGMCC 1.10948	GCF_007830635.1
+870966	RefSeq	NZ_WWEZ01000028.1	21363	22247	+	WP_011084578.1	nitrogenase iron protein	Bradyrhizobium japonicum	5873	GCF_009864815.1
+870966	Swiss-Prot	N/A				P06117.1	Nitrogenase iron protein	Bradyrhizobium diazoefficiens USDA 110		
+870966	INSDC	K01620.1	325	1209	+	AAA26322.1	nitrogenase Fe (nifH)	Bradyrhizobium japonicum		
+870966	INSDC	AH010242.2	50082	50966	+	AAG60754.1	NifH	Bradyrhizobium japonicum	110spc4	
+870966	INSDC	CP010313.1	8356905	8357789	-	AJA67131.1	nitrogenase reductase	Bradyrhizobium japonicum	E109	GCA_000807315.1
+870966	INSDC	CP011360.1	1247956	1248840	+	AND93797.1	nitrogenase reductase	Bradyrhizobium diazoefficiens USDA 110	USDA 110	GCA_001642675.1
+870966	INSDC	CP017637.1	9305430	9306314	-	APG15239.1	nitrogenase iron protein	Bradyrhizobium japonicum	J5	GCA_001887695.1
+870966	INSDC	CP013127.1	1971376	1972260	+	APO50390.1	nitrogenase reductase	Bradyrhizobium diazoefficiens	USDA 122	GCA_001908315.1
+870966	INSDC	CP029425.1	1020350	1021234	-	AWL97893.1	nitrogenase iron protein	Bradyrhizobium ottawaense	OO99	GCA_002278135.2
+870966	INSDC	CP029603.2	2045953	2046837	+	AWO95051.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	XF7	GCA_003183845.2
+870966	INSDC	BA000040.2	1928567	1929451	+	BAC47034.1	dinitrogenase reductase protein	Bradyrhizobium diazoefficiens USDA 110	USDA110	GCA_000011365.1
+870966	INSDC	AP012206.1	8325041	8325925	-	BAL13296.1	dinitrogenase reductase protein	Bradyrhizobium japonicum USDA 6	USDA 6	GCA_000284375.1
+870966	INSDC	AB685466.1	1	885	+	BAM15955.1	dinitrogenase reductase protein	Bradyrhizobium japonicum	USDA122	
+870966	INSDC	AP021854.1	8228470	8229354	-	BBO08322.1	nitrogenase iron protein	Bradyrhizobium ottawaense	SG09	GCA_009176665.1
+870966	INSDC	AP022638.1	1990766	1991650	+	BBZ92023.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	F07S3	GCA_014163475.1
+870966	INSDC	AP022638.1	2252385	2253269	+	BBZ92261.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	F07S3	GCA_014163475.1
+870966	INSDC	AP022639.1	1970245	1971129	+	BCA00964.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	H12S4	GCA_014163435.1
+870966	INSDC	AP022639.1	2327965	2328849	+	BCA01275.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	H12S4	GCA_014163435.1
+870966	INSDC	AP022640.1	1990632	1991516	+	BCA10010.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	HF08	GCA_014163455.1
+870966	INSDC	AP022641.1	1970341	1971225	+	BCA18644.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	HH15	GCA_014163415.1
+870966	INSDC	AP023091.1	2004690	2005574	+	BCE19217.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	XF1	
+870966	INSDC	AP023092.1	1969291	1970175	+	BCE28083.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	XF2	
+870966	INSDC	AP023093.1	1970340	1971224	+	BCE36819.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	XF3	
+870966	INSDC	AP023094.1	1929919	1930803	+	BCE45471.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	XF4	
+870966	INSDC	AP023095.1	1990741	1991625	+	BCE54345.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	XF5	
+870966	INSDC	AP023096.1	1990753	1991637	+	BCE63073.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	XF6	
+870966	INSDC	AP023097.1	1977614	1978498	+	BCE71751.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	XF8	
+870966	INSDC	AP023098.1	1950664	1951548	+	BCE80418.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	XF9	
+870966	INSDC	AP023099.1	1929919	1930803	+	BCE89003.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	XF10	
+870966	INSDC	AP023100.1	1950642	1951526	+	BCE97829.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	XF11	
+870966	INSDC	AP023101.1	1950654	1951538	+	BCF06480.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	XF12	
+870966	INSDC	AP023102.1	1969291	1970175	+	BCF15157.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	XF13	
+870966	INSDC	AP023103.1	2004690	2005574	+	BCF23939.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	XF14	
+870966	INSDC	AP023104.1	1941574	1942458	+	BCF32767.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	XF15	
+870966	INSDC	AP023105.1	1942087	1942971	+	BCF41314.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	XF16	
+870966	INSDC	AP023106.1	1970340	1971224	+	BCF50215.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	XF17	
+870966	INSDC	AP023107.1	1950664	1951548	+	BCF58893.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	XF18	
+870966	INSDC	AP023108.1	1942087	1942971	+	BCF67453.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	XF19	
+870966	INSDC	BJNK01000065.1	7952	8836	-	GEC50271.1	nitrogenase iron protein	Bradyrhizobium japonicum	NBRC 14783	GCA_006539645.1
+870966	INSDC	JRPN01000070.1	21644	22528	+	KGT73087.1	nitrogenase reductase	Bradyrhizobium japonicum	Is-34	GCA_000773865.1
+870966	INSDC	JGCL01000038.1	8052	8936	-	KMJ93608.1	nitrogenase reductase	Bradyrhizobium japonicum	FN1	GCA_001038185.1
+870966	INSDC	LGUJ01000050.1	21435	22319	+	KOY04848.1	nitrogenase reductase	Bradyrhizobium diazoefficiens	Is-1	GCA_001280585.1
+870966	INSDC	JAFDSQ010000001.1	1004130	1005014	-	MBP1059476.1	nitrogenase iron protein NifH	Bradyrhizobium japonicum	USDA 500	GCA_017831945.1
+870966	INSDC	JAFDSR010000001.1	311665	312549	+	MBP1089755.1	nitrogenase iron protein NifH	Bradyrhizobium japonicum	USDA 300	GCA_017831985.1
+870966	INSDC	JAFCKD010000212.1	1567	2451	+	MBR0867853.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	SZCCT0341	GCA_018130635.1
+870966	INSDC	JAFCKC010000125.1	7109	7993	-	MBR0883259.1	nitrogenase iron protein	Bradyrhizobium liaoningense	SZCCT0342	GCA_018130595.1
+870966	INSDC	JAFCKE010000211.1	1567	2451	+	MBR0892368.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	SZCCT0340	GCA_018130585.1
+870966	INSDC	JAFCKK010000206.1	1592	2476	+	MBR0924053.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	SZCCT0287	GCA_018130485.1
+870966	INSDC	JAFCKL010000176.1	2528	3412	+	MBR0947407.1	nitrogenase iron protein	Bradyrhizobium liaoningense	SZCCT0285	GCA_018130445.1
+870966	INSDC	JAFCKI010000135.1	12262	13146	+	MBR1003426.1	nitrogenase iron protein	Bradyrhizobium liaoningense	SZCCT0293	GCA_018130525.1
+870966	INSDC	JAFCKO010000157.1	8488	9372	-	MBR1033300.1	nitrogenase iron protein	Bradyrhizobium liaoningense	SZCCT0233	GCA_018130275.1
+870966	INSDC	JAFCLA010000132.1	12262	13146	+	MBR1069599.1	nitrogenase iron protein	Bradyrhizobium liaoningense	SZCCT0133	GCA_018129855.1
+870966	INSDC	JAFDOH010000040.1	21331	22215	+	MBR1294898.1	nitrogenase iron protein	Bradyrhizobium ottawaense	SZCCT0284	GCA_018130425.1
+870966	INSDC	JAFDOJ010000037.1	21330	22214	+	MBR1367726.1	nitrogenase iron protein	Bradyrhizobium ottawaense	SZCCT0046	GCA_018131235.1
+870966	INSDC	JAJQJJ010000044.1	8250	9134	-	MCD9112802.1	nitrogenase iron protein	Bradyrhizobium japonicum	SEMIA 566	GCA_021213785.1
+870966	INSDC	JAJQTN010000071.1	21342	22226	+	MCD9259861.1	nitrogenase iron protein	Bradyrhizobium japonicum SEMIA 5079	SEMIA 5079	GCA_021229285.1
+870966	INSDC	JAJQTO010000056.1	8031	8915	-	MCD9298443.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	SEMIA 5080	GCA_021229375.1
+870966	INSDC	JAJSBD010000049.1	8464	9348	-	MCD9815818.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	CPAC 390	GCA_021261445.1
+870966	INSDC	JAJSAZ010000046.1	8250	9134	-	MCD9825044.1	nitrogenase iron protein	Bradyrhizobium japonicum	S 204	GCA_021261335.1
+870966	INSDC	JAJSBF010000042.1	8507	9391	-	MCD9833718.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	CPAC 394	GCA_021261465.1
+870966	INSDC	JAJSBC010000046.1	8507	9391	-	MCD9852475.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	SEMIA 586	GCA_021261485.1
+870966	INSDC	JAJSBE010000052.1	8507	9391	-	MCD9888761.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	CPAC 392	GCA_021261415.1
+870966	INSDC	JAJSBA010000051.1	8250	9134	-	MCD9897910.1	nitrogenase iron protein	Bradyrhizobium japonicum	S 340	GCA_021261355.1
+870966	INSDC	JAJSBB010000043.1	8250	9134	-	MCD9913010.1	nitrogenase iron protein	Bradyrhizobium japonicum	S 370	GCA_021261305.1
+870966	INSDC	JALJYT010000001.1	10480005	10480889	+	MCP1748416.1	nitrogenase iron protein NifH	Bradyrhizobium japonicum	USDA 2	GCA_024170825.1
+870966	INSDC	JALJYU010000001.1	914486	915370	-	MCP1759758.1	nitrogenase iron protein NifH	Bradyrhizobium japonicum	USDA 3	GCA_024170805.1
+870966	INSDC	JALJZA010000001.1	9724439	9725323	-	MCP1783398.1	nitrogenase iron protein NifH	Bradyrhizobium japonicum	USDA 28	GCA_024170955.1
+870966	INSDC	JALJYW010000002.1	2609790	2610674	-	MCP1791349.1	nitrogenase iron protein NifH	Bradyrhizobium japonicum	USDA 19	GCA_024170905.1
+870966	INSDC	JALJYY010000001.1	2594396	2595280	-	MCP1803768.1	nitrogenase iron protein NifH	Bradyrhizobium japonicum	USDA 34	GCA_024170925.1
+870966	INSDC	JALJYX010000001.1	1230218	1231102	-	MCP1812791.1	nitrogenase iron protein NifH	Bradyrhizobium japonicum	USDA 24	GCA_024170945.1
+870966	INSDC	JALJZM010000003.1	48863	49747	+	MCP1855543.1	nitrogenase iron protein NifH	Bradyrhizobium japonicum	USDA 10	GCA_024171305.1
+870966	INSDC	JALJZC010000001.1	9343608	9344492	+	MCP1875786.1	nitrogenase iron protein NifH	Bradyrhizobium japonicum	USDA 1	GCA_024171025.1
+870966	INSDC	JALJZL010000002.1	2818675	2819559	+	MCP1879625.1	nitrogenase iron protein NifH	Bradyrhizobium japonicum	USDA 7	GCA_024171265.1
+870966	INSDC	JALJZJ010000001.1	25451	26335	+	MCP1934241.1	nitrogenase iron protein NifH	Bradyrhizobium japonicum	USDA 32	GCA_024171205.1
+870966	INSDC	JALJZG010000001.1	2961632	2962516	+	MCP1947538.1	nitrogenase iron protein NifH	Bradyrhizobium japonicum	USDA 22	GCA_024171145.1
+870966	INSDC	JALJZR010000002.1	9046994	9047878	+	MCP1964312.1	nitrogenase iron protein NifH	Bradyrhizobium japonicum	USDA 27	GCA_024171445.1
+870966	INSDC	JANUFL010000001.1	5163638	5164522	+	MCS3499826.1	nitrogenase iron protein NifH	Bradyrhizobium japonicum	USDA 78	GCA_024807735.1
+870966	INSDC	JANUFK010000001.1	4187231	4188115	+	MCS3537244.1	nitrogenase iron protein NifH	Bradyrhizobium japonicum	USDA 73	GCA_024807725.1
+870966	INSDC	JANUFJ010000001.1	2133495	2134379	+	MCS3544133.1	nitrogenase iron protein NifH	Bradyrhizobium japonicum	USDA 72	GCA_024807795.1
+870966	INSDC	JANUCX010000001.1	8978875	8979759	-	MCS3899585.1	nitrogenase iron protein NifH	Bradyrhizobium japonicum USDA 38	USDA 38	GCA_024808455.1
+870966	INSDC	JANUCW010000001.1	4716008	4716892	-	MCS3909287.1	nitrogenase iron protein NifH	Bradyrhizobium japonicum	USDA 35	GCA_024808475.1
+870966	INSDC	JANUCZ010000001.1	8550648	8551532	-	MCS3933228.1	nitrogenase iron protein NifH	Bradyrhizobium elkanii	USDA 40	GCA_024807635.1
+870966	INSDC	JANUDC010000001.1	2201956	2202840	-	MCS3942639.1	nitrogenase iron protein NifH	Bradyrhizobium japonicum	USDA 45	GCA_024807285.1
+870966	INSDC	JANUDG010000001.1	1304839	1305723	-	MCS3958014.1	nitrogenase iron protein NifH	Bradyrhizobium japonicum	USDA 57	GCA_024809305.1
+870966	INSDC	JANUDB010000001.1	7780997	7781881	-	MCS3973784.1	nitrogenase iron protein NifH	Bradyrhizobium japonicum	USDA 43	GCA_024808695.1
+870966	INSDC	JANUDI010000001.1	5541226	5542110	-	MCS3980778.1	nitrogenase iron protein NifH	Bradyrhizobium japonicum	USDA 59	GCA_024809275.1
+870966	INSDC	JANUDF010000001.1	2171039	2171923	-	MCS3986665.1	nitrogenase iron protein NifH	Bradyrhizobium japonicum	USDA 50	GCA_024808735.1
+870966	INSDC	JANUDH010000001.1	6363945	6364829	-	MCS3999767.1	nitrogenase iron protein NifH	Bradyrhizobium japonicum	USDA 58	GCA_024808485.1
+870966	INSDC	JANUDA010000001.1	6200029	6200913	+	MCS4018520.1	nitrogenase iron protein NifH	Bradyrhizobium japonicum	USDA 41	GCA_024809355.1
+870966	INSDC	JANUDE010000001.1	3292391	3293275	+	MCS4024593.1	nitrogenase iron protein NifH	Bradyrhizobium japonicum	USDA 48	GCA_024809455.1
+870966	INSDC	JANUDR010000002.1	66379	67263	+	MCS4126188.1	nitrogenase iron protein NifH	Bradyrhizobium japonicum	USDA 37	GCA_024807115.1
+870966	INSDC	JANUDM010000001.1	3829239	3830123	+	MCS4205623.1	nitrogenase iron protein NifH	Bradyrhizobium japonicum	USDA 66a	GCA_024809875.1
+870966	INSDC	WWEZ01000028.1	21363	22247	+	MYV88239.1	nitrogenase iron protein	Bradyrhizobium japonicum	5873	GCA_009864815.1
+870966	INSDC	NWTE01000044.1	8013	8897	-	PDT56004.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	Y21	GCA_002531995.1
+870966	INSDC	CP032617.1	1862544	1863428	+	QBP27004.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	110spc4	GCA_004359355.1
+870966	INSDC	CP050064.1	7896642	7897526	+	QIO96824.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	172S4	GCA_011604625.1
+870966	INSDC	CP055233.1	8058455	8059339	-	QLD46303.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	113-2	GCA_013390305.1
+870966	INSDC	VLKL01000042.1	21344	22228	+	TWH93449.1	Mo-nitrogenase iron protein subunit NifH	Bradyrhizobium daqingense	CGMCC 1.10947	GCA_007830205.1
+870966	INSDC	VLLA01000047.1	8367	9251	-	TWI57716.1	Mo-nitrogenase iron protein subunit NifH	Bradyrhizobium huanghuaihaiense	CGMCC 1.10948	GCA_007830635.1
+870966	INSDC	CP086136.1	9286036	9286920	-	UEM11599.1	nitrogenase iron protein	Bradyrhizobium barranii subsp. barranii	144S4	GCA_017565645.3
+870966	INSDC	CP088014.1	7827886	7828770	-	UFS89102.1	nitrogenase iron protein	Bradyrhizobium daqingense	CCBAU 15774	GCA_021044685.1
+870966	INSDC	CP088088.1	8077210	8078094	-	UFW57176.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	CB1809	GCA_021052285.1
+870966	INSDC	CP088280.1	780989	781873	+	UGX94907.1	nitrogenase iron protein	Bradyrhizobium barranii subsp. barranii	323S2	GCA_011068405.5
+870966	INSDC	CP081350.1	1475986	1476870	+	UQD74296.1	nitrogenase iron protein	Bradyrhizobium japonicum	S10J-BJ	GCA_023277985.1
+870966	INSDC	CP066355.1	1283520	1284404	+	UQD91218.1	nitrogenase iron protein	Bradyrhizobium diazoefficiens	USDA 122-Bd	GCA_023278165.1
+870966	INSDC	CP066351.1	2476698	2477582	+	UQE00815.1	nitrogenase iron protein	Bradyrhizobium japonicum	S06B-BJ	GCA_023278145.1
+870966	INSDC	CP078066.1	6947708	6948592	-	UVO35926.1	nitrogenase iron protein	Bradyrhizobium arachidis	Hy4	GCA_024758445.1

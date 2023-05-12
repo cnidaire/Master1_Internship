@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+537608991	INSDC	JALFLT010000004.1	3160	3909	+	MCI7063009.1	nitrogenase iron protein NifH	Mitsuokella jalaludinii		GCA_022774585.1

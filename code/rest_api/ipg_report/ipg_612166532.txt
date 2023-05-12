@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+612166532	RefSeq	NZ_JAQCUN010000059.1	6844	7599	-	WP_270445589.1	nitrogenase iron protein NifH	Anaeroglobus sp. AF13-6AC	AF13-6AC	GCF_027685385.1

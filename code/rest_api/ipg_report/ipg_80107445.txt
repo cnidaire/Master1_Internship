@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+80107445	RefSeq	NZ_BBCW01000009.1	37644	38465	+	WP_048137475.1	nitrogenase iron protein	Methanosarcina horonobensis HB-1 = JCM 15518	JCM 15518	GCF_001316205.1
+80107445	RefSeq	NZ_CP009516.1	831508	832329	-	WP_048137475.1	nitrogenase iron protein	Methanosarcina horonobensis HB-1 = JCM 15518	HB-1	GCF_000970285.1
+80107445	INSDC	CP009516.1	831508	832329	-	AKB77188.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Methanosarcina horonobensis HB-1 = JCM 15518	HB-1	GCA_000970285.1

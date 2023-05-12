@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+497662793	INSDC	JAJCHH010000026.1	38028	38789	-	MCB7081345.1	nitrogenase iron protein NifH	bacterium 210928-DFI.3.100	DFI.3.100	GCA_020554405.1

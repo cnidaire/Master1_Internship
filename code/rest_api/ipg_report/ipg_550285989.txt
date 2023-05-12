@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+550285989	RefSeq	NZ_CP097093.1	1284009	1284761	-	WP_273450928.1	nitrogenase iron protein NifH	Mogibacterium diversum		GCF_023303005.1
+550285989	INSDC	CP097093.1	1284009	1284761	-	UQF80961.1	nitrogenase iron protein NifH	Mogibacterium diversum		GCA_023303005.1

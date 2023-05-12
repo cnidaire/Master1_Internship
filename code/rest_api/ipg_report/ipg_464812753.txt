@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+464812753	INSDC	JACVHA010000568.1	2281	3255	+	MBU7029787.1	nitrogen fixation protein NifH	Theionarchaea archaeon		GCA_019008485.1

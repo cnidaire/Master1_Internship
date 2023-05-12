@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+77150350	RefSeq	NZ_JTGN01000006.1	272627	273487	-	WP_044295608.1	nitrogenase iron protein NifH	Robinsoniella peoriensis	WT	GCF_000797495.1

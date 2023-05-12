@@ -1,0 +1,10 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+43789057	RefSeq	NZ_CP059378.1	570138	570959	+	WP_021803510.1	nitrogenase iron protein	Clostridium intestinale	Lx1	GCF_013781885.1
+43789057	RefSeq	NZ_FQXU01000006.1	204169	204990	+	WP_021803510.1	nitrogenase iron protein	Clostridium intestinale DSM 6191	DSM 6191	GCF_900130055.1
+43789057	RefSeq	NZ_KI273145.1	3572315	3573136	-	WP_021803510.1	nitrogenase iron protein	Clostridium intestinale URNW	URNW	GCF_000469625.2
+43789057	INSDC	APJA01000022.1	78037	78858	-	ERK29044.1	nitrogenase iron protein 5	Clostridium intestinale URNW	URNW	GCA_000469625.2
+43789057	INSDC	KI273145.1	3572315	3573136	-	ERK29044.1	nitrogenase iron protein 5	Clostridium intestinale URNW	URNW	GCA_000469625.2
+43789057	INSDC	RCUS01001301.1	165	986	+	MNM29885.1	Nitrogenase iron protein 1	compost metagenome		GCA_003942065.1
+43789057	INSDC	RCUU01006513.1	2780	3601	-	MNO69504.1	Nitrogenase iron protein 1	compost metagenome		GCA_003942045.1
+43789057	INSDC	CP059378.1	570138	570959	+	QLY80503.1	nitrogenase iron protein	Clostridium intestinale	Lx1	GCA_013781885.1
+43789057	INSDC	FQXU01000006.1	204169	204990	+	SHI12394.1	nitrogenase iron protein NifH	Clostridium intestinale DSM 6191	DSM 6191	GCA_900130055.1

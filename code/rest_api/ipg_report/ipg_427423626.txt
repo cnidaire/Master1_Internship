@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+427423626	RefSeq	NZ_JAGINP010000014.1	126749	127636	-	WP_209768162.1	nitrogenase iron protein	Azospirillum rugosum	IMMIB AFH-6	GCF_017876155.1
+427423626	INSDC	JAGINP010000014.1	126749	127636	-	MBP2294150.1	nitrogenase iron protein NifH	Azospirillum rugosum	IMMIB AFH-6	GCA_017876155.1

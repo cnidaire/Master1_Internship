@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+497652760	RefSeq	NZ_JAJCGR010000014.1	27846	28619	-	WP_265191108.1	nitrogenase iron protein NifH	Blautia sp. MSK20_18	MSK.20.18	GCF_020553125.1
+497652760	INSDC	JAJCGR010000014.1	27846	28619	-	MCB7507649.1	nitrogenase iron protein NifH	Blautia sp. MSK20_18	MSK.20.18	GCA_020553125.1

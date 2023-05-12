@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+446891828	RefSeq	NZ_CP058561.1	663744	664508	-	WP_212692225.1	nitrogenase iron protein NifH	Vallitalea guaymasensis	Ra1766G1	GCF_018141425.1
+446891828	INSDC	CP058561.1	663744	664508	-	QUH27938.1	AAA family ATPase	Vallitalea guaymasensis	Ra1766G1	GCA_018141425.1

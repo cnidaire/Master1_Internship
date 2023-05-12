@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+46636179	INSDC	KF802619.1	1	300	-	AHC97650.1	NifH	Burkholderia sp. MM5496	MM5496	

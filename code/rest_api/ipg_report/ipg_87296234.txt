@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+87296234	INSDC	LN713516.1	1	719	+	CEK41214.1	NifH	Mesorhizobium australicum	CCANP64	

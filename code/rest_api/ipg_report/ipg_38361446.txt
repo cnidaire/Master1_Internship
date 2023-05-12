@@ -1,0 +1,54 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+38361446	RefSeq	NZ_ANOE01000021.1	16173	16994	-	WP_017751367.1	nitrogenase iron protein	Clostridium tyrobutyricum UC7086	UC7086	GCF_000332015.1
+38361446	RefSeq	NZ_APMH01000045.1	13967	14788	-	WP_017751367.1	nitrogenase iron protein	Clostridium tyrobutyricum DSM 2637 = ATCC 25755 = JCM 11008	ATCC 25755	GCF_000359585.1
+38361446	RefSeq	NZ_AUCO01000020.1	3258	4079	+	WP_017751367.1	nitrogenase iron protein	Clostridium tyrobutyricum DSM 2637 = ATCC 25755 = JCM 11008	DSM 2637	GCF_000429805.1
+38361446	RefSeq	NZ_CABJAO010000007.1	109609	110430	-	WP_017751367.1	nitrogenase iron protein	Clostridium tyrobutyricum		GCF_902363545.1
+38361446	RefSeq	NZ_CALGIT010000108.1	16632	17453	-	WP_017751367.1	nitrogenase iron protein	Clostridium tyrobutyricum		GCF_937915035.1
+38361446	RefSeq	NZ_CBXI010000026.1	16955	17776	-	WP_017751367.1	nitrogenase iron protein	Clostridium tyrobutyricum DIVETGP	DIVETGP	GCF_000577845.1
+38361446	RefSeq	NZ_CP014170.1	3036805	3037626	-	WP_017751367.1	nitrogenase iron protein	Clostridium tyrobutyricum	KCTC 5387	GCF_001642655.1
+38361446	RefSeq	NZ_CP016280.1	2926723	2927544	-	WP_017751367.1	nitrogenase iron protein	Clostridium tyrobutyricum	W428	GCF_001679705.1
+38361446	RefSeq	NZ_CP038158.1	2281105	2281926	-	WP_017751367.1	nitrogenase iron protein	Clostridium tyrobutyricum	Cirm BIA 2237	GCF_004924375.1
+38361446	RefSeq	NZ_CP047467.1	2480642	2481463	+	WP_017751367.1	nitrogenase iron protein	Clostridium tyrobutyricum	L319	GCF_014170115.1
+38361446	RefSeq	NZ_DHNV01000134.1	377	1198	+	WP_017751367.1	nitrogenase iron protein	Clostridium tyrobutyricum		GCF_002410665.1
+38361446	RefSeq	NZ_FAXL01000032.1	54873	55694	-	WP_017751367.1	nitrogenase iron protein	Clostridium tyrobutyricum		GCF_001491075.1
+38361446	RefSeq	NZ_JADMRW010000011.1	41516	42337	+	WP_017751367.1	nitrogenase iron protein	Clostridium tyrobutyricum	1001713B170207_170306_A10	GCF_015560455.1
+38361446	RefSeq	NZ_JADNNK010000013.1	41516	42337	+	WP_017751367.1	nitrogenase iron protein	Clostridium tyrobutyricum	1001713B170207_170306_A1	GCF_015556955.1
+38361446	RefSeq	NZ_JADPBD010000019.1	41499	42320	+	WP_017751367.1	nitrogenase iron protein	Clostridium tyrobutyricum	1001283B150210_160208_G3	GCF_015670065.1
+38361446	RefSeq	NZ_JADPCV010000009.1	41516	42337	+	WP_017751367.1	nitrogenase iron protein	Clostridium tyrobutyricum	1001283B150210_160208_D6	GCF_015671125.1
+38361446	RefSeq	NZ_JAEKIT010000011.1	65980	66801	-	WP_017751367.1	nitrogenase iron protein	Clostridium tyrobutyricum	24853	GCF_018219395.1
+38361446	RefSeq	NZ_JAHHUR010000017.1	16140	16961	-	WP_017751367.1	nitrogenase iron protein	Clostridium tyrobutyricum	Cl_188	GCF_019143925.1
+38361446	RefSeq	NZ_JAHHUS010000016.1	16140	16961	-	WP_017751367.1	nitrogenase iron protein	Clostridium tyrobutyricum	Cl_171	GCF_019143945.1
+38361446	RefSeq	NZ_JAHHUT010000049.1	16149	16970	-	WP_017751367.1	nitrogenase iron protein	Clostridium tyrobutyricum	Cl_117	GCF_019143985.1
+38361446	RefSeq	NZ_JAHHUU010000046.1	10001	10822	-	WP_017751367.1	nitrogenase iron protein	Clostridium tyrobutyricum	Cl_84	GCF_019144025.1
+38361446	RefSeq	NZ_JAHHUV010000053.1	16140	16961	-	WP_017751367.1	nitrogenase iron protein	Clostridium tyrobutyricum	Cl_82	GCF_019144045.1
+38361446	RefSeq	NZ_JAHHUW010000043.1	1492	2313	+	WP_017751367.1	nitrogenase iron protein	Clostridium tyrobutyricum	Cl_80	GCF_019144105.1
+38361446	RefSeq	NZ_JAHHUZ010000038.1	13794	14615	-	WP_017751367.1	nitrogenase iron protein	Clostridium tyrobutyricum	Cl_29	GCF_019144125.1
+38361446	RefSeq	NZ_JAHHVA010000045.1	16138	16959	-	WP_017751367.1	nitrogenase iron protein	Clostridium tyrobutyricum	DSM 663	GCF_019144145.1
+38361446	RefSeq	NZ_JAKVJA010000049.1	5259	6080	-	WP_017751367.1	nitrogenase iron protein	Clostridium tyrobutyricum		GCF_022487265.1
+38361446	RefSeq	NZ_JAKVKE010000109.1	5260	6081	-	WP_017751367.1	nitrogenase iron protein	Clostridium tyrobutyricum		GCF_022486645.1
+38361446	RefSeq	NZ_JALCLL010000001.1	2932697	2933518	+	WP_017751367.1	nitrogenase iron protein	Clostridium tyrobutyricum		GCF_022647845.1
+38361446	RefSeq	NZ_JALCQB010000038.1	5259	6080	-	WP_017751367.1	nitrogenase iron protein	Clostridium tyrobutyricum		GCF_022651835.1
+38361446	RefSeq	NZ_JALCQP010000038.1	5258	6079	-	WP_017751367.1	nitrogenase iron protein	Clostridium tyrobutyricum		GCF_022651365.1
+38361446	RefSeq	NZ_JALCRD010000039.1	5259	6080	-	WP_017751367.1	nitrogenase iron protein	Clostridium tyrobutyricum		GCF_022652215.1
+38361446	RefSeq	NZ_JTER01000013.1	38388	39209	+	WP_017751367.1	nitrogenase iron protein	Clostridium tyrobutyricum	FAM22552	GCF_000816585.1
+38361446	INSDC	CP014170.1	3036805	3037626	-	AND86264.1	nitrogenase II	Clostridium tyrobutyricum	KCTC 5387	GCA_001642655.1
+38361446	INSDC	CP016280.1	2926723	2927544	-	ANP70754.1	nitrogenase iron protein	Clostridium tyrobutyricum	W428	GCA_001679705.1
+38361446	INSDC	CBXI010000026.1	16955	17776	-	CDL91573.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Clostridium tyrobutyricum DIVETGP	DIVETGP	GCA_000577845.1
+38361446	INSDC	JAEKIT010000011.1	65980	66801	-	MBR9648166.1	nitrogenase iron protein	Clostridium tyrobutyricum	24853	GCA_018219395.1
+38361446	INSDC	JAHHVA010000045.1	16138	16959	-	MBV4417502.1	nitrogenase iron protein	Clostridium tyrobutyricum	DSM 663	GCA_019144145.1
+38361446	INSDC	JAHHUU010000046.1	10001	10822	-	MBV4423416.1	nitrogenase iron protein	Clostridium tyrobutyricum	Cl_84	GCA_019144025.1
+38361446	INSDC	JAHHUS010000016.1	16140	16961	-	MBV4426107.1	nitrogenase iron protein	Clostridium tyrobutyricum	Cl_171	GCA_019143945.1
+38361446	INSDC	JAHHUZ010000038.1	13794	14615	-	MBV4435711.1	nitrogenase iron protein	Clostridium tyrobutyricum	Cl_29	GCA_019144125.1
+38361446	INSDC	JAHHUR010000017.1	16140	16961	-	MBV4438188.1	nitrogenase iron protein	Clostridium tyrobutyricum	Cl_188	GCA_019143925.1
+38361446	INSDC	JAHHUT010000049.1	16149	16970	-	MBV4441575.1	nitrogenase iron protein	Clostridium tyrobutyricum	Cl_117	GCA_019143985.1
+38361446	INSDC	JAHHUW010000043.1	1492	2313	+	MBV4447753.1	nitrogenase iron protein	Clostridium tyrobutyricum	Cl_80	GCA_019144105.1
+38361446	INSDC	JAHHUV010000053.1	16140	16961	-	MBV4450481.1	nitrogenase iron protein	Clostridium tyrobutyricum	Cl_82	GCA_019144045.1
+38361446	INSDC	JAKVKE010000109.1	5260	6081	-	MCH4201347.1	nitrogenase iron protein	Clostridium tyrobutyricum		GCA_022486645.1
+38361446	INSDC	JAKVJA010000049.1	5259	6080	-	MCH4260382.1	nitrogenase iron protein	Clostridium tyrobutyricum		GCA_022487265.1
+38361446	INSDC	JALCLL010000001.1	2932697	2933518	+	MCI1653587.1	nitrogenase iron protein	Clostridium tyrobutyricum		GCA_022647845.1
+38361446	INSDC	JALCPK010000033.1	3025	3846	+	MCI1938850.1	nitrogenase iron protein	Clostridium tyrobutyricum		GCA_022650365.1
+38361446	INSDC	JALCQP010000038.1	5258	6079	-	MCI1994280.1	nitrogenase iron protein	Clostridium tyrobutyricum		GCA_022651365.1
+38361446	INSDC	JALCQB010000038.1	5259	6080	-	MCI2005934.1	nitrogenase iron protein	Clostridium tyrobutyricum		GCA_022651835.1
+38361446	INSDC	JALCRD010000039.1	5259	6080	-	MCI2011975.1	nitrogenase iron protein	Clostridium tyrobutyricum		GCA_022652215.1
+38361446	INSDC	CP038158.1	2281105	2281926	-	QCH28688.1	Nitrogenase iron protein 1	Clostridium tyrobutyricum	Cirm BIA 2237	GCA_004924375.1
+38361446	INSDC	CP047467.1	2480642	2481463	+	QNB67611.1	nitrogenase iron protein	Clostridium tyrobutyricum	L319	GCA_014170115.1

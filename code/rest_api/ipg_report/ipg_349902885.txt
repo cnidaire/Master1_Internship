@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+349902885	RefSeq	NZ_JACHHK010000001.1	79863	80615	-	WP_183326482.1	nitrogenase iron protein NifH	Catenisphaera adipataccumulans	DSM 25799	GCF_014202755.1
+349902885	INSDC	JACHHK010000001.1	79863	80615	-	MBB5182072.1	nitrogenase iron protein NifH	Catenisphaera adipataccumulans	DSM 25799	GCA_014202755.1

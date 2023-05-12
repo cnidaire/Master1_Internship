@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+73262657	RefSeq	NZ_GL538177.1	26328	27077	-	WP_040773102.1	nitrogenase iron protein NifH	Megasphaera micronuciformis F0359	F0359	GCF_000165735.1

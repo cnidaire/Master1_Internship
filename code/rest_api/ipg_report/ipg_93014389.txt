@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+93014389	RefSeq	NZ_CZBR01000002.1	392969	393736	-	WP_055156814.1	nitrogenase iron protein NifH	[Ruminococcus] torques	2789STDY5608833	GCF_001405415.1
+93014389	INSDC	CZBR01000002.1	392969	393736	-	CUQ69463.1	Nitrogenase iron protein 1	[Ruminococcus] torques	2789STDY5608833	GCA_001405415.1

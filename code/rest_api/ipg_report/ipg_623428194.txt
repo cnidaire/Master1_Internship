@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+623428194	RefSeq	NZ_CAJPUB010000003.1	84602	85354	+	WP_273226647.1	nitrogenase iron protein NifH	Mogibacterium timidum		GCF_905373865.1

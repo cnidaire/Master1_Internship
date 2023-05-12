@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+459807877	INSDC	WQPT01000025.1	65445	66191	-	MBT9792984.1	nitrogen fixation protein NifH	Clostridium sp. MCC334	MCC334	GCA_018785425.1

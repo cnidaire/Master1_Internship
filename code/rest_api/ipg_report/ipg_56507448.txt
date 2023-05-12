@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+56507448	RefSeq	NZ_JHXH01000008.1	82352	83113	-	WP_028505700.1	nitrogenase iron protein NifH	Ruminococcus sp. FC2018	FC2018	GCF_000621805.1

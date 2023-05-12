@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+4641830	RefSeq	NC_007356.1	1333272	1334309	-	WP_011310000.1	nitrogenase subunit NifH	Dehalococcoides mccartyi CBDB1	CBDB1	GCF_000009025.1
+4641830	RefSeq	NC_020386.1	1369666	1370703	-	WP_011310000.1	nitrogenase subunit NifH	Dehalococcoides mccartyi DCMB5	DCMB5	GCF_000341655.1
+4641830	RefSeq	NZ_AP014563.1	1388821	1389858	-	WP_011310000.1	nitrogenase subunit NifH	Dehalococcoides mccartyi IBARAKI	IBARAKI	GCF_001547795.1
+4641830	RefSeq	NZ_CP019968.1	1297670	1298707	-	WP_011310000.1	nitrogenase subunit NifH	Dehalococcoides mccartyi	KBVC1	GCF_002024225.1
+4641830	RefSeq	NZ_JSWM01000006.1	14939	15976	-	WP_011310000.1	nitrogenase subunit NifH	Dehalococcoides mccartyi	JNA	GCF_001515295.1
+4641830	INSDC	AJ965256.1	1333272	1334309	-	CAI83662.1	conserved domain protein	Dehalococcoides mccartyi CBDB1	CBDB1	GCA_000009025.1

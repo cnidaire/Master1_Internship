@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+4835842	RefSeq	NC_007498.2	1856517	1857560	+	WP_011341318.1	Mrp/NBP35 family ATP-binding protein	Syntrophotalea carbinolica DSM 2380	DSM 2380	GCF_000012885.1
+4835842	INSDC	CP000142.2	1856517	1857560	+	ABA88834.1	MRP-like NifH superfamily NTPase	Syntrophotalea carbinolica DSM 2380	DSM 2380	GCA_000012885.1

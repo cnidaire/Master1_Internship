@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+651109310	RefSeq	NZ_CP009286.1	4882147	4883175	-	WP_281176735.1	nitrogenase iron protein NifH	Paenibacillus stellifer	DSM 14472	GCF_000758685.1

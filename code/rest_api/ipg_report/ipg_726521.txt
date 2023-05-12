@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+726521	INSDC	U23645.1	1	327	+	AAA65433.1	NifH	unidentified marine eubacterium		

@@ -1,0 +1,80 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+6889346	INSDC	EF374077.1	1	473	+	ABN47437.1	nitrogenase reductase	Cupriavidus sp. tpud27.2	Tpud27.2	
+6889346	INSDC	EF374078.1	1	473	+	ABN47438.1	nitrogenase reductase	Cupriavidus sp. tpig.6a	Tpig.6a	
+6889346	INSDC	EF374079.1	1	473	+	ABN47439.1	nitrogenase reductase	Cupriavidus sp. mapud8.1	MApud8.1	
+6889346	INSDC	EF374080.1	1	473	+	ABN47440.1	nitrogenase reductase	Cupriavidus sp. mapud3.4	MApud3.4	
+6889346	INSDC	EF374081.1	1	473	+	ABN47441.1	nitrogenase reductase	Cupriavidus sp. mapud10.1	MApud10.1	
+6889346	INSDC	HM145751.1	1	473	+	ADM25228.1	nitrogenase reductase	Cupriavidus sp. tpud28.1	tpud28.1	
+6889346	INSDC	HM145752.1	1	473	+	ADM25229.1	nitrogenase reductase	Cupriavidus sp. mapud4.3	mapud4.3	
+6889346	INSDC	HM145753.1	1	473	+	ADM25230.1	nitrogenase reductase	Cupriavidus sp. mapud3.2	mapud3.2	
+6889346	INSDC	HM145754.1	1	473	+	ADM25231.1	nitrogenase reductase	Cupriavidus sp. tpud23.3	tpud23.3	
+6889346	INSDC	HM145755.1	1	473	+	ADM25232.1	nitrogenase reductase	Cupriavidus sp. mapud10.5	mapud10.5	
+6889346	INSDC	HM145756.1	1	473	+	ADM25233.1	nitrogenase reductase	Cupriavidus sp. tpud17.3	tpud17.3	
+6889346	INSDC	HM145757.1	1	473	+	ADM25234.1	nitrogenase reductase	Cupriavidus sp. tpud31.3	tpud31.3	
+6889346	INSDC	HM145761.1	1	473	+	ADM25238.1	nitrogenase reductase	Cupriavidus sp. ip2.14	ip2.14	
+6889346	INSDC	HM145762.1	1	473	+	ADM25239.1	nitrogenase reductase	Cupriavidus sp. ip2.35	ip2.35	
+6889346	INSDC	HM145763.1	1	473	+	ADM25240.1	nitrogenase reductase	Cupriavidus sp. pp2.22	pp2.22	
+6889346	INSDC	HM145765.1	1	473	+	ADM25242.1	nitrogenase reductase	Cupriavidus sp. mip15	mip15	
+6889346	INSDC	HM145766.1	1	473	+	ADM25243.1	nitrogenase reductase	Cupriavidus sp. ip2.89	ip2.89	
+6889346	INSDC	HM145767.1	1	473	+	ADM25244.1	nitrogenase reductase	Cupriavidus sp. mip2	mip2	
+6889346	INSDC	HM145768.1	1	473	+	ADM25245.1	nitrogenase reductase	Cupriavidus sp. pp2.3	pp2.3	
+6889346	INSDC	HM145769.1	1	473	+	ADM25246.1	nitrogenase reductase	Cupriavidus sp. pp2.43	pp2.43	
+6889346	INSDC	HM145770.1	1	473	+	ADM25247.1	nitrogenase reductase	Cupriavidus sp. pp2.49	pp2.49	
+6889346	INSDC	HM145772.1	1	473	+	ADM25249.1	nitrogenase reductase	Cupriavidus sp. mpp2.10	mpp2.10	
+6889346	INSDC	HM145773.1	1	473	+	ADM25250.1	nitrogenase reductase	Cupriavidus sp. mpp2.18	mpp2.18	
+6889346	INSDC	HM145774.1	1	473	+	ADM25251.1	nitrogenase reductase	Cupriavidus sp. myp8	myp8	
+6889346	INSDC	HM145775.1	1	473	+	ADM25252.1	nitrogenase reductase	Cupriavidus sp. mym10	mym10	
+6889346	INSDC	HM145776.1	1	473	+	ADM25253.1	nitrogenase reductase	Cupriavidus sp. mpp1.16	mpp1.16	
+6889346	INSDC	HM145777.1	1	473	+	ADM25254.1	nitrogenase reductase	Cupriavidus sp. mpp2.1	mpp2.1	
+6889346	INSDC	HM145778.1	1	473	+	ADM25255.1	nitrogenase reductase	Cupriavidus sp. mpp1.13	mpp1.13	
+6889346	INSDC	HM145780.1	1	473	+	ADM25257.1	nitrogenase reductase	Cupriavidus sp. mpp2.26	mpp2.26	
+6889346	INSDC	JQ309862.1	1	473	+	AFD04504.1	NifH	Cupriavidus sp. ip2.47	ip2.47	
+6889346	INSDC	JQ309863.1	1	473	+	AFD04505.1	NifH	Cupriavidus sp. ip2.61	ip2.61	
+6889346	INSDC	JQ309864.1	1	473	+	AFD04506.1	NifH	Cupriavidus sp. ip2.100	ip2.100	
+6889346	INSDC	JQ309865.1	1	473	+	AFD04507.1	NifH	Cupriavidus sp. mip11	mip11	
+6889346	INSDC	JQ309866.1	1	473	+	AFD04508.1	NifH	Cupriavidus sp. mip34	mip34	
+6889346	INSDC	JQ309867.1	1	473	+	AFD04509.1	NifH	Cupriavidus sp. mpl20	mpl20	
+6889346	INSDC	JQ309868.1	1	473	+	AFD04510.1	NifH	Cupriavidus sp. mpl29	mpl29	
+6889346	INSDC	JQ309869.1	1	473	+	AFD04511.1	NifH	Cupriavidus sp. pp2.41	pp2.41	
+6889346	INSDC	JQ309870.1	1	473	+	AFD04512.1	NifH	Cupriavidus sp. pp2.54	pp2.54	
+6889346	INSDC	JQ309871.1	1	473	+	AFD04513.1	NifH	Cupriavidus sp. pp2.90	pp2.90	
+6889346	INSDC	JQ309872.1	1	473	+	AFD04514.1	NifH	Cupriavidus sp. ip2.30	ip2.30	
+6889346	INSDC	JQ309873.1	1	473	+	AFD04515.1	NifH	Cupriavidus sp. pp2.92	pp2.92	
+6889346	INSDC	KP136092.1	1	473	+	AKA29411.1	nitrogenase reductase	Cupriavidus sp. mapud5.1	mapud5.1	
+6889346	INSDC	KP136093.1	1	473	+	AKA29412.1	nitrogenase reductase	Cupriavidus sp. mapud7.4	mapud7.4	
+6889346	INSDC	KP136094.1	1	473	+	AKA29413.1	nitrogenase reductase	Cupriavidus sp. mapud1.3	mapud1.3	
+6889346	INSDC	KP136095.1	1	473	+	AKA29414.1	nitrogenase reductase	Cupriavidus sp. mapud3.1	mapud3.1	
+6889346	INSDC	KP136096.1	1	473	+	AKA29415.1	nitrogenase reductase	Cupriavidus sp. mapud7.6	mapud7.6	
+6889346	INSDC	KP136097.1	1	473	+	AKA29416.1	nitrogenase reductase	Cupriavidus sp. mapud4.5	mapud4.5	
+6889346	INSDC	KP136098.1	1	473	+	AKA29417.1	nitrogenase reductase	Cupriavidus sp. mapud4.4	mapud4.4	
+6889346	INSDC	KP136099.1	1	473	+	AKA29418.1	nitrogenase reductase	Cupriavidus sp. mapud8.2	mapud8.2	
+6889346	INSDC	KP136100.1	1	473	+	AKA29419.1	nitrogenase reductase	Cupriavidus sp. mapud8.4	mapud8.4	
+6889346	INSDC	KP136101.1	1	473	+	AKA29420.1	nitrogenase reductase	Cupriavidus sp. mapud5.4	mapud5.4	
+6889346	INSDC	KP136102.1	1	473	+	AKA29421.1	nitrogenase reductase	Cupriavidus sp. tpud1.7	tpud1.7	
+6889346	INSDC	KP136103.1	1	473	+	AKA29422.1	nitrogenase reductase	Cupriavidus sp. tpud19.4	tpud19.4	
+6889346	INSDC	KP136104.1	1	473	+	AKA29423.1	nitrogenase reductase	Cupriavidus sp. tpud32.2	tpud32.2	
+6889346	INSDC	KP136105.1	1	473	+	AKA29424.1	nitrogenase reductase	Cupriavidus sp. tpud20.2	tpud20.2	
+6889346	INSDC	KP136106.1	1	473	+	AKA29425.1	nitrogenase reductase	Cupriavidus sp. tpud2.4	tpud2.4	
+6889346	INSDC	KP136107.1	1	473	+	AKA29426.1	nitrogenase reductase	Cupriavidus sp. tpud1.6	tpud1.6	
+6889346	INSDC	KP136108.1	1	473	+	AKA29427.1	nitrogenase reductase	Cupriavidus sp. tpig.1a	tpig.1a	
+6889346	INSDC	KP136109.1	1	473	+	AKA29428.1	nitrogenase reductase	Cupriavidus sp. tpud27.2	tpud27.2	
+6889346	INSDC	KP136110.1	1	473	+	AKA29429.1	nitrogenase reductase	Cupriavidus sp. tpud31.5	tpud31.5	
+6889346	INSDC	KP136111.1	1	473	+	AKA29430.1	nitrogenase reductase	Cupriavidus sp. tpud19.2	tpud19.2	
+6889346	INSDC	KP136118.1	1	473	+	AKA29437.1	nitrogenase reductase	Cupriavidus sp. mppg18	mppg18	
+6889346	INSDC	KP136119.1	1	473	+	AKA29438.1	nitrogenase reductase	Cupriavidus sp. mppg6	mppg6	
+6889346	INSDC	KP136122.1	1	473	+	AKA29441.1	nitrogenase reductase	Cupriavidus sp. mppg25	mppg25	
+6889346	INSDC	KP136123.1	1	473	+	AKA29442.1	nitrogenase reductase	Cupriavidus sp. mppg8	mppg8	
+6889346	INSDC	KP136124.1	1	473	+	AKA29443.1	nitrogenase reductase	Cupriavidus sp. mppg35	mppg35	
+6889346	INSDC	KP136125.1	1	473	+	AKA29444.1	nitrogenase reductase	Cupriavidus sp. mpmg1	mpmg1	
+6889346	INSDC	KP136126.1	1	473	+	AKA29445.1	nitrogenase reductase	Cupriavidus sp. mpmg2	mpmg2	
+6889346	INSDC	KP136127.1	1	473	+	AKA29446.1	nitrogenase reductase	Cupriavidus sp. mpmg4	mpmg4	
+6889346	INSDC	KP136128.1	1	473	+	AKA29447.1	nitrogenase reductase	Cupriavidus sp. mppg2	mppg2	
+6889346	INSDC	KP136129.1	1	473	+	AKA29448.1	nitrogenase reductase	Cupriavidus sp. mppg22	mppg22	
+6889346	INSDC	KP136130.1	1	473	+	AKA29449.1	nitrogenase reductase	Cupriavidus sp. mppg30	mppg30	
+6889346	INSDC	KP136131.1	1	473	+	AKA29450.1	nitrogenase reductase	Cupriavidus sp. mpmg5	mpmg5	
+6889346	INSDC	KP136132.1	1	473	+	AKA29451.1	nitrogenase reductase	Cupriavidus sp. mppg11	mppg11	
+6889346	INSDC	KP136133.1	1	473	+	AKA29452.1	nitrogenase reductase	Cupriavidus sp. mppg36	mppg36	
+6889346	INSDC	KP136134.1	1	473	+	AKA29453.1	nitrogenase reductase	Cupriavidus sp. mpj6	mpj6	
+6889346	INSDC	KP136135.1	1	473	+	AKA29454.1	nitrogenase reductase	Cupriavidus sp. mym1	mym1	
+6889346	INSDC	KP136136.1	1	473	+	AKA29455.1	nitrogenase reductase	Cupriavidus sp. mpp2.7	mpp2.7	
+6889346	INSDC	KP136139.1	1	473	+	AKA29458.1	nitrogenase reductase	Cupriavidus sp. mpp2.22	mpp2.22	

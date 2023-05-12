@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+430838270	INSDC	JAGOKR010000063.1	1012	2016	+	MBP7096562.1	nitrogen fixation protein NifH	Spirochaetia bacterium		GCA_017994525.1

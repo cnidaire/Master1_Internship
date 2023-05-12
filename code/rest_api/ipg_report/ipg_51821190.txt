@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+51821190	RefSeq	NZ_ATXD01000011.1	273912	274667	-	WP_024348289.1	nitrogenase iron protein NifH	[Clostridium] methoxybenzovorans SR3	SR3	GCF_000421505.1
+51821190	INSDC	SVDO01000043.1	23993	24748	-	MBE7719703.1	nitrogenase iron protein	Lacrimispora celerecrescens		GCA_015152425.1

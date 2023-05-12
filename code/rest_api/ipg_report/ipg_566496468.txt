@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+566496468	RefSeq	NZ_JANEAB010000002.1	562061	562930	-	WP_254982853.1	nitrogenase iron protein NifH	Rhodopseudomonas palustris	AZUL	GCF_024330085.1
+566496468	INSDC	JANEAB010000002.1	562061	562930	-	MCP9627023.1	nitrogenase iron protein NifH	Rhodopseudomonas palustris	AZUL	GCA_024330085.1

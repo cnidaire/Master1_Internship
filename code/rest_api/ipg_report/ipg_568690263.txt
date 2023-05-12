@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+568690263	INSDC	JANGBJ010000009.1	5758	6519	+	MCQ5054555.1	nitrogenase iron protein NifH	Agathobaculum butyriciproducens	DFI.6.43	GCA_024462395.1

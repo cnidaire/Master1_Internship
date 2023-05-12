@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+74160520	INSDC	CP013074.1	50061	51101	-	APH13144.1	nitrogen fixation protein NifH	Dehalococcoides mccartyi	CG3	GCA_001889305.1

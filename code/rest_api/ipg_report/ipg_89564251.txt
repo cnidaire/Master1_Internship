@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+89564251	INSDC	KP873159.1	1	304	-	AKZ32429.1	NifH	Azospirillum brasilense	40M	

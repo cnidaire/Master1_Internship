@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+497706580	RefSeq	NZ_JAJCJN010000003.1	189858	190619	+	WP_227097306.1	nitrogenase iron protein NifH	Dorea longicatena	DFI.7.43A	GCF_020557535.1
+497706580	RefSeq	NZ_JAKNGV010000003.1	34768	35529	-	WP_227097306.1	nitrogenase iron protein NifH	Dorea longicatena	DFI.7.1	GCF_022135485.1
+497706580	INSDC	JAJCJN010000003.1	189858	190619	+	MCB6953583.1	nitrogenase iron protein NifH	Dorea longicatena	DFI.7.43A	GCA_020557535.1
+497706580	INSDC	JAKNGV010000003.1	34768	35529	-	MCG4677192.1	nitrogenase iron protein NifH	Dorea longicatena	DFI.7.1	GCA_022135485.1

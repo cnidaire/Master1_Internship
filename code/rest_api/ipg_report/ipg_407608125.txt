@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+407608125	RefSeq	NZ_JAEAMO010000019.1	55487	56254	+	WP_273236390.1	nitrogenase iron protein NifH	Mobilibacterium timonense		GCF_016901405.1
+407608125	INSDC	JAEAMO010000019.1	55487	56254	+	MBM6990650.1	P-loop NTPase	Mobilibacterium timonense		GCA_016901405.1

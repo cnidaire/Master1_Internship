@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+6763686	INSDC	EF213656.1	1	590	+	ABN10519.1	NifH	Mesorhizobium sp. WSM3866	WSM3866	

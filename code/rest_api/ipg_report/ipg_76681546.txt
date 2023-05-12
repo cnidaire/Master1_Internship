@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+76681546	RefSeq	NZ_AP014704.1	341260	342153	+	WP_060845451.1	ferredoxin:protochlorophyllide reductase (ATP-dependent) iron-sulfur ATP-binding protein	Methylobacterium aquaticum	MA-22A	GCF_001548015.1
+76681546	RefSeq	NZ_CP029553.1	1117350	1118243	+	WP_060845451.1	ferredoxin:protochlorophyllide reductase (ATP-dependent) iron-sulfur ATP-binding protein	Methylobacterium terrae	17Sr1-28	GCF_003173755.1
+76681546	INSDC	CP029553.1	1117350	1118243	+	AWN45759.1	ferredoxin:protochlorophyllide reductase (ATP-dependent) iron-sulfur ATP-binding protein	Methylobacterium terrae	17Sr1-28	GCA_003173755.1
+76681546	INSDC	AP014704.1	341260	342153	+	BAQ43835.1	protochlorophyllide oxidoreductase	Methylobacterium aquaticum	MA-22A	GCA_001548015.1
+76681546	INSDC	AB935113.1	1	894	+	BAX51327.1	bacteriochlorophyllide reductase iron protein subunit BchX	Methylobacterium aquaticum	22A	
+76681546	INSDC	AB598549.1	1	894	+	BCB67573.1	Nitrogenase subunit NifH, ATPase	Methylobacterium aquaticum	22A	

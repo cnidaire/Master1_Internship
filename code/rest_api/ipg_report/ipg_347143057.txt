@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+347143057	RefSeq	NZ_AP023367.1	2888180	2889001	-	WP_184089132.1	nitrogenase iron protein	Anaerocolumna cellulosilytica	SN021	GCF_014218335.1
+347143057	RefSeq	NZ_JACHHS010000001.1	328673	329494	+	WP_184089132.1	nitrogenase iron protein	Anaerocolumna cellulosilytica	DSM 100423	GCF_014202875.1
+347143057	INSDC	AP023367.1	2888180	2889001	-	BCJ94793.1	nitrogenase iron protein	Anaerocolumna cellulosilytica	SN021	GCA_014218335.1
+347143057	INSDC	JACHHS010000001.1	328673	329494	+	MBB5193993.1	nitrogenase iron protein NifH	Anaerocolumna cellulosilytica	DSM 100423	GCA_014202875.1

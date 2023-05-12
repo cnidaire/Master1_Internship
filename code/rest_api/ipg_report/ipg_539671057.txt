@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+539671057	RefSeq	NZ_JADMVE010000001.1	522240	523097	+	WP_243259393.1	nitrogenase iron protein NifH	Eubacterium sp. 1001713B170207_170306_E7	1001713B170207_170306_E7	GCF_015547515.1

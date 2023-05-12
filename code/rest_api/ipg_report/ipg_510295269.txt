@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+510295269	INSDC	JAJPWZ010000077.1	1003	1758	+	MCD8391975.1	nitrogenase iron protein NifH	Cloacibacillus porcorum		GCA_021205775.1

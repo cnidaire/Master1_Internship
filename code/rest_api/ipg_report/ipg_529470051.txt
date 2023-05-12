@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+529470051	INSDC	JAKVLB010000005.1	81550	82305	+	MCH4154127.1	nitrogenase iron protein NifH	Mageeibacillus sp.		GCA_022484595.1
+529470051	INSDC	JALCDM010000016.1	14500	15255	-	MCI1264560.1	nitrogenase iron protein NifH	Saccharofermentans sp.		GCA_022641505.1
+529470051	INSDC	JALCDP010000020.1	7359	8114	-	MCI1275216.1	nitrogenase iron protein NifH	Saccharofermentans sp.		GCA_022641675.1

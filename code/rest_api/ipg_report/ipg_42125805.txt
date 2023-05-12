@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+42125805	INSDC	CBKP010000006.1	33631	34428	+	CDF28309.1	nitrogenase NifH subunit NifH	Methanobrevibacter smithii CAG:186		GCA_000437055.1
+42125805	INSDC	FR903828.1	34839	35636	+	CDF28309.1	nitrogenase NifH subunit NifH	Methanobrevibacter smithii CAG:186		GCA_000437055.1

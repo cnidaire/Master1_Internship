@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+463262050	RefSeq	NZ_JAHLPP010000001.1	709244	709999	-	WP_216570563.1	nitrogenase iron protein NifH	Pseudoflavonifractor sp. MSJ-37	MSJ-37	GCF_018917965.1
+463262050	INSDC	JAHLPP010000001.1	709244	709999	-	MBU5434624.1	AAA family ATPase	Pseudoflavonifractor sp. MSJ-37	MSJ-37	GCA_018917965.1

@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+60522591	RefSeq	NZ_JPNB01000001.1	590988	591845	+	WP_031389315.1	nitrogenase iron protein	Kineothrix alysoides	KNHs209	GCF_000732725.1
+60522591	RefSeq	NZ_SLUO01000012.1	38660	39517	-	WP_031389315.1	nitrogenase iron protein	Kineothrix alysoides	DSM 100556	GCF_004345255.1
+60522591	INSDC	SLUO01000012.1	38660	39517	-	TCL56209.1	Mo-nitrogenase iron protein subunit NifH	Kineothrix alysoides	DSM 100556	GCA_004345255.1

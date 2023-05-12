@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+3607909	INSDC	AY603652.1	1	580	+	AAU00812.1	NifH	Frankia alni ACN14a	ACN14a	

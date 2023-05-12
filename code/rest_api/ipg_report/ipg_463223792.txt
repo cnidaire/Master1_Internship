@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+463223792	RefSeq	NZ_JAHLOF010000003.1	323071	323829	-	WP_216467044.1	nitrogenase iron protein NifH	Clostridioides mangenotii	N8	GCF_018917235.1
+463223792	RefSeq	NZ_JANJZX010000001.1	11264	12022	-	WP_216467044.1	nitrogenase iron protein NifH	Clostridioides mangenotii	DSM 29133	GCF_024622925.1
+463223792	INSDC	JAHLOF010000003.1	323071	323829	-	MBU5307508.1	AAA family ATPase	Clostridioides mangenotii	N8	GCA_018917235.1
+463223792	INSDC	JANJZX010000001.1	11264	12022	-	MCR1953220.1	nitrogenase iron protein NifH	Clostridioides mangenotii	DSM 29133	GCA_024622925.1

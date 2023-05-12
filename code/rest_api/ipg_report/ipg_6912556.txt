@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+6912556	RefSeq	NC_009051.1	1931913	1932731	+	WP_011844772.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanoculleus marisnigri JR1	JR1	GCF_000015825.1
+6912556	RefSeq	NZ_CP109831.1	788018	788836	+	WP_011844772.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanoculleus submarinus	DSM 15122	GCF_025914035.1
+6912556	Swiss-Prot	N/A				A3CWW3.1	Nitrogenase iron protein	Methanoculleus marisnigri JR1		
+6912556	INSDC	CP000562.1	1931913	1932731	+	ABN57863.1	Mo-nitrogenase iron protein subunit NifH	Methanoculleus marisnigri JR1	JR1	GCA_000015825.1
+6912556	INSDC	JAHKLM010000080.1	8044	8862	+	MCC7556719.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanoculleus marisnigri		GCA_020855035.1
+6912556	INSDC	CP109831.1	788018	788836	+	UYU19249.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanoculleus submarinus	DSM 15122	GCA_025914035.1

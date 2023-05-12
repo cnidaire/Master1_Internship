@@ -1,0 +1,9 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+80127487	RefSeq	NZ_BBEF01000099.1	3669	4043	-	WP_052712910.1	AAA family ATPase	Methanosarcina barkeri JCM 10043	JCM 10043	GCF_001316305.1
+80127487	RefSeq	NZ_CP008746.1	3626027	3626401	+	WP_052712910.1	AAA family ATPase	Methanosarcina barkeri CM1	CM1	GCF_001027005.1
+80127487	RefSeq	NZ_CP009528.1	3635847	3636221	+	WP_052712910.1	AAA family ATPase	Methanosarcina barkeri MS	MS	GCF_000970025.1
+80127487	RefSeq	NZ_CP009530.1	3553781	3554155	+	WP_052712910.1	AAA family ATPase	Methanosarcina barkeri 227	227	GCF_000970065.1
+80127487	RefSeq	NZ_LZPK01000036.1	12725	13099	+	WP_052712910.1	AAA family ATPase	Methanosarcina sp. A14	A14	GCF_001729375.1
+80127487	INSDC	CP009530.1	3553781	3554155	+	AKB59245.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Methanosarcina barkeri 227	227	GCA_000970065.1
+80127487	INSDC	CP008746.1	3626027	3626401	+	AKJ39905.1	4Fe-4S iron sulfur cluster binding proteins NifH/frxC family	Methanosarcina barkeri CM1	CM1	GCA_001027005.1
+80127487	INSDC	LZPK01000036.1	12725	13099	+	OED09855.1	hypothetical protein	Methanosarcina sp. A14	A14	GCA_001729375.1

@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+375119892	RefSeq	NZ_CP084007.1	117568	118365	-	WP_195446140.1	nitrogenase iron protein NifH	Flavonifractor plautii	NBRC 113805	GCF_020181555.1
+375119892	INSDC	JAJBOD010000008.1	27122	27919	-	MCB5582297.1	nitrogenase iron protein NifH	Flavonifractor plautii	MSK.9.16	GCA_020538305.1
+375119892	INSDC	CP084007.1	117568	118365	-	UBS61449.1	nitrogenase iron protein NifH	Flavonifractor plautii	NBRC 113805	GCA_020181555.1

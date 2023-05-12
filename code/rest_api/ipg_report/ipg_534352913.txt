@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+534352913	INSDC	JALCSB010000010.1	26436	27197	-	MCI2106373.1	nitrogenase iron protein NifH	Intestinimonas sp.		GCA_022653075.1

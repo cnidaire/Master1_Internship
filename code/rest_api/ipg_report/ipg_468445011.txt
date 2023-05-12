@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+468445011	RefSeq	NZ_JAHHUW010000009.1	61121	61993	-	WP_217815054.1	nitrogenase iron protein NifH	Clostridium tyrobutyricum	Cl_80	GCF_019144105.1
+468445011	INSDC	JAHHUW010000009.1	61121	61993	-	MBV4446300.1	AAA family ATPase	Clostridium tyrobutyricum	Cl_80	GCA_019144105.1

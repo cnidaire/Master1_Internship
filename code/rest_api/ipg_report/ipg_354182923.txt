@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+354182923	RefSeq	NZ_JACSET010000009.1	55324	56106	+	WP_187385259.1	nitrogenase iron protein NifH	Treponema sp. Marseille-Q4130	Marseille-Q4130	GCF_014334325.1
+354182923	RefSeq	NZ_JAFEVM010000024.1	43285	44067	-	WP_187385259.1	nitrogenase iron protein NifH	Treponema sp. Marseille-Q4523	Marseille-Q4523	GCF_016901105.1
+354182923	INSDC	JACSET010000009.1	55324	56106	+	MBC6720879.1	P-loop NTPase	Treponema sp. Marseille-Q4130	Marseille-Q4130	GCA_014334325.1
+354182923	INSDC	JAFEVM010000024.1	43285	44067	-	MBM7023493.1	P-loop NTPase	Treponema sp. Marseille-Q4523	Marseille-Q4523	GCA_016901105.1

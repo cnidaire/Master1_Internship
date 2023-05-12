@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+84093834	RefSeq	NZ_CP009517.1	1185954	1186868	+	WP_048110059.1	nitrogenase iron protein NifH	Methanosarcina barkeri 3	3	GCF_000970305.1

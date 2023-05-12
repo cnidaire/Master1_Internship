@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+4179672	INSDC	AY768417.1	1	348	+	AAX82506.1	NifH	Kamptonema sp. PCC 6506	PCC 6506	

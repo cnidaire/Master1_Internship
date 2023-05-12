@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+529473725	INSDC	JAKVOS010000012.1	26351	27148	+	MCH3978536.1	nitrogenase iron protein NifH	Candidatus Methanomethylophilus sp.		GCA_022482685.1
+529473725	INSDC	JALCSC010000008.1	20666	21463	+	MCI2075654.1	nitrogenase iron protein NifH	Candidatus Methanomethylophilus sp.		GCA_022653015.1
+529473725	INSDC	JALCSP010000003.1	23622	24419	-	MCI2093138.1	nitrogenase iron protein NifH	Candidatus Methanomethylophilus sp.		GCA_022653515.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+565817120	INSDC	JAAETQ010000712.1	220	1260	+	MCP4994173.1	nitrogen fixation protein NifH	Gammaproteobacteria bacterium		GCA_024228195.1

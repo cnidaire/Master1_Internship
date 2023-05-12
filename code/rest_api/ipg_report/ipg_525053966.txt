@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+525053966	INSDC	JAJNAL010000002.1	138653	139525	+	MCG6203469.1	nitrogenase iron protein NifH	Rhodopseudomonas infernalis	HC1	GCA_022271405.1

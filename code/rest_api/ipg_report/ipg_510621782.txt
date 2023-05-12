@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+510621782	INSDC	JAJQDM010000363.1	2516	3208	-	MCD8023026.1	nitrogenase iron protein NifH	Lachnospiraceae bacterium		GCA_021202195.1

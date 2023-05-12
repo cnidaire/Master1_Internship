@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+4179669	INSDC	AY768425.1	1	303	+	AAX82513.1	NifH	Oscillatoria sp. CCAP 1459/26	CCAP 1459/26	

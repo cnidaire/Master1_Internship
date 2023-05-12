@@ -1,0 +1,9 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+4854056	RefSeq	NC_007778.1	1115228	1116127	+	WP_011439868.1	nitrogenase iron protein	Rhodopseudomonas palustris HaA2	HaA2	GCF_000013365.1
+4854056	RefSeq	NZ_FODT01000002.1	90765	91664	+	WP_011439868.1	nitrogenase iron protein	Rhodopseudomonas pseudopalustris	DSM 123	GCF_900110435.1
+4854056	Swiss-Prot	N/A				Q13C78.1	Nitrogenase iron protein	Rhodopseudomonas palustris BisB5		
+4854056	Swiss-Prot	N/A				Q2J1I1.1	Nitrogenase iron protein	Rhodopseudomonas palustris HaA2		
+4854056	INSDC	CP000250.1	1115228	1116127	+	ABD05679.1	nitrogenase iron protein subunit NifH	Rhodopseudomonas palustris HaA2	HaA2	GCA_000013365.1
+4854056	INSDC	CP000283.1	1224040	1224939	+	ABE38311.1	nitrogenase iron protein subunit NifH	Rhodopseudomonas palustris BisB5	BisB5	GCA_000013685.1
+4854056	INSDC	JABVZT010000083.1	13906	14805	+	MBB1093091.1	nitrogenase iron protein	Rhodopseudomonas palustris	4810	GCA_014145305.1
+4854056	INSDC	FODT01000002.1	90765	91664	+	SEO28277.1	Mo-nitrogenase iron protein subunit NifH	Rhodopseudomonas pseudopalustris	DSM 123	GCA_900110435.1

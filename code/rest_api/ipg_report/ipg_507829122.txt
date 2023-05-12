@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+507829122	INSDC	CAKASQ030000026.1	5105	5869	-	CAH0538192.1	Nitrogenase subunit NifH paralog, type 2	Oscillospiraceae bacterium		GCA_916988195.3

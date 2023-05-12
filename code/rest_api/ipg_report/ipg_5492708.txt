@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+5492708	INSDC	DQ407287.1	1	430	+	ABD91512.1	NifH	Mesorhizobium tianshanense	RCAN03	
+5492708	INSDC	DQ407288.1	1	430	+	ABD91513.1	NifH	Mesorhizobium tianshanense	RCAN08	

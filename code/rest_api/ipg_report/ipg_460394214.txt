@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+460394214	INSDC	JAHISX010000049.1	486	1343	+	MBU1093950.1	nitrogen fixation protein NifH	Bacillota bacterium		GCA_018817915.1

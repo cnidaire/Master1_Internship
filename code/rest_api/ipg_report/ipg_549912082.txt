@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+549912082	INSDC	JALPWX010000032.1	2838	3596	-	MCL0070710.1	nitrogenase iron protein NifH	Dehalococcoidia bacterium		GCA_023271885.1

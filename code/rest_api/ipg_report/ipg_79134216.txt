@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+79134216	RefSeq	NZ_BAZW01000003.1	136813	137637	-	WP_062122350.1	nitrogenase iron protein	Geofilum rubicundum JCM 15548	JCM 15548	GCF_000974365.1
+79134216	INSDC	BAZW01000003.1	136813	137637	-	GAO28559.1	nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Geofilum rubicundum JCM 15548	JCM 15548	GCA_000974365.1

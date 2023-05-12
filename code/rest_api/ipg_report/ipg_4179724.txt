@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+4179724	INSDC	AY768424.1	1	408	+	AAX82512.1	NifH	Nodularia harveyana CCAP 1452/1	CCAP 1452/1	

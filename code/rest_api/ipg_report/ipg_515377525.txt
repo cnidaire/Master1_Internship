@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+515377525	INSDC	QWHD01000042.1	6634	7656	+	MCE7858991.1	nitrogen fixation protein NifH	Chloroflexi bacterium CFX2		GCA_021404705.1

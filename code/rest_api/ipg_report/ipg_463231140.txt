@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+463231140	RefSeq	NZ_JAHLOQ010000024.1	24123	24977	+	WP_216570039.1	nitrogenase iron protein NifH	Intestinibacter bartlettii	N19	GCF_018917435.1
+463231140	INSDC	JAHLOQ010000024.1	24123	24977	+	MBU5336622.1	AAA family ATPase	Intestinibacter bartlettii	N19	GCA_018917435.1

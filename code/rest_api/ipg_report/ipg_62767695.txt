@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+62767695	INSDC	BBMQ01000186.1	24608	25207	-	GAL13655.1	nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Vibrio sp. C7	JCM 19233	GCA_000755365.1

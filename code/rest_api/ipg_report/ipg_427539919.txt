@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+427539919	RefSeq	NZ_JAGIOR010000001.1	1742429	1743316	+	WP_209882314.1	nitrogenase iron protein	Rhizobium leguminosarum	USDA 7018	GCF_017876795.1
+427539919	INSDC	JAGIOR010000001.1	1742429	1743316	+	MBP2444273.1	nitrogenase iron protein NifH	Rhizobium leguminosarum	USDA 7018	GCA_017876795.1

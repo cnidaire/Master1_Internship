@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+624053599	INSDC	ON565454.1	1	346	+	WDE32943.1	nifH	Cylindrospermopsis curvispora GIHE-G2	GIHE-G2	

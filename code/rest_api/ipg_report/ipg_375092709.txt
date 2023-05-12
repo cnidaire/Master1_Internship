@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+375092709	RefSeq	NZ_JADMXC010000005.1	257514	258269	+	WP_195415614.1	nitrogenase iron protein NifH	Enterocloster citroniae	J1101437_171009_D5	GCF_015548445.1
+375092709	INSDC	JAJPZI010000023.1	15285	16040	-	MCD8276547.1	nitrogenase iron protein NifH	Enterocloster citroniae		GCA_021204485.1

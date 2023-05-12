@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+82181916	RefSeq	NZ_LBBT01000292.1	12609	13352	-	WP_046823906.1	nitrogenase iron protein NifH	Paraclostridium benzoelyticum	JC272	GCF_001006285.1
+82181916	INSDC	LBBT01000292.1	12609	13352	-	KKY00364.1	nitrogenase iron protein	Paraclostridium benzoelyticum	JC272	GCA_001006285.1

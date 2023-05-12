@@ -1,0 +1,6 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+36559445	RefSeq	NC_021353.1	1706506	1707285	-	WP_020449539.1	nitrogenase iron protein NifH	Candidatus Methanomassiliicoccus intestinalis Issoire-Mx1	Issoire-Mx1	GCF_000404225.1
+36559445	RefSeq	NZ_LR698974.1	1706506	1707285	-	WP_020449539.1	nitrogenase iron protein NifH	Candidatus Methanomassiliicoccus intestinalis		GCF_902383905.1
+36559445	INSDC	CP005934.1	1706506	1707285	-	AGN27014.1	nitrogenase iron protein subunit NifH	Candidatus Methanomassiliicoccus intestinalis Issoire-Mx1	Issoire-Mx1	GCA_000404225.1
+36559445	INSDC	LVVS01000026.1	113426	114205	+	TQS81007.1	nitrogenase iron protein	Candidatus Methanomassiliicoccus intestinalis		GCA_006954445.1
+36559445	INSDC	LVVT01000007.1	100952	101731	+	TQS84001.1	nitrogenase iron protein	Candidatus Methanomassiliicoccus intestinalis		GCA_006954475.1

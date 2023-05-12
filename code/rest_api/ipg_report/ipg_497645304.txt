@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+497645304	RefSeq	NZ_JANKAP010000006.1	180800	181597	-	WP_227126881.1	nitrogenase iron protein NifH	Flavonifractor plautii	DSM 29137	GCF_024622525.1
+497645304	INSDC	JAJCGY010000001.1	157637	158434	+	MCB7039680.1	nitrogenase iron protein NifH	Flavonifractor plautii	SL.3.15	GCA_020554195.1
+497645304	INSDC	JAKNGX010000075.1	14797	15594	+	MCG4658104.1	nitrogenase iron protein NifH	Flavonifractor plautii	DFI.7.18	GCA_022135345.1
+497645304	INSDC	JANKAP010000006.1	180800	181597	-	MCR1908716.1	nitrogenase iron protein NifH	Flavonifractor plautii	DSM 29137	GCA_024622525.1

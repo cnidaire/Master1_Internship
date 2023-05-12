@@ -1,0 +1,16 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+44852562	RefSeq	NC_022592.1	393369	394139	-	WP_023161797.1	nitrogenase iron protein NifH	Clostridium autoethanogenum DSM 10061	DSM 10061	GCF_000484505.2
+44852562	RefSeq	NZ_ASZX01000004.1	102985	103755	-	WP_023161797.1	nitrogenase iron protein NifH	Clostridium autoethanogenum DSM 10061	DSM 10061	GCF_000427255.1
+44852562	RefSeq	NZ_CP012395.1	393402	394172	-	WP_023161797.1	nitrogenase iron protein NifH	Clostridium autoethanogenum DSM 10061	DSM 10061	GCF_001484725.1
+44852562	RefSeq	NZ_CP020473.1	338974	339744	-	WP_023161797.1	nitrogenase iron protein NifH	Clostridium sp. 001	001	GCF_019056555.1
+44852562	RefSeq	NZ_LITQ01000027.1	12194	12964	+	WP_023161797.1	nitrogenase iron protein NifH	Clostridium coskatii	PS02	GCF_001636835.1
+44852562	RefSeq	NZ_LITR01000003.1	301485	302255	-	WP_023161797.1	nitrogenase iron protein NifH	Clostridium autoethanogenum	JA1-1	GCF_002189005.1
+44852562	RefSeq	NZ_LROR01000089.1	12193	12963	+	WP_023161797.1	nitrogenase iron protein NifH	Clostridium coskatii	PTA-10522	GCF_001675205.1
+44852562	RefSeq	NZ_RFAQ01000015.1	50128	50898	+	WP_023161797.1	nitrogenase iron protein NifH	Clostridium autoethanogenum	H21-9	GCF_003693285.1
+44852562	INSDC	CP006763.1	393369	394139	-	AGY74597.1	nitrogenase iron protein NifH	Clostridium autoethanogenum DSM 10061	DSM 10061	GCA_000484505.2
+44852562	INSDC	CP012395.1	393402	394172	-	ALU34782.1	Nitrogenase component 2 (ATPase)	Clostridium autoethanogenum DSM 10061	DSM 10061	GCA_001484725.1
+44852562	INSDC	LITQ01000027.1	12194	12964	+	OAA91120.1	Nitrogenase iron protein 1	Clostridium coskatii	PS02	GCA_001636835.1
+44852562	INSDC	LROR01000089.1	12193	12963	+	OBR90547.1	nitrogenase iron protein 1	Clostridium coskatii	PTA-10522	GCA_001675205.1
+44852562	INSDC	LITR01000003.1	301485	302255	-	OVY51501.1	Nitrogenase iron protein 1	Clostridium autoethanogenum	JA1-1	GCA_002189005.1
+44852562	INSDC	CP020473.1	338974	339744	-	QXE17624.1	nitrogenase iron protein	Clostridium sp. 001	001	GCA_019056555.1
+44852562	INSDC	RFAQ01000015.1	50128	50898	+	RMD02191.1	nitrogenase iron protein	Clostridium autoethanogenum	H21-9	GCA_003693285.1

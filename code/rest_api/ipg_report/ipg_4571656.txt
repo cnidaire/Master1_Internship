@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+4571656	RefSeq	NC_008346.1	483213	483977	-	WP_011639854.1	nitrogenase iron protein NifH	Syntrophomonas wolfei subsp. wolfei str. Goettingen G311	Goettingen	GCF_000014725.1
+4571656	INSDC	CP000448.1	483213	483977	-	ABI67746.1	nitrogenase iron protein subunit NifH	Syntrophomonas wolfei subsp. wolfei str. Goettingen G311	Goettingen G311	GCA_000014725.1

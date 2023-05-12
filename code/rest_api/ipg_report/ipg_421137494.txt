@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+421137494	INSDC	CAJPFK010000001.1	150479	151354	+	CAG0950794.1	nitrogenase iron protein NifH	Methylophilaceae bacterium		GCA_905339275.1

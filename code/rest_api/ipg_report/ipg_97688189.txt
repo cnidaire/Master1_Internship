@@ -1,0 +1,15 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+97688189	RefSeq	NZ_FMZW01000018.1	32973	33857	-	WP_057018216.1	nitrogenase iron protein	Bradyrhizobium brasilense	R5	GCF_900101405.1
+97688189	RefSeq	NZ_JAGKJL010000082.1	5387	6271	+	WP_057018216.1	nitrogenase iron protein	Bradyrhizobium australafricanum	WSM 4400	GCF_020329495.1
+97688189	RefSeq	NZ_JALJZE010000001.1	2167321	2168205	-	WP_057018216.1	nitrogenase iron protein	Bradyrhizobium sp. USDA 4538	USDA 4538	GCF_024171045.1
+97688189	RefSeq	NZ_JALJZK010000001.1	2565295	2566179	-	WP_057018216.1	nitrogenase iron protein	Bradyrhizobium elkanii	USDA 33	GCF_024171245.1
+97688189	RefSeq	NZ_JALJZO010000001.1	1280004	1280888	-	WP_057018216.1	nitrogenase iron protein	Bradyrhizobium sp. USDA 4537	USDA 4537	GCF_024171345.1
+97688189	RefSeq	NZ_JALJZP010000002.1	506244	507128	+	WP_057018216.1	nitrogenase iron protein	Bradyrhizobium sp. USDA 4539	USDA 4539	GCF_024171385.1
+97688189	RefSeq	NZ_LJYE01000081.1	29175	30059	+	WP_057018216.1	nitrogenase iron protein	Bradyrhizobium pachyrhizi	BR3262	GCF_001440015.1
+97688189	RefSeq	NZ_LWUI01000018.1	29480	30364	+	WP_057018216.1	nitrogenase iron protein	Bradyrhizobium elkanii	BLY3-8	GCF_001718205.1
+97688189	RefSeq	NZ_LXEM01000018.1	11046	11930	-	WP_057018216.1	nitrogenase iron protein	Bradyrhizobium elkanii	BLY6-1	GCF_001718185.1
+97688189	INSDC	LJYE01000081.1	29175	30059	+	KRP97654.1	nitrogenase reductase	Bradyrhizobium pachyrhizi	BR3262	GCA_001440015.1
+97688189	INSDC	JAGKJL010000082.1	5387	6271	+	MCA6104621.1	nitrogenase iron protein	Bradyrhizobium australafricanum	WSM 4400	GCA_020329495.1
+97688189	INSDC	LXEM01000018.1	11046	11930	-	ODM78910.1	nitrogenase reductase	Bradyrhizobium elkanii	BLY6-1	GCA_001718185.1
+97688189	INSDC	LWUI01000018.1	29480	30364	+	ODM78991.1	nitrogenase reductase	Bradyrhizobium elkanii	BLY3-8	GCA_001718205.1
+97688189	INSDC	FMZW01000018.1	32973	33857	-	SDD99890.1	Mo-nitrogenase iron protein subunit NifH	Bradyrhizobium brasilense	R5	GCA_900101405.1

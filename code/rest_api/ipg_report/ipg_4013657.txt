@@ -1,0 +1,26 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+4013657	RefSeq	NC_002936.3	1059782	1060606	-	WP_010936850.1	nitrogenase iron protein	Dehalococcoides mccartyi 195	195	GCF_000011905.1
+4013657	RefSeq	NZ_AP017649.1	931880	932704	-	WP_010936850.1	nitrogenase iron protein	Dehalococcoides mccartyi	UCH-ATV1	GCF_002356375.1
+4013657	RefSeq	NZ_CP006950.1	967892	968716	-	WP_010936850.1	nitrogenase iron protein	Dehalococcoides mccartyi CG4	CG4	GCF_000830905.1
+4013657	RefSeq	NZ_CP019865.1	975933	976757	-	WP_010936850.1	nitrogenase iron protein	Dehalococcoides mccartyi	KBTCE2	GCF_002007825.1
+4013657	RefSeq	NZ_CP019866.1	918340	919164	-	WP_010936850.1	nitrogenase iron protein	Dehalococcoides mccartyi	KBTCE3	GCF_002007905.1
+4013657	RefSeq	NZ_DICU01000002.1	74385	75209	-	WP_010936850.1	nitrogenase iron protein	Dehalococcoides mccartyi		GCF_002417785.1
+4013657	RefSeq	NZ_JADIIK010000013.1	69965	70789	+	WP_010936850.1	nitrogenase iron protein	Dehalococcoides mccartyi		GCF_015351675.1
+4013657	RefSeq	NZ_JAEMVJ010000017.1	69964	70788	+	WP_010936850.1	nitrogenase iron protein	Dehalococcoides mccartyi		GCF_016463945.1
+4013657	RefSeq	NZ_JAJFUO010000008.1	255514	256338	+	WP_010936850.1	nitrogenase iron protein	Dehalococcoides mccartyi		GCF_021732865.1
+4013657	RefSeq	NZ_JGYD01000025.1	67993	68817	+	WP_010936850.1	nitrogenase iron protein	Dehalococcoides mccartyi	MB	GCF_001459095.1
+4013657	RefSeq	NZ_LZFJ01000001.1	233236	234060	+	WP_010936850.1	nitrogenase iron protein	Dehalococcoides mccartyi		GCF_001678055.1
+4013657	RefSeq	NZ_PQVQ01000011.1	3257	4081	-	WP_010936850.1	nitrogenase iron protein	Dehalococcoides mccartyi	GEO	GCF_002924525.1
+4013657	Swiss-Prot	N/A				Q3Z7C7.1	Nitrogenase iron protein	Dehalococcoides mccartyi 195		
+4013657	INSDC	CP000027.1	1059782	1060606	-	AAW39625.1	nitrogenase iron protein	Dehalococcoides mccartyi 195	195	GCA_000011905.1
+4013657	INSDC	CP006950.1	967892	968716	-	AII59718.1	nitrogenase reductase	Dehalococcoides mccartyi CG4	CG4	GCA_000830905.1
+4013657	INSDC	CP019865.1	975933	976757	-	AQU03419.1	nitrogenase iron protein	Dehalococcoides mccartyi	KBTCE2	GCA_002007825.1
+4013657	INSDC	CP019866.1	918340	919164	-	AQU04717.1	nitrogenase iron protein	Dehalococcoides mccartyi	KBTCE3	GCA_002007905.1
+4013657	INSDC	AP017649.1	931880	932704	-	BAZ97583.1	nitrogenase iron protein	Dehalococcoides mccartyi	UCH-ATV1	GCA_002356375.1
+4013657	INSDC	JGYD01000025.1	67993	68817	+	KSV17156.1	nitrogenase reductase	Dehalococcoides mccartyi	MB	GCA_001459095.1
+4013657	INSDC	JADIIK010000013.1	69965	70789	+	MBF4482226.1	nitrogenase iron protein	Dehalococcoides mccartyi		GCA_015351675.1
+4013657	INSDC	JAEMVJ010000017.1	69964	70788	+	MBJ7531804.1	nitrogenase iron protein	Dehalococcoides mccartyi		GCA_016463945.1
+4013657	INSDC	JAJFUO010000008.1	255514	256338	+	MCF7635894.1	nitrogenase iron protein	Dehalococcoides mccartyi		GCA_021732865.1
+4013657	INSDC	VSSQ01000026.1	99755	100579	-	MPL64815.1	Nitrogenase iron protein 1	bioreactor metagenome		GCA_008761695.1
+4013657	INSDC	LZFJ01000001.1	233236	234060	+	OBW61655.1	nitrogenase iron protein	Dehalococcoides mccartyi		GCA_001678055.1
+4013657	INSDC	PQVQ01000011.1	3257	4081	-	POZ59410.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Dehalococcoides mccartyi	GEO	GCA_002924525.1

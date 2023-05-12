@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+549880999	INSDC	JAHHGN010000134.1	1776	2681	-	MCK9988916.1	nitrogenase iron protein NifH	Azoarcus sp.		GCA_023252295.1

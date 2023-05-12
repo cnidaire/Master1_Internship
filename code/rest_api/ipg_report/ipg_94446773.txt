@@ -1,0 +1,15 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+94446773	RefSeq	NZ_CP061202.1	603116	604003	-	WP_055209654.1	nitrogenase iron protein	Rhodobacter capsulatus	A12	GCF_014622665.1
+94446773	RefSeq	NZ_CP119563.1	604642	605529	-	WP_055209654.1	nitrogenase iron protein	Rhodobacter capsulatus	37b4	GCF_029277405.1
+94446773	RefSeq	NZ_FNAY01000004.1	6074	6961	-	WP_055209654.1	nitrogenase iron protein	Rhodobacter capsulatus	DSM 938	GCF_900102155.1
+94446773	RefSeq	NZ_LLVU01000007.1	5778	6665	-	WP_055209654.1	nitrogenase iron protein	Rhodobacter capsulatus	B41	GCF_001402715.1
+94446773	RefSeq	NZ_LLVV01000005.1	180122	181009	+	WP_055209654.1	nitrogenase iron protein	Rhodobacter capsulatus	A52	GCF_001402725.1
+94446773	RefSeq	NZ_QKZO01000014.1	70639	71526	+	WP_055209654.1	nitrogenase iron protein	Rhodobacter capsulatus	DSM 1710	GCF_003254295.1
+94446773	RefSeq	NZ_SWJZ01000010.1	6096	6983	-	WP_055209654.1	nitrogenase iron protein	Rhodobacter capsulatus	SP108	GCF_005144475.1
+94446773	INSDC	LLVU01000007.1	5778	6665	-	KQB15872.1	nitrogenase reductase	Rhodobacter capsulatus	B41	GCA_001402715.1
+94446773	INSDC	LLVV01000005.1	180122	181009	+	KQB16277.1	nitrogenase reductase	Rhodobacter capsulatus	A52	GCA_001402725.1
+94446773	INSDC	QKZO01000014.1	70639	71526	+	PZX21679.1	Mo-nitrogenase iron protein subunit NifH	Rhodobacter capsulatus	DSM 1710	GCA_003254295.1
+94446773	INSDC	CP061202.1	603116	604003	-	QNR63805.1	nitrogenase iron protein	Rhodobacter capsulatus	A12	GCA_014622665.1
+94446773	INSDC	FNAY01000004.1	6074	6961	-	SDE83686.1	Mo-nitrogenase iron protein subunit NifH	Rhodobacter capsulatus	DSM 938	GCA_900102155.1
+94446773	INSDC	SWJZ01000010.1	6096	6983	-	TKD25194.1	nitrogenase iron protein	Rhodobacter capsulatus	SP108	GCA_005144475.1
+94446773	INSDC	CP119563.1	604642	605529	-	WER09957.1	nitrogenase iron protein	Rhodobacter capsulatus	37b4	GCA_029277405.1

@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+448682000	INSDC	JAGTSE010000006.1	9856	10737	-	MBS1204092.1	nifH	Pseudomonadota bacterium		GCA_018261615.1

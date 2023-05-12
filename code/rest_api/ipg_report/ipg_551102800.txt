@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+551102800	INSDC	WRNL01000101.1	1	836	-	MCL2148929.1	nitrogenase iron protein NifH	Methanomassiliicoccaceae archaeon		GCA_009776625.1

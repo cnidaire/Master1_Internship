@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+54298296	RefSeq	NZ_AXAC01000017.1	89507	90349	-	WP_026394549.1	nitrogenase iron protein NifH	Acetobacterium dehalogenans DSM 11527	DSM 11527	GCF_000472665.1

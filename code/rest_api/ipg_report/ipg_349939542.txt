@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+349939542	INSDC	JACHIH010000007.1	112899	113774	-	MBB5046954.1	nitrogenase iron protein NifH	Rhodopseudomonas rhenobacensis	DSM 12706	GCA_014203125.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+549247269	RefSeq	NZ_JALKIF010000001.1	217649	218653	-	WP_248610541.1	nitrogen fixation protein NifH	Methanobacterium alcaliphilum	DSM 3459	GCF_023227715.1
+549247269	INSDC	JALKIF010000001.1	217649	218653	-	MCK9150537.1	nitrogen fixation protein NifH	Methanobacterium alcaliphilum	DSM 3459	GCA_023227715.1

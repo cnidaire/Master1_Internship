@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+571032154	RefSeq	NZ_JAMXVZ010000004.1	71026	71775	-	WP_257279229.1	nitrogenase iron protein NifH	Clostridium botulinum	90_A UMBAC_00005	GCF_024608365.1
+571032154	INSDC	JAMXVZ010000004.1	71026	71775	-	MCR1165583.1	nitrogenase iron protein NifH	Clostridium botulinum	90_A UMBAC_00005	GCA_024608365.1

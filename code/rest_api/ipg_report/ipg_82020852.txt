@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+82020852	INSDC	CP011392.1	563181	564005	-	AKG53288.1	nitrogenase reductase and maturation protein NifH	Dehalogenimonas sp. WBC-2		GCA_001005265.1

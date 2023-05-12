@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+377063811	RefSeq	NZ_JADOZQ010000005.1	11475	12221	-	WP_195928669.1	nitrogenase iron protein NifH	Romboutsia sp. D33t1_170424_H2	D33t1_170424_H2	GCF_015669105.1
+377063811	RefSeq	NZ_JAQMMI010000005.1	11475	12221	-	WP_195928669.1	nitrogenase iron protein NifH	Romboutsia sp. 1001216sp1	D33st1_H2_D33t1_170424	GCF_028327905.1
+377063811	RefSeq	NZ_JAQMMJ010000002.1	12962	13708	-	WP_195928669.1	nitrogenase iron protein NifH	Romboutsia sp. 1001216sp1	D33st1_G1_D33t1_170424	GCF_028328005.1
+377063811	RefSeq	NZ_JAQMMK010000001.1	12962	13708	-	WP_195928669.1	nitrogenase iron protein NifH	Romboutsia sp. 1001216sp1	D33st1_A4_D33t1_170424	GCF_028327945.1

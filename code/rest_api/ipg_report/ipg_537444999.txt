@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+537444999	INSDC	JALEYI010000027.1	58746	59504	-	MCI6745810.1	nitrogenase iron protein NifH	Anaerolactibacter massiliensis		GCA_022779685.1

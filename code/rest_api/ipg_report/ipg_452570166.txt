@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+452570166	RefSeq	NZ_JAHAEZ010000001.1	287512	288330	-	WP_276697178.1	nitrogenase iron protein NifH	Dialister invisus		GCF_018374535.1
+452570166	INSDC	JAHAEZ010000001.1	287512	288330	-	MBS6198685.1	AAA family ATPase	Dialister invisus		GCA_018374535.1

@@ -1,0 +1,3 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+61134664	RefSeq	NZ_JNKB01000003.1	5314	6078	-	WP_031584429.1	nitrogenase iron protein NifH	Selenomonas bovis 8-14-1	8-14-1	GCF_000701885.1
+61134664	INSDC	JALEYG010000102.1	7550	8314	-	MCI6752031.1	nitrogenase iron protein NifH	Selenomonas bovis		GCA_022779705.1

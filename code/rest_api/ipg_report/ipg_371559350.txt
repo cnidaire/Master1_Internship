@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+371559350	INSDC	JABZMU010000013.1	23915	24438	-	MBF1154605.1	nitrogen fixation protein NifH	[Eubacterium] sulci		GCA_015256085.1

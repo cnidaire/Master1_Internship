@@ -1,0 +1,11 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+810119	RefSeq	NC_010125.1	433531	434427	+	WP_012222808.1	nitrogenase iron protein	Gluconacetobacter diazotrophicus PA1 5	PAl 5	GCF_000067045.1
+810119	RefSeq	NC_011365.1	1747802	1748698	-	WP_012222808.1	nitrogenase iron protein	Gluconacetobacter diazotrophicus PA1 5	PAl 5; ATCC 49037	GCF_000021325.1
+810119	RefSeq	NZ_JABEQG010000030.1	23220	24116	+	WP_012222808.1	nitrogenase iron protein	Gluconacetobacter diazotrophicus	LMG 7603	GCF_014174315.1
+810119	RefSeq	NZ_VITL01000003.1	190900	191796	-	WP_012222808.1	nitrogenase iron protein	Gluconacetobacter diazotrophicus	PR 4	GCF_007828635.1
+810119	Swiss-Prot	N/A				Q9ZIE4.1	Nitrogenase iron protein	Gluconacetobacter diazotrophicus PA1 5		
+810119	INSDC	AF030414.3	10745	11641	+	AAD05046.1	nitrongenase reductase Fe protein	Gluconacetobacter diazotrophicus PA1 5	PAl 5	
+810119	INSDC	CP001189.1	1747802	1748698	-	ACI51349.1	nitrogenase iron protein	Gluconacetobacter diazotrophicus PA1 5	PAl 5; ATCC 49037	GCA_000021325.1
+810119	INSDC	AM889285.1	433531	434427	+	CAP54379.1	nitrongenase reductase Fe protein; NifH	Gluconacetobacter diazotrophicus PA1 5	PAl 5	GCA_000067045.1
+810119	INSDC	JABEQG010000030.1	23220	24116	+	MBB2157406.1	nitrogenase iron protein	Gluconacetobacter diazotrophicus	LMG 7603	GCA_014174315.1
+810119	INSDC	VITL01000003.1	190900	191796	-	TWB09897.1	Mo-nitrogenase iron protein subunit NifH	Gluconacetobacter diazotrophicus	PR 4	GCA_007828635.1

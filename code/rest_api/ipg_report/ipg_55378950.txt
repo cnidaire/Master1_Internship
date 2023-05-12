@@ -1,0 +1,4 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+55378950	RefSeq	NZ_AUJG01000012.1	16157	17005	+	WP_027431709.1	nitrogenase iron protein	Lachnospira multipara ATCC 19207	ATCC 19207	GCF_000424105.1
+55378950	RefSeq	NZ_FNUL01000005.1	100410	101258	-	WP_027431709.1	nitrogenase iron protein	Lachnospira multipara	D15d	GCF_900108125.1
+55378950	INSDC	FNUL01000005.1	100410	101258	-	SEF65596.1	nitrogenase iron protein NifH	Lachnospira multipara	D15d	GCA_900108125.1

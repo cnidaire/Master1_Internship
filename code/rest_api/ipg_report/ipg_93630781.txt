@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+93630781	INSDC	LJZT01000032.1	7745	8575	-	KPQ39025.1	nitrogenase 4Fe-4S binding subunit NifH	Phormidium sp. OSCR		GCA_001314905.1

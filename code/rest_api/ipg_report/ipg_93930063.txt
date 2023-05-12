@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+93930063	INSDC	KR262797.1	1	551	+	ALJ55649.1	NifH	Rhizobium giardinii	1555	

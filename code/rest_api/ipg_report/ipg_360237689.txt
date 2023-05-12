@@ -1,0 +1,2 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+360237689	RefSeq	NZ_BMBX01000007.1	96132	96887	+	WP_188398688.1	nitrogenase iron protein NifH	Sporomusa sp. GT1	GT1	GCF_014634905.1

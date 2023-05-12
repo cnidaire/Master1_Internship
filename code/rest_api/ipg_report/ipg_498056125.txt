@@ -1,0 +1,8 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+498056125	RefSeq	NC_020387.1	1390105	1391142	-	WP_226988237.1	nitrogen fixation protein NifH	Dehalococcoides mccartyi BTF08	BTF08	GCF_000341695.1
+498056125	RefSeq	NZ_CP019867.1	1366229	1367266	-	WP_226988237.1	nitrogen fixation protein NifH	Dehalococcoides mccartyi	KBDCA1	GCF_002007845.1
+498056125	RefSeq	NZ_CP019868.1	1332085	1333122	-	WP_226988237.1	nitrogen fixation protein NifH	Dehalococcoides mccartyi	KBDCA2	GCF_002007865.1
+498056125	RefSeq	NZ_CP019946.1	1275251	1276288	-	WP_226988237.1	nitrogen fixation protein NifH	Dehalococcoides mccartyi	KBDCA3	GCF_002021775.1
+498056125	RefSeq	NZ_CP019969.1	1275509	1276546	-	WP_226988237.1	nitrogen fixation protein NifH	Dehalococcoides mccartyi	KBVC2	GCF_002024205.1
+498056125	RefSeq	NZ_CP019999.1	1326677	1327714	-	WP_226988237.1	nitrogen fixation protein NifH	Dehalococcoides mccartyi	KBTCE1	GCF_002028285.1
+498056125	RefSeq	NZ_JGVX01000001.1	118625	119662	+	WP_226988237.1	nitrogen fixation protein NifH	Dehalococcoides mccartyi	11a	GCF_001460955.1

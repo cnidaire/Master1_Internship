@@ -1,0 +1,7 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+92909253	RefSeq	NZ_CP009240.1	576698	577453	-	WP_054336032.1	nitrogenase iron protein NifH	Megasphaera elsdenii 14-14	14-14	GCF_001304715.1
+92909253	INSDC	CP009240.1	576698	577453	-	ALG41531.1	Mo-nitrogenase iron protein subunit NifH	Megasphaera elsdenii 14-14	14-14	GCA_001304715.1
+92909253	INSDC	JALEYQ010000099.1	3670	4425	+	MCI6300891.1	nitrogenase iron protein NifH	Megasphaera elsdenii		GCA_022772405.1
+92909253	INSDC	JALFEU010000023.1	19450	20205	-	MCI6923902.1	nitrogenase iron protein NifH	Megasphaera elsdenii		GCA_022778065.1
+92909253	INSDC	JALFLY010000103.1	20669	21424	-	MCI7059760.1	nitrogenase iron protein NifH	Megasphaera elsdenii		GCA_022774445.1
+92909253	INSDC	JALEVD010000063.1	21350	22105	-	MCI7216624.1	nitrogenase iron protein NifH	Megasphaera elsdenii		GCA_022780665.1
