@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-463273047	RefSeq	NZ_JAHLPL010000011.1	82509	83288	-	WP_216412186.1	nitrogenase iron protein NifH	Anaerobutyricum soehngenii	MSJ-10	GCF_018917895.1
-463273047	INSDC	JAHLPL010000011.1	82509	83288	-	MBU5417126.1	P-loop NTPase	Anaerobutyricum soehngenii	MSJ-10	GCA_018917895.1

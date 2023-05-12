@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-77144618	RefSeq	NZ_JMLZ01000001.1	990809	991669	+	WP_044288885.1	nitrogenase iron protein NifH	Robinsoniella sp. KNHs210	KNHs210	GCF_000686105.1
-77144618	INSDC	JNGB01000035.1	32752	33612	+	KLU70689.1	hypothetical protein	Robinsoniella sp. RHS		GCA_001029355.1

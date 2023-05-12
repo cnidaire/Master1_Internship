@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-421129786	INSDC	CAJPFX010001487.1	2	820	+	CAG0989171.1	partial nitrogenase iron protein NifH	Anaerolineae bacterium		GCA_905339195.1

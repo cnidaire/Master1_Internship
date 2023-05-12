@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-55666903	RefSeq	NZ_JIAA01000001.1	521436	522194	+	WP_027701180.1	nitrogenase iron protein NifH	Clostridioides mangenotii LM2	LM2	GCF_000687955.1

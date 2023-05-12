@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-61622139	INSDC	JQGK01000001.1	288459	289370	-	KFL35442.1	nitrogenase reductase	Sulfurospirillum sp. SCADC		GCA_000743525.1
-61622139	INSDC	JAGDMU010000001.1	118477	119388	+	MBP1679787.1	nitrogenase iron protein NifH	Pseudomonadota bacterium		GCA_017860615.1

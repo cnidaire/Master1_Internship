@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-92040385	INSDC	KT027862.1	1	701	+	ALE99296.1	NifH	Bradyrhizobium sp. TUTMP2.9	TUTMP2.9	
-92040385	INSDC	MT225382.1	1	702	+	QIQ08464.1	nitrogenase Fe protein	Bradyrhizobium sp.	PJ-MP30	

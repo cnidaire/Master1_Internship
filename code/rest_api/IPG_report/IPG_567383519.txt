@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-567383519	INSDC	JAKSHS010000005.1	45253	46026	+	MCQ2056349.1	nitrogenase iron protein NifH	archaeon		GCA_024399275.1

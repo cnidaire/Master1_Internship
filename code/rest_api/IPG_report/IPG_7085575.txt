@@ -1,4 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-7085575	INSDC	EF158799.1	1	855	+	ABO64209.1	nitrogenase reductase	Paraburkholderia ferrariae	FeGl01	
-7085575	INSDC	HQ115056.1	1	855	+	ADM13687.1	NifH	Burkholderia sp. enrichment culture clone CACua-34		
-7085575	INSDC	HQ115057.1	1	855	+	ADM13688.1	NifH	Burkholderia sp. enrichment culture clone CACua-50		

@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-623475639	RefSeq	NZ_CAKXHC010000006.1	26951	27769	+	WP_273348459.1	nitrogenase iron protein NifH	Dialister invisus		GCF_934875275.1

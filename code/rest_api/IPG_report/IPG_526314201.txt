@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-526314201	INSDC	MW628637.1	1	406	+	ULM60729.1	NifH	Rhizobium leguminosarum	J1-3-1	

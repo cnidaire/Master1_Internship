@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-580176993	INSDC	JAOASG010000024.1	64062	64817	+	MCT4542971.1	nitrogenase iron protein NifH	Vallitalea sp.		GCA_025210235.1

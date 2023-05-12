@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-49880640	INSDC	KJ021873.1	1	789	-	AHN13828.1	nitrogenase reductase Fe protein NifH	Marinobacterium lutimaris	DSM 22012	

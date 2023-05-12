@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-477063836	RefSeq	NZ_VIGD01000001.1	369143	369907	-	WP_220125026.1	nitrogenase iron protein NifH	Ureibacillus terrenus	ATCC BAA-384	GCF_006569205.1

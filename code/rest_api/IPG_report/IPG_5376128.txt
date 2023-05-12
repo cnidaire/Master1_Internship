@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-5376128	INSDC	DQ364803.1	1	324	+	ABD58952.1	NifH	Bacillus sp. BT97	BT97	

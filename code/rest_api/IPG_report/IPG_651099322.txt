@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-651099322	RefSeq	NZ_KE332518.1	1789485	1790324	+	WP_281166980.1	nitrogenase iron protein NifH	Treponema maltophilum ATCC 51939	ATCC 51939	GCF_000413055.1

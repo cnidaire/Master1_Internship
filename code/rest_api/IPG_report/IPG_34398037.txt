@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-34398037	INSDC	KC247139.1	1	729	+	AGH32291.1	NifH	Bradyrhizobium centrosematis	A9	

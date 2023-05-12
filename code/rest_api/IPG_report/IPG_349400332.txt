@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-349400332	INSDC	JACIIJ010000026.1	1	338	-	MBB6225395.1	nitrogenase subunit NifH	Rhizobium leguminosarum	SEMIA 4011	GCA_014205785.1

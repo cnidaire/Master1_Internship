@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+118024775	RefSeq	NZ_CP034911.1	421114	422007	-	WP_069456691.1	nitrogenase iron protein	Sinorhizobium alkalisoli	YIC4027	GCF_008932245.1
+118024775	RefSeq	NZ_LYBW01000034.1	26415	27308	+	WP_069456691.1	nitrogenase iron protein	Sinorhizobium alkalisoli	YIC4027	GCF_001723275.1
+118024775	INSDC	LYBW01000034.1	26415	27308	+	ODR93058.1	nitrogenase iron protein	Sinorhizobium alkalisoli	YIC4027	GCA_001723275.1
+118024775	INSDC	CP034911.1	421114	422007	-	QFI70862.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Sinorhizobium alkalisoli	YIC4027	GCA_008932245.1

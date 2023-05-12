@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-5492710	INSDC	DQ407294.1	1	377	+	ABD91514.1	NifH	Mesorhizobium tianshanense	USDA 3592	

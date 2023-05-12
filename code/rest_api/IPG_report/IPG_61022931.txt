@@ -1,4 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-61022931	RefSeq	NZ_FOZC01000003.1	94188	94973	-	WP_031471805.1	nitrogenase iron protein NifH	[Clostridium] aminophilum	F	GCF_900112885.1
-61022931	RefSeq	NZ_JONJ01000003.1	217969	218754	+	WP_031471805.1	nitrogenase iron protein NifH	[Clostridium] aminophilum DSM 10710	DSM 10710	GCF_000711825.1
-61022931	INSDC	FOZC01000003.1	94188	94973	-	SFR69518.1	nitrogenase iron protein NifH	[Clostridium] aminophilum	F	GCA_900112885.1

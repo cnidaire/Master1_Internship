@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-619882729	RefSeq	NZ_JAQLWY010000008.1	11455	12279	-	WP_271934386.1	nitrogenase iron protein NifH	Flavonifractor plautii	1001217st1_C8_1001217B_191108	GCF_028321345.1

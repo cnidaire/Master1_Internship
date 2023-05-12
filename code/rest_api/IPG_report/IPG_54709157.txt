@@ -1,7 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-54709157	RefSeq	NZ_FNQG01000003.1	34141	34998	-	WP_026760242.1	nitrogenase iron protein	Selenomonas ruminantium	DSM 2872	GCF_900107615.1
-54709157	RefSeq	NZ_FOJX01000002.1	446460	447317	+	WP_026760242.1	nitrogenase iron protein	Selenomonas ruminantium	L14	GCF_900111915.1
-54709157	RefSeq	NZ_JIAC01000001.1	1339650	1340507	+	WP_026760242.1	nitrogenase iron protein	Selenomonas ruminantium AC2024	AC2024	GCF_000687995.1
-54709157	INSDC	JAFUZC010000117.1	1239	2096	-	MBR1694075.1	nitrogenase iron protein	Selenomonas sp.		GCA_017476805.1
-54709157	INSDC	FNQG01000003.1	34141	34998	-	SDZ82891.1	nitrogenase iron protein NifH	Selenomonas ruminantium	DSM 2872	GCA_900107615.1
-54709157	INSDC	FOJX01000002.1	446460	447317	+	SFA86257.1	nitrogenase iron protein NifH	Selenomonas ruminantium	L14	GCA_900111915.1

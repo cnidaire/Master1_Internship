@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-504228818	INSDC	JAJBSZ010000247.1	925	1800	+	MCC8190195.1	nitrogenase iron protein NifH	Planctomycetota bacterium		GCA_020861125.1

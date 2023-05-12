@@ -1,7 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-68375739	RefSeq	NZ_JANFYF010000002.1	50210	50965	+	WP_034443828.1	nitrogenase iron protein NifH	Cloacibacillus evryensis	SL.1.29	GCF_024460345.1
-68375739	RefSeq	NZ_JANFYT010000002.1	148420	149175	-	WP_034443828.1	nitrogenase iron protein NifH	Cloacibacillus evryensis	DFI.9.90	GCF_024460635.1
-68375739	RefSeq	NZ_JAQDDQ010000020.1	21946	22701	-	WP_034443828.1	nitrogenase iron protein NifH	Cloacibacillus evryensis	AF76-02pH3TA	GCF_027688885.1
-68375739	RefSeq	NZ_KK073872.1	2541553	2542308	-	WP_034443828.1	nitrogenase iron protein NifH	Cloacibacillus evryensis DSM 19522	DSM 19522	GCF_000585335.1
-68375739	INSDC	JANFYF010000002.1	50210	50965	+	MCQ4762804.1	nitrogenase iron protein NifH	Cloacibacillus evryensis	SL.1.29	GCA_024460345.1
-68375739	INSDC	JANFYT010000002.1	148420	149175	-	MCQ4813108.1	nitrogenase iron protein NifH	Cloacibacillus evryensis	DFI.9.90	GCA_024460635.1

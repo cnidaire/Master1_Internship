@@ -1,6 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-109334271	RefSeq	NZ_JAHAVR010000001.1	200974	201792	-	WP_074174812.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanoculleus bourgensis	E02.3	GCF_018495055.1
-109334271	INSDC	BSDU01000001.1	455230	456048	-	GLI45661.1	nitrogenase reductase	Methanoculleus bourgensis	BZM	GCA_027925405.1
-109334271	INSDC	JAHAVR010000001.1	200974	201792	-	MBT0731959.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanoculleus bourgensis	E02.3	GCA_018495055.1
-109334271	INSDC	JABMJE010000070.1	3103	3921	-	NQS78264.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanoculleus bourgensis		GCA_013201445.1
-109334271	INSDC	LT549891.1	358033	358851	-	SAI87259.1	nitrogenase iron protein NifH	Methanoculleus bourgensis		GCA_900079125.1

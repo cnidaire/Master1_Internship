@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-369115300	INSDC	SVJC01000070.1	8992	9741	-	MBE7070308.1	nitrogen fixation protein NifH	Oscillospiraceae bacterium		GCA_015069215.1

@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-542019072	RefSeq	NZ_FNJF01000001.1	76768	77625	-	WP_244270579.1	nitrogenase iron protein NifH	Eubacterium maltosivorans	32_A2	GCF_900103155.1

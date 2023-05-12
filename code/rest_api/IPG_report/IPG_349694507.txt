@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-349694507	RefSeq	NZ_JACHEF010000011.1	60681	61574	+	WP_184878144.1	nitrogenase iron protein	Mesorhizobium sangaii	DSM 100039	GCF_014207355.1
-349694507	INSDC	JACHEF010000011.1	60681	61574	+	MBB6413951.1	nitrogenase iron protein NifH	Mesorhizobium sangaii	DSM 100039	GCA_014207355.1

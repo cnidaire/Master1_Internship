@@ -1,4 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-53515040	RefSeq	NZ_ASSB01000168.1	8789	9655	+	WP_025717198.1	nitrogenase iron protein	Paenibacillus sp. 1-18	1-18	GCF_000520755.1
-53515040	INSDC	MH555146.1	1	867	+	AXM43805.1	nitrogenase reductase	Paenibacillus beijingensis	BJ-18	
-53515040	INSDC	MW015026.1	1477	2343	+	QPX50268.1	nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Paenibacillus brasilensis	PB24	

@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-90999094	RefSeq	NZ_LITJ01000045.1	269741	270490	-	WP_053468723.1	nitrogenase iron protein NifH	Clostridium sp. L74	L74	GCF_001276215.1
-90999094	INSDC	LITJ01000045.1	269741	270490	-	KOR24956.1	nitrogenase iron protein	Clostridium sp. L74	L74	GCA_001276215.1

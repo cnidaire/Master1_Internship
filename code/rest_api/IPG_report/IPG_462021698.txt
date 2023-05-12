@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-462021698	RefSeq	NZ_JAHLDR010000016.1	72906	73655	-	WP_216209565.1	nitrogenase iron protein NifH	Clostridium estertheticum	CF013	GCF_018861795.1
-462021698	INSDC	JAHLDR010000016.1	72906	73655	-	MBU3177867.1	AAA family ATPase	Clostridium estertheticum	CF013	GCA_018861795.1

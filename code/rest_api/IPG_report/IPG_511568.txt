@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-511568	INSDC	AJ302315.1	1	863	+	CAC42484.1	NifH protein	Paraburkholderia tuberum STM678	STM678	

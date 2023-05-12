@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-506719769	INSDC	JAJMQS010000009.1	202970	203842	-	MCD0419859.1	nitrogenase iron protein NifH	Rubrivivax sp. JA1024	JA1024	GCA_020992295.1

@@ -1,5 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-19230318	RefSeq	NZ_ADFP01000070.1	1248	2003	+	WP_009164877.1	nitrogenase iron protein NifH	Pyramidobacter piscolens W5455	W5455	GCF_000177335.1
-19230318	RefSeq	NZ_AP025585.1	115649	116404	-	WP_009164877.1	nitrogenase iron protein NifH	Pyramidobacter piscolens	CE91-St28	GCF_022846135.1
-19230318	INSDC	AP025585.1	115649	116404	-	BDF77317.1	nitrogenase subunit nifH	Pyramidobacter piscolens	CE91-St28	GCA_022846135.1
-19230318	INSDC	ADFP01000070.1	1248	2003	+	EFB90680.1	putative nitrogenase iron protein	Pyramidobacter piscolens W5455	W5455	GCA_000177335.1

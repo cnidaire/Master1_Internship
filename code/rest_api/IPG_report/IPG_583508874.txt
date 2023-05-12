@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-583508874	INSDC	JALOPK010000449.1	639	1646	-	MCU0613288.1	nitrogen fixation protein NifH	Candidatus Eisenbacteria bacterium		GCA_025453925.1

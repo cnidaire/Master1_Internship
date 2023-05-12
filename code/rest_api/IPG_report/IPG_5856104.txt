@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-5856104	INSDC	DQ682472.1	1	361	+	ABG76015.1	NifH	Azospirillum zeae	N7	

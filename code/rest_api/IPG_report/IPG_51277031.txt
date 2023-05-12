@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-51277031	RefSeq	NZ_JMIY01000001.1	708497	709321	-	WP_048089173.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Candidatus Methanoperedens nitroreducens	ANME-2d	GCF_000685155.1
-51277031	INSDC	JMIY01000001.1	708497	709321	-	KCZ73696.1	Mo-nitrogenase iron protein subunit NifH	Candidatus Methanoperedens nitroreducens	ANME-2d	GCA_000685155.1

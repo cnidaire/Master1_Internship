@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-546772043	INSDC	JAGMBR010000508.1	1	486	+	MCK4392667.1	nitrogen fixation protein NifH	Candidatus Bipolaricaulota bacterium		GCA_023129625.1

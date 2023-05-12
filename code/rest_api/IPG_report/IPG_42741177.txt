@@ -1,5 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-42741177	RefSeq	NZ_AUPA01000003.1	7394	8071	+	WP_021281243.1	ParA family protein	Clostridium sp. BL8	BL8	GCF_000447315.1
-42741177	RefSeq	NZ_JAGGLL010000009.1	93226	93903	-	WP_021281243.1	ParA family protein	Clostridium punense	DSM 28650	GCF_017874425.1
-42741177	INSDC	AUPA01000003.1	7394	8071	+	EQB90280.1	hypothetical protein	Clostridium sp. BL8	BL8	GCA_000447315.1
-42741177	INSDC	JAGGLL010000009.1	93226	93903	-	MBP2021664.1	nitrogenase subunit NifH	Clostridium punense	DSM 28650	GCA_017874425.1

@@ -1,7 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-80117842	RefSeq	NZ_CP009520.1	1800422	1801336	+	WP_048119883.1	nitrogenase iron protein NifH	Methanosarcina vacuolata Z-761	Z-761	GCF_000969905.1
-80117842	RefSeq	NZ_CP009524.1	1767385	1768299	+	WP_048119883.1	nitrogenase iron protein NifH	Methanosarcina sp. Kolksee	Kolksee	GCF_000969945.1
-80117842	RefSeq	NZ_WJBJ01000022.1	178735	179649	-	WP_048119883.1	nitrogenase iron protein NifH	Methanosarcina sp. DH1	DH1	GCF_020804205.1
-80117842	INSDC	CP009520.1	1800422	1801336	+	AKB43699.1	nitrogenase reductase-like protein	Methanosarcina vacuolata Z-761	Z-761	GCA_000969905.1
-80117842	INSDC	CP009524.1	1767385	1768299	+	AKB47153.1	nitrogenase reductase-like protein	Methanosarcina sp. Kolksee	Kolksee	GCA_000969945.1
-80117842	INSDC	WJBJ01000022.1	178735	179649	-	MCC4767480.1	AAA family ATPase	Methanosarcina sp. DH1	DH1	GCA_020804205.1

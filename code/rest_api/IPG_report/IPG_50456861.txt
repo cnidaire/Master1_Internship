@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-50456861	INSDC	CBZS010000660.1	371	799	+	CDN15584.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Richelia intracellularis	RC01	GCA_000613065.1

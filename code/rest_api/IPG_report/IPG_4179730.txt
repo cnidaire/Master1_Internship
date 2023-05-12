@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-4179730	INSDC	AY768411.1	1	356	+	AAX82500.1	NifH	Gloeothece tepidariorum PCC 6909	ATCC 27152	

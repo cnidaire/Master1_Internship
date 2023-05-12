@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-497777247	RefSeq	NZ_JAJCNU010000004.1	111917	112687	+	WP_227202666.1	nitrogenase iron protein NifH	Phascolarctobacterium faecium	DFI.2.4	GCF_020561445.1
-497777247	INSDC	JAJCNU010000004.1	111917	112687	+	MCB6573662.1	nitrogenase iron protein NifH	Phascolarctobacterium faecium	DFI.2.4	GCA_020561445.1

@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-540549211	RefSeq	NZ_OKQO01000004.1	314943	315695	+	WP_243562612.1	nitrogenase iron protein NifH	Neobittarella massiliensis	Marseille-P4047	GCF_900289145.1

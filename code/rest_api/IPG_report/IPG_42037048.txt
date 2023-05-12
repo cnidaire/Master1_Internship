@@ -1,6 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-42037048	RefSeq	NZ_JAFILM010000008.1	29232	29999	+	WP_022426403.1	nitrogenase iron protein NifH	Blautia massiliensis		GCF_017850815.1
-42037048	INSDC	CBIR010000183.1	17801	18568	+	CDE32132.1	nitrogenase subunit NifH (ATPase)	Ruminococcus sp. CAG:90		GCA_000437415.1
-42037048	INSDC	FR898917.1	29279	30046	+	CDE32132.1	nitrogenase subunit NifH (ATPase)	Ruminococcus sp. CAG:90		GCA_000437415.1
-42037048	INSDC	QUGY01000003.1	83978	84745	-	RHR70556.1	nitrogenase iron protein	Ruminococcus sp. AF17-12	AF17-12	GCA_003479245.1
-42037048	INSDC	QUJX01000008.1	81946	82713	-	RHU12867.1	nitrogenase iron protein	Ruminococcus sp. AM26-12LB	AM26-12LB	GCA_003480785.1

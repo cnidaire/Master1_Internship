@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-74532295	RefSeq	NC_011898.1	1953174	1953995	-	WP_041706957.1	nitrogenase iron protein NifH	Ruminiclostridium cellulolyticum H10	H10	GCF_000022065.1

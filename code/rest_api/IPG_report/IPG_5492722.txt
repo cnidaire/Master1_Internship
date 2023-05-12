@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-5492722	INSDC	DQ407296.1	1	339	+	ABD91516.1	NifH	Mesorhizobium mediterraneum	UPM-Ca36	

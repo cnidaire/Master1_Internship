@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-84668267	RefSeq	NZ_LFVU01000028.1	212251	213123	-	WP_048571363.1	nitrogenase iron protein NifH	Clostridium cylindrosporum DSM 605	DSM 605	GCF_001047375.1
-84668267	INSDC	LFVU01000028.1	212251	213123	-	KMT20965.1	nitrogenase iron protein 2	Clostridium cylindrosporum DSM 605	DSM 605	GCA_001047375.1

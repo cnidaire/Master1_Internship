@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-536971810	INSDC	JALFDF010000016.1	47722	48483	+	MCI6060361.1	nitrogenase iron protein NifH	Dorea sp.		GCA_022771425.1

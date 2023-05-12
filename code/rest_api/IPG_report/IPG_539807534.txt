@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-539807534	RefSeq	NZ_JAKZJU010000017.1	105618	106421	-	WP_243377049.1	nitrogenase iron protein NifH	Mesosutterella sp. AGMB02718	AGMB02718	GCF_022809315.1
-539807534	INSDC	JAKZJU010000017.1	105618	106421	-	MCJ8267028.1	nitrogenase iron protein NifH	Mesosutterella sp. AGMB02718	AGMB02718	GCA_022809315.1

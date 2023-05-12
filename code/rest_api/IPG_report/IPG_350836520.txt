@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-350836520	INSDC	JACIIJ010000056.1	306	995	-	MBB6225849.1	nitrogenase iron protein NifH	Rhizobium leguminosarum	SEMIA 4011	GCA_014205785.1

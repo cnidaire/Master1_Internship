@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-550705733	INSDC	WQSJ01000318.1	562	1314	-	MCL2233618.1	nitrogenase iron protein NifH	Treponema sp.		GCA_009787935.1

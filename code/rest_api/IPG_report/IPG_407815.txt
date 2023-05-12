@@ -1,8 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-407815	RefSeq	NZ_CP010415.1	142493	143368	+	WP_039800829.1	nitrogenase iron protein	Azotobacter chroococcum NCIMB 8003	NCIMB 8003	GCF_000817975.1
-407815	RefSeq	NZ_FNYQ01000028.1	41874	42749	-	WP_039800829.1	nitrogenase iron protein	Azotobacter beijerinckii	DSM 373	GCF_900108885.1
-407815	RefSeq	NZ_FOFJ01000003.1	41931	42806	-	WP_039800829.1	nitrogenase iron protein	Azotobacter beijerinckii	DSM 378	GCF_900110885.1
-407815	Swiss-Prot	N/A				P26248.2	Nitrogenase iron protein 1	Azotobacter chroococcum (strain mcd 1)		
-407815	INSDC	CP010415.1	142493	143368	+	AJE19640.1	Nitrogenase iron protein	Azotobacter chroococcum NCIMB 8003	NCIMB 8003	GCA_000817975.1
-407815	INSDC	FNYQ01000028.1	41874	42749	-	SEI88601.1	Mo-nitrogenase iron protein subunit NifH	Azotobacter beijerinckii	DSM 373	GCA_900108885.1
-407815	INSDC	FOFJ01000003.1	41931	42806	-	SEP77405.1	Mo-nitrogenase iron protein subunit NifH	Azotobacter beijerinckii	DSM 378	GCA_900110885.1

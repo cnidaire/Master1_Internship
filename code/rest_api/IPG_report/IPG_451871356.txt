@@ -1,4 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-451871356	INSDC	JAGZKQ010000008.1	10454	11272	+	MBS5035225.1	AAA family ATPase	Dialister sp.		GCA_018365125.1
-451871356	INSDC	JALFEV010000241.1	8320	9138	-	MCI6917023.1	nitrogenase iron protein NifH	Dialister sp.		GCA_022778085.1
-451871356	INSDC	JALEWI010000147.1	16020	16838	+	MCI7319496.1	nitrogenase iron protein NifH	Dialister sp.		GCA_022783505.1

@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-110108496	INSDC	KX239844.1	1	426	+	ANF06875.1	NifH	Ensifer shofinae		

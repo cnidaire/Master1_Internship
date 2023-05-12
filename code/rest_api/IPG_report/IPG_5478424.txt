@@ -1,5 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-5478424	INSDC	DQ413014.1	1	715	+	ABD73331.1	NifH	Rhizobium etli bv. phaseoli		
-5478424	INSDC	DQ413018.1	1	715	+	ABD73335.1	NifH	Rhizobium etli bv. phaseoli		
-5478424	INSDC	DQ413019.1	1	715	+	ABD73336.1	NifH	Rhizobium etli bv. phaseoli		
-5478424	INSDC	DQ413020.1	1	715	+	ABD73337.1	NifH	Rhizobium etli bv. phaseoli		

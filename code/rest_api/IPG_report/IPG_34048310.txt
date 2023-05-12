@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-34048310	RefSeq	NZ_AOSV01000020.1	4034	4858	-	WP_005986594.1	nitrogenase iron protein	Desulfocurvibacter africanus PCS	PCS	GCF_000344315.1
-34048310	INSDC	AOSV01000020.1	4034	4858	-	EMG37099.1	Mo-nitrogenase iron protein subunit NifH	Desulfocurvibacter africanus PCS	PCS	GCA_000344315.1

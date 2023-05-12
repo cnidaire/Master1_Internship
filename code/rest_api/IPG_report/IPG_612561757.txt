@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-612561757	RefSeq	NZ_JAQEEK010000021.1	41367	42122	-	WP_270846790.1	nitrogenase iron protein NifH	Anaerobutyricum hallii	AM59-17XD-r	GCF_027668695.1

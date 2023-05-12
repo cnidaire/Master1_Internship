@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-499750748	RefSeq	NZ_JAJFDX010000021.1	57651	58442	-	WP_227810039.1	nitrogenase iron protein NifH	Lachnoclostridium pacaense	DFI.6.51A	GCF_020709355.1
-499750748	INSDC	JAJFDX010000021.1	57651	58442	-	MCC2820625.1	nitrogenase iron protein NifH	Lachnoclostridium pacaense	DFI.6.51A	GCA_020709355.1

@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-90788059	INSDC	KR133404.1	1	332	+	ALA65448.1	NifH	Bacillus sp. R2(2015)	R2	

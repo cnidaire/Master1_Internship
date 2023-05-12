@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-349275	INSDC	AF302904.1	1	338	+	AAL78766.1	NifH	Beijerinckia indica subsp. indica	KS1-7; ATCC 21423	

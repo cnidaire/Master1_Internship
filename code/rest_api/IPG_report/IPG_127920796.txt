@@ -1,4 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-127920796	RefSeq	NZ_FOTS01000001.1	93697	94572	+	WP_090931858.1	nitrogenase iron protein	Pelosinus propionicus DSM 13327	DSM 13327	GCF_900114615.1
-127920796	INSDC	JAGFZY010000041.1	11604	12479	+	MBP2657867.1	nifH	Bacillota bacterium		GCA_017889665.1
-127920796	INSDC	FOTS01000001.1	93697	94572	+	SFL31778.1	nitrogenase iron protein NifH	Pelosinus propionicus DSM 13327	DSM 13327	GCA_900114615.1

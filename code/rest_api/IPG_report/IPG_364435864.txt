@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-364435864	INSDC	RKGW01000020.1	84718	85479	-	MBD9286156.1	nitrogen fixation protein NifH	Agathobacter sp.		GCA_014848915.1
-364435864	INSDC	RKGW01000055.1	56947	57708	-	MBD9287820.1	nitrogen fixation protein NifH	Agathobacter sp.		GCA_014848915.1

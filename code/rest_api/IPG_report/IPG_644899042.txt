@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-644899042	RefSeq	NZ_CAJKPR010000003.1	137677	138438	-	WP_278572227.1	nitrogenase iron protein NifH	Fusobacterium ulcerans		GCF_905201875.1

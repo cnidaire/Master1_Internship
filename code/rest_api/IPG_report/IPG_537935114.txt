@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-537935114	INSDC	JALFRN010000003.1	23882	24643	+	MCI7448146.1	nitrogenase iron protein NifH	Blautia sp.		GCA_022784915.1

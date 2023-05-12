@@ -1,5 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-77326256	RefSeq	NZ_CP005974.1	2855891	2856709	-	WP_044623747.1	nitrogenase iron protein NifH	Photobacterium gaetbulicola Gung47	Gung47	GCF_000940995.1
-77326256	RefSeq	NZ_PYME01000011.1	69079	69897	+	WP_044623747.1	nitrogenase iron protein NifH	Photobacterium gaetbulicola	DSM 26887	GCF_003025515.1
-77326256	INSDC	CP005974.1	2855891	2856709	-	AJR09200.1	NifH/frxC-family protein	Photobacterium gaetbulicola Gung47	Gung47	GCA_000940995.1
-77326256	INSDC	PYME01000011.1	69079	69897	+	PSU11749.1	nitrogenase iron protein	Photobacterium gaetbulicola	DSM 26887	GCA_003025515.1

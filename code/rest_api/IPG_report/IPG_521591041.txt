@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-521591041	RefSeq	NZ_JAETOS010000004.1	13790	14719	-	WP_278852316.1	AAA family ATPase	Gordonibacter pamelaeae		GCF_021771595.1
-521591041	INSDC	BQNG01000001.1	2760929	2761858	-	GKG91407.1	nitrogenase subunit nifH	Gordonibacter pamelaeae	CE91-St32	GCA_022834895.1

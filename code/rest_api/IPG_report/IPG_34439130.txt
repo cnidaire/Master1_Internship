@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-34439130	INSDC	KC247135.1	1	722	+	AGH88979.1	NifH	Bradyrhizobium americanum	CMVU44	

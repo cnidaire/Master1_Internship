@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-644881169	RefSeq	NZ_CAJLEK010000014.1	22535	23290	+	WP_278548939.1	nitrogenase iron protein NifH	Cloacibacillus evryensis		GCF_905205625.1

@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-529519556	INSDC	JAKVMM010000001.1	1290361	1291110	+	MCH4072558.1	nitrogenase iron protein NifH	Pseudoramibacter sp.		GCA_022483875.1
-529519556	INSDC	JAKVLT010000001.1	1290358	1291107	+	MCH4106329.1	nitrogenase iron protein NifH	Pseudoramibacter sp.		GCA_022484225.1

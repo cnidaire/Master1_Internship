@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-378033029	RefSeq	NZ_WIQS01000037.1	141732	142544	-	WP_196599753.1	nitrogenase iron protein NifH	Pectinatus frisingensis	MB191	GCF_015732315.1

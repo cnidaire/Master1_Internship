@@ -1,8 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-67612290	RefSeq	NZ_AJXR02000003.1	8708	9457	-	WP_054630102.1	nitrogenase iron protein NifH	Paeniclostridium sordellii 8483	8483	GCF_001023455.2
-67612290	RefSeq	NZ_CDLJ01000002.1	1499192	1499941	-	WP_054630102.1	nitrogenase iron protein NifH	Paeniclostridium sordellii	JGS6364	GCF_900000185.1
-67612290	RefSeq	NZ_CDNQ01000003.1	385593	386342	+	WP_054630102.1	nitrogenase iron protein NifH	Paeniclostridium sordellii	SSCC32135	GCF_001372915.1
-67612290	INSDC	CDLJ01000002.1	1499192	1499941	-	CEK30813.1	nitrogenase iron protein NifH	Paeniclostridium sordellii	JGS6364	GCA_900000185.2
-67612290	INSDC	CDNQ01000003.1	385593	386342	+	CEO09769.1	nitrogenase iron protein NifH	Paeniclostridium sordellii	SSCC32135	GCA_001372915.1
-67612290	INSDC	JAASHB010000001.1	1185544	1186293	-	MBX9180470.1	AAA family ATPase	Paeniclostridium sordellii	K02	GCA_019734385.1
-67612290	INSDC	AJXR02000003.1	8708	9457	-	TAN69667.1	nitrogenase iron protein	Paeniclostridium sordellii 8483	8483	GCA_001023455.2

@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-91176004	RefSeq	NZ_CP010802.1	2785548	2786426	-	WP_279330548.1	nitrogenase iron protein	Desulfuromonas soudanensis	WTL	GCF_001278055.1
-91176004	INSDC	CP010802.1	2785548	2786426	-	ALC17315.1	Mo-nitrogenase iron protein subunit NifH	Desulfuromonas soudanensis	WTL	GCA_001278055.1

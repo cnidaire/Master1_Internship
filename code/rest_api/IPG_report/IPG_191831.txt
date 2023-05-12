@@ -1,5 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-191831	INSDC	EU291980.1	1	558	+	ABZ89807.1	NifH	Sinorhizobium chiapanecum	ITTG S70	
-191831	INSDC	EU291983.1	1	558	+	ABZ89810.1	NifH	Ensifer mexicanus	ITTG S3	
-191831	INSDC	EU291984.1	1	558	+	ABZ89811.1	NifH	Sinorhizobium sp. ITTG S8	ITTG S8	
-191831	INSDC	Z95212.1	1	558	+	CAB08516.1	nifH	Sinorhizobium sp. BR827	BR827	

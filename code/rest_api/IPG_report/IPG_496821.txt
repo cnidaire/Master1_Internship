@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-496821	INSDC	U23648.1	1	327	+	AAA65420.1	nifH	Methanobrevibacter arboriphilus		

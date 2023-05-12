@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-363053979	RefSeq	NZ_JACBEM010000009.1	25224	25973	+	WP_191597208.1	nitrogenase iron protein NifH	Clostridium botulinum	2015006229-DFPST	GCF_014805305.1
-363053979	INSDC	JACBEM010000009.1	25224	25973	+	MBD5638013.1	AAA family ATPase	Clostridium botulinum	2015006229-DFPST	GCA_014805305.1

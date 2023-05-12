@@ -1,7 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-518341307	RefSeq	NZ_JAKGUD010000006.1	96911	97672	+	WP_236099333.1	nitrogenase iron protein NifH	Dethiosulfovibrio marinus	DSM 12537	GCF_021568875.1
-518341307	RefSeq	NZ_JAKGUF010000009.1	39744	40505	+	WP_236099333.1	nitrogenase iron protein NifH	Dethiosulfovibrio acidaminovorans	DSM 12590	GCF_021568805.1
-518341307	RefSeq	NZ_JAKGUG010000005.1	186164	186925	-	WP_236099333.1	nitrogenase iron protein NifH	Dethiosulfovibrio russensis	DSM 12538	GCF_021568855.1
-518341307	INSDC	JAKGUG010000005.1	186164	186925	-	MCF4114199.1	nitrogenase iron protein NifH	Dethiosulfovibrio russensis	DSM 12538	GCA_021568855.1
-518341307	INSDC	JAKGUD010000006.1	96911	97672	+	MCF4142611.1	nitrogenase iron protein NifH	Dethiosulfovibrio marinus	DSM 12537	GCA_021568875.1
-518341307	INSDC	JAKGUF010000009.1	39744	40505	+	MCF4145130.1	nitrogenase iron protein NifH	Dethiosulfovibrio acidaminovorans	DSM 12590	GCA_021568805.1

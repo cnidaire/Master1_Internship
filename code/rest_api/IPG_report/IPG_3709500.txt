@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-3709500	INSDC	KX650081.1	151	1017	+	AOG20751.1	NifH	Cloning vector pMON261406		

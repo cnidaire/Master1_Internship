@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-5376173	INSDC	DQ364804.1	1	327	+	ABD58953.1	NifH	Klebsiella sp. JT42	JT42	
-5376173	INSDC	JQ952674.1	1	327	+	AFP87411.1	dinitrogenase reductase	Lysinibacillus sp. BK-16	BK-16	

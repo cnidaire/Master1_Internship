@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-49030589	INSDC	JFBV01000001.1	5231560	5232312	+	EXG88111.1	nitrogenase subunit NifH (ATPase)	Clostridium sp. ASBs410	ASBs410	GCA_000585315.1

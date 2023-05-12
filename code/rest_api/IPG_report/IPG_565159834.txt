@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-565159834	INSDC	JAAENH010000240.1	428	1453	+	MCP4161081.1	nitrogen fixation protein NifH	Deltaproteobacteria bacterium		GCA_024224625.1

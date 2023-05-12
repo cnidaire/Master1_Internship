@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-499518589	RefSeq	NZ_JAJEPT010000010.1	54208	54975	+	WP_227574087.1	nitrogenase iron protein NifH	Blautia sp. CLA-AA-H275	CLA-AA-H275	GCF_020686995.1
-499518589	INSDC	JAJEPT010000010.1	54208	54975	+	MCC2154238.1	nitrogenase iron protein NifH	Blautia sp. CLA-AA-H275	CLA-AA-H275	GCA_020686995.1

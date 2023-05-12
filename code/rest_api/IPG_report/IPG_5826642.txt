@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-5826642	INSDC	DQ660368.1	1	319	+	ABG45943.1	NifH	Novosphingobium nitrogenifigens DSM 19370	Y88	

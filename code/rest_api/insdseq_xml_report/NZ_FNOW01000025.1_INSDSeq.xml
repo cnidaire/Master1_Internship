@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+<!DOCTYPE GBSet PUBLIC "-//NCBI//NCBI GBSeq/EN" "https://www.ncbi.nlm.nih.gov/dtd/NCBI_GBSeq.dtd">
+<GBSet>
+  <GBSeq>
+
+    <GBSeq_locus>NZ_FNOW01000025</GBSeq_locus>
+    <GBSeq_length>885</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>CON</GBSeq_division>
+    <GBSeq_update-date>04-MAY-2023</GBSeq_update-date>
+    <GBSeq_create-date>29-JUL-2017</GBSeq_create-date>
+    <GBSeq_definition>Allochromatium warmingii strain DSM 173, whole genome shotgun sequence</GBSeq_definition>
+    <GBSeq_primary-accession>NZ_FNOW01000025</GBSeq_primary-accession>
+    <GBSeq_accession-version>NZ_FNOW01000025.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>ref|NZ_FNOW01000025.1|</GBSeqid>
+      <GBSeqid>gi|1223296967</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_project>PRJNA224116</GBSeq_project>
+    <GBSeq_keywords>
+      <GBKeyword>WGS</GBKeyword>
+      <GBKeyword>RefSeq</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Allochromatium warmingii</GBSeq_source>
+    <GBSeq_organism>Allochromatium warmingii</GBSeq_organism>
+    <GBSeq_taxonomy>Bacteria; Pseudomonadota; Gammaproteobacteria; Chromatiales; Chromatiaceae; Allochromatium</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..885</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Varghese,N.</GBAuthor>
+          <GBAuthor>Submissions,S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (20-OCT-2016) DOE - JOINT GENOME INSTITUTE, LBNL, 2800 Mitchell Drive, Walnut Creek, CA 94598, 94598, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>REFSEQ INFORMATION: The reference sequence is identical to FNOW01000025.1.; The annotation was added by the NCBI Prokaryotic Genome Annotation Pipeline (PGAP). Information about PGAP can be found here: https://www.ncbi.nlm.nih.gov/genome/annotation_prok/; ##Genome-Annotation-Data-START## ; Annotation Provider :: NCBI RefSeq ; Annotation Date :: 05/04/2023 00:49:51 ; Annotation Pipeline :: NCBI Prokaryotic Genome Annotation Pipeline (PGAP) ; Annotation Method :: Best-placed reference protein set; GeneMarkS-2+ ; Annotation Software revision :: 6.5 ; Features Annotated :: Gene; CDS; rRNA; tRNA; ncRNA ; Genes (total) :: 2,754 ; CDSs (total) :: 2,700 ; Genes (coding) :: 2,638 ; CDSs (with protein) :: 2,638 ; Genes (RNA) :: 54 ; rRNAs :: 2, 3, 1 (5S, 16S, 23S) ; complete rRNAs :: 2, 1 (5S, 23S) ; partial rRNAs :: 3 (16S) ; tRNAs :: 44 ; ncRNAs :: 4 ; Pseudo Genes (total) :: 62 ; CDSs (without protein) :: 62 ; Pseudo Genes (ambiguous residues) :: 0 of 62 ; Pseudo Genes (frameshifted) :: 8 of 62 ; Pseudo Genes (incomplete) :: 53 of 62 ; Pseudo Genes (internal stop) :: 6 of 62 ; Pseudo Genes (multiple problems) :: 5 of 62 ; CRISPR Arrays :: 1 ; ##Genome-Annotation-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..885</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>885</GBInterval_to>
+            <GBInterval_accession>NZ_FNOW01000025.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Allochromatium warmingii</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>DSM 173</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>type_material</GBQualifier_name>
+            <GBQualifier_value>type strain of Allochromatium warmingii</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:61595</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>contig: Ga0121168_125</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..885</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>885</GBInterval_to>
+            <GBInterval_accession>NZ_FNOW01000025.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>nifH</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>locus_tag</GBQualifier_name>
+            <GBQualifier_value>BLW10_RS08765</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>old_locus_tag</GBQualifier_name>
+            <GBQualifier_value>SAMN05421644_12526</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..885</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>885</GBInterval_to>
+            <GBInterval_accession>NZ_FNOW01000025.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>nifH</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>locus_tag</GBQualifier_name>
+            <GBQualifier_value>BLW10_RS08765</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>old_locus_tag</GBQualifier_name>
+            <GBQualifier_value>SAMN05421644_12526</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>EC_number</GBQualifier_name>
+            <GBQualifier_value>1.18.6.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>COORDINATES: similar to AA sequence:RefSeq:WP_012971078.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>GO_component</GBQualifier_name>
+            <GBQualifier_value>GO:0016611 - iron-iron nitrogenase complex [Evidence IEA]; GO:0016612 - molybdenum-iron nitrogenase complex [Evidence IEA]; GO:0016613 - vanadium-iron nitrogenase complex [Evidence IEA]</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>GO_function</GBQualifier_name>
+            <GBQualifier_value>GO:0016163 - nitrogenase activity [Evidence IEA]</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>GO_process</GBQualifier_name>
+            <GBQualifier_value>GO:0009399 - nitrogen fixation [Evidence IEA]</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>Derived by automated computational analysis using gene prediction method: Protein Homology.</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>11</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>nitrogenase iron protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>WP_091333977.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MAMRQCAIYGKGGIGKSTTTQNLVAGLAEQGKKVMIVGCDPKADSTRLILHSKAQNTIMEMAAEAGSVEDLELEDVLKVGYGNIKCVESGGPEPGVGCAGRGVITAINFLEEEGAYEADLDFVFYDVLGDVVCGGFAMPIRENKAQEIYIVCSGEMMAMFAANNIAKGIVKYASSGGVRLAGLICNSRNTAREDELIMELARQLGTQMIHFVPRDNVVQRAEIRRMTVIEYDPKCKQADEYRTLAQKIIDNKMFVVPTPISMDALEDLLMEFGLMDGEDESIIGKTAAEEAATA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggcaatgcgtcaatgcgcaatctacggtaaaggcggaatcggcaagtctaccaccacgcagaatctggtggccggtctggccgaacagggtaagaaagtcatgatcgtcggctgtgacccgaaggctgactccacccgcctgatcctgcactccaaagcacagaataccatcatggagatggccgccgaagctggttcggtggaagacctcgaactggaagatgtgctcaaagtcgggtacggcaacatcaagtgtgttgagtccggcggccccgagccgggtgttggctgcgctggtcgcggcgttatcaccgccatcaacttcttagaagaagaaggcgcttacgaggctgatctggacttcgtgttctatgacgtattgggcgacgtggtgtgcggcggctttgctatgccgatccgcgaaaacaaagcccaagaaatctacatcgtttgctccggcgaaatgatggccatgtttgctgccaataacatcgccaaaggcatcgtgaaatacgccagctccggcggcgtgcgtctggctggtttgatttgcaacagccgtaataccgcccgtgaagacgagctgattatggaattggcgcgtcagcttggcacccagatgattcatttcgtcccgcgtgacaatgttgtgcaacgcgctgaaattcgccgcatgacggtgatcgaatacgacccgaaatgcaagcaagccgatgaatatcgcacgctggcgcaaaagatcatcgataacaagatgttcgtggtgccgacgccgatctcaatggatgcgcttgaagatctgctgatggaattcggcctcatggatggcgaagacgaaagcatcatcggcaaaaccgctgctgaagaagctgctaccgcttaa</GBSeq_sequence>
+    <GBSeq_xrefs>
+      <GBXref>
+        <GBXref_dbname>BioProject</GBXref_dbname>
+        <GBXref_id>PRJNA224116</GBXref_id>
+      </GBXref>
+      <GBXref>
+        <GBXref_dbname>BioSample</GBXref_dbname>
+        <GBXref_id>SAMN05421644</GBXref_id>
+      </GBXref>
+      <GBXref>
+        <GBXref_dbname>Assembly</GBXref_dbname>
+        <GBXref_id>GCF_900107145.1</GBXref_id>
+      </GBXref>
+    </GBSeq_xrefs>
+  </GBSeq>
+
+</GBSet>

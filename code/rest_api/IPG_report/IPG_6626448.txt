@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-6626448	RefSeq	NC_009135.1	632911	633738	+	WP_011868423.1	nitrogenase iron protein	Methanococcus maripaludis C5	C5	GCF_000016125.1
-6626448	INSDC	CP000609.1	632911	633738	+	ABO34969.1	Mo-nitrogenase iron protein subunit NifH	Methanococcus maripaludis C5	C5	GCA_000016125.1

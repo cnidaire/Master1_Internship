@@ -1,4 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-53497961	RefSeq	NZ_ASQQ01000740.1	3657	4523	+	WP_025700027.1	nitrogenase iron protein NifH	Paenibacillus durus ATCC 35681	ATCC 35681	GCF_000520635.1
-53497961	RefSeq	NZ_CP011114.1	4072415	4073281	-	WP_025700027.1	nitrogenase iron protein NifH	Paenibacillus durus ATCC 35681	ATCC 35681	GCF_000993825.1
-53497961	INSDC	CP011114.1	4072415	4073281	-	AKG36391.1	nitrogenase iron protein	Paenibacillus durus ATCC 35681	ATCC 35681	GCA_000993825.1

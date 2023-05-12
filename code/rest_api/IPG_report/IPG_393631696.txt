@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-393631696	INSDC	JADJPO010000001.1	116354	117379	-	MBK8074052.1	nitrogen fixation protein NifH	Kineosporiaceae bacterium		GCA_016713225.1

@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-342858063	INSDC	BLYN01000139.1	26104	26895	+	GFO97745.1	nitrogenase iron protein subunit NifH	groundwater metagenome		GCA_014132295.1

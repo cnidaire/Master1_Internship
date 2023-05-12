@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-4179679	INSDC	AY768421.1	1	408	+	AAX82510.1	NifH	Tolypothrix sp. PCC 7601	PCC 7601	

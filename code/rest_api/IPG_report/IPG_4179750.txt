@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-4179750	INSDC	AY768418.1	1	346	+	AAX82507.1	NifH	Oscillatoria sancta PCC 7515	PCC 7515	

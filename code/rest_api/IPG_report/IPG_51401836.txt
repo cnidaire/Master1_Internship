@@ -1,5 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-51401836	RefSeq	NZ_AZRA01000068.1	35910	36791	+	WP_037482871.1	nitrogenase iron protein	Sphaerotilus natans subsp. natans DSM 6575	DSM 6575	GCF_000689195.1
-51401836	RefSeq	NZ_FTMZ01000024.1	31235	32116	-	WP_037482871.1	nitrogenase iron protein	Sphaerotilus natans	ATCC 13338	GCF_900156335.1
-51401836	INSDC	AZRA01000068.1	35910	36791	+	KDB51755.1	nitrogenase iron protein	Sphaerotilus natans subsp. natans DSM 6575	DSM 6575	GCA_000689195.1
-51401836	INSDC	FTMZ01000024.1	31235	32116	-	SIR96482.1	Mo-nitrogenase iron protein subunit NifH	Sphaerotilus natans	ATCC 13338	GCA_900156335.1

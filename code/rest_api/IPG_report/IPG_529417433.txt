@@ -1,4 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-529417433	INSDC	JAKVKR010000020.1	6296	7072	-	MCH4167153.1	nitrogenase iron protein NifH	Megasphaera sp.		GCA_022484785.1
-529417433	INSDC	JAKVKI010000023.1	23167	23943	+	MCH4188335.1	nitrogenase iron protein NifH	Megasphaera sp.		GCA_022486585.1
-529417433	INSDC	JAKVJU010000020.1	4782	5558	-	MCH4218184.1	nitrogenase iron protein NifH	Megasphaera sp.		GCA_022486845.1

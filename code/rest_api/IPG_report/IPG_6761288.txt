@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-6761288	RefSeq	NC_008942.1	1051819	1052565	-	WP_011833413.1	nitrogenase iron protein NifH	Methanocorpusculum labreanum Z	Z	GCF_000015765.1
-6761288	INSDC	CP000559.1	1051819	1052565	-	ABN07210.1	nitrogenase iron protein subunit NifH	Methanocorpusculum labreanum Z	Z	GCA_000015765.1

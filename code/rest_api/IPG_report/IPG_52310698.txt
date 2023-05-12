@@ -1,7 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-52310698	RefSeq	NZ_ATHP01000001.1	71045	71794	-	WP_024786731.1	nitrogenase iron protein NifH	Lebetimonas sp. JH369	JH369	GCF_000522965.1
-52310698	RefSeq	NZ_ATHQ01000001.1	70472	71221	-	WP_024786731.1	nitrogenase iron protein NifH	Lebetimonas sp. JH292	JH292	GCF_000523275.1
-52310698	RefSeq	NZ_ATHR01000001.1	71021	71770	-	WP_024786731.1	nitrogenase iron protein NifH	Lebetimonas sp. JS085	JS085	GCF_000523295.1
-52310698	RefSeq	NZ_ATHS01000001.1	71032	71781	-	WP_024786731.1	nitrogenase iron protein NifH	Lebetimonas sp. JS032	JS032	GCF_000523315.1
-52310698	RefSeq	NZ_ATHT01000001.1	71051	71800	-	WP_024786731.1	nitrogenase iron protein NifH	Lebetimonas sp. JS138	JS138	GCF_000523335.1
-52310698	RefSeq	NZ_ATHU01000001.1	71053	71802	-	WP_024786731.1	nitrogenase iron protein NifH	Lebetimonas sp. JS170	JS170	GCF_000523355.1

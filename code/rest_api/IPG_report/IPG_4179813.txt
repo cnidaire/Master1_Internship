@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-4179813	INSDC	AY768423.1	1	408	-	AAX82511.1	NifH	Anabaena cylindrica	UTEX B629	

@@ -1,5 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-93012355	RefSeq	NZ_CYXO01000015.1	28877	29707	-	WP_055214822.1	nitrogenase iron protein NifH	Dorea longicatena	2789STDY5834961	GCF_001405975.1
-93012355	RefSeq	NZ_WWSB01000011.1	81945	82775	+	WP_055214822.1	nitrogenase iron protein NifH	Dorea longicatena	BIOML-A7	GCF_009875635.1
-93012355	INSDC	CYXO01000015.1	28877	29707	-	CUN17828.1	Nitrogenase iron protein 1	Dorea longicatena	2789STDY5834961	GCA_001405975.1
-93012355	INSDC	WWSB01000011.1	81945	82775	+	MZK18372.1	AAA family ATPase	Dorea longicatena	BIOML-A7	GCA_009875635.1

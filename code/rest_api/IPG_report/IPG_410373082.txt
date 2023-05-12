@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-410373082	INSDC	JAFGBU010000044.1	50785	51552	-	MBN2141582.1	nitrogen fixation protein NifH	Desulfovibrionaceae bacterium		GCA_016932995.1

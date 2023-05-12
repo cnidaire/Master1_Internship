@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-56094226	RefSeq	NZ_KE384172.1	50251	51012	-	WP_028088528.1	nitrogenase iron protein NifH	Dorea longicatena AGR2136	AGR2136	GCF_000424345.1

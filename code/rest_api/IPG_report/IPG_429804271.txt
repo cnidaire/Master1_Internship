@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-429804271	RefSeq	NZ_CP072874.1	1945199	1946005	+	WP_210684319.1	nitrogenase iron protein NifH	Phascolarctobacterium sp. Marseille-Q4147	Marseille-Q4147	GCF_017968825.1
-429804271	INSDC	CP072874.1	1945199	1946005	+	QTV77452.1	AAA family ATPase	Phascolarctobacterium sp. Marseille-Q4147	Marseille-Q4147	GCA_017968825.1

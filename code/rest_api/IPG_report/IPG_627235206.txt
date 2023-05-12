@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-627235206	RefSeq	NZ_JARBXM010000002.1	10283	11161	+	WP_274871821.1	nitrogenase iron protein NifH	Methanosphaera sp. Vir-13MRS	Vir-13MRS	GCF_028890305.1

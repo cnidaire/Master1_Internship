@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-537331575	INSDC	JALEUG010000009.1	29625	30392	-	MCI6673220.1	nitrogenase iron protein NifH	Spirochaetaceae bacterium		GCA_022781115.1

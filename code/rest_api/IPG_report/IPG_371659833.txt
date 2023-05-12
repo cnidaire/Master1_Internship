@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-371659833	INSDC	JABZPP010000108.1	1	465	+	MBF1331140.1	nitrogen fixation protein NifH	Megasphaera micronuciformis		GCA_015264065.1

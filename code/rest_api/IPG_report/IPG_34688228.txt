@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-34688228	INSDC	AORV01000033.1	118639	119232	-	EMS71841.1	Nitrogenase subunit NifH (ATPase)	Ruminiclostridium cellobioparum subsp. termitidis CT1112	CT1112	GCA_000350485.1

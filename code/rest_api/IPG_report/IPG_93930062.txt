@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-93930062	INSDC	KR262786.1	1	551	+	ALJ55638.1	NifH	Rhizobium sp. 1532	1532	

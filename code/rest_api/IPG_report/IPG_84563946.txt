@@ -1,5 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-84563946	RefSeq	NZ_JACHFI010000014.1	67984	68301	-	WP_048500465.1	hypothetical protein	Chryseobacterium koreense	DSM 25209	GCF_014201785.1
-84563946	RefSeq	NZ_LFNG01000022.1	15472	15789	-	WP_048500465.1	hypothetical protein	Chryseobacterium koreense CCUG 49689	CCUG 49689	GCF_001045435.1
-84563946	INSDC	LFNG01000022.1	15472	15789	-	KMQ70314.1	hypothetical protein	Chryseobacterium koreense CCUG 49689	CCUG 49689	GCA_001045435.1
-84563946	INSDC	JACHFI010000014.1	67984	68301	-	MBB5334482.1	nitrogenase subunit NifH	Chryseobacterium koreense	DSM 25209	GCA_014201785.1

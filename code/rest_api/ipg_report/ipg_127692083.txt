@@ -1,0 +1,5 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+127692083	RefSeq	NZ_CANTGT010000051.1	4535	5413	+	WP_091687240.1	nitrogenase iron protein	Anaerocolumna aminovalerica		GCF_947653275.1
+127692083	RefSeq	NZ_FOWD01000022.1	9577	10455	+	WP_091687240.1	nitrogenase iron protein	Anaerocolumna aminovalerica	DSM 1283	GCF_900115365.1
+127692083	RefSeq	NZ_OAOG01000005.1	76174	77052	+	WP_091687240.1	nitrogenase iron protein	Anaerocolumna aminovalerica		GCF_900205915.1
+127692083	INSDC	FOWD01000022.1	9577	10455	+	SFO38867.1	nitrogenase iron protein NifH	Anaerocolumna aminovalerica	DSM 1283	GCA_900115365.1

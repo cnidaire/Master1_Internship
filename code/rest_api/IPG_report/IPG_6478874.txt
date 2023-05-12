@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-6478874	INSDC	EF107640.1	1	319	+	ABL59969.1	NifH	mangrove root bacterium HS001		

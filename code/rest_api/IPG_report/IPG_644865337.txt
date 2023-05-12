@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-644865337	RefSeq	NZ_CAJLOI010000008.1	23555	24451	+	WP_278525176.1	nitrogenase iron protein NifH	Eubacterium ramulus		GCF_905208265.1

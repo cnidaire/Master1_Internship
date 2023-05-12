@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-410798222	INSDC	JAFGHK010000034.1	7687	8736	+	MBN1692636.1	nitrogen fixation protein NifH	Dehalococcoidales bacterium		GCA_016930185.1

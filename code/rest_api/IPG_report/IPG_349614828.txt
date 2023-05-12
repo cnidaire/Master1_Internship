@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-349614828	RefSeq	NZ_JACHDI010000022.1	97833	98714	+	WP_184053497.1	nitrogenase iron protein	Paraburkholderia sp. MM5384-R2	MM5384-R2	GCF_014201025.1
-349614828	INSDC	JACHDI010000022.1	97833	98714	+	MBB5501711.1	nitrogenase iron protein NifH	Paraburkholderia sp. MM5384-R2	MM5384-R2	GCA_014201025.1

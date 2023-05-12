@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-99643	INSDC	AF227926.1	1	327	+	AAG23893.1	dinitrogenase reductase NifH	Maridesulfovibrio salexigens		

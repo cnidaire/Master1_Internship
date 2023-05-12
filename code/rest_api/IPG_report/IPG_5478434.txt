@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-5478434	INSDC	DQ413017.1	1	715	+	ABD73334.1	NifH	Rhizobium gallicum bv. gallicum		

@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-42835023	INSDC	AUZZ01008411.1	1	530	-	EQD38047.1	nitrogenase subunit NifH (ATPase)-like protein	mine drainage metagenome		GCA_000448305.1

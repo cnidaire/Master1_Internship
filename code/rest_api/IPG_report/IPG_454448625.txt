@@ -1,4 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-454448625	RefSeq	NZ_BOQA01000001.1	147647	148390	+	WP_220795717.1	nitrogenase iron protein NifH	Paraclostridium bifermentans subsp. muricolitidis	PAGU 1678	GCF_019650315.1
-454448625	RefSeq	NZ_CAJMJR010000009.1	63295	64038	-	WP_220795717.1	nitrogenase iron protein NifH	Paraclostridium bifermentans		GCF_905213795.1
-454448625	INSDC	BOQA01000001.1	147647	148390	+	GIM30866.1	nitrogenase iron protein	Paraclostridium bifermentans subsp. muricolitidis	PAGU 1678	GCA_019650315.1

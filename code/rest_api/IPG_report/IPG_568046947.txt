@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-568046947	INSDC	JAKSRC010000003.1	20168	20923	+	MCQ2472908.1	nitrogenase iron protein NifH	Saccharofermentans sp.		GCA_024403855.1

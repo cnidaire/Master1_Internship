@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-364400267	INSDC	RKFU01000033.1	29057	29818	+	MBD8914137.1	nitrogen fixation protein NifH	Ruminococcus bicirculans		GCA_014848475.1

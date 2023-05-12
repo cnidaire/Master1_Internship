@@ -1,4 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-40163719	RefSeq	NZ_FNZK01000024.1	41021	41848	-	WP_019552121.1	nitrogenase iron protein	Propionispira arboris	DSM 2179	GCF_900109225.1
-40163719	RefSeq	NZ_KB905840.1	19428	20255	+	WP_019552121.1	nitrogenase iron protein	Propionispira raffinosivorans DSM 20765	DSM 20765	GCF_000381065.1
-40163719	INSDC	FNZK01000024.1	41021	41848	-	SEJ92155.1	nitrogenase iron protein NifH	Propionispira arboris	DSM 2179	GCA_900109225.1

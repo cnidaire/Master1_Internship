@@ -1,5 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-38370565	RefSeq	NZ_ANOY02001113.1	2856	3737	-	WP_017760488.1	nitrogenase iron protein	Pseudacidovorax intermedius NH-1	NH-1	GCF_000333675.2
-38370565	RefSeq	NZ_QQAV01000006.1	216424	217305	+	WP_017760488.1	nitrogenase iron protein	Pseudacidovorax intermedius	DSM 21352	GCF_003350475.1
-38370565	INSDC	KM103912.1	1	882	+	AKA64682.1	NifH	Pseudacidovorax intermedius NH-1		
-38370565	INSDC	QQAV01000006.1	216424	217305	+	RDI23500.1	Mo-nitrogenase iron protein subunit NifH	Pseudacidovorax intermedius	DSM 21352	GCA_003350475.1

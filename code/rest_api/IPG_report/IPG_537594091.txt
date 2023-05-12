@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-537594091	INSDC	JALFKT010000001.1	39490	40359	+	MCI7116177.1	nitrogenase iron protein NifH	Sutterella wadsworthensis		GCA_022774425.1

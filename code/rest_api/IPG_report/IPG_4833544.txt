@@ -1,4 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-4833544	INSDC	GQ249664.1	1	329	+	ACV49864.1	NifH	Pseudacidovorax sp. ptl-2	ptl-2	
-4833544	INSDC	AM110708.1	1	330	+	CAJ33833.1	putative nitrogenase	Burkholderia vietnamiensis		
-4833544	INSDC	AM110707.1	1	332	+	CAJ33849.1	putative nitrogenase	Burkholderia vietnamiensis		

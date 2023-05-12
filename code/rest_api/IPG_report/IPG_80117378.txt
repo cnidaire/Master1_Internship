@@ -1,5 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-80117378	RefSeq	NZ_CP009520.1	1178944	1179765	-	WP_048118840.1	nitrogenase iron protein	Methanosarcina vacuolata Z-761	Z-761	GCF_000969905.1
-80117378	RefSeq	NZ_CP009524.1	1158247	1159068	-	WP_048118840.1	nitrogenase iron protein	Methanosarcina sp. Kolksee	Kolksee	GCF_000969945.1
-80117378	INSDC	CP009520.1	1178944	1179765	-	AKB43227.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Methanosarcina vacuolata Z-761	Z-761	GCA_000969905.1
-80117378	INSDC	CP009524.1	1158247	1159068	-	AKB46704.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Methanosarcina sp. Kolksee	Kolksee	GCA_000969945.1

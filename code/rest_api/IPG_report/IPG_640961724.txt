@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-640961724	RefSeq	NZ_CAMESN010000002.1	70658	71464	+	WP_277227712.1	nitrogenase iron protein NifH	Phascolarctobacterium succinatutens		GCF_945936145.1

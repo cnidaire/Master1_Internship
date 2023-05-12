@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-92139781	RefSeq	NZ_LN876585.1	43256	44005	+	WP_053955217.1	nitrogenase iron protein NifH	Inediibacterium massiliense	Mt12	GCF_001282725.1

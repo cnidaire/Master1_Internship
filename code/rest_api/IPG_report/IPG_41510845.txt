@@ -1,7 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-41510845	RefSeq	NZ_JAJCJL010000005.1	36607	37386	+	WP_021908048.1	nitrogenase iron protein NifH	Anaerobutyricum hallii	DFI.9.38	GCF_020557405.1
-41510845	INSDC	CAXQ010000180.1	9335	10114	-	CCY14121.1	putative nitrogenase iron protein	Eubacterium sp. CAG:146		GCA_000431695.1
-41510845	INSDC	HF989122.1	69463	70242	-	CCY14121.1	putative nitrogenase iron protein	Eubacterium sp. CAG:146		GCA_000431695.1
-41510845	INSDC	JAGZVS010000011.1	36513	37292	+	MBS6774404.1	P-loop NTPase	Eubacterium sp.		GCA_018379315.1
-41510845	INSDC	JAJCJL010000005.1	36607	37386	+	MCB6934147.1	nitrogenase iron protein NifH	Anaerobutyricum hallii	DFI.9.38	GCA_020557405.1
-41510845	INSDC	MNSI01000032.1	84189	84968	-	OLA06593.1	nitrogen fixation protein NifH	Eubacterium sp. 38_16		GCA_001916385.1

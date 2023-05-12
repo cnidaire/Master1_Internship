@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-78730035	INSDC	JZJI01000798.1	11205	12047	+	KJR40986.1	Mo-nitrogenase iron protein subunit NifH	Candidatus Magnetoovum chiemensis	CS-04	GCA_000960725.1

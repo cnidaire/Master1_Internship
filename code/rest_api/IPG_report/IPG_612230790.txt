@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-612230790	RefSeq	NZ_JAQDBP010000002.1	186575	187336	-	WP_270497564.1	nitrogenase iron protein NifH	Blautia intestinalis	AF60-20pH9A	GCF_027681425.1

@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-354208661	RefSeq	NZ_CP060635.1	2783073	2783915	+	WP_249328468.1	nitrogenase iron protein NifH	Wansuia hejianensis	NSJ-29	GCF_014337215.1
-354208661	INSDC	CP060635.1	2783073	2783915	+	QNM07816.1	AAA family ATPase	Wansuia hejianensis	NSJ-29	GCA_014337215.1

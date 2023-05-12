@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-87296241	INSDC	LN713525.1	1	753	+	CEK41223.1	NifH	Mesorhizobium tamadayense	CCANP122	

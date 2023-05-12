@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-644895427	RefSeq	NZ_CAJKTP010000001.1	582466	583320	+	WP_278568238.1	nitrogenase iron protein NifH	Intestinibacter bartlettii		GCF_905202855.1

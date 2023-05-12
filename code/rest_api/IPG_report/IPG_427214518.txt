@@ -1,4 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-427214518	RefSeq	NZ_JAGGKL010000008.1	98049	98846	+	WP_209626306.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanobacterium petrolearium	DSM 22353	GCF_017873625.1
-427214518	INSDC	AP027739.1	951373	952170	-	BDZ70536.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanobacterium petrolearium	NBRC 105198	
-427214518	INSDC	JAGGKL010000008.1	98049	98846	+	MBP1946436.1	nitrogenase iron protein NifH	Methanobacterium petrolearium	DSM 22353	GCA_017873625.1

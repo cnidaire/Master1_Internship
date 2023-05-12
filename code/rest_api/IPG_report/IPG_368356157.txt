@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-368356157	INSDC	SVDJ01000013.1	8330	9145	+	MBE6006437.1	nitrogen fixation protein NifH	Sarcina sp.		GCA_015058005.1
-368356157	INSDC	JAFRGF010000072.1	37107	37922	-	MBQ6591058.1	AAA family ATPase	Lachnospiraceae bacterium		GCA_017433925.1

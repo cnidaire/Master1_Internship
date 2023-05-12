@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-39363640	RefSeq	NZ_KB895376.1	562596	563351	-	WP_018750276.1	nitrogenase iron protein NifH	Paenibacillus sanguinis 2301083 = DSM 16941	DSM 16941	GCF_000374825.1

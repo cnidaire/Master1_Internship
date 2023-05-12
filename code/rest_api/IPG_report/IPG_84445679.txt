@@ -1,7 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-84445679	RefSeq	NZ_FUXD01000024.1	16822	17640	+	WP_048515317.1	nitrogenase iron protein	Megasphaera cerevisiae DSM 20462	DSM 20462	GCF_900167325.1
-84445679	RefSeq	NZ_LEKT01000060.1	15674	16492	+	WP_048515317.1	nitrogenase iron protein	Megasphaera cerevisiae DSM 20462	DSM 20462	GCF_001045675.1
-84445679	RefSeq	NZ_MQNM01000031.1	11758	12576	+	WP_048515317.1	nitrogenase iron protein	Megasphaera cerevisiae	NSB1	GCF_001913815.1
-84445679	INSDC	LEKT01000060.1	15674	16492	+	KMO85513.1	nitrogenase reductase	Megasphaera cerevisiae DSM 20462	DSM 20462	GCA_001045675.1
-84445679	INSDC	MQNM01000031.1	11758	12576	+	OKY53083.1	nitrogenase iron protein	Megasphaera cerevisiae	NSB1	GCA_001913815.1
-84445679	INSDC	FUXD01000024.1	16822	17640	+	SJZ95867.1	Mo-nitrogenase iron protein subunit NifH	Megasphaera cerevisiae DSM 20462	DSM 20462	GCA_900167325.1

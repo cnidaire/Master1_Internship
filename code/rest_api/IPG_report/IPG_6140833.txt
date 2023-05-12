@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-6140833	INSDC	AJ968688.1	1	320	+	CAI91557.1	NifH protein	Microbacterium sp. ORS 1472	ORS 1472	

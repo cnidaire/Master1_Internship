@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+<!DOCTYPE GBSet PUBLIC "-//NCBI//NCBI GBSeq/EN" "https://www.ncbi.nlm.nih.gov/dtd/NCBI_GBSeq.dtd">
+<GBSet>
+  <GBSeq>
+
+    <GBSeq_locus>NZ_FNAM01000008</GBSeq_locus>
+    <GBSeq_length>816</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>CON</GBSeq_division>
+    <GBSeq_update-date>04-MAY-2023</GBSeq_update-date>
+    <GBSeq_create-date>29-JUL-2017</GBSeq_create-date>
+    <GBSeq_definition>Sporomusa acidovorans strain Mol, whole genome shotgun sequence</GBSeq_definition>
+    <GBSeq_primary-accession>NZ_FNAM01000008</GBSeq_primary-accession>
+    <GBSeq_accession-version>NZ_FNAM01000008.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>ref|NZ_FNAM01000008.1|</GBSeqid>
+      <GBSeqid>gi|1225800950</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_project>PRJNA224116</GBSeq_project>
+    <GBSeq_keywords>
+      <GBKeyword>WGS</GBKeyword>
+      <GBKeyword>RefSeq</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Sporomusa acidovorans</GBSeq_source>
+    <GBSeq_organism>Sporomusa acidovorans</GBSeq_organism>
+    <GBSeq_taxonomy>Bacteria; Bacillota; Negativicutes; Selenomonadales; Sporomusaceae; Sporomusa</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..816</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Varghese,N.</GBAuthor>
+          <GBAuthor>Submissions,S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (10-OCT-2016) DOE - JOINT GENOME INSTITUTE, LBNL, 2800 Mitchell Drive, Walnut Creek, CA 94598, 94598, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>REFSEQ INFORMATION: The reference sequence is identical to FNAM01000008.1.; The annotation was added by the NCBI Prokaryotic Genome Annotation Pipeline (PGAP). Information about PGAP can be found here: https://www.ncbi.nlm.nih.gov/genome/annotation_prok/; ##Genome-Annotation-Data-START## ; Annotation Provider :: NCBI RefSeq ; Annotation Date :: 05/04/2023 00:57:46 ; Annotation Pipeline :: NCBI Prokaryotic Genome Annotation Pipeline (PGAP) ; Annotation Method :: Best-placed reference protein set; GeneMarkS-2+ ; Annotation Software revision :: 6.5 ; Features Annotated :: Gene; CDS; rRNA; tRNA; ncRNA ; Genes (total) :: 5,922 ; CDSs (total) :: 5,804 ; Genes (coding) :: 5,724 ; CDSs (with protein) :: 5,724 ; Genes (RNA) :: 118 ; rRNAs :: 2, 8, 4 (5S, 16S, 23S) ; complete rRNAs :: 2 (5S) ; partial rRNAs :: 8, 4 (16S, 23S) ; tRNAs :: 99 ; ncRNAs :: 5 ; Pseudo Genes (total) :: 80 ; CDSs (without protein) :: 80 ; Pseudo Genes (ambiguous residues) :: 0 of 80 ; Pseudo Genes (frameshifted) :: 23 of 80 ; Pseudo Genes (incomplete) :: 58 of 80 ; Pseudo Genes (internal stop) :: 8 of 80 ; Pseudo Genes (multiple problems) :: 8 of 80 ; CRISPR Arrays :: 5 ; ##Genome-Annotation-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..816</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>816</GBInterval_to>
+            <GBInterval_accession>NZ_FNAM01000008.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Sporomusa acidovorans</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>Mol</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>type_material</GBQualifier_name>
+            <GBQualifier_value>type strain of Sporomusa acidovorans</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:112900</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>contig: Ga0070593_1008</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>803..&gt;816</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>803</GBInterval_from>
+            <GBInterval_to>816</GBInterval_to>
+            <GBInterval_accession>NZ_FNAM01000008.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>locus_tag</GBQualifier_name>
+            <GBQualifier_value>BLR65_RS07555</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>old_locus_tag</GBQualifier_name>
+            <GBQualifier_value>SAMN04488499_100812</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>803..&gt;816</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>803</GBInterval_from>
+            <GBInterval_to>816</GBInterval_to>
+            <GBInterval_accession>NZ_FNAM01000008.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>locus_tag</GBQualifier_name>
+            <GBQualifier_value>BLR65_RS07555</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>old_locus_tag</GBQualifier_name>
+            <GBQualifier_value>SAMN04488499_100812</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>COORDINATES: protein motif:HMM:NF012375.2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>GO_function</GBQualifier_name>
+            <GBQualifier_value>GO:0016491 - oxidoreductase activity [Evidence IEA]</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>Derived by automated computational analysis using gene prediction method: Protein Homology.</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>11</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>nitrogenase component 1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>WP_093793586.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MVMNKQAATVCKRGYSCTMPGVWRAVSHNEGAVVIYHSPKACGHIGREMDLGMHFRSLVERQFCPEQYAAPLIISGLQAEHSVFGGAELLRKCIEYAARRYKPKYILIANSCVAGVIGDDTAAVASDAEADLRLPVMSVPCYGYLDGDYYTGFYHAGIKLAERFMTRQPKLSHTVTLLGDRGGPSGTDVQEFKRMFAYFGLIVHSHFPAFASLEDIKRVPCSAMTIPLSGTKMSYPWIRKLGMKLDELLSIPFFDGDDPTGWQATSGWLTELGRFLQQEQAAAVAVEMERTRLTRHIAECGPLLKGKKIVLCIGRPLTYFDPAWVLELISLYGIIVIGVAVLDEMLTKKQECNLRQELRQQKEIFCFSRSEGNAVLFEAADFVITTHELPDVRKKQLFLPLLPLAGVGGIITLMTKLVQLAQRHERRGGILYV</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..816</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>816</GBInterval_to>
+            <GBInterval_accession>NZ_FNAM01000008.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>locus_tag</GBQualifier_name>
+            <GBQualifier_value>BLR65_RS07560</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>old_locus_tag</GBQualifier_name>
+            <GBQualifier_value>SAMN04488499_100813</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..816</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>816</GBInterval_to>
+            <GBInterval_accession>NZ_FNAM01000008.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>locus_tag</GBQualifier_name>
+            <GBQualifier_value>BLR65_RS07560</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>old_locus_tag</GBQualifier_name>
+            <GBQualifier_value>SAMN04488499_100813</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>COORDINATES: similar to AA sequence:RefSeq:WP_009439609.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>Derived by automated computational analysis using gene prediction method: Protein Homology.</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>11</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>nitrogenase iron protein NifH</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>WP_093793587.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MQKKIAFYGKGGIGKSTTAANVSAALAENGYQVCQIGCDPKNDSTRLLLGRVCKQTVLDMVKKYGEEVKPEQIVHTGFGGVHCVEAGGPEPGVGCAGRGIIVALEKLKALQALPEEAIVLYDVLGDVVCGGFAVPIREGYATDIYIVSSGELMSLYAANNIAKGVARYAARGPVRLGGIIGNSRGLANEQALLQQFAERLNTRLVAYIPRDRTVNKAEIHRKTVIEFASTAPQAAVYRQLANFICENQELTVPTPLAFEDLEELVLAYGDE</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgcaaaaaaagattgccttttacggtaagggcggtattggcaagtctacgactgccgccaatgtatcggcagcgttggcggaaaacggctatcaggtctgccaaattggttgtgatcccaagaatgattcaacgcggctcttattagggcgggtttgcaagcaaacggttcttgatatggtgaaaaaatacggcgaagaggtaaaacccgagcaaattgtgcataccggttttggtggtgtacattgcgtggaggcgggagggcctgaaccgggggtaggctgcgccggccgcggcattattgtggcgctggaaaagctgaaagccttgcaggctttgcctgaggaagccattgtcctgtatgatgtactgggagatgtggtgtgcggcggttttgccgtacccatacgggaaggttacgcaaccgatatctatattgtttcctccggcgagcttatgtctctttatgctgccaataatattgccaagggagtggcccgctatgccgcgcggggaccggtacggcttggcggtattattggcaacagccgcgggcttgctaatgaacaagccctgctgcagcaatttgccgaacggttaaataccaggctggttgcctatattccccgggaccgcactgtcaataaggccgaaattcatcgtaagacggtaatagaatttgcgtcaactgcgccgcaagccgcggtttatcggcagttagccaattttatttgtgaaaatcaggaattaactgtgccaacccccctggcttttgaagatttagaagagttagtgcttgcctatggtgatgaataa</GBSeq_sequence>
+    <GBSeq_xrefs>
+      <GBXref>
+        <GBXref_dbname>BioProject</GBXref_dbname>
+        <GBXref_id>PRJNA224116</GBXref_id>
+      </GBXref>
+      <GBXref>
+        <GBXref_dbname>BioSample</GBXref_dbname>
+        <GBXref_id>SAMN04488499</GBXref_id>
+      </GBXref>
+      <GBXref>
+        <GBXref_dbname>Assembly</GBXref_dbname>
+        <GBXref_id>GCF_900101845.1</GBXref_id>
+      </GBXref>
+    </GBSeq_xrefs>
+  </GBSeq>
+
+</GBSet>

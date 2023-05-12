@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-4118805	INSDC	AY945954.1	1	344	+	AAX51297.1	NifH	Agrobacterium rhizogenes	ATCC 11325	

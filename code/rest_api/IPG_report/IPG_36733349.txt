@@ -1,9 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-36733349	RefSeq	NZ_AP023032.1	2433410	2434288	-	WP_016403298.1	nitrogenase iron protein	Agarivorans albus	JCM 21469	GCF_019670105.1
-36733349	RefSeq	NZ_BARX01000029.1	5014	5892	-	WP_016403298.1	nitrogenase iron protein	Agarivorans albus MKT 106	MKT 106	GCF_000414175.1
-36733349	RefSeq	NZ_BLPI01000001.1	4226432	4227310	+	WP_016403298.1	nitrogenase iron protein	Agarivorans litoreus	NBRC 110444	GCF_019649015.1
-36733349	RefSeq	NZ_CP088080.1	2968764	2969642	-	WP_016403298.1	nitrogenase iron protein	Agarivorans sp. B2Z047	B2Z047	GCF_023373605.1
-36733349	RefSeq	NZ_WHRY01000007.1	171171	172049	+	WP_016403298.1	nitrogenase iron protein	Agarivorans sp. B2Z047	B2Z047	GCF_009363235.1
-36733349	INSDC	BARX01000029.1	5014	5892	-	GAD03531.1	nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Agarivorans albus MKT 106	MKT 106	GCA_000414175.1
-36733349	INSDC	WHRY01000007.1	171171	172049	+	MPW30933.1	nitrogenase iron protein	Agarivorans sp. B2Z047	B2Z047	GCA_009363235.1
-36733349	INSDC	CP088080.1	2968764	2969642	-	UQN40839.1	nitrogenase iron protein	Agarivorans sp. B2Z047	B2Z047	GCA_023373605.1

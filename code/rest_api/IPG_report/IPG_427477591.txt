@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-427477591	RefSeq	NZ_JAGINO010000002.1	361853	362749	+	WP_209979040.1	nitrogenase iron protein	Azospirillum picis	IMMIB TAR-3	GCF_017876115.1
-427477591	INSDC	JAGINO010000002.1	361853	362749	+	MBP2298160.1	nitrogenase iron protein NifH	Azospirillum picis	IMMIB TAR-3	GCA_017876115.1

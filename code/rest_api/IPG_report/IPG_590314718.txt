@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-590314718	RefSeq	NZ_JAOQNY010000016.1	45024	45893	+	WP_264583303.1	nitrogenase iron protein NifH	Rhodoblastus acidophilus	FL	GCF_025961595.1

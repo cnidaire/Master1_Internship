@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-624053598	INSDC	ON565455.1	1	341	+	WDE32944.1	nifH	Dolichospermum mendotae GIHE-UW1	GIHE-UW1	

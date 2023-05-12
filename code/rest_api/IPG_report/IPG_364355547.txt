@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-364355547	INSDC	RKEF01000035.1	13344	14090	+	MBD9022608.1	nitrogen fixation protein NifH	Megasphaera elsdenii		GCA_014847725.1

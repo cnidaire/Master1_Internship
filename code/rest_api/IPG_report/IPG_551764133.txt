@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-551764133	RefSeq	NZ_CP088239.1	659130	659897	+	WP_249030122.1	nitrogenase iron protein NifH	Tannockella kyphosi	BP52G	GCF_021054785.1

@@ -1,4 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-38900993	RefSeq	NZ_CABFVA020000117.1	3034	3921	+	WP_018292023.1	nitrogenase iron protein	Methylacidimicrobium tartarophylax		GCF_902143375.2
-38900993	RefSeq	NZ_KB901877.1	178619	179506	-	WP_018292023.1	nitrogenase iron protein	Verrucomicrobium sp. 3C	3C	GCF_000379365.1
-38900993	INSDC	CABFVA020000117.1	3034	3921	+	VVM08090.1	nitrogenase iron protein NifH	Methylacidimicrobium tartarophylax		GCA_902143375.2

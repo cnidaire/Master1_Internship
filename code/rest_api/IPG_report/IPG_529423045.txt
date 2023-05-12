@@ -1,5 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-529423045	INSDC	JAKVOE010000007.1	58075	58836	+	MCH3962622.1	nitrogenase iron protein NifH	Solobacterium sp.		GCA_022482965.1
-529423045	INSDC	JAKVKC010000003.1	60186	60947	-	MCH4205049.1	nitrogenase iron protein NifH	Solobacterium sp.		GCA_022486705.1
-529423045	INSDC	JAKVJN010000003.1	60186	60947	-	MCH4226558.1	nitrogenase iron protein NifH	Solobacterium sp.		GCA_022487015.1
-529423045	INSDC	JAKVIW010000003.1	60186	60947	-	MCH4281842.1	nitrogenase iron protein NifH	Solobacterium sp.		GCA_022487365.1

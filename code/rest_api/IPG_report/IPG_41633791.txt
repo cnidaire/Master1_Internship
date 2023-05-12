@@ -1,5 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-41633791	RefSeq	NZ_SCPI01000001.1	875017	875835	-	WP_022026819.1	nitrogenase iron protein NifH	Dialister invisus		GCF_009739355.1
-41633791	INSDC	CBAF010000093.1	5974	6792	+	CCZ54312.1	nitrogenase iron protein	Dialister invisus CAG:218		GCA_000433275.1
-41633791	INSDC	HF996444.1	97350	98168	+	CCZ54312.1	nitrogenase iron protein	Dialister invisus CAG:218		GCA_000433275.1
-41633791	INSDC	SCPI01000001.1	875017	875835	-	MUU09046.1	nitrogenase iron protein	Dialister invisus		GCA_009739355.1

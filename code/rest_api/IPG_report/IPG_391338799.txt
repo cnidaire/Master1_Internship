@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-391338799	INSDC	JAENVV010000024.1	4209	5249	+	MBK5266068.1	nitrogen fixation protein NifH	Acidimicrobiia bacterium		GCA_016650365.1

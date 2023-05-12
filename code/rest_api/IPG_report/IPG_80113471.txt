@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-80113471	RefSeq	NZ_CP009517.1	3574048	3574455	-	WP_052723427.1	hypothetical protein	Methanosarcina barkeri 3	3	GCF_000970305.1
-80113471	INSDC	CP009517.1	3574048	3574455	-	AKB83277.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Methanosarcina barkeri 3	3	GCA_000970305.1

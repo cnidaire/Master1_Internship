@@ -1,9 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-77141912	RefSeq	NZ_JAHNZU010000007.1	182025	182852	-	WP_044347205.1	nitrogenase iron protein	Raoultella planticola	ROVR6	GCF_028435885.1
-77141912	RefSeq	NZ_JAHQRL010000011.1	182226	183053	-	WP_044347205.1	nitrogenase iron protein	Raoultella planticola	ROVR10	GCF_025092595.1
-77141912	RefSeq	NZ_JXXF01000028.1	91043	91870	-	WP_044347205.1	nitrogenase iron protein	Raoultella ornithinolytica	BAL286	GCF_000935285.1
-77141912	RefSeq	NZ_LANE01000004.1	2264938	2265765	+	WP_044347205.1	nitrogenase iron protein	Raoultella terrigena	R1Gly	GCF_000964285.1
-77141912	INSDC	AAZDVM010000024.1	14859	15686	+	EHD4433757.1	nitrogenase iron protein	Raoultella ornithinolytica	2020GO-00148	GCA_017143175.1
-77141912	INSDC	JXXF01000028.1	91043	91870	-	KIZ46140.1	nitrogenase reductase	Raoultella ornithinolytica	BAL286	GCA_000935285.1
-77141912	INSDC	JAHQRL010000011.1	182226	183053	-	MCS7490570.1	nitrogenase iron protein	Raoultella planticola	ROVR10	GCA_025092595.1
-77141912	INSDC	SLYQ01000001.1	490489	491316	-	TCQ76689.1	nitrogenase iron protein NifH	Raoultella ornithinolytica	JUb54	GCA_004341525.1

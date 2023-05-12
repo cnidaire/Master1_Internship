@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-612115694	RefSeq	NZ_JAQEBV010000006.1	23458	24210	-	WP_270399838.1	nitrogenase iron protein NifH	Mitsuokella multacida	AM32-5	GCF_027670365.1
-612115694	RefSeq	NZ_JAQECK010000022.1	2710	3462	+	WP_270399838.1	nitrogenase iron protein NifH	Mitsuokella multacida	AM38-7BH	GCF_027670005.1

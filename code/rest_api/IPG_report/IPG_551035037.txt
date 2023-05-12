@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-551035037	INSDC	WRLR01000017.1	37946	38704	+	MCL2058254.1	nitrogenase iron protein NifH	Oscillospiraceae bacterium		GCA_009777515.1

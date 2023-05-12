@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-540546277	RefSeq	NZ_CP094380.1	1727996	1728763	+	WP_243547255.1	nitrogen fixation protein NifH	Pseudodesulfovibrio tunisiensis	RB22	GCF_022809775.1

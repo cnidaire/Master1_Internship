@@ -1,5 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-4342778	RefSeq	NC_008639.1	845198	846022	-	WP_011744626.1	nitrogenase iron protein	Chlorobium phaeobacteroides DSM 266	DSM 266	GCF_000015125.1
-4342778	Swiss-Prot	N/A				A1BEH0.1	Nitrogenase iron protein	Chlorobium phaeobacteroides DSM 266		
-4342778	INSDC	CP000492.1	845198	846022	-	ABL64797.1	Mo-nitrogenase iron protein subunit NifH	Chlorobium phaeobacteroides DSM 266	DSM 266	GCA_000015125.1
-4342778	INSDC	JAFLKL010000001.1	32531	33355	+	MBV5319366.1	nitrogenase iron protein	Chlorobium phaeobacteroides		GCA_019163275.1

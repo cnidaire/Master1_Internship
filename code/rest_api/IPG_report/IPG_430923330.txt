@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-430923330	INSDC	JAGONO010000043.1	8308	9318	-	MBP6961660.1	nitrogen fixation protein NifH	Thermotogota bacterium		GCA_017992975.1

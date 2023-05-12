@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-504258544	INSDC	JAJBTM010000013.1	50250	51020	+	MCC8158097.1	nitrogenase iron protein NifH	Phascolarctobacterium sp.		GCA_020860815.1

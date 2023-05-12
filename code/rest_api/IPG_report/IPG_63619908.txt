@@ -1,4 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-63619908	RefSeq	NZ_CP020953.1	3178745	3179506	-	WP_032079705.1	nitrogenase iron protein NifH	Clostridium drakei	SL1	GCF_003096175.1
-63619908	RefSeq	NZ_JIBU02000085.1	3535	4296	+	WP_032079705.1	nitrogenase iron protein NifH	Clostridium drakei	SL1	GCF_000633595.2
-63619908	INSDC	CP020953.1	3178745	3179506	-	AWI05579.1	nitrogen fixation protein NifH	Clostridium drakei	SL1	GCA_003096175.1

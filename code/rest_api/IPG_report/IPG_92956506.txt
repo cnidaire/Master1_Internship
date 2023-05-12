@@ -1,6 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-92956506	RefSeq	NZ_CABIWK010000003.1	242015	242776	+	WP_055197005.1	nitrogenase iron protein NifH	Anaerostipes hadrus		GCF_902362395.1
-92956506	RefSeq	NZ_CYYH01000003.1	242015	242776	+	WP_055197005.1	nitrogenase iron protein NifH	Anaerostipes hadrus	2789STDY5608830	GCF_001404655.1
-92956506	RefSeq	NZ_JAOQJG010000003.1	242015	242776	+	WP_055197005.1	nitrogenase iron protein NifH	Anaerostipes amylophilus	H1_26	GCF_025567365.1
-92956506	INSDC	CYYH01000003.1	242015	242776	+	CUN87732.1	Nitrogenase iron protein 1	Anaerostipes hadrus	2789STDY5608830	GCA_001404655.1
-92956506	INSDC	QTXP01000013.1	15097	15858	-	RGH22171.1	nitrogenase iron protein	Firmicutes bacterium AF12-30	AF12-30	GCA_003461705.1

@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-551481956	INSDC	WQXZ01000172.1	2094	2858	-	MCL2632815.1	nitrogenase iron protein NifH	Coriobacteriia bacterium		GCA_009781525.1

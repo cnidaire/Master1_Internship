@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-46216662	INSDC	AXUN02000223.1	1	545	+	ETA79142.1	nitrogenase subunit NifH	Youngiibacter fragilis 232.1	232.1	GCA_000495435.3

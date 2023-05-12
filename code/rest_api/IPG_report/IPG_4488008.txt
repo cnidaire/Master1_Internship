@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-4488008	RefSeq	NC_011830.1	1641601	1642380	+	WP_015943498.1	nitrogenase iron protein NifH	Desulfitobacterium hafniense DCB-2	DCB-2	GCF_000021925.1
-4488008	INSDC	CP001336.1	1641601	1642380	+	ACL19588.1	Nitrogenase	Desulfitobacterium hafniense DCB-2	DCB-2	GCA_000021925.1

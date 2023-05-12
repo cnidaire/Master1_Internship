@@ -1,9 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-54585016	RefSeq	NZ_AUJY01000002.1	217054	217902	+	WP_026655912.1	nitrogenase iron protein	Butyrivibrio hungatei NK4A153	NK4A153	GCF_000424465.1
-54585016	RefSeq	NZ_FMUR01000007.1	116004	116852	+	WP_026655912.1	nitrogenase iron protein	Butyrivibrio hungatei	XBD2006	GCF_900101605.1
-54585016	RefSeq	NZ_JMLX01000001.1	2164213	2165061	-	WP_026655912.1	nitrogenase iron protein	Butyrivibrio sp. AE3003	AE3003	GCF_000686065.1
-54585016	RefSeq	NZ_JMMD01000010.1	18871	19719	+	WP_026655912.1	nitrogenase iron protein	Butyrivibrio sp. AE2005	AE2005	GCF_000686965.1
-54585016	INSDC	JAFPLE010000066.1	16917	17765	-	MBQ2609129.1	nitrogenase iron protein	Butyrivibrio sp.		GCA_017402945.1
-54585016	INSDC	JAFPOG010000436.1	11179	12027	+	MBQ4220680.1	nitrogenase iron protein	Butyrivibrio sp.		GCA_017410805.1
-54585016	INSDC	JAFXTI010000039.1	56803	57651	-	MBR4639808.1	nitrogenase iron protein	Butyrivibrio sp.		GCA_017525005.1
-54585016	INSDC	FMUR01000007.1	116004	116852	+	SCY08028.1	nitrogenase iron protein NifH	Butyrivibrio hungatei	XBD2006	GCA_900101605.1

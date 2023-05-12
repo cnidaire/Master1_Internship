@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-4255932	INSDC	DQ029203.1	1	308	+	AAY46307.1	NifH	Azonexus caeni	Slu-05	

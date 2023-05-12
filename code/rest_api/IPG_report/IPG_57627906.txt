@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-57627906	INSDC	KJ636762.1	1	651	+	AID52866.1	nitrogenase reductase NifH	Bradyrhizobium sp. LmjC	LmjC	

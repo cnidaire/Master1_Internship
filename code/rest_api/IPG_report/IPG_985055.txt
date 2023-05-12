@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-985055	INSDC	Z95218.1	1	558	+	CAB08522.1	nifH	Sinorhizobium terangae	ORS1009	
-985055	INSDC	Z95219.1	1	558	+	CAB08523.1	nifH	Sinorhizobium sp. DWO607	DWO607	

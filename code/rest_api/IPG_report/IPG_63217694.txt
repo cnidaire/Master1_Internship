@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-63217694	RefSeq	NZ_CP009288.1	5128808	5129674	-	WP_042208281.1	nitrogenase iron protein NifH	Paenibacillus durus	DSM 1735	GCF_000756615.1
-63217694	INSDC	CP009288.1	5128808	5129674	-	AIQ14521.1	nitrogenase iron protein	Paenibacillus durus	DSM 1735	GCA_000756615.1

@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-73111106	RefSeq	NZ_GG700631.1	145763	146578	-	WP_040619527.1	nitrogenase iron protein NifH	Slackia exigua ATCC 700122	ATCC 700122	GCF_000162875.1
-73111106	RefSeq	NZ_UGGM01000001.1	1944380	1945195	+	WP_040619527.1	nitrogenase iron protein NifH	Slackia exigua	NCTC12994	GCF_900450505.1

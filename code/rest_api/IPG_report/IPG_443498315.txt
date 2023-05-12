@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-443498315	INSDC	JAFXOQ010000920.1	1	800	+	MBR3644419.1	nitrogen fixation protein NifH	Parasporobacterium sp.		GCA_017528605.1

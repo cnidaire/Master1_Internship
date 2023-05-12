@@ -1,5 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-40153210	RefSeq	NZ_KB908379.1	134020	134784	+	WP_019541612.1	nitrogenase iron protein NifH	Selenomonas bovis DSM 23594	DSM 23594	GCF_000381005.1
-40153210	INSDC	JAFOSF010000131.1	7621	8385	-	MBQ1621510.1	AAA family ATPase	Selenomonas sp.		GCA_017388265.1
-40153210	INSDC	JALFBF010000098.1	6109	6873	+	MCI6172523.1	nitrogenase iron protein NifH	Selenomonas bovis		GCA_022773385.1
-40153210	INSDC	JALFLZ010000046.1	24251	25015	-	MCI7056633.1	nitrogenase iron protein NifH	Selenomonas bovis		GCA_022782905.1

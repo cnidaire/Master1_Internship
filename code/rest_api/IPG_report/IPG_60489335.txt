@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-60489335	RefSeq	NZ_JPIC01000001.1	27203	28036	-	WP_034573363.1	nitrogenase iron protein NifH	Mageeibacillus indolicus 0009-5	S7-24-11	GCF_000733145.1
-60489335	INSDC	JPIC01000001.1	27203	28036	-	KFA57939.1	nitrogenase iron protein	Mageeibacillus indolicus 0009-5	S7-24-11	GCA_000733145.1

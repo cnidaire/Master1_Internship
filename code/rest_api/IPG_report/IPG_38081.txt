@@ -1,4 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-38081	Swiss-Prot	N/A				P26254.2	Nitrogenase iron protein	Trichodesmium thiebautii		
-38081	INSDC	U23507.1	70	954	+	AAA77022.1	NifH	Trichodesmium thiebautii		
-38081	PRF	N/A				2209291A	nifH gene	Trichodesmium thiebautii		

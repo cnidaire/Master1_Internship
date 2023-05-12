@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-373180975	RefSeq	NZ_JADKQA010000001.1	175047	175832	+	WP_194608214.1	nitrogenase iron protein NifH	Clostridium vitabionis	YH-T4B42	GCF_015351765.1

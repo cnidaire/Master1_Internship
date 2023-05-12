@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-593927128	RefSeq	NZ_JAOXXL010000004.1	97687	98517	+	WP_265151696.1	nitrogenase iron protein NifH	Fusobacterium simiae	DSM 19848	GCF_026089295.1

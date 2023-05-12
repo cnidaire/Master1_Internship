@@ -1,8 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-44394908	RefSeq	NZ_ATTQ01000044.1	9940	10833	+	WP_022719163.1	nitrogenase iron protein	Rhizobium mongolense USDA 1844	USDA 1844	GCF_000419765.1
-44394908	RefSeq	NZ_CP064191.1	157653	158546	+	WP_022719163.1	nitrogenase iron protein	Rhizobium sp. 007	007	GCF_015353075.1
-44394908	RefSeq	NZ_JACIFX010000030.1	7970	8863	-	WP_022719163.1	nitrogenase iron protein	Rhizobium mongolense	SEMIA 4087	GCF_014197625.1
-44394908	RefSeq	NZ_VISO01000001.1	593212	594105	-	WP_022719163.1	nitrogenase iron protein	Rhizobium mongolense USDA 1844	USDA 1844	GCF_007827505.1
-44394908	INSDC	JACIFX010000030.1	7970	8863	-	MBB4233208.1	nitrogenase iron protein NifH	Rhizobium mongolense	SEMIA 4087	GCA_014197625.1
-44394908	INSDC	CP064191.1	157653	158546	+	QPB24655.1	nitrogenase iron protein	Rhizobium sp. 007	007	GCA_015353075.1
-44394908	INSDC	VISO01000001.1	593212	594105	-	TVZ75162.1	Mo-nitrogenase iron protein subunit NifH	Rhizobium mongolense USDA 1844	USDA 1844	GCA_007827505.1

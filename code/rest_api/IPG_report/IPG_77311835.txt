@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-77311835	RefSeq	NZ_CP007142.1	1875320	1876198	+	WP_044616592.1	nitrogenase iron protein	Gynuella sunshinyii YC6258	YC6258	GCF_000940805.1
-77311835	INSDC	CP007142.1	1875320	1876198	+	AJQ93954.1	nitrogenase subunit NifH (ATPase)	Gynuella sunshinyii YC6258	YC6258	GCA_000940805.1

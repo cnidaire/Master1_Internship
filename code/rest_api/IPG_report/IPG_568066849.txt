@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-568066849	INSDC	JAKSRO010000348.1	1	576	+	MCQ2511460.1	nitrogen fixation protein NifH	Lachnospiraceae bacterium		GCA_024403575.1

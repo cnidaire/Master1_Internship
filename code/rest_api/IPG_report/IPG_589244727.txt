@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-589244727	RefSeq	NZ_CABIIK010000009.1	6697	7497	-	WP_263993144.1	nitrogenase iron protein NifH	Acetobacterium wieringae		GCF_902175055.1
-589244727	RefSeq	NZ_CP087994.1	502547	503347	+	WP_263993144.1	nitrogenase iron protein NifH	Acetobacterium wieringae	Y	GCF_025813735.1

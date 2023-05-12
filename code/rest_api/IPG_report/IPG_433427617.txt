@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-433427617	INSDC	JAFOPX010000397.1	1	492	+	MBQ1707263.1	nitrogen fixation protein NifH	Clostridia bacterium		GCA_017394125.1

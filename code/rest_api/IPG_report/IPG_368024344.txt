@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-368024344	INSDC	SUWJ01000010.1	17275	18036	+	MBE6369401.1	nitrogen fixation protein NifH	Lentisphaerota bacterium		GCA_015061545.1

@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-585714471	INSDC	OK631827.1	1	334	+	UXW69786.1	NifH	Citrobacter werkmanii	BIT-105	

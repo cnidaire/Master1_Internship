@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-486078711	INSDC	JAIHAU010000030.1	13136	13957	-	MBZ4666131.1	Mo-nitrogenase iron protein subunit NifH	Mahella sp.		GCA_020054945.1

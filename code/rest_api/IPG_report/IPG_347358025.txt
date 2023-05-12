@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-347358025	RefSeq	NZ_JACJIP010000011.1	38638	39465	-	WP_182535416.1	nitrogenase iron protein	Fontibacillus solani	CECT 8693	GCF_014138385.1
-347358025	INSDC	JACJIP010000011.1	38638	39465	-	MBA9085570.1	nitrogenase iron protein NifH	Fontibacillus solani	CECT 8693	GCA_014138385.1

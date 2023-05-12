@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-405972998	INSDC	VGZU01000052.1	788	1819	-	MBM3946067.1	nitrogen fixation protein NifH	SAR202 cluster bacterium		GCA_016872465.1

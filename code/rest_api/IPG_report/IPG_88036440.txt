@@ -1,5 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-88036440	RefSeq	NZ_FOOL01000007.1	78269	79090	-	WP_052219939.1	nitrogenase iron protein	Clostridium homopropionicum	DSM 5847	GCF_900113195.1
-88036440	RefSeq	NZ_LHUR01000010.1	75970	76791	-	WP_052219939.1	nitrogenase iron protein	Clostridium homopropionicum DSM 5847	DSM 5847	GCF_001263795.1
-88036440	INSDC	LHUR01000010.1	75970	76791	-	KOA21205.1	nitrogenase iron protein 1	Clostridium homopropionicum DSM 5847	DSM 5847	GCA_001263795.1
-88036440	INSDC	FOOL01000007.1	78269	79090	-	SFG27229.1	Mo-nitrogenase iron protein subunit NifH	Clostridium homopropionicum	DSM 5847	GCA_900113195.1

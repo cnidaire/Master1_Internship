@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-91622506	INSDC	AP014563.1	1388821	1389864	-	BAS32523.1	nitrogenase subunit NifH (ATPase)-like protein	Dehalococcoides mccartyi IBARAKI	IBARAKI	GCA_001547795.1

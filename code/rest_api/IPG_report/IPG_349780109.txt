@@ -1,4 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-349780109	RefSeq	NZ_JACHFQ010000005.1	301478	302329	-	WP_184659748.1	nitrogenase iron protein	Treponema ruminis	DSM 103462	GCF_014201975.1
-349780109	INSDC	JACHFQ010000005.1	301478	302329	-	MBB5226466.1	nitrogenase iron protein NifH	Treponema ruminis	DSM 103462	GCA_014201975.1
-349780109	INSDC	CP031518.1	1993348	1994199	+	QSI02629.1	nitrogenase iron protein	Treponema ruminis	RU1	GCA_017161305.1

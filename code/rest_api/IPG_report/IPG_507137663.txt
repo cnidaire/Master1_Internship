@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-507137663	RefSeq	NZ_PGCK01000001.1	250941	251960	-	WP_230739743.1	nitrogen fixation protein NifH	Methanocella sp. CWC-04	CWC-04	GCF_021023085.1
-507137663	INSDC	PGCK01000001.1	250941	251960	-	MCD1293650.1	nitrogen fixation protein NifH	Methanocella sp. CWC-04	CWC-04	GCA_021023085.1

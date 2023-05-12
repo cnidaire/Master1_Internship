@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-451848191	RefSeq	NZ_CALXBF010000062.1	4651	5439	+	WP_277256291.1	nitrogenase iron protein NifH	Negativibacillus massiliensis		GCF_944386465.1
-451848191	INSDC	JAGZJC010000008.1	34548	35336	-	MBS5137643.1	AAA family ATPase	Clostridium sp.		GCA_018365935.1

@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-399942257	INSDC	JADHYC010000051.1	2096	3109	-	MBL7136579.1	nitrogen fixation protein NifH	Candidatus Marinimicrobia bacterium		GCA_016782645.1

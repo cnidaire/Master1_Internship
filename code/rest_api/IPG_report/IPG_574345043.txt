@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-574345043	INSDC	OP271956.1	1	658	+	UVG42269.1	NifH	Bradyrhizobium sp.	RDT48	

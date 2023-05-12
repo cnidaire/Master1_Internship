@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-56312302	RefSeq	NZ_KK211102.1	329564	330403	-	WP_028308834.1	nitrogenase iron protein NifH	Desulfitibacter alkalitolerans DSM 16504	DSM 16504	GCF_000620305.1

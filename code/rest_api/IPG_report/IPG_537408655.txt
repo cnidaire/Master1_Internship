@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-537408655	RefSeq	NZ_JAQYJL010000019.1	43327	44151	+	WP_277067466.1	nitrogenase iron protein NifH	Porcincola intestinalis		GCF_028721445.1
-537408655	INSDC	JALEYE010000025.1	179046	179870	-	MCI6767788.1	nitrogenase iron protein NifH	Lachnospiraceae bacterium		GCA_022779665.1

@@ -1,7 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-497362877	RefSeq	NZ_JAJBPY010000021.1	21341	22087	-	WP_226885414.1	nitrogenase iron protein NifH	Megasphaera elsdenii	MSK.21.69	GCF_020539245.1
-497362877	RefSeq	NZ_JAJBQB010000021.1	21341	22087	-	WP_226885414.1	nitrogenase iron protein NifH	Megasphaera elsdenii	MSK.21.34	GCF_020539335.1
-497362877	RefSeq	NZ_JAJBQV010000021.1	21341	22087	-	WP_226885414.1	nitrogenase iron protein NifH	Megasphaera elsdenii	MSK.21.52	GCF_020539865.1
-497362877	INSDC	JAJBPY010000021.1	21341	22087	-	MCB5702978.1	nitrogenase iron protein NifH	Megasphaera elsdenii	MSK.21.69	GCA_020539245.1
-497362877	INSDC	JAJBQB010000021.1	21341	22087	-	MCB5727785.1	nitrogenase iron protein NifH	Megasphaera elsdenii	MSK.21.34	GCA_020539335.1
-497362877	INSDC	JAJBQV010000021.1	21341	22087	-	MCB5771564.1	nitrogenase iron protein NifH	Megasphaera elsdenii	MSK.21.52	GCA_020539865.1

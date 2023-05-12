@@ -1,6 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-4905171	RefSeq	NC_007512.1	1718538	1719362	+	WP_011358257.1	nitrogenase iron protein	Pelodictyon luteolum DSM 273	DSM 273	GCF_000012485.1
-4905171	Swiss-Prot	N/A				Q3B2P6.1	Nitrogenase iron protein	Pelodictyon luteolum DSM 273		
-4905171	INSDC	CP000096.1	1718538	1719362	+	ABB24385.1	Mo-nitrogenase iron protein subunit NifH	Pelodictyon luteolum DSM 273	DSM 273	GCA_000012485.1
-4905171	INSDC	LVWG01000032.1	135997	136821	+	KZK74027.1	nitrogenase reductase	Pelodictyon luteolum		GCA_001622165.1
-4905171	INSDC	JAAXXP010000043.1	961	1785	+	NTW94281.1	nitrogenase iron protein	Chlorobiaceae bacterium		GCA_013334435.1

@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-349837590	RefSeq	NZ_JACHGO010000001.1	37519	38346	-	WP_183717094.1	nitrogenase iron protein	Desulfovibrio intestinalis	DSM 11275	GCF_014202345.1
-349837590	INSDC	JACHGO010000001.1	37519	38346	-	MBB5141967.1	nitrogenase iron protein NifH	Desulfovibrio intestinalis	DSM 11275	GCA_014202345.1

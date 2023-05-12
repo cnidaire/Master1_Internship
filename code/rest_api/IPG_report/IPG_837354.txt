@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-837354	INSDC	Z95225.1	1	558	+	CAB08529.1	nifH	Mesorhizobium sp. HAMBI 1487	HAMBI1487	

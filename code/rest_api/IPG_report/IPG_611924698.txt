@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-611924698	RefSeq	NZ_JAQEKA010000005.1	28834	29601	+	WP_270203076.1	nitrogenase iron protein NifH	Coprococcus sp. TM115-141	TM115-141	GCF_027679465.1
-611924698	RefSeq	NZ_JAQEKS010000001.1	114730	115497	-	WP_270203076.1	nitrogenase iron protein NifH	Coprococcus sp. TM115-187	TM115-187	GCF_027679115.1

@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-389987178	RefSeq	NZ_NRRU01000091.1	909	1778	-	WP_200379711.1	nitrogenase iron protein NifH	Rubrivivax gelatinosus	IM 151	GCF_016583785.1
-389987178	INSDC	NRRU01000091.1	909	1778	-	MBK1714995.1	nitrogenase iron protein	Rubrivivax gelatinosus	IM 151	GCA_016583785.1

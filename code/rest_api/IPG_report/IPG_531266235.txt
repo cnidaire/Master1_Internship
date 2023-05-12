@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-531266235	RefSeq	NZ_CP054699.1	2762870	2763640	-	WP_241421203.1	nitrogenase iron protein NifH	Candidatus Contubernalis alkalaceticum	Z-7904	GCF_022558445.1
-531266235	INSDC	CP054699.1	2762870	2763640	-	UNC93079.1	AAA family ATPase	Candidatus Contubernalis alkalaceticum	Z-7904	GCA_022558445.1

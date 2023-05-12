@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-348969158	RefSeq	NZ_JACHXI010000005.1	97175	98047	+	WP_183166011.1	nitrogenase iron protein	Azomonas macrocytogenes	CECT 4462	GCF_014191985.1
-348969158	INSDC	JACHXI010000005.1	97175	98047	+	MBB3103044.1	nitrogenase iron protein NifH	Azomonas macrocytogenes	CECT 4462	GCA_014191985.1

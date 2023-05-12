@@ -1,9 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-364405625	RefSeq	NZ_JAMXUZ010000001.1	1290127	1290903	+	WP_215633375.1	nitrogenase iron protein NifH	Coprococcus catus	NB2A-13-NA	GCF_024125145.1
-364405625	RefSeq	NZ_JAQCWV010000005.1	44348	45124	+	WP_215633375.1	nitrogenase iron protein NifH	Coprococcus catus	AF25-24	GCF_027683965.1
-364405625	RefSeq	NZ_JAQENQ010000011.1	19083	19859	+	WP_215633375.1	nitrogenase iron protein NifH	Coprococcus catus	TM14-13A	GCF_027676955.1
-364405625	RefSeq	NZ_WQPI01000138.1	13510	14286	-	WP_215633375.1	nitrogenase iron protein NifH	Coprococcus catus	MCC395	GCF_018785175.1
-364405625	INSDC	RKGE01000066.1	5545	6321	+	MBD8966829.1	nitrogen fixation protein NifH	Coprococcus catus		GCA_014848515.1
-364405625	INSDC	WQPI01000138.1	13510	14286	-	MBT9774674.1	P-loop NTPase	Coprococcus catus	MCC395	GCA_018785175.1
-364405625	INSDC	JAMXUZ010000001.1	1290127	1290903	+	MCO7145953.1	nitrogenase iron protein NifH	Coprococcus catus	NB2A-13-NA	GCA_024125145.1
-364405625	INSDC	JANGBJ010000033.1	25342	26118	+	MCQ5055900.1	nitrogenase iron protein NifH	Agathobaculum butyriciproducens	DFI.6.43	GCA_024462395.1

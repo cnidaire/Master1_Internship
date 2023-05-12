@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-408566258	RefSeq	NZ_JAFBCW010000006.1	9999	10826	-	WP_204616061.1	nitrogenase iron protein	Desulforadius tongensis	DSM 29799	GCF_016907915.1
-408566258	INSDC	JAFBCW010000006.1	9999	10826	-	MBM7854312.1	nitrogenase iron protein NifH	Desulforadius tongensis	DSM 29799	GCA_016907915.1

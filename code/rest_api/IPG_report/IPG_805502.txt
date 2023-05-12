@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-805502	INSDC	DQ450931.1	1	562	+	ABE60860.1	dinitrogenase reductase	Mesorhizobium plurifarium		
-805502	INSDC	Z95227.1	1	558	+	CAB08531.1	nifH	Mesorhizobium sp. BR3804	BR3804	

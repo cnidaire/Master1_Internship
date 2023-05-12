@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-514401667	RefSeq	NZ_RQYL01000024.1	21362	22159	+	WP_233572699.1	nitrogenase iron protein NifH	Fretibacterium sp. OH1220_COT-178	OH1220_COT-178	GCF_003860125.1

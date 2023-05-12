@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-546790376	INSDC	JAGMCP010000234.1	493	1494	-	MCK4310775.1	nitrogen fixation protein NifH	Methanomicrobia archaeon		GCA_023129185.1

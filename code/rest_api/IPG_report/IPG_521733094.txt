@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-521733094	INSDC	AP025583.1	2469966	2470787	+	BDF71344.1	nitrogenase subunit nifH	Oscillospiraceae bacterium	CE91-St40	GCA_022846095.1
-521733094	INSDC	AP025584.1	1512255	1513076	-	BDF74540.1	nitrogenase subunit nifH	Oscillospiraceae bacterium	CE91-St41	GCA_022846115.1

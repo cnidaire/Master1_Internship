@@ -1,4 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-427214206	RefSeq	NZ_JAGGKL010000001.1	345985	346812	-	WP_209624708.1	nitrogenase iron protein	Methanobacterium petrolearium	DSM 22353	GCF_017873625.1
-427214206	INSDC	AP027739.1	752172	752999	-	BDZ70314.1	nitrogenase reductase	Methanobacterium petrolearium	NBRC 105198	
-427214206	INSDC	JAGGKL010000001.1	345985	346812	-	MBP1944989.1	nitrogenase iron protein NifH	Methanobacterium petrolearium	DSM 22353	GCA_017873625.1

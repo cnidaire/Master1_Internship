@@ -1,8 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-56008614	RefSeq	NZ_JAGILA010000010.1	98349	99242	-	WP_028002403.1	nitrogenase iron protein	Sinorhizobium kostiense	DSM 13372	GCF_017874595.1
-56008614	RefSeq	NZ_KE386497.1	108178	109071	-	WP_028002403.1	nitrogenase iron protein	Sinorhizobium arboris LMG 14919	LMG 14919	GCF_000427465.1
-56008614	RefSeq	NZ_LUAV01000021.1	52552	53445	+	WP_028002403.1	nitrogenase iron protein	Ensifer aridi	LMR001	
-56008614	RefSeq	NZ_LUFU01000045.1	6382	7275	+	WP_028002403.1	nitrogenase iron protein	Ensifer aridi	LMR013	GCF_002093435.1
-56008614	RefSeq	NZ_MDDV01000014.1	85865	86758	-	WP_028002403.1	nitrogenase iron protein	Ensifer sp. LCM 4579	LCM 4579	GCF_001854885.1
-56008614	INSDC	JAGILA010000010.1	98349	99242	-	MBP2238945.1	nitrogenase iron protein NifH	Sinorhizobium kostiense	DSM 13372	GCA_017874595.1
-56008614	INSDC	MDDV01000014.1	85865	86758	-	OHV79372.1	nitrogenase iron protein	Ensifer sp. LCM 4579	LCM 4579	GCA_001854885.1

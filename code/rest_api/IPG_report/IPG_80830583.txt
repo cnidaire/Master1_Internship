@@ -1,7 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-80830583	RefSeq	NZ_LAYJ01000088.1	200465	201238	-	WP_046443366.1	nitrogenase iron protein NifH	Christensenella hongkongensis	HKU16	GCF_000981035.1
-80830583	RefSeq	NZ_LLYX01000059.1	63595	64368	+	WP_046443366.1	nitrogenase iron protein NifH	Christensenella hongkongensis	ABBA15k	GCF_001507385.1
-80830583	RefSeq	NZ_SMCZ01000002.1	86779	87552	+	WP_046443366.1	nitrogenase iron protein NifH	Christensenella hongkongensis	DSM 18959	GCF_004342745.1
-80830583	INSDC	LAYJ01000088.1	200465	201238	-	KKI51118.1	Nitrogenase subunit NifH, type 2	Christensenella hongkongensis	HKU16	GCA_000981035.1
-80830583	INSDC	LLYX01000059.1	63595	64368	+	KUJ26904.1	nitrogenase iron protein	Christensenella hongkongensis	ABBA15k	GCA_001507385.1
-80830583	INSDC	SMCZ01000002.1	86779	87552	+	TCW30471.1	nitrogenase iron protein NifH	Christensenella hongkongensis	DSM 18959	GCA_004342745.1

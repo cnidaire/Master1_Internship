@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-645174401	RefSeq	NZ_CAMETI010000003.1	38877	39623	-	WP_279008380.1	nitrogenase iron protein NifH	Synergistes jonesii		GCF_945937075.1

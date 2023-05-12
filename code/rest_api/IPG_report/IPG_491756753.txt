@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-491756753	RefSeq	NZ_CAKAKF010000001.1	398679	399428	+	WP_225748806.1	nitrogenase iron protein NifH	Paraeggerthella sp. Marseille-Q4926	Marseille-Q4926	GCF_916618935.1

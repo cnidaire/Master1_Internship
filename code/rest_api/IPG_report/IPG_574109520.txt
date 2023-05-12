@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-574109520	RefSeq	NZ_JAMBPM010000002.1	245804	246577	+	WP_258106376.1	nitrogenase iron protein NifH	Christensenella minuta	CM	GCF_024706965.1

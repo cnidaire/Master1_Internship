@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-49481383	INSDC	KJ406704.1	1	450	+	AHM10268.1	NifH	Roseiarcus fermentans	Pf56	

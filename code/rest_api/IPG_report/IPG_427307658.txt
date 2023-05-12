@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-427307658	RefSeq	NZ_JAGGLV010000013.1	190212	191078	+	WP_209876073.1	nitrogenase iron protein	Paenibacillus silagei	DSM 101953	GCF_017874735.1
-427307658	INSDC	JAGGLV010000013.1	190212	191078	+	MBP2113851.1	nitrogenase iron protein NifH	Paenibacillus silagei	DSM 101953	GCA_017874735.1

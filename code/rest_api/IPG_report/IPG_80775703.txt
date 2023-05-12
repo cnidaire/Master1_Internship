@@ -1,9 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-80775703	RefSeq	NZ_AP019780.1	1427792	1428721	+	WP_048048019.1	nitrogenase iron protein NifH	Methanosarcina mazei	TMA	GCF_019669945.1
-80775703	RefSeq	NZ_CP009510.1	3270420	3271349	+	WP_048048019.1	nitrogenase iron protein NifH	Methanosarcina mazei TMA	TMA	GCF_025035885.1
-80775703	RefSeq	NZ_JJOS01000012.1	281617	282546	+	WP_048048019.1	nitrogenase iron protein NifH	Methanosarcina mazei	2.F.A.2.4	GCF_000979345.1
-80775703	RefSeq	NZ_JJQU01000021.1	11314	12243	-	WP_048048019.1	nitrogenase iron protein NifH	Methanosarcina mazei	1.H.M.2.1	GCF_000979265.1
-80775703	INSDC	AP019780.1	1427792	1428721	+	BBL64249.1	nitrogenase iron protein	Methanosarcina mazei	TMA	GCA_019669945.1
-80775703	INSDC	JJOS01000012.1	281617	282546	+	KKG06317.1	nitrogenase iron protein	Methanosarcina mazei	2.F.A.2.4	GCA_000979345.1
-80775703	INSDC	JJQU01000021.1	11314	12243	-	KKH90485.1	nitrogenase iron protein	Methanosarcina mazei	1.H.M.2.1	GCA_000979265.1
-80775703	INSDC	CP009510.1	3270420	3271349	+	UWJ23505.1	nitrogenase reductase-like protein	Methanosarcina mazei TMA	TMA	GCA_025035885.1

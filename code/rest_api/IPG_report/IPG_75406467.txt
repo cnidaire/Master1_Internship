@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-75406467	INSDC	KP715292.1	1	450	+	AJM13624.1	NifH	Methylocapsa palsarum	NE2	

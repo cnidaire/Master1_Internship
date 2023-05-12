@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-73698179	INSDC	JXSL01000020.1	464081	464968	-	KIM00230.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Magnetospirillum magnetotacticum MS-1	MS-1	GCA_000829825.1

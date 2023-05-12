@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-451912615	INSDC	JAGZKV010000003.1	95918	96667	+	MBS5027018.1	AAA family ATPase	Clostridiales bacterium		GCA_018365035.1
-451912615	INSDC	JAJEQN010000001.1	114422	115171	-	MCC2220121.1	nitrogenase iron protein NifH	Lachnospiraceae bacterium CLA-AA-H224	CLA-AA-H224	GCA_020687335.1

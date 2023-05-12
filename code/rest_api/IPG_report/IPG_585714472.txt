@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-585714472	INSDC	OK631825.1	1	336	+	UXW69784.1	NifH	Kluyvera intermedia	BIT-1	

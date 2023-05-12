@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-394009288	INSDC	JADJTM010000003.1	169943	170923	+	MBK8448103.1	nitrogen fixation protein NifH	Micropruina sp.		GCA_016711205.1

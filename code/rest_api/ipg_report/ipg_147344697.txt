@@ -1,0 +1,10 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+147344697	RefSeq	NZ_CADFGO010000001.1	605568	606449	+	WP_085227693.1	nitrogenase iron protein	Trinickia caryophylli	LMG 2155	GCF_902833925.1
+147344697	RefSeq	NZ_FXAH01000005.1	335680	336561	-	WP_085227693.1	nitrogenase iron protein	Trinickia caryophylli	Ballard 720	GCF_900177465.1
+147344697	RefSeq	NZ_PNXZ01000015.1	150689	151570	+	WP_085227693.1	nitrogenase iron protein	Trinickia caryophylli	Ballard 720	GCF_002879875.1
+147344697	RefSeq	NZ_QLKX01000015.1	24351	25232	-	WP_085227693.1	nitrogenase iron protein	Trinickia caryophylli	HAMBI_2159	GCF_003350265.1
+147344697	RefSeq	NZ_VJZF01000003.1	1332043	1332924	+	WP_085227693.1	nitrogenase iron protein	Trinickia caryophylli	DSM 50341	GCF_007097545.1
+147344697	INSDC	BSQD01000004.1	379186	380067	-	GLU32172.1	nitrogenase iron protein	Trinickia caryophylli	NBRC 13591	
+147344697	INSDC	PNXZ01000015.1	150689	151570	+	PMS11170.1	nitrogenase iron protein	Trinickia caryophylli	Ballard 720	GCA_002879875.1
+147344697	INSDC	FXAH01000005.1	335680	336561	-	SMF32659.1	Mo-nitrogenase iron protein subunit NifH	Trinickia caryophylli	Ballard 720	GCA_900177465.1
+147344697	INSDC	VJZF01000003.1	1332043	1332924	+	TRX14586.1	nitrogenase iron protein	Trinickia caryophylli	DSM 50341	GCA_007097545.1

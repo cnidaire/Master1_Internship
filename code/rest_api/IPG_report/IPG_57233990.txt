@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-57233990	RefSeq	NZ_CP009933.1	998223	998984	+	WP_029159541.1	nitrogenase iron protein NifH	Clostridium scatologenes	ATCC 25775	GCF_000968375.1
-57233990	INSDC	CP009933.1	998223	998984	+	AKA68040.1	Nitrogenase	Clostridium scatologenes	ATCC 25775	GCA_000968375.1

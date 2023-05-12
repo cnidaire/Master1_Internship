@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-585714458	INSDC	OK631826.1	1	324	+	UXW69785.1	NifH	Mixta calida	BIT-56	

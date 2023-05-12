@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-522740769	INSDC	JAKLPV010000097.1	26345	27358	+	MCG2785590.1	nitrogen fixation protein NifH	Anaerolineae bacterium		GCA_022013685.1

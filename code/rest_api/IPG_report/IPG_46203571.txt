@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-46203571	INSDC	AZAJ01000001.1	2546491	2547282	-	ETA68994.1	nitrogenase subunit NifH (ATPase)	Methanolobus tindarius DSM 2278	DSM 2278	GCA_000504205.1

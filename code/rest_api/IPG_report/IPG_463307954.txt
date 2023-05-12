@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-463307954	RefSeq	NZ_JAHLQK010000001.1	563737	564495	+	WP_216414788.1	nitrogenase iron protein NifH	Alkaliphilus flagellatus	MSJ-5	GCF_018919215.1
-463307954	INSDC	JAHLQK010000001.1	563737	564495	+	MBU5675295.1	AAA family ATPase	Alkaliphilus flagellatus	MSJ-5	GCA_018919215.1

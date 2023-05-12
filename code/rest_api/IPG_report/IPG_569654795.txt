@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-569654795	RefSeq	NZ_JTEO01000006.1	255440	256333	-	WP_256623566.1	nitrogenase iron protein NifH	Methanolobus chelungpuianus	St545Mb	GCF_024500045.1
-569654795	INSDC	JTEO01000006.1	255440	256333	-	MCQ6963645.1	nitrogenase iron protein	Methanolobus chelungpuianus	St545Mb	GCA_024500045.1

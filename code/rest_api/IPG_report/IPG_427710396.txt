@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-427710396	RefSeq	NZ_CP054142.1	2027389	2028168	-	WP_210119231.1	nitrogenase iron protein NifH	Treponema parvum	ATCC 700770	GCF_017893965.1
-427710396	INSDC	CP054142.1	2027389	2028168	-	QTQ14579.1	AAA family ATPase	Treponema parvum	ATCC 700770	GCA_017893965.1

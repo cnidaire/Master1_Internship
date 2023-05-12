@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-49090691	RefSeq	NZ_AONC01000029.1	102243	103124	-	WP_043753453.1	nitrogenase iron protein	Imhoffiella purpurea	AK35	GCF_000585215.1
-49090691	INSDC	AONC01000029.1	102243	103124	-	EXJ15158.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Imhoffiella purpurea	AK35	GCA_000585215.1

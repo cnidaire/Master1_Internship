@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-586907793	INSDC	AP025628.1	399549	400442	-	BDG59292.1	nitrogenase subunit nifH	Caldinitratiruptor microaerophilus	JCM 16183	GCA_025999835.1

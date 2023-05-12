@@ -1,4 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-563019846	RefSeq	NZ_CALBCC010000001.1	19055	19837	+	WP_253724745.1	nitrogenase iron protein NifH	Treponema socranskii		GCF_937927155.1
-563019846	RefSeq	NZ_CP054258.1	1524136	1524918	-	WP_253724745.1	nitrogenase iron protein NifH	Treponema socranskii subsp. buccale	ATCC 35534	GCF_024181585.1
-563019846	INSDC	CP054258.1	1524136	1524918	-	UTD02806.1	P-loop NTPase	Treponema socranskii subsp. buccale	ATCC 35534	GCA_024181585.1

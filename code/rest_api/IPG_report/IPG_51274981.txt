@@ -1,4 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-51274981	RefSeq	NZ_JMIY01000005.1	290869	291660	-	WP_048091713.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Candidatus Methanoperedens nitroreducens	ANME-2d	GCF_000685155.1
-51274981	INSDC	JMIY01000005.1	290869	291660	-	KCZ71645.1	nitrogenase subunit NifH (ATPase)	Candidatus Methanoperedens nitroreducens	ANME-2d	GCA_000685155.1
-51274981	PAT	N/A				QPZ16268.1	Sequence 93 from patent US 10793863	Unknown		

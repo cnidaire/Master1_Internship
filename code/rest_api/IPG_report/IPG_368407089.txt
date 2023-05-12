@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-368407089	RefSeq	NZ_CP070896.1	2715872	2716612	-	WP_277409680.1	nitrogenase iron protein NifH	Hungatella xylanolytica	ASCUSBR21	GCF_017084465.1
-368407089	INSDC	SVDW01000015.1	26845	27585	+	MBE5975152.1	nitrogenase iron protein	Paenibacillaceae bacterium		GCA_015057785.1

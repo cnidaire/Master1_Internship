@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-541694426	INSDC	JALHUY010000315.1	1	461	-	MCJ7619806.1	nitrogen fixation protein NifH	Anaerolineae bacterium		GCA_022866205.1

@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-350787255	RefSeq	NZ_JACIGM010000009.1	252159	253052	+	WP_183927374.1	nitrogenase iron protein	Rhizobium mongolense	SEMIA 402	GCF_014197875.1
-350787255	INSDC	JACIGM010000009.1	252159	253052	+	MBB4276647.1	nitrogenase iron protein NifH	Rhizobium mongolense	SEMIA 402	GCA_014197875.1

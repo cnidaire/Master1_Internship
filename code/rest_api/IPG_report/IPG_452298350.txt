@@ -1,6 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-452298350	RefSeq	NZ_CP084019.1	1565318	1566073	-	WP_225068550.1	nitrogenase iron protein NifH	Megasphaera massiliensis	NBRC 114414	GCF_020181515.1
-452298350	RefSeq	NZ_JAJBQH010000009.1	53760	54515	-	WP_225068550.1	nitrogenase iron protein NifH	Megasphaera massiliensis	MSK.20.21	GCF_020539395.1
-452298350	INSDC	JAGZIB010000003.1	55952	56707	+	MBS5212235.1	AAA family ATPase	Megasphaera sp.		GCA_018366475.1
-452298350	INSDC	JAJBQH010000009.1	53760	54515	-	MCB5735508.1	nitrogenase iron protein NifH	Megasphaera massiliensis	MSK.20.21	GCA_020539395.1
-452298350	INSDC	CP084019.1	1565318	1566073	-	UBS52747.1	nitrogenase iron protein NifH	Megasphaera massiliensis	NBRC 114414	GCA_020181515.1

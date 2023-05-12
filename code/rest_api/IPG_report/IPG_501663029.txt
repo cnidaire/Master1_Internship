@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-501663029	RefSeq	NZ_WJBI01000018.1	4942	5835	-	WP_229391797.1	nitrogenase iron protein NifH	Methanosarcina sp. DH2	DH2	GCF_020804225.1
-501663029	INSDC	WJBI01000018.1	4942	5835	-	MCC4771674.1	AAA family ATPase	Methanosarcina sp. DH2	DH2	GCA_020804225.1

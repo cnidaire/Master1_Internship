@@ -1,4 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-55619754	RefSeq	NZ_JMQN01000047.1	23476	24351	+	WP_036190066.1	nitrogenase iron protein	Marinobacterium sp. AK27	AK27	GCF_000705555.1
-55619754	INSDC	JMQN01000047.1	23476	24351	+	KEA62584.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Marinobacterium sp. AK27	AK27	GCA_000705555.1
-55619754	INSDC	JAAEYX010000087.1	14991	15866	+	MBR9884052.1	nitrogenase iron protein	Oceanospirillales bacterium		GCA_018223165.1

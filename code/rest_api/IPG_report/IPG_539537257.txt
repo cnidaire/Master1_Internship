@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-539537257	RefSeq	NZ_LR215983.1	1949139	1949996	-	WP_243124727.1	nitrogenase iron protein NifH	Eubacterium limosum		GCF_900683775.1

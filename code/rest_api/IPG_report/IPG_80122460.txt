@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-80122460	INSDC	CP009526.1	970989	971357	+	AKB50061.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Methanosarcina barkeri str. Wiesmoor	Wiesmoor	GCA_000969985.1

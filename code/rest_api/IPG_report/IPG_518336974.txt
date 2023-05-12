@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-518336974	RefSeq	NZ_JAKGUE010000005.1	92900	93661	-	WP_236102374.1	nitrogenase iron protein NifH	Dethiosulfovibrio faecalis	F2B	GCF_021568795.1
-518336974	INSDC	JAKGUE010000005.1	92900	93661	-	MCF4151328.1	nitrogenase iron protein NifH	Dethiosulfovibrio faecalis	F2B	GCA_021568795.1

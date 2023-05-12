@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-537516401	INSDC	JALFIK010000145.1	9357	10112	+	MCI6858862.1	nitrogenase iron protein NifH	Eubacterium sp.		GCA_022776205.1

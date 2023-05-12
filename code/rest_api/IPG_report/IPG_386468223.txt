@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-386468223	INSDC	JACRPY010000002.1	609602	610612	+	MBI5679903.1	nitrogen fixation protein NifH	Methanobacterium sp.		GCA_016222945.1

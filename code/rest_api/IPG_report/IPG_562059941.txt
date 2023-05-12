@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-562059941	RefSeq	NZ_JAMXVC010000004.1	176616	177377	+	WP_253030169.1	nitrogenase iron protein NifH	Anaerostipes hadrus	NB2B-9-DCM	GCF_024125185.1
-562059941	INSDC	JAMXVC010000004.1	176616	177377	+	MCO7163251.1	nitrogenase iron protein NifH	Anaerostipes hadrus	NB2B-9-DCM	GCA_024125185.1

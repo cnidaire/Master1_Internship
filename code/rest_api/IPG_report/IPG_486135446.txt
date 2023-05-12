@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-486135446	INSDC	JAICDC010000001.1	269850	270809	+	MBZ4689002.1	nitrogenase iron protein subunit NifH	Cereibacter sp.		GCA_020063605.1

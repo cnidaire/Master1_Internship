@@ -1,5 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-4940880	RefSeq	NC_007796.1	906664	907506	-	WP_011447824.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanospirillum hungatei JF-1	JF-1	GCF_000013445.1
-4940880	Swiss-Prot	N/A				Q2FUB7.1	Nitrogenase iron protein	Methanospirillum hungatei JF-1		
-4940880	INSDC	CP000254.1	906664	907506	-	ABD40545.1	Mo-nitrogenase iron protein subunit NifH	Methanospirillum hungatei JF-1	JF-1	GCA_000013445.1
-4940880	PAT	N/A				QPZ16262.1	Sequence 87 from patent US 10793863	Unknown		

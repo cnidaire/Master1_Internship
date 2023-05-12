@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-576279837	RefSeq	NZ_JANUCS010000001.1	99132	99926	+	WP_259133051.1	Ni-sirohydrochlorin a,c-diamide reductive cyclase ATP-dependent reductase subunit	Methanosalsum natronophilum	AME2	GCF_024808815.1
-576279837	INSDC	JANUCS010000001.1	99132	99926	+	MCS3923058.1	nitrogenase iron protein NifH	Methanosalsum natronophilum	AME2	GCA_024808815.1

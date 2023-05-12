@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-91206824	INSDC	KP941079.1	1	651	+	ALC74331.1	NifH	Paenibacillus sp. G11	G11	

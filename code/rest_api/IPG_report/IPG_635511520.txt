@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-635511520	RefSeq	NZ_JAHQCX010000021.1	13832	14656	-	WP_275061467.1	nitrogenase iron protein NifH	Diplocloster modestus	ASD4241	GCF_019042245.1

@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-562747719	RefSeq	NZ_JALJZF010000001.1	8820583	8821467	-	WP_253640823.1	nitrogenase iron protein	Bradyrhizobium sp. USDA 4541	USDA 4541	GCF_024171085.1
-562747719	INSDC	JALJZF010000001.1	8820583	8821467	-	MCP1854676.1	nitrogenase iron protein NifH	Bradyrhizobium sp. USDA 4541	USDA 4541	GCA_024171085.1

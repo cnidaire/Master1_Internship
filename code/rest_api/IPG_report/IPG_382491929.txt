@@ -1,4 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-382491929	RefSeq	NZ_CP022121.1	2189518	2190363	+	WP_198306515.1	nitrogenase iron protein NifH	Dehalobacterium formicoaceticum	DMC	GCF_002224645.1
-382491929	RefSeq	NZ_JANPWE010000014.1	7768	8613	+	WP_198306515.1	nitrogenase iron protein NifH	Dehalobacterium formicoaceticum	EZ94	GCF_024705665.1
-382491929	INSDC	JANPWE010000014.1	7768	8613	+	MCR6546924.1	nitrogenase iron protein NifH	Dehalobacterium formicoaceticum	EZ94	GCA_024705665.1

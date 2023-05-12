@@ -1,6 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-60425492	RefSeq	NZ_FOIP01000002.1	2188128	2188976	-	WP_038280463.1	nitrogenase iron protein	Lacrimispora sphenoides	DSM 4024	GCF_900105215.1
-60425492	RefSeq	NZ_JPME01000012.1	41434	42282	+	WP_038280463.1	nitrogenase iron protein	Lacrimispora celerecrescens	152B	GCF_000732605.1
-60425492	INSDC	JPME01000012.1	41434	42282	+	KEZ90203.1	nitrogenase reductase	Lacrimispora celerecrescens	152B	GCA_000732605.1
-60425492	INSDC	JAHXQS010000010.1	342092	342940	-	MBW4845886.1	nitrogenase iron protein	Lachnospiraceae bacterium		GCA_019391355.1
-60425492	INSDC	FOIP01000002.1	2188128	2188976	-	SEU33744.1	Mo-nitrogenase iron protein subunit NifH	Lacrimispora sphenoides	DSM 4024	GCA_900105215.1

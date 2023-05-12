@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-498489063	INSDC	JACKBA010000008.1	84273	85295	+	MCB9114670.1	nitrogen fixation protein NifH	Caldilineaceae bacterium		GCA_020634815.1

@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-622687071	RefSeq	NZ_JAQQLI010000083.1	12679	13488	-	WP_272780475.1	nitrogenase iron protein NifH	Rhodoplanes tepidamans	DSM 9987	GCF_028550555.1
-622687071	RefSeq	NZ_JAQQSA010000106.1	19333	20142	+	WP_272780475.1	nitrogenase iron protein NifH	Rhodoplanes sp. TEM	TEM	GCF_028561475.1

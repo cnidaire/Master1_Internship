@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-55587578	RefSeq	NZ_JMLJ01000006.1	181659	182411	-	WP_027631952.1	nitrogenase iron protein NifH	Clostridium hydrogeniformans DSM 21757	DSM 21757	GCF_000686705.1

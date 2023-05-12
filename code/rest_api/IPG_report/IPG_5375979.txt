@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-5375979	INSDC	DQ364800.1	1	323	+	ABD58949.1	NifH	Paenibacillus sp. GJ10	GJ10	

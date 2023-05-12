@@ -1,7 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-85442718	RefSeq	NZ_AP014854.2	2509561	2510454	-	WP_055037707.1	nitrogenase iron protein	Blastochloris viridis	DSM 133	GCF_001548155.2
-85442718	RefSeq	NZ_CP012946.1	2510738	2511631	+	WP_055037707.1	nitrogenase iron protein	Blastochloris viridis	ATCC 19567	GCF_001402875.1
-85442718	RefSeq	NZ_LN907867.1	1910708	1911601	+	WP_055037707.1	nitrogenase iron protein	Blastochloris viridis		GCF_001459775.1
-85442718	INSDC	CP012946.1	2510738	2511631	+	ALK10035.1	Nitrogenase iron protein	Blastochloris viridis	ATCC 19567	GCA_001402875.1
-85442718	INSDC	AP014854.2	2509561	2510454	-	BAS00045.1	nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Blastochloris viridis	DSM 133	GCA_001548155.2
-85442718	INSDC	LN907867.1	1910708	1911601	+	CUU42699.1	Nitrogenase iron protein	Blastochloris viridis		GCA_001459775.1

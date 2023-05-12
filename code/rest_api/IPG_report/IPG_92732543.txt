@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-92732543	INSDC	LIZX01000042.1	16281	16742	+	KPJ68717.1	nitrogen fixation protein NifH	candidate division WOR-1 bacterium DG_54_3		GCA_001302785.1

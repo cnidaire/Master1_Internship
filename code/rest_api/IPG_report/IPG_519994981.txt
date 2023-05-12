@@ -1,7 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-519994981	RefSeq	NZ_JMKI01000047.1	113342	114088	+	WP_236617127.1	nitrogenase iron protein NifH	Synergistes jonesii	78-1	GCF_000712295.1
-519994981	RefSeq	NZ_JPZQ01000056.1	112511	113257	+	WP_236617127.1	nitrogenase iron protein NifH	Synergistes jonesii	100-6	GCF_001757495.1
-519994981	RefSeq	NZ_JPZR01000047.1	29835	30581	+	WP_236617127.1	nitrogenase iron protein NifH	Synergistes jonesii	147-1	GCF_001757565.1
-519994981	RefSeq	NZ_JPZS01000049.1	85650	86396	+	WP_236617127.1	nitrogenase iron protein NifH	Synergistes jonesii	113-4	GCF_001757415.1
-519994981	RefSeq	NZ_JQEK01000017.1	4789	5535	+	WP_236617127.1	nitrogenase iron protein NifH	Synergistes jonesii	78-1	GCF_001757465.1
-519994981	RefSeq	NZ_JQEL01000049.1	112511	113257	+	WP_236617127.1	nitrogenase iron protein NifH	Synergistes jonesii	ATCC 49833	GCF_001757485.1

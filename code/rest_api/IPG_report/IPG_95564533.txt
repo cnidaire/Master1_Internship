@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-95564533	INSDC	LJJX01000026.1	16694	17557	-	KQM04413.1	Mo-nitrogenase iron protein subunit NifH	Frankia sp. CpI1-P	CpI1-P	GCA_001421075.1

@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-549358734	INSDC	JALNXL010000001.1	27623	28513	+	MCK9305926.1	nitrogenase iron protein NifH	Methanoculleus sp.		GCA_023230395.1

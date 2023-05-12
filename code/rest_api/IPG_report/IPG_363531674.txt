@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-363531674	RefSeq	NZ_JACSQB010000062.1	8892	9638	-	WP_191740061.1	nitrogenase iron protein NifH	Clostridium faecium	N37	GCF_014836835.1
-363531674	INSDC	JACSQB010000062.1	8892	9638	-	MBD8047087.1	AAA family ATPase	Clostridium faecium	N37	GCA_014836835.1

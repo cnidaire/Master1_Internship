@@ -1,5 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-43769292	RefSeq	NZ_ASZC01000007.1	139424	140305	+	WP_021183946.1	nitrogenase iron protein	Pantoea sp. AS-PWVM4	AS-PWVM4	GCF_000468095.1
-43769292	RefSeq	NZ_CP024639.1	211322	212203	+	WP_021183946.1	nitrogenase iron protein	Pantoea sp. MSR2	MSR2	GCF_009728735.1
-43769292	INSDC	ASZC01000007.1	139424	140305	+	ERK16327.1	Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Pantoea sp. AS-PWVM4	AS-PWVM4	GCA_000468095.1
-43769292	INSDC	CP024639.1	211322	212203	+	QGR09738.1	nitrogenase iron protein	Pantoea sp. MSR2	MSR2	GCA_009728735.1

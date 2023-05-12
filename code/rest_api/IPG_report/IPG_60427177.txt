@@ -1,4 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-60427177	RefSeq	NZ_JPME01000002.1	333909	334661	-	WP_038277381.1	nitrogenase iron protein NifH	Lacrimispora celerecrescens	152B	GCF_000732605.1
-60427177	INSDC	JPME01000002.1	333909	334661	-	KEZ91916.1	nitrogenase iron protein	Lacrimispora celerecrescens	152B	GCA_000732605.1
-60427177	INSDC	VUMC01000003.1	460474	461226	-	MSS09267.1	AAA family ATPase	Clostridium sp. WB02_MRS01	WB02_MRS01	GCA_009696365.1

@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-94620911	RefSeq	NZ_LN879468.1	226099	226842	+	WP_055070462.1	nitrogenase iron protein NifH	Clostridium massiliamazoniense	ND2	GCF_001403635.1

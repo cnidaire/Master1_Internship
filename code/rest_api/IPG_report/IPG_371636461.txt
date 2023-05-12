@@ -1,6 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-371636461	RefSeq	NZ_JABZQD010000009.1	1604	2356	-	WP_273067885.1	nitrogenase iron protein NifH	Mogibacterium diversum		GCF_015263815.1
-371636461	RefSeq	NZ_JABZQG010000013.1	28423	29175	-	WP_273067885.1	nitrogenase iron protein NifH	Mogibacterium diversum		GCF_015263765.1
-371636461	INSDC	JABZQG010000013.1	28423	29175	-	MBF1319786.1	P-loop NTPase	Mogibacterium diversum		GCA_015263765.1
-371636461	INSDC	JABZQE010000045.1	5238	5990	+	MBF1338642.1	P-loop NTPase	Mogibacterium diversum		GCA_015263775.1
-371636461	INSDC	JABZQD010000009.1	1604	2356	-	MBF1340949.1	P-loop NTPase	Mogibacterium diversum		GCA_015263815.1

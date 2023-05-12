@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-537132159	INSDC	JALESR010000040.1	6227	7003	+	MCI6512626.1	nitrogenase iron protein NifH	Coprococcus catus		GCA_022781695.1

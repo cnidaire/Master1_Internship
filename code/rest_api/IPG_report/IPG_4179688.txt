@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-4179688	INSDC	AY768420.1	1	310	+	AAX82509.1	NifH	Microcoleus sp. PCC 8701	PCC 8701	

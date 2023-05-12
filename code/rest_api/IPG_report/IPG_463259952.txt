@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-463259952	RefSeq	NZ_JAHLPJ010000001.1	35156	35911	+	WP_216584552.1	nitrogenase iron protein NifH	Tissierella pigra	MSJ-22	GCF_018917845.1
-463259952	INSDC	JAHLPJ010000001.1	35156	35911	+	MBU5424805.1	AAA family ATPase	Tissierella pigra	MSJ-22	GCA_018917845.1

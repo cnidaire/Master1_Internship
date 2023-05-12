@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-517400270	RefSeq	NZ_JADYTW010000003.1	214518	215279	-	WP_235268773.1	nitrogenase iron protein NifH	Mitsuokella multacida	An892	GCF_021531445.1
-517400270	INSDC	JADYTW010000003.1	214518	215279	-	MCF2584562.1	P-loop NTPase	Mitsuokella multacida	An892	GCA_021531445.1

@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-644372625	RefSeq	NZ_CP121445.1	446792	447667	+	WP_278272820.1	nitrogenase iron protein NifH	Anaerocolumna sp. AGMB13025	AGMB13025	GCF_029689925.1
-644372625	INSDC	CP121445.1	446792	447667	+	WFR57846.1	nitrogenase iron protein NifH	Anaerocolumna sp. AGMB13025	AGMB13025	GCA_029689925.1

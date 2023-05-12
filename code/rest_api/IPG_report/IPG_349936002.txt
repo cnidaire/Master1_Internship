@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-349936002	RefSeq	NZ_JACHID010000010.1	9637	10515	-	WP_183732669.1	nitrogenase iron protein	Desulfurispira natronophila	DSM 22071	GCF_014203025.1
-349936002	INSDC	JACHID010000010.1	9637	10515	-	MBB5022333.1	nitrogenase iron protein NifH	Desulfurispira natronophila	DSM 22071	GCA_014203025.1

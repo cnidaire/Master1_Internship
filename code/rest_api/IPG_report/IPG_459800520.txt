@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-459800520	RefSeq	NZ_WQPJ01000020.1	42847	43608	+	WP_215689976.1	nitrogenase iron protein NifH	Coprococcus catus	MCC394	GCF_018785195.1
-459800520	INSDC	WQPJ01000020.1	42847	43608	+	MBT9769995.1	AAA family ATPase	Coprococcus catus	MCC394	GCA_018785195.1

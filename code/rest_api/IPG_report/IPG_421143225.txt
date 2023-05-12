@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-421143225	INSDC	CAJPFQ010000202.1	3585	4409	+	CAG0971641.1	nitrogenase iron protein NifH	Methanosarcinales archaeon		GCA_905339305.1

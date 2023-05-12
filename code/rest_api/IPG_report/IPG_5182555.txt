@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-5182555	RefSeq	NC_008781.1	2476797	2477687	-	WP_011801730.1	nitrogenase iron protein	Polaromonas naphthalenivorans CJ2	CJ2	GCF_000015505.1
-5182555	INSDC	CP000529.1	2476797	2477687	-	ABM37652.1	Mo-nitrogenase iron protein subunit NifH	Polaromonas naphthalenivorans CJ2	CJ2	GCA_000015505.1

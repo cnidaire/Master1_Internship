@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-77457261	RefSeq	NZ_CABKSR010000002.1	683133	683888	-	WP_044480710.1	nitrogenase iron protein NifH	Paenibacillus antibioticophila		GCF_902375095.1
-77457261	RefSeq	NZ_HG005140.1	683133	683888	-	WP_044480710.1	nitrogenase iron protein NifH	Paenibacillus antibioticophila	GD11	GCF_000455265.1

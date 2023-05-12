@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-486132898	INSDC	JAICDD010000029.1	1552	2385	+	MBZ4683941.1	Mo-nitrogenase iron protein subunit NifH	Fusobacteriales bacterium		GCA_020063625.1

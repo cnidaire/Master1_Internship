@@ -1,9 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-44445171	RefSeq	NZ_FPCC01000005.1	162653	163501	-	WP_022779587.1	nitrogenase iron protein	Butyrivibrio sp. INlla21	INlla21	GCF_900116875.1
-44445171	RefSeq	NZ_RAIQ01000001.1	473621	474469	-	WP_022779587.1	nitrogenase iron protein	Butyrivibrio sp. X503	X503	GCF_003625475.1
-44445171	RefSeq	NZ_RAIS01000004.1	176254	177102	-	WP_022779587.1	nitrogenase iron protein	Butyrivibrio sp. XB500-5	XB500-5	GCF_003625505.1
-44445171	INSDC	JAGAAO010000058.1	15242	16090	-	MBO4457822.1	nitrogenase iron protein	Butyrivibrio sp.		GCA_017615275.1
-44445171	INSDC	JAFXTN010000037.1	95244	96092	+	MBR4671190.1	nitrogenase iron protein	Butyrivibrio sp.		GCA_017535785.1
-44445171	INSDC	RAIQ01000001.1	473621	474469	-	RKM58351.1	nitrogenase iron protein	Butyrivibrio sp. X503	X503	GCA_003625475.1
-44445171	INSDC	RAIS01000004.1	176254	177102	-	RKM60170.1	nitrogenase iron protein	Butyrivibrio sp. XB500-5	XB500-5	GCA_003625505.1
-44445171	INSDC	FPCC01000005.1	162653	163501	-	SFU54947.1	nitrogenase iron protein NifH	Butyrivibrio sp. INlla21	INlla21	GCA_900116875.1

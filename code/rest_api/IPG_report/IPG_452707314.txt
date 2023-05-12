@@ -1,4 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-452707314	RefSeq	NZ_JAHLPI010000011.1	54622	55386	-	WP_216552726.1	nitrogenase iron protein NifH	Ruminococcus sp. MSJ-25	MSJ-25	GCF_018917825.1
-452707314	INSDC	JAGZOW010000022.1	25162	25926	-	MBS7206454.1	AAA family ATPase	Ruminococcus bicirculans		GCA_018383015.1
-452707314	INSDC	JAHLPI010000011.1	54622	55386	-	MBU5407334.1	AAA family ATPase	Ruminococcus sp. MSJ-25	MSJ-25	GCA_018917825.1

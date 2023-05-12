@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-40447552	RefSeq	NZ_KB913023.1	1350059	1350817	+	WP_019849902.1	nitrogenase iron protein NifH	Desulfitobacterium sp. PCE1	PCE1	GCF_000384015.1

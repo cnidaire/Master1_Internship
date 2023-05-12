@@ -1,5 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-452677126	RefSeq	NZ_JAHAIQ010000001.1	1814	2557	+	WP_216560880.1	nitrogenase iron protein NifH	Paraclostridium bifermentans		GCF_018372635.1
-452677126	RefSeq	NZ_JAHLNV010000002.1	1834	2577	+	WP_216560880.1	nitrogenase iron protein NifH	Paraclostridium bifermentans	N73	GCF_018917045.1
-452677126	INSDC	JAHAIQ010000001.1	1814	2557	+	MBS5952170.1	AAA family ATPase	Paraclostridium bifermentans		GCA_018372635.1
-452677126	INSDC	JAHLNV010000002.1	1834	2577	+	MBU5287564.1	AAA family ATPase	Paraclostridium bifermentans	N73	GCA_018917045.1

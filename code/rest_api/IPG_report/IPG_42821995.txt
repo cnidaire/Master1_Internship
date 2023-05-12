@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-42821995	INSDC	AURA01000298.1	937	1779	+	EQD24965.1	Nitrogenase iron protein (NifH)	Leptospirillum sp. Group IV 'UBA BS'		GCA_000496115.1
-42821995	INSDC	KI542995.1	3985	4827	+	EQD24965.1	Nitrogenase iron protein (NifH)	Leptospirillum sp. Group IV 'UBA BS'		GCA_000496115.1

@@ -1,4 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-92957825	RefSeq	NZ_CABIWZ010000006.1	65947	66696	+	WP_055161428.1	nitrogenase iron protein NifH	Mitsuokella jalaludinii		GCF_902362545.1
-92957825	RefSeq	NZ_CYYU01000006.1	65947	66696	+	WP_055161428.1	nitrogenase iron protein NifH	Mitsuokella jalaludinii	2789STDY5608828	GCF_001404615.1
-92957825	INSDC	CYYU01000006.1	65947	66696	+	CUN71743.1	Nitrogenase iron protein 1	Mitsuokella jalaludinii	2789STDY5608828	GCA_001404615.1

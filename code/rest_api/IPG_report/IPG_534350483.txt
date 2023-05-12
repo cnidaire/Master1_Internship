@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-534350483	INSDC	JALCRZ010000001.1	16365	17129	+	MCI2075716.1	nitrogenase iron protein NifH	Sphaerochaeta sp.		GCA_022653035.1

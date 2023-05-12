@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-4179801	INSDC	AY768415.1	1	338	+	AAX82504.1	NifH	Nodosilinea nodulosa PCC 7104	PCC 7104	

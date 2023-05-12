@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-469614905	RefSeq	NZ_JAEEGC010000032.1	27209	27979	+	WP_218319784.1	nitrogenase iron protein NifH	Clostridium thailandense	PL3	GCF_019207025.1
-469614905	INSDC	JAEEGC010000032.1	27209	27979	+	MBV7272750.1	AAA family ATPase	Clostridium thailandense	PL3	GCA_019207025.1

@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-66395020	INSDC	KM192247.1	1	756	+	AIX97569.1	nitrogenase reductase NifH	Ensifer sp. CHU2	CHU2	

@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-546907972	INSDC	JAGMEL010000148.1	24730	25779	+	MCK4250952.1	nitrogen fixation protein NifH	candidate division WOR-3 bacterium		GCA_023128195.1

@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-57339345	RefSeq	NZ_JJRY01000032.1	27028	27789	+	WP_202594825.1	nitrogenase iron protein NifH	Schinkia azotoformans MEV2011	MEV2011	GCF_000708505.1
-57339345	INSDC	JJRY01000032.1	27028	27789	+	KEF36225.1	nitrogenase subunit NifH (ATPase)	Schinkia azotoformans MEV2011	MEV2011	GCA_000708505.1

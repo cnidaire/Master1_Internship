@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-523732554	RefSeq	NZ_JAKNCT010000010.1	681	1484	+	WP_237979212.1	nitrogenase iron protein NifH	Mesosutterella sp. OilRF-GAM-744-9	OilRF-GAM-744-9	GCF_022134585.1
-523732554	INSDC	JAKNCT010000010.1	681	1484	+	MCG5031478.1	nitrogenase iron protein NifH	Mesosutterella sp. OilRF-GAM-744-9	OilRF-GAM-744-9	GCA_022134585.1

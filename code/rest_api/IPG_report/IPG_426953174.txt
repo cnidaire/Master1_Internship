@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-426953174	INSDC	JAFNAB010000032.1	22545	23369	+	MBP1626813.1	nifH	Holophagaceae bacterium		GCA_017859955.1

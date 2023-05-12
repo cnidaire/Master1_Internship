@@ -1,4 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-851738	Swiss-Prot	N/A				Q51296.1	Nitrogenase iron protein	Nostoc sp. PCC 6720		
-851738	INSDC	Z31716.1	527	1414	+	CAA83510.1	NifH	Nostoc sp. PCC 6720	NOSTOC 6720	
-851738	PRF	N/A				2021269B	dinitrogenase reductase	Nostoc sp.		

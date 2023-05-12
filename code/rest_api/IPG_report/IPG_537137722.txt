@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-537137722	INSDC	JALESN010000239.1	351	1154	-	MCI6531199.1	nitrogenase iron protein NifH	Mesosutterella sp.		GCA_022782025.1

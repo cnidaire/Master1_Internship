@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-51668556	RefSeq	NZ_AZUI01000001.1	972137	972892	-	WP_024291866.1	nitrogenase iron protein NifH	[Clostridium] indolis DSM 755	DSM 755	GCF_000526995.1

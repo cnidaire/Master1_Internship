@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-536702678	INSDC	JALEKN010000036.1	9695	10462	+	MCI5857093.1	nitrogenase iron protein NifH	Agathobacter sp.		GCA_022769125.1

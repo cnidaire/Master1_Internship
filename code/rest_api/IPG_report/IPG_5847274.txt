@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-5847274	INSDC	DQ485714.1	1	782	+	ABG74605.1	NifH	Sinorhizobium fredii	CPAC 402	

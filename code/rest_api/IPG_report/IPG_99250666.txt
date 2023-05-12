@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-99250666	RefSeq	NZ_LN898208.1	42674	43456	-	WP_058269925.1	nitrogenase iron protein NifH	Olsenella massiliensis	SIT9	GCF_001457795.1

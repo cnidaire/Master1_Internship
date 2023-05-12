@@ -1,9 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-44427410	RefSeq	NZ_ATVZ01000055.1	7716	8570	+	WP_022758672.1	nitrogenase iron protein	Butyrivibrio fibrisolvens AB2020	AB2020	GCF_000420985.1
-44427410	RefSeq	NZ_AUJV01000037.1	13546	14400	+	WP_022758672.1	nitrogenase iron protein	Butyrivibrio fibrisolvens WTE3004	WTE3004	GCF_000424405.1
-44427410	RefSeq	NZ_AUKD01000015.1	82510	83364	-	WP_022758672.1	nitrogenase iron protein	Butyrivibrio fibrisolvens MD2001	MD2001	GCF_000424565.1
-44427410	RefSeq	NZ_FOGJ01000011.1	70384	71238	+	WP_022758672.1	nitrogenase iron protein	Butyrivibrio fibrisolvens	AR40	GCF_900111185.1
-44427410	RefSeq	NZ_KE384120.1	157897	158751	-	WP_022758672.1	nitrogenase iron protein	Butyrivibrio fibrisolvens YRB2005	YRB2005	GCF_000423985.1
-44427410	INSDC	JAFOLO010000163.1	17761	18615	+	MBQ1458356.1	nitrogenase iron protein	Butyrivibrio sp.		GCA_017419305.1
-44427410	INSDC	JAIKXD010000178.1	3654	4508	-	MCR4636837.1	nitrogenase iron protein	Butyrivibrio sp.		GCA_024684295.1
-44427410	INSDC	FOGJ01000011.1	70384	71238	+	SER79501.1	nitrogenase iron protein NifH	Butyrivibrio fibrisolvens	AR40	GCA_900111185.1

@@ -1,8 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-94880	RefSeq	NZ_JAGGMU010000001.1	65521	66357	-	WP_209590744.1	nitrogenase iron protein	Methanococcus voltae	A2	GCF_017875625.1
-94880	RefSeq	NZ_JAGGMV010000001.1	784508	785344	+	WP_209590744.1	nitrogenase iron protein	Methanococcus voltae	C4	GCF_017875565.1
-94880	RefSeq	NZ_JANUCQ010000004.1	64860	65696	-	WP_209590744.1	nitrogenase iron protein	Methanococcus voltae PS	PS	GCF_024807035.1
-94880	INSDC	JAGGMU010000001.1	65521	66357	-	MBP2171763.1	nitrogenase iron protein NifH	Methanococcus voltae	A2	GCA_017875625.1
-94880	INSDC	JAGGMV010000001.1	784508	785344	+	MBP2201299.1	nitrogenase iron protein NifH	Methanococcus voltae	C4	GCA_017875565.1
-94880	INSDC	JANUCQ010000004.1	64860	65696	-	MCS3922759.1	nitrogenase iron protein NifH	Methanococcus voltae PS	PS	GCA_024807035.1
-94880	PRF	N/A				1211324A	ORF nifH	Methanococcus voltae		

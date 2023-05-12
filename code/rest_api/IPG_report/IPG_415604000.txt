@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-415604000	RefSeq	NZ_BOPZ01000022.1	21678	22550	-	WP_212904463.1	nitrogenase iron protein NifH	Clostridium polyendosporum	JCM 30710	GCF_018332455.1
-415604000	INSDC	BOPZ01000022.1	21678	22550	-	GIM29775.1	nitrogenase iron protein	Clostridium polyendosporum	JCM 30710	GCA_018332455.1

@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-54385491	RefSeq	NZ_KK211287.1	93855	94622	-	WP_026478646.1	nitrogenase iron protein NifH	Alkaliphilus transvaalensis ATCC 700919	ATCC 700919	GCF_000621485.1

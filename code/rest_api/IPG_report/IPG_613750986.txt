@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-613750986	INSDC	OP654864.1	1	394	+	WBY50005.1	NifH	Rhizobium sp.	TUTpvES42(3)	

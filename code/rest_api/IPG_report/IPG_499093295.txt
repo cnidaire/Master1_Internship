@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-499093295	INSDC	JAGWCS010000096.1	7896	8645	+	MCC0649692.1	AAA family ATPase	Clostridioides sp. ZZV15-6598	ZZV15-6598	GCA_020657705.1

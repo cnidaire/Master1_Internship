@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-537597166	INSDC	JALFKS010000005.1	15024	15806	+	MCI7123255.1	nitrogenase iron protein NifH	Mogibacterium sp.		GCA_022774615.1

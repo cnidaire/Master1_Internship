@@ -729,6 +729,45 @@ file.close()
 
 
 
+# Day 17: 11/05/2023
+
+It seems that I didn't download the right xml file
+
+today I was tired, I had trouble to focus because of personal event so nothing noticeable
+
+
+
+# Day 18
+
+function x_showgi(el) { // ID-4455 var elSeq = document.getElementById("file_showgi_section"); if (el.options[el.selectedIndex].getAttribute("showgi") === "true") {elSeq.style.display = "";} else { elSeq.style.display = "none";}}setTimeout(function() { x_showgi(document.getElementById("file_format"));}, 1000);                
+
+maybe if I add after ? "report=fatsa&", it migth work because it's leading me right away to the fasta file
+
+```python
+from Bio import Entrez
+
+def download_insdseq_xml(url):
+    # Extract the accession number and range from the URL
+    accession = url.split('/')[-1].split('?')[0]
+    range_params = url.split('?')[1]
+
+    # Use efetch to download the INSDSeq XML report
+    handle = Entrez.efetch(db='nucleotide', id=accession, rettype='gb', retmode='xml', seq_start=int(range_params.split('from=')[1].split('&')[0]), seq_stop=int(range_params.split('to=')[1].split('&')[0]), strand=range_params.split('strand=')[1])
+
+    # Save the XML data to a file
+    with open(f'{accession}_INSDSeq.xml', 'wb') as file:
+        file.write(handle.read())
+
+    print('INSDSeq XML report downloaded successfully.')
+
+# Example usage
+url = 'https://www.ncbi.nlm.nih.gov/nuccore/FOVE01000009.1?report=fasta&from=53785&to=54663&strand=2'
+download_insdseq_xml(url)
+
+```
+
+So if it works like this, I won' have to recreate a url but putting everything in a table will be way easier.
+
 # Pipeline
 
 - [ ] Collect marine? nifH amplicon sequences from NCBI and ENA

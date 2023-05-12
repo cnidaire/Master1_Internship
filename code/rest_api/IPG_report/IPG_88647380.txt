@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-88647380	RefSeq	NZ_LR796240.1	1068506	1069294	+	WP_051121718.1	nitrogenase iron protein NifH	Treponema socranskii subsp. buccale	Marseille-CSURQ0203	GCF_902983995.1

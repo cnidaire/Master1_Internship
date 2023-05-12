@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-537314150	INSDC	JALEUB010000008.1	19409	20170	+	MCI6682804.1	nitrogenase iron protein NifH	Roseburia faecis		GCA_022780885.1

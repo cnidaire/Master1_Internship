@@ -1,4 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-537711065	RefSeq	NZ_JALFRU010000063.1	2574	3323	-	WP_278822326.1	nitrogenase iron protein NifH	Mitsuokella jalaludinii		GCF_022779025.1
-537711065	INSDC	JALFRU010000063.1	2574	3323	-	MCI6611568.1	nitrogenase iron protein NifH	Mitsuokella jalaludinii		GCA_022779025.1
-537711065	INSDC	JALFVU010000024.1	62	811	-	MCI7715674.1	nitrogenase iron protein NifH	Mitsuokella jalaludinii		GCA_022786485.1

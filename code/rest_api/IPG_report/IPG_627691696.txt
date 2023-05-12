@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-627691696	RefSeq	NZ_JAQYBN010000008.1	9482	10234	-	WP_277650738.1	nitrogenase iron protein NifH	Intestinibaculum porci		GCF_029339035.1

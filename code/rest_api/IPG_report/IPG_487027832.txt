@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-487027832	RefSeq	NZ_CP067089.2	437137	437907	-	WP_223292745.1	nitrogenase iron protein NifH	Breznakiella homolactica	RmG30	GCF_016616095.2

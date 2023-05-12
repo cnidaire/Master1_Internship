@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-529908947	RefSeq	NZ_VANV01000035.1	23574	24314	-	WP_240843450.1	nitrogenase iron protein NifH	Acidaminobacter sp. JC074	JC074	GCF_022496765.1
-529908947	INSDC	VANV01000035.1	23574	24314	-	MCH4891043.1	nitrogenase iron protein	Acidaminobacter sp. JC074	JC074	GCA_022496765.1

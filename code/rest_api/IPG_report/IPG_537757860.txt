@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-537757860	INSDC	JALFTG010000053.1	1	399	+	MCI6646711.1	nitrogen fixation protein NifH	Oscillospiraceae bacterium		GCA_022779345.1

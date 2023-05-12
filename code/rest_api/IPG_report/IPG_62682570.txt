@@ -1,4 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-62682570	RefSeq	NZ_JARVXG010000048.1	59582	60460	+	WP_048073426.1	nitrogenase iron protein NifH	Methanobacterium formicicum	MF	GCF_029848115.1
-62682570	INSDC	CP022706.1	576639	577517	+	AXV39295.1	nitrogenase iron protein	Methanobacterium sp. BAmetb5		GCA_003491305.1
-62682570	INSDC	LN515531.1	2077116	2077994	+	CEA14384.1	Nitrogenase iron protein 2	Methanobacterium formicicum		GCA_000953115.1

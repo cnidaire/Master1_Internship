@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-636191	INSDC	AF117976.1	1	357	+	AAD29987.1	NifH	Pseudomonas sp. DC		

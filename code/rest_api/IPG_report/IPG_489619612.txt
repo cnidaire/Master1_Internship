@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-489619612	INSDC	JAIWOQ010000414.1	2244	2799	+	MCA1987426.1	nitrogenase iron protein NifH	Desulfovibrio sp.		GCA_020217325.1

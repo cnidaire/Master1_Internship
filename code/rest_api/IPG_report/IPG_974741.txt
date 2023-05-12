@@ -1,6 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-974741	RefSeq	NC_000909.1	804540	805379	+	WP_010870393.1	nitrogenase iron protein	Methanocaldococcus jannaschii DSM 2661	DSM 2661	GCF_000091665.1
-974741	Swiss-Prot	N/A				Q58289.1	Nitrogenase iron protein	Methanocaldococcus jannaschii DSM 2661		
-974741	INSDC	L77117.1	804540	805379	+	AAB98883.1	nitrogenase iron protein (nifH)	Methanocaldococcus jannaschii DSM 2661	DSM 2661	GCA_000091665.1
-974741	INSDC	DUJR01000002.1	61894	62733	+	HII59046.1	nitrogenase iron protein	Methanocaldococcus jannaschii		GCA_013329685.1
-974741	PAT	N/A				QPZ16240.1	Sequence 65 from patent US 10793863	Unknown		

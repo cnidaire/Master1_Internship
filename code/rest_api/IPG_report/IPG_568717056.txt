@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-568717056	RefSeq	NZ_JANGDJ010000017.1	51117	51872	-	WP_256180236.1	AAA family ATPase	Megasphaera massiliensis	DFI.2.89	GCF_024463395.1
-568717056	INSDC	JANGDJ010000017.1	51117	51872	-	MCQ5211239.1	nitrogenase iron protein NifH	Megasphaera massiliensis	DFI.2.89	GCA_024463395.1

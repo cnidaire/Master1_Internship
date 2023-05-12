@@ -1,9 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-366514794	INSDC	MT819351.1	1	318	+	QOP39364.1	NifH	Microseira wollei K1	K1	
-366514794	INSDC	MT819352.1	1	318	+	QOP39365.1	NifH	Microseira wollei K2	K2	
-366514794	INSDC	MT819353.1	1	318	+	QOP39366.1	NifH	Microseira wollei K3	K3	
-366514794	INSDC	MT819354.1	1	318	+	QOP39367.1	NifH	Microseira wollei K4	K4	
-366514794	INSDC	MT819355.1	1	318	+	QOP39368.1	NifH	Microseira wollei K5	K5	
-366514794	INSDC	MT819356.1	1	318	+	QOP39369.1	NifH	Microseira wollei K6	K6	
-366514794	INSDC	MT819357.1	1	318	+	QOP39370.1	NifH	Microseira wollei K7	K7	
-366514794	INSDC	MT819358.1	1	318	+	QOP39371.1	NifH	Microseira wollei K8	K8	

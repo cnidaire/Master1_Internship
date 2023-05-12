@@ -1,6 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-92966670	RefSeq	NZ_CABIXB010000017.1	13052	13795	-	WP_055305422.1	nitrogenase iron protein NifH	Turicibacter sanguinis		GCF_902362555.1
-92966670	RefSeq	NZ_CYYS01000017.1	13052	13795	-	WP_055305422.1	nitrogenase iron protein NifH	Turicibacter sanguinis	2789STDY5608865	GCF_001405075.1
-92966670	RefSeq	NZ_JAMQUS010000075.1	12984	13727	-	WP_055305422.1	nitrogenase iron protein NifH	Turicibacter sp. GALT-G1	GALT-G1	GCF_025594995.1
-92966670	RefSeq	NZ_JAMQUU010000023.1	53276	54019	+	WP_055305422.1	nitrogenase iron protein NifH	Turicibacter sp. T129	T129	GCF_025594975.1
-92966670	INSDC	CYYS01000017.1	13052	13795	-	CUN80211.1	Nitrogenase iron protein 1	Turicibacter sanguinis	2789STDY5608865	GCA_001405075.1

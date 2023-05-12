@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-46203031	RefSeq	NZ_AZAJ01000001.1	1953351	1954172	-	WP_023845588.1	nitrogenase iron protein	Methanolobus tindarius DSM 2278	DSM 2278	GCF_000504205.1
-46203031	INSDC	AZAJ01000001.1	1953351	1954172	-	ETA68453.1	Mo-nitrogenase iron protein subunit NifH	Methanolobus tindarius DSM 2278	DSM 2278	GCA_000504205.1

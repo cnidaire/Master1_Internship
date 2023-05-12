@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-87296221	INSDC	LN713503.1	1	747	+	CEK41201.1	NifH	Mesorhizobium sp. CCANP11	CCANP11	

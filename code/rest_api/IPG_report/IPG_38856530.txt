@@ -1,4 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-38856530	RefSeq	NZ_KB900617.1	293203	294030	-	WP_018247481.1	nitrogenase iron protein	Orenia marismortui DSM 5156	DSM 5156	GCF_000379025.1
-38856530	RefSeq	NZ_SOEG01000005.1	65963	66790	+	WP_018247481.1	nitrogenase iron protein	Orenia marismortui	MSL 6dP	GCF_004365685.1
-38856530	INSDC	SOEG01000005.1	65963	66790	+	TDX52697.1	Mo-nitrogenase iron protein subunit NifH	Orenia marismortui	MSL 6dP	GCA_004365685.1

@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-392963750	INSDC	JADJHJ010000008.1	101074	102078	+	MBK7217635.1	nitrogen fixation protein NifH	Candidatus Promineofilum sp.		GCA_016707605.1

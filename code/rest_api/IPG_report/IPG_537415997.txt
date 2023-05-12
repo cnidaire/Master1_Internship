@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-537415997	INSDC	JALEXO010000278.1	1745	2512	+	MCI6738529.1	nitrogenase iron protein NifH	Intestinibacter sp.		GCA_022780145.1

@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-627100701	RefSeq	NZ_JAQXPC010000059.1	10750	11508	-	WP_277084894.1	nitrogenase iron protein NifH	Stecheria intestinalis		GCF_029100325.1

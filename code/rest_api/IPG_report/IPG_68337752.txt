@@ -1,4 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-68337752	INSDC	CP017572.1	1312093	1313133	-	AOV99995.1	hypothetical protein	Dehalococcoides mccartyi		GCA_001761445.1
-68337752	INSDC	JAAEBL010000001.1	132015	133055	-	MBA2084335.1	hypothetical protein	Dehalococcoides mccartyi		GCA_013620765.1
-68337752	INSDC	CP038470.1	1360130	1361170	-	QBX64554.1	nitrogen fixation protein NifH	Dehalococcoides mccartyi	FL2	GCA_004684285.1

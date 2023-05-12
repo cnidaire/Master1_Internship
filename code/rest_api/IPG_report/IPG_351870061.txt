@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-351870061	RefSeq	NZ_JABAIW010000061.1	8735	9607	-	WP_185652251.1	nitrogenase iron protein NifH	Clostridium sp. DJ247	DJ247	GCF_014231265.1
-351870061	INSDC	JABAIW010000061.1	8735	9607	-	MBC2582337.1	AAA family ATPase	Clostridium sp. DJ247	DJ247	GCA_014231265.1

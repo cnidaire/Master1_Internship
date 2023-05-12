@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-67613453	RefSeq	NZ_CDLK01000014.1	412197	412946	+	WP_197096431.1	nitrogenase iron protein NifH	Paeniclostridium sordellii	UMC2	GCF_900000195.1
-67613453	INSDC	CDLK01000014.1	412197	412946	+	CEK34957.1	nitrogenase iron protein NifH,Nitrogenase iron protein 1,nitrogenase reductase-like protein,Nitrogenase molybdenum-iron protein, alpha and beta chains,nitrogenase iron protein,4Fe-4S iron sulfur cluster binding proteins, NifH/frxC family	Paeniclostridium sordellii	UMC2	GCA_900000195.2

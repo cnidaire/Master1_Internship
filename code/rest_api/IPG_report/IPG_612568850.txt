@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-612568850	RefSeq	NZ_JAQEFH010000001.1	97182	97949	-	WP_270855427.1	nitrogenase iron protein NifH	Blautia massiliensis	AM62-4ACA	GCF_027668025.1

@@ -1,7 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-42963437	RefSeq	NZ_AVNC01000015.1	387381	388124	+	WP_021432287.1	nitrogenase iron protein NifH	Paraclostridium bifermentans ATCC 638 = DSM 14991	ATCC 638	GCF_000452245.2
-42963437	RefSeq	NZ_CP079737.1	955490	956233	+	WP_021432287.1	nitrogenase iron protein NifH	Paraclostridium bifermentans	DSM 14991	GCF_019916025.1
-42963437	RefSeq	NZ_NOLL01000006.1	115980	116723	+	WP_021432287.1	nitrogenase iron protein NifH	Paraclostridium bifermentans	MHMC-14	GCF_003585605.1
-42963437	INSDC	AVNC01000015.1	387381	388124	+	EQK42135.1	nitrogenase iron protein 1	Paraclostridium bifermentans ATCC 638 = DSM 14991	ATCC 638	GCA_000452245.2
-42963437	INSDC	NOLL01000006.1	115980	116723	+	RIZ58890.1	nitrogenase iron protein	Paraclostridium bifermentans	MHMC-14	GCA_003585605.1
-42963437	INSDC	CP079737.1	955490	956233	+	UAG18998.1	AAA family ATPase	Paraclostridium bifermentans	DSM 14991	GCA_019916025.1

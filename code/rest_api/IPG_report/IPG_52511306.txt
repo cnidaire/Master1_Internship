@@ -1,9 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-52511306	RefSeq	NZ_BAJS01000002.1	37544	38368	-	WP_024995546.1	nitrogenase iron protein	Bacteroides graminisolvens DSM 19988 = JCM 15093	JCM 15093	GCF_000613825.1
-52511306	RefSeq	NZ_JAJUIH010000001.1	156118	156942	-	WP_024995546.1	nitrogenase iron protein	Bacteroides graminisolvens		GCF_029265535.1
-52511306	RefSeq	NZ_JAQUXY010000007.1	66337	67161	+	WP_024995546.1	nitrogenase iron protein	Bacteroides graminisolvens		GCF_028692115.1
-52511306	RefSeq	NZ_KE386627.1	216500	217324	-	WP_024995546.1	nitrogenase iron protein	Bacteroides graminisolvens DSM 19988 = JCM 15093	DSM 19988	GCF_000428125.1
-52511306	INSDC	BAJS01000002.1	37544	38368	-	GAK35368.1	nitrogenase (molybdenum-iron) reductase and maturation protein NifH	Bacteroides graminisolvens DSM 19988 = JCM 15093	JCM 15093	GCA_000613825.1
-52511306	INSDC	DPVG01000385.1	56	880	+	HCK25156.1	nitrogenase iron protein	Bacteroides graminisolvens		GCA_003526605.1
-52511306	INSDC	JAGOOC010000061.1	5781	6605	-	MBP6937539.1	nitrogenase iron protein	Bacteroides sp.		GCA_017992695.1
-52511306	INSDC	JAGOXS010000055.1	5756	6580	-	MBP9578698.1	nitrogenase iron protein	Parabacteroides sp.		GCA_018059605.1

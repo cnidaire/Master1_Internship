@@ -1,4 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-91834765	RefSeq	NZ_LPWA01000161.1	10233	11126	-	WP_059189654.1	nitrogenase iron protein	Mesorhizobium loti	UFLA 01-765	GCF_001510895.1
-91834765	INSDC	CCND01000010.1	6952	7845	+	CDX53499.1	nitrogenase iron protein, nifH; dinitrogenase reductase	Mesorhizobium plurifarium		GCA_001298755.1
-91834765	INSDC	LPWA01000161.1	10233	11126	-	KUM23601.1	nitrogenase reductase	Mesorhizobium loti	UFLA 01-765	GCA_001510895.1

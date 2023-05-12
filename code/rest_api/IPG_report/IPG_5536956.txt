@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-5536956	INSDC	DQ439648.1	1	361	+	ABD96138.1	NifH	Wollea ambigua SAG 1403-7	CCAP 1403/7; UTEX B 1616	

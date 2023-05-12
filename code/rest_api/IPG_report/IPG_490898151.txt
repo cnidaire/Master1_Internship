@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-490898151	INSDC	CP070841.1	750034	751041	+	UCB46507.1	nitrogen fixation protein NifH	Spirochaetota bacterium		GCA_020342115.1

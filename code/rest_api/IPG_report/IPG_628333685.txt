@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-628333685	RefSeq	NZ_JAQYOR010000120.1	21549	22304	-	WP_277004282.1	nitrogenase iron protein NifH	Cloacibacillus porcorum		GCF_028727185.1

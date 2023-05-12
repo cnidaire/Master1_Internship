@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-91812466	RefSeq	NZ_MWJI01000001.1	1786	2529	+	WP_053831149.1	nitrogenase iron protein NifH	Paraclostridium bifermentans	SU1074NT	GCF_002104065.1
-91812466	INSDC	MWJI01000001.1	1786	2529	+	OSB11539.1	nitrogenase iron protein	Paraclostridium bifermentans	SU1074NT	GCA_002104065.1

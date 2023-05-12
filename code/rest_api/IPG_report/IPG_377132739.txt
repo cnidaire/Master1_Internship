@@ -1,5 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-377132739	RefSeq	NZ_JADPFJ010000018.1	54024	54887	+	WP_195999048.1	nitrogenase iron protein NifH	Blautia wexlerae	D53t1_180928_D9	GCF_015668375.1
-377132739	RefSeq	NZ_JAJCMK010000032.1	47013	47876	-	WP_195999048.1	nitrogenase iron protein NifH	Blautia wexlerae	DFI.4.9	GCF_020560345.1
-377132739	RefSeq	NZ_JAQKQL010000017.1	53736	54599	+	WP_195999048.1	nitrogenase iron protein NifH	Blautia wexlerae	D53st1_B2_D53t1_180928	GCF_028307195.1
-377132739	INSDC	JAJCMK010000032.1	47013	47876	-	MCB6687820.1	nitrogenase iron protein NifH	Blautia wexlerae	DFI.4.9	GCA_020560345.1

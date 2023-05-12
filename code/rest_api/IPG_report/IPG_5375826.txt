@@ -1,6 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-5375826	INSDC	DQ364788.1	1	324	+	ABD58937.1	NifH	Paenibacillus zanthoxyli	JH29	
-5375826	INSDC	DQ364792.1	1	324	+	ABD58941.1	NifH	Paenibacillus zanthoxyli	JH95	
-5375826	INSDC	DQ364793.1	1	324	+	ABD58942.1	NifH	Paenibacillus zanthoxyli	JH22	
-5375826	INSDC	GQ985394.1	1	325	+	ACX70149.1	nitrogenase reductase	Paenibacillus sophorae S27	S27	
-5375826	INSDC	GU328701.1	1	325	+	ADB90259.1	nitrogenase reductase	Paenibacillus sp. Nz30	Nz30	

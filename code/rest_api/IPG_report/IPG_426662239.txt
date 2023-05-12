@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-426662239	RefSeq	NZ_JAFICC010000002.1	297782	298198	+	WP_209562928.1	hypothetical protein	Flavobacterium sp. 1355	1355	GCF_017833415.1
-426662239	INSDC	JAFICC010000002.1	297782	298198	+	MBP1222203.1	nitrogenase subunit NifH	Flavobacterium sp. 1355	1355	GCA_017833415.1

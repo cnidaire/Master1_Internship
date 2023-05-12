@@ -1,2 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-526972524	INSDC	JAKSBV010000478.1	2772	3560	-	MCG8502613.1	nitrogenase iron protein NifH	Bacillota bacterium		GCA_022360955.1
