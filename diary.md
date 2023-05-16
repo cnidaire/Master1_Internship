@@ -737,11 +737,9 @@ today I was tired, I had trouble to focus because of personal event so nothing n
 
 
 
-# Day 18
+# Day 18 12/05/2023
 
-function x_showgi(el) { // ID-4455 var elSeq = document.getElementById("file_showgi_section"); if (el.options[el.selectedIndex].getAttribute("showgi") === "true") {elSeq.style.display = "";} else { elSeq.style.display = "none";}}setTimeout(function() { x_showgi(document.getElementById("file_format"));}, 1000);                
-
-maybe if I add after ? "report=fatsa&", it migth work because it's leading me right away to the fasta file
+try to write everything clean in a new file, using the code below
 
 ```python
 from Bio import Entrez
@@ -767,6 +765,44 @@ download_insdseq_xml(url)
 ```
 
 So if it works like this, I won' have to recreate a url but putting everything in a table will be way easier.
+
+
+
+# Day 19: 15/05/2023
+
+I finally obtained the Fasta reference file but I have a few problems:
+
+- there is some humongous files that are not between 300 and 1050 nucleotides (100:350 AA) : **step 3**
+  - I'll have to check before putting in the dataframe, make an other filter that end - start is included in the range
+  - *but doesn't make sense because normally the sequences are supposed to be identical and between 100:350 so having such long sequences shouldn't occur so either I have some IPG report giving me some sequences of a size not in the range or all the sequences are not identical
+- there is some sequences with either the taxonomy or the seq itself missing **step 5**
+  - hopefully I might disappear if it's only sequence that are starting and ending at the same location
+- there is some sequences that are only annotates on two levels, there might be some other identical sequences that are more annotated but not sure because it's automatically checked by NCBI normally
+  - I have no idea of how to solve this except download the sequences but it would be way too long
+
+So I'll re-run everything in order to make sure that my output has a problem
+
+maybe run the third part and write all the IPG report for which there is a size not included in the range
+
+I have been reading the paper for tomorrow meeting
+
+# Day 20: 15/05/2023
+
+I re-ran everything but I still have some sequences that a way too huge to be only nifH
+
+there is 9 missing IPG reports So I had to re run It to be sure and it took me 2 hour
+
+So I just checked, the smallest size is 299, which already doesn't make sense because the lower bound is supposed to be 300
+
+But the worse is that the max is 86 k, meaning that the problem is in the IPG report, not in my program: the report IPG report number 3815, corresponding to the report: "31556632". Giving indeed access to a sequence way too big that shouldn't be here.
+
+
+
+**One of the really chocking mistakes is that for the report 34523938, the two sequences that are supposed to be identical don't even have the same size: one is more than 10k base pair and the other is close to 900 !!!**
+
+
+
+
 
 # Pipeline
 
