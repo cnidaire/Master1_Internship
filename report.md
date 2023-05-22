@@ -1,3 +1,9 @@
+# Format
+
+Abstract, Introduction, Methodology/Results, Discussion, References
+
+
+
 # Why nifH
 
 
@@ -24,7 +30,38 @@ Nitrogen fixation is important because many living organisms are unable  to meta
 
 
 
-## How is the data generally collected?
+## How is the data generally collected (metabarcoding)?
+
+explain the primers
+
+
+
+
+
+# Methodology
+
+- explain metabarcoding?
+- Present DADA2 Pipiline
+- Present NCBI
+  - The American National Center for Biotechnology Information science and health by providing access to and genomic information.
+  - Well known for GenBank, Pubmed and BLAST (sequence alignment program)
+  - there is different databases available, the ones we will be interested in are:
+    - gene:
+      - Gene integrates information from a wide range of species. A record may  include nomenclature, Reference Sequences (RefSeqs), maps, pathways,  variations, phenotypes, and links to genome-, phenotype-, and  locus-specific resources worldwide.
+    - proteins:
+      - The Protein database is a collection of sequences from several sources,  including translations from annotated coding regions in GenBank, RefSeq  and TPA, as well as records from SwissProt, PIR, PRF, and PDB. Protein  sequences are the fundamental determinants of biological structure and  function.
+      - It is really interesting in our case because the nifH gene is coding for a protein and hence we can access to the taxonomy and many other interesting informations on different databases. The downside is that we obtain the Amino Acid sequences and not the DNA one and we have duplicates
+    - Identical Protein Groups (IPG):
+      - take the best of both worlds: we obtain all the sequences clustured when these are identical, we obtain the DNA sequences and it's gathering the information from different databases such as Swissprot, GenBank, PIR, etc.
+      - downside: Entrez is not really suitable for it
+- Present entrez (Global Query Cross-Database Search System)
+  - entrez is a searching tool provided by NCBI enabling to the NCBI databases
+  - indexing and retrieving system having data from various sources. Is mostly used to integrate information from different sources databases and  formats into a uniform information model and retrieval system which can efficiently retrieve that relevant references, sequences, and structures.
+  - can access information with a query
+
+
+
+
 
 
 
