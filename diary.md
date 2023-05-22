@@ -786,7 +786,7 @@ maybe run the third part and write all the IPG report for which there is a size 
 
 I have been reading the paper for tomorrow meeting
 
-# Day 20: 15/05/2023
+# Day 20: 16/05/2023
 
 I re-ran everything but I still have some sequences that a way too huge to be only nifH
 
@@ -799,6 +799,26 @@ But the worse is that the max is 86 k, meaning that the problem is in the IPG re
 
 
 **One of the really chocking mistakes is that for the report 34523938, the two sequences that are supposed to be identical don't even have the same size: one is more than 10k base pair and the other is close to 900 !!!**
+
+
+
+# Day 21: 17/05/2023
+
+Start to writes the main ideas of the report, the organization of what I did so far
+
+
+
+try to see if it's not possible to write a reference database containing some sequence at the IUPAC format. It would be awesome if it worked because it contain a notion of uncertainty which could be precious for sequence attribution but I'm not sure if DADA2 can handle this information
+
+
+
+# Day 22: 22/05/2023
+
+
+
+Continue the report
+
+
 
 
 
