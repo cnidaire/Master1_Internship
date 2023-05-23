@@ -2,11 +2,317 @@
 
 Abstract, Introduction, Methodology/Results, Discussion, References
 
+# ==Abstract==
+
+short version of the introduction: to do later
+
+
+
+# ==Introduction==
+
+## Why study dinitrogen
+
+The main source of nitrogen in the ocean is coming from Dinitrogen (N2) fixating bacterias.
+
+N2 fixation: role in global biogeo chemical cycling of N, interlinked cycling of C
+
+Nitrogen availability fuels the biological carbon pump in otherwise nitrogen-limited systems such as subtropical gyres (Karl et al. 2012), and hence boost the ability of the oceans to cope with excess CO2
+
+understanding the balance of N cycle has implication to understand past current and future foodwebs and role for marine N2 fixation in sequestration of atmospheric CO2 and the production and consumption of other greenhouse gases such as nitrous oxide.
+
+Nitrogen fixation is important because many living organisms are unable  to metabolize directly the atmospheric nitrogen and would require the  nitrogen fixation capability of certain bacteria in order to produce a  form of nitrogen (e.g. ammonia) that can be readily utilized.
+
+
+
+## Why nifH
+
+Nitrogen fixation is catalyzed by the enzyle nitrogenase. Nitrogenase  is composed of two sub-units metabolloproteins: molybdenum iron protein and the iron protein. Likely an ancient protein ,since it's distributed widely through bacteria and archea. Both of the nitrgenase prot are highly conserved but the Fe protein encoded by nifH is the most highl conserved.
+
+nif genes are a collection of genes involved in nitrogen fixation
+
+
+
+## How to collect data: metabarcoding
+
+- sampling
+- DNA extraction
+- amplification with PCR usong specific primers for the nifH gene
+- high-throughput sequencing (next gen sequencing)
+- analysis on the sequences obtained (called reads). I this case, we use DADA2 pipeline in order to clean the reads and annotate the sequences
+
+ 
+
+Characterization of the taxonomic diversity inhabiting various ecosystems using direct environmental DNA
+
+We can't use the full genome, hence, we have to use 16S region (~200-400bp): a marker for bacterial and Archeal identification. But there is PCR and sequencing (Illumina) errors in the sequences.
+
+<img src="/home/remi/Documents/Master_CMB/M1/Internship/notes/dada2/images/overview.png" alt="10" style="zoom:50%;" /> 
+
+Pair-end sequencing is usually better, as max read of illumina is 300bp, we obtain 2 x 300bp.
+
+We pool all the sample together(multiplexing and add an index/barcode to the sequence so that we can then separate the samples: demultiplexing). It cost less, is faster and we can avoid as much batch effect as possible.
+
+
+
+## Goals of the internship
+
+To annotate the sequences in the DADA2 pipeline, a reference file is needed. It contains the sequences and the taxonomy associated. The current database was first created in 2014 and updated until 2017 by the Zehr Lab (Heller 2014). It was then normalized and kept updated manually by Molly Moynihan (put publication).
+
+However, this database annotate quite poorly the data obtained. Hence there is a lot of uncertainty and the goal would be to either improve the current database or build a new one and find a way to automatize it.
+
+There is many problems I spotted with the current database:
+
+1. It has been create manually and hence there is a possibility of typo
+2. It is not updated automatically: if some sequence's taxonomy attribution change it will not be updated
+3. Recently the taxonomy changed and they had to modify the 18,700 sequences manually, resulting in a lot of work and possible mistakes
+4. Lack of control over what is inside the database: there is a lot of identical sequences and hence we hope that the sequences have the exact same taxonomy associated otherwise (normally, there is an algorithm to check it and automatically annotate it in NCBI implemented in 2001 but as it's created manually, there is a possibility of typo), randomly chosen by DADA2
+5. It is hard to know which sequences are not in the reference yet
+
+For all these reasons, I think building a new fully automatized database from scratch would be more reasonable than improving and building on top of something we are not fully confident in.
+
+
+
+# ==Materials and methods (methodology)==
+
+## DADA2 pipeline
+
+**Raw FASTQ file -> Trim and filter the reads -> Error rate estimation -> Sample inference with DADA2 algorithm -> Merge reads -> Chimera Checking and removal -> Assign taxonomy**
+
+
+
+### Raw FASTQ Files
+
+```R
+# Specify path where FASTQ files are located
+path <- "~/DADA2_Tutorial" # change to the diretory containing the FASTQ files after unzipping
+list.files(path) # list all the reads. Usually, R1 files contains the forward reads and R2 the corresponding resverse reads.
+
+# Sort the files to ensure reverse and forward reads are in the same order
+fnFs <- sort(list.files(path, pattern="_R1_001.fastq"))
+fnRs <- sort(list.files(path, pattern="_R2_001.fastq"))
+
+# Extract sample names, assuming filenames have format: SAMPLENAME_XXX.fastq
+sample.names <- sapply(strsplit(fnFs, "_"), `[`, 1) # here I don't get the end of he code
+
+# Specify the full path to the fnFs and fnRs
+fnFs <- file.path(path, fnFs)
+fnRs <- file.path(path, fnRs)
+```
+
+
+
+### Trim and Filter Reads
+
+Plot the quality score and determine the trimming cut-offs (usually 30 is the lowest accepted quality score but I will makr that we only keep data with really high quality)
+
+We don't have to check for every file (just a couple), there is usually not much variation from sample to sample.
+
+Usually, the quality of the reverse sequence is rather bad compared to the forward, that's why we will have to trim it more. However, we have to make sure that the Forward and reverse sequences are overlapping (at the very least 20 bp for DADA2 to successfully merge sequences).
+
+We usually remove the first 10 nucleotides with *trimleft=10* because there is a drop of quality and because it contains the primers that will be annoying for later. 
+
+```R
+# Create a new file path to store filtered and trimmed reads
+filt_path <- file.path(path, "filtered") # place the filtered files in a "filtered" subdirectory
+
+# Rename filtered files
+filtFs <- file.path(filt_path, paste0(sample.names, "_F_filt.fastq.gz"))
+filtRs <- file.path(filt_path, paste0(sample.names, "_R_filt.fastq.gz"))
+
+# Quality Filtering and trimming
+out <- filterAndTrim(fnFs, filtFs, fnRs, filtRs, truncLen=c(240,160), # fnFs: where F reads/filtFs: where put filtered
+                    maxN=0, maxEE=c(2,2), truncQ=2, rm.phix=TRUE, # MaxN: max ambiguous base allowed/ maxErrorEstimator
+                    compress=TRUE, multithread=TRUE) # keep compress if the files should be zipped
+
+head(out)
+```
+
+==maxEE== can be lowered if the quality of the reads is good or increased if the quality is bad but the samples are preciousand you can't discard the bad ones.
+
+==truncQ== get rid of the read containing a quality score of 2 (~63% chance of a base call being incorrect), just filter out the worst samples.
+
+### Error Rate estimation
+
+To start, makes the assumption you have the maximum error rate in your sample (takes your most abundant sequence and assumes that's the only true sequence and that all the others are caused by errors).
+
+```R
+# Estimate the error model for DADA2 algorithm using reverse reads
+errR <- learnErrors(filtRs, multithread=TRUE)
+# do the same on the reverse read and it will take more cycles because the reverse reads are worse
+
+# Plot error rates for all possible bases transitions
+plotErrors(errF, nominalQ=TRUE) # black:observed error rate, red:expected
+```
+
+In general, for the error plot, the frequency of the errors rate decrease as the quality score increase.
+
+
+
+### Dereplicate Reads
+
+Condense the data by collapsing together all reads that encode the same sequence so that DADA2 doesn't have to work on every single read we have to speed up and simplify the computation
+
+```R
+# Dereplicate FASTQ files to speed up computation
+derepFs <- derepFastq(filtFs, verbose=TRUE)
+derepRs <- derepFastq(filtRs, verbose=TRUE)
+
+# Name the derep-class objects by the sample names
+names(derepFs) <- sample.names
+names(derepRs) <- sample.names
+```
+
+### Sample Inference with DADA2 Algorithm
+
+Testing the null-hypothesis that the sequence is too abundant in the sample to be solely explained by errors in the data set.
+
+-> low p-value sequence can be considered as real sequences that are not caused by random errors.
+
+If the sequence has a high p-value, it won't be kept 
+
+```R
+# Apply core sequence-variant inference algorithm to reverse reads
+dadaFs <- dada(derepFs, err=errR, multithread=TRUE)
+dadaRs <- dada(derepRs, err=errR, multithread=TRUE)
+```
+
+==Now all the Forward and Reverse reads have been denoised== we can finally merge all the forward and reverse sequences.
+
+### Merge Reads
+
+We’ve inferred the sample sequences in the forward and reverse reads independently. Now it’s
+time to merge those inferred sequences together, throwing out those pairs of reads that don’t match.
+It will return a data frame corresponding to each successfully merged sequences.
+
+```R
+# Merge denoised reads
+mergers <- mergePairs(dadaFs, derepFs, dadaRs, derepRs, verbose=TRUE) # will only merge perfectly overlapped seq so can addmaxMismatch 1 or 2 if lots of reads are not merging
+
+# Inspect the merger data.frame from the first sample
+head(mergers[[1]])
+
+
+
+# Tabulate Denoised and Merged data
+seqtab <- makeSequenceTable(mergers)
+dim(seqtab)
+
+# View the total length of al total RSVs (Ribosomal Sequence Variants) (close to an OTU table)
+table(nchar(getSequences(seqtab))) # gives how sequences there is for the length of the sequence
+```
+
+
+
+### Chimera Checking and Removal
+
+Chimera: fusion of two or more parents sequences
+
+Perform multiple sequence alignment from the least abundant read and for all the more abundant read, it will do sequence alignment with all possible combinations. When a chimera is detected, it is removed from the sequence table.
+
+```R
+# Perform de novo chimera sequence detection and removal
+seqtab.nochim <- removeBimeraDenovo(seqtab, method="consensus", multithread=TRUE, verbose=TRUE)
+dim(seqtab.nochim)
+
+# Calculate the proportion of the non-chimeric RSVs (reads)
+sum(seqtab.nochim)/sum(seqtab)
+```
+
+More than 90% of the unique sequences identified are bimeras and most of the total reads shouldn't be identified as chimera (less than 70% is really bad).
+
+If too much chimera, check if trim the 20 first base pairs of the reads because contain primers that can artificially increase the number of chimera. If not, try trimming more the low quality bp.
+
+### Assign Taxonomy
+
+```R
+# Assign taxonomy using RDP database (greengenes and Silva also available)
+# This is performed in two steps: this first one assigns phylum to genus
+taxa <- assignTaxonomy(seqtab.cochim,"~DADA2_Tutorial/Taxonomy/rdp_train_set_16.fa.gz", multithread=TRUE) # database we want to use
+unname(head(taxa))
+
+# Assign species (when possible)
+system.time({taxa.plus <- addSpecies(taxa, "~DADA2_Tutorial/Taxonomy/rdp_species_assignement_16.fa.gz", verbose=TRUE)
+colnames(taxa.plus) <- c("Kingdom", "Phylum", "Class", "Order", "Family", "Genus", "Species")
+unname(taxa.plus)}) # Usually hard to go down to species level assignment with V4 region (hypervariable region)
+```
+
+==using a reference database==
+
+
+
+## NCBI databases
+
+National Center of Biotechnology Information (USA)
+
+Here are all the main databases I might be interested in 
+
+- gene:
+  - Gene integrates information from a wide range of species. A record may  include nomenclature, Reference Sequences (RefSeqs), maps, pathways,  variations, phenotypes, and links to genome-, phenotype-, and  locus-specific resources worldwide.
+- proteins:
+  - The Protein database is a collection of sequences from several sources,  including translations from annotated coding regions in GenBank, RefSeq  and TPA, as well as records from SwissProt, PIR, PRF, and PDB. Protein  sequences are the fundamental determinants of biological structure and  function.
+  - It is really interesting in our case because the nifH gene is coding for a protein and hence we can access to the taxonomy and many other interesting informations on different databases. The downside is that we obtain the Amino Acid sequences and not the DNA one and we have duplicates
+- Identical Protein Groups (IPG):
+  - take the best of both worlds: we obtain all the sequences clustured when these are identical, we obtain the DNA sequences and it's gathering the information from different databases such as Swissprot, GenBank, PIR, etc.
+  - downside: Entrez is not really suitable for what I want because you have to pass by gene db to obtain the DNA sequence and there is no downloadable IPG db on NCBI so I have to send request to NCBI
+
+
+
+## Entrez to access NCBI library from python
+
+Present entrez (Global Query Cross-Database Search System)
+
+- entrez is a searching tool provided by NCBI enabling to the NCBI databases
+- indexing and retrieving system having data from various sources. Is mostly used to integrate information from different sources databases and  formats into a uniform information model and retrieval system which can efficiently retrieve that relevant references, sequences, and structures.
+- can access information with a query
+
+
+
+
+
+## Implementation with python
+
+- Gather all the ID of the IPG reports from a Query request
+
+- Download the corresponding IPG report
+
+- Extract the first line of the IPG report present in NCBI and put it in the table
+  - normally all the sequences are identical and the taxonomy should be the same because NCBI check it and automatically annotate so It doesn't matter which sequence I select. As I'm currently dealing mostly with NCBI, it's easier to retrieve the sequences from NCBI (there is only 2 IPG reports that don't have any sequence in NCBI so I either I will have to do it manually as it's only two or find an other way because it's an other tool than Entrez)
+- Fetch with entrez the XML report for each sequence in the previous table (**what is rettype='gb' then?**)
+  - There is different formats that we can obtain but the most practical one is XML because it contains the taxonomy and the sequence in the same file. Moreover, it has a structure making it really easy to access to specific data inside of the file.
+  - As most of the DNA sequences the IPG report is redirecting me too are genome or group of genes, I have to ask specifically the DNA sequence starting at a given point and stopping at an other (the information is in the IPG report). And we have to be careful of the DNA strand.
+- Make a FASTA file by extracting for each file the taxa and the sequence.
+  - the fasta file start with a ">" followed by a description of the of the sequence on the first line (in our case the taxonomy) and on the second line the sequence itself. And so on for all the sequences in the file
+  - Sadly, there is some sequences or taxonomy that are not found and I didn't have the time to find a way to fix it.
+
+
+
+
+
+
+
+# ==Results==
+
+
+
+
+
+# ==Discussion + Conclusion==
+
+What I succeed, what I failed, and what should be done in order to improve
+
+
+
+# ==Annexe==
+
+Put the Python code
+
+
+
 
 
 # Why nifH
 
-
+dinitrogen fixation is the main source of nitrogen in the ocean
 
 Nitrogen fixation is catalyzed by the enzyle nitrogenase. Nitrogenase  is composed of two sub-units metabolloproteins: molybdenum iron protein and the iron protein. Likely an ancient protein ,since it's distributed widely through bacteria and archea. Both of the nitrgenase prot are highly conserved but the Fe protein encoded by nifH is the most highl conserved.
 
@@ -53,7 +359,7 @@ explain the primers
       - It is really interesting in our case because the nifH gene is coding for a protein and hence we can access to the taxonomy and many other interesting informations on different databases. The downside is that we obtain the Amino Acid sequences and not the DNA one and we have duplicates
     - Identical Protein Groups (IPG):
       - take the best of both worlds: we obtain all the sequences clustured when these are identical, we obtain the DNA sequences and it's gathering the information from different databases such as Swissprot, GenBank, PIR, etc.
-      - downside: Entrez is not really suitable for it
+      - downside: Entrez is not really suitable for what I want because you have to pass by gene db to obtain the DNA sequence and there is no downloadable IPG db on NCBI so I have to send request to NCBI
 - Present entrez (Global Query Cross-Database Search System)
   - entrez is a searching tool provided by NCBI enabling to the NCBI databases
   - indexing and retrieving system having data from various sources. Is mostly used to integrate information from different sources databases and  formats into a uniform information model and retrieval system which can efficiently retrieve that relevant references, sequences, and structures.

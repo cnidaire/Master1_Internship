@@ -339,7 +339,7 @@ amp_heatmap(MiDASsubset,
 
 Characterization of the taxonomic diversity inhabiting various ecosystems using direct environmental DNA
 
-We can use the full genome, hence, we have to use 16S region (~200-400bp): a marker for bacterial and Archeal identification. But there is PCR and sequencing (Illumina) errors in the sequences.
+We can't use the full genome, hence, we have to use 16S region (~200-400bp): a marker for bacterial and Archeal identification. But there is PCR and sequencing (Illumina) errors in the sequences.
 
 <img src="./images/overview.png" alt="10" style="zoom:50%;" /> 
 
