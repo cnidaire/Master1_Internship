@@ -1,3 +1,2 @@
 Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-22454001	RefSeq	NC_015172.1	2881338	2882192	-	WP_013625931.1	nitrogenase iron protein	Syntrophobotulus glycolicus DSM 8271	DSM 8271	GCF_000190635.1
 22454001	INSDC	CP002547.1	2881338	2882192	-	ADY57111.1	Mo-nitrogenase iron protein subunit NifH	Syntrophobotulus glycolicus DSM 8271	DSM 8271	GCA_000190635.1

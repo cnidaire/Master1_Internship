@@ -275,6 +275,8 @@ Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	S
 26379150	RefSeq	NZ_JARANH010000021.1	56730	57611	-	WP_004852391.1	nitrogenase iron protein	Klebsiella michiganensis	FR 19	GCF_029002075.1
 26379150	RefSeq	NZ_JARANI010000003.1	304547	305428	+	WP_004852391.1	nitrogenase iron protein	Klebsiella michiganensis	FR 3	GCF_028801985.1
 26379150	RefSeq	NZ_JARANJ010000014.1	37120	38001	+	WP_004852391.1	nitrogenase iron protein	Klebsiella michiganensis	FR 1	GCF_029002155.1
+26379150	RefSeq	NZ_JASBWG010000005.1	76956	77837	+	WP_004852391.1	nitrogenase iron protein	Klebsiella michiganensis	HGDC6_1	
+26379150	RefSeq	NZ_JASBWM010000007.1	182869	183750	-	WP_004852391.1	nitrogenase iron protein	Klebsiella michiganensis	HEE22_1	
 26379150	RefSeq	NZ_JH603153.1	2592122	2593003	+	WP_004852391.1	nitrogenase iron protein	Klebsiella michiganensis	Oct-42	GCF_000247835.1
 26379150	RefSeq	NZ_JNCH01000025.1	14709	15590	+	WP_004852391.1	nitrogenase iron protein	Klebsiella michiganensis	R8A	GCF_000735215.1
 26379150	RefSeq	NZ_JSWW01000023.1	14680	15561	+	WP_004852391.1	nitrogenase iron protein	Klebsiella michiganensis	CH2	GCF_001006545.1
@@ -795,4 +797,4 @@ Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	S
 26379150	INSDC	CP097554.1	2040978	2041859	-	WEF08576.1	nitrogenase iron protein	Klebsiella michiganensis	YZUMF202001	GCA_029027885.1
 26379150	INSDC	CP099306.1	1924096	1924977	-	WFX49273.1	nitrogenase iron protein	Klebsiella michiganensis	RHB20-SO-C01	GCA_029718685.1
 26379150	INSDC	CP099304.1	1924096	1924977	-	WFX54933.1	nitrogenase iron protein	Klebsiella michiganensis	RHB20-SO-C02	GCA_029718665.1
-26379150	INSDC	CP124774.1	2137959	2138840	-	WHA02317.1	nitrogenase iron protein	Klebsiella michiganensis	2022CK-00495	
+26379150	INSDC	CP124774.1	2137959	2138840	-	WHA02317.1	nitrogenase iron protein	Klebsiella michiganensis	2022CK-00495	GCA_029972295.1

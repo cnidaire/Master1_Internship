@@ -1,5 +1,6 @@
 Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
 71839511	RefSeq	NZ_CP050251.1	3008277	3009026	-	WP_222642712.1	nitrogenase iron protein NifH	Clostridium botulinum	ST7B	GCF_022833145.1
+71839511	RefSeq	NZ_CP050820.1	3153291	3154040	-	WP_222642712.1	nitrogenase iron protein NifH	Clostridium botulinum	V73	
 71839511	RefSeq	NZ_JACBCN010000003.1	177470	178219	-	WP_222642712.1	nitrogenase iron protein NifH	Clostridium botulinum	CJ5-1	GCF_019838025.1
 71839511	RefSeq	NZ_JACBCO010000002.1	289896	290645	+	WP_222642712.1	nitrogenase iron protein NifH	Clostridium botulinum	CJ4-1	GCF_019838125.1
 71839511	RefSeq	NZ_JACBCR010000002.1	171949	172698	-	WP_222642712.1	nitrogenase iron protein NifH	Clostridium botulinum	CC4A-KM61-1	GCF_019838165.1
@@ -10,4 +11,4 @@ Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	S
 71839511	INSDC	JACBCR010000002.1	171949	172698	-	MBY6894059.1	AAA family ATPase	Clostridium botulinum	CC4A-KM61-1	GCA_019838165.1
 71839511	INSDC	JACBCS010000002.1	171949	172698	-	MBY6901131.1	AAA family ATPase	Clostridium botulinum	CC1-A-KM44-1	GCA_019838085.1
 71839511	INSDC	CP050251.1	3008277	3009026	-	UOJ22132.1	AAA family ATPase	Clostridium botulinum	ST7B	GCA_022833145.1
-71839511	INSDC	CP050820.1	3153291	3154040	-	WGZ47517.1	AAA family ATPase	Clostridium botulinum	V73	
+71839511	INSDC	CP050820.1	3153291	3154040	-	WGZ47517.1	AAA family ATPase	Clostridium botulinum	V73	GCA_029962365.1

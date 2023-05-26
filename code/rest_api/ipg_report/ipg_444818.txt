@@ -1,5 +1,5 @@
 Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-444818	RefSeq	NC_000914.2	140214	141104	-	WP_010875130.1	nitrogenase iron protein	Sinorhizobium fredii NGR234	NGR234	
+444818	RefSeq	NC_000914.2	140214	141104	-	WP_010875130.1	nitrogenase iron protein	Sinorhizobium fredii NGR234	NGR234	GCF_000018545.1
 444818	RefSeq	NT_187147.1	159944	160834	-	WP_010875130.1	nitrogenase iron protein	Sinorhizobium fredii HH103	HH103	GCF_000283895.1
 444818	RefSeq	NT_187151.1	120384	121274	-	WP_010875130.1	nitrogenase iron protein	Sinorhizobium fredii USDA 257	USDA 257	GCF_000265205.3
 444818	RefSeq	NZ_AJQM01000308.1	235	1125	+	WP_010875130.1	nitrogenase iron protein	Sinorhizobium fredii CCBAU 05557	CCBAU 05557	GCF_000261845.1

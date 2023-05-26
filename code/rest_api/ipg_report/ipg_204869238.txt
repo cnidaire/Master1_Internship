@@ -1,3 +1,0 @@
-Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
-204869238	INSDC	QUIC01000011.1	54759	55622	-	RHS65706.1	nitrogenase iron protein	Ruminococcus sp. AM46-18	AM46-18	GCA_003479915.1
-204869238	INSDC	QUKI01000006.1	171044	171907	-	RHU50428.1	nitrogenase iron protein	Ruminococcus sp. TF11-2AC	TF11-2AC	GCA_003481045.1

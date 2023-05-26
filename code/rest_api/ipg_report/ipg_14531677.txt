@@ -1,7 +1,7 @@
 Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
 14531677	RefSeq	NC_012658.1	794198	794947	+	WP_003361477.1	nitrogenase iron protein NifH	Clostridium botulinum Ba4 str. 657	657	GCF_000020345.1
 14531677	RefSeq	NZ_ABDP01000010.1	91574	92323	+	WP_003361477.1	nitrogenase iron protein NifH	Clostridium botulinum Bf	Bf	GCF_000171075.1
-14531677	RefSeq	NZ_AP025140.1	796615	797364	+	WP_003361477.1	nitrogenase iron protein NifH	Clostridium botulinum	Osaka2020	
+14531677	RefSeq	NZ_AP025140.1	796615	797364	+	WP_003361477.1	nitrogenase iron protein NifH	Clostridium botulinum	Osaka2020	GCF_027943665.1
 14531677	RefSeq	NZ_CP006908.1	3713758	3714507	-	WP_003361477.1	nitrogenase iron protein NifH	Clostridium botulinum CDC_1436	CDC_1436	GCF_000817935.1
 14531677	RefSeq	NZ_CP013845.1	796499	797248	+	WP_003361477.1	nitrogenase iron protein NifH	Clostridium botulinum	A634	GCF_002865825.1
 14531677	RefSeq	NZ_CP031097.1	1675059	1675808	-	WP_003361477.1	nitrogenase iron protein NifH	Clostridium botulinum	CFSAN034200	GCF_003345335.1

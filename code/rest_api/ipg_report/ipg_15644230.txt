@@ -303,6 +303,14 @@ Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	S
 15644230	RefSeq	NZ_CP114332.1	1880557	1881438	-	WP_004203553.1	nitrogenase iron protein	Klebsiella variicola	2022CK-00505	GCF_025676845.1
 15644230	RefSeq	NZ_CP114354.1	1881757	1882638	-	WP_004203553.1	nitrogenase iron protein	Klebsiella variicola	2022CK-00567	GCF_026069065.1
 15644230	RefSeq	NZ_CP114361.1	1881756	1882637	-	WP_004203553.1	nitrogenase iron protein	Klebsiella variicola	2022CK-00568	GCF_026069095.1
+15644230	RefSeq	NZ_CP118271.1	1755061	1755942	-	WP_004203553.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IF2SW-B3	
+15644230	RefSeq	NZ_CP118272.1	1755061	1755942	-	WP_004203553.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IF2SW-P1	
+15644230	RefSeq	NZ_CP118273.1	1755061	1755942	-	WP_004203553.1	nitrogenase iron protein	Klebsiella quasipneumoniae	F3-6P(1)	
+15644230	RefSeq	NZ_CP118274.1	1755061	1755942	-	WP_004203553.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IF1SW-P3	
+15644230	RefSeq	NZ_CP118275.1	1755061	1755942	-	WP_004203553.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IF1SW-P4	
+15644230	RefSeq	NZ_CP118276.1	1755061	1755942	-	WP_004203553.1	nitrogenase iron protein	Klebsiella quasipneumoniae	F3-6P(2)	
+15644230	RefSeq	NZ_CP118277.1	1755061	1755942	-	WP_004203553.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IF1SW-B2	
+15644230	RefSeq	NZ_CP118278.1	1746661	1747542	-	WP_004203553.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IIIF3SW-P1	
 15644230	RefSeq	NZ_CXOY01000022.1	19185	20066	-	WP_004203553.1	nitrogenase iron protein	Klebsiella variicola		GCF_001261815.1
 15644230	RefSeq	NZ_CXOZ01000017.1	528346	529227	-	WP_004203553.1	nitrogenase iron protein	Klebsiella variicola		GCF_001261875.1
 15644230	RefSeq	NZ_CXPA01000048.1	19296	20177	-	WP_004203553.1	nitrogenase iron protein	Klebsiella variicola		GCF_001261795.1
@@ -441,14 +449,6 @@ Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	S
 15644230	RefSeq	NZ_JABNMO010000088.1	34290	35171	+	WP_004203553.1	nitrogenase iron protein	Klebsiella quasipneumoniae	2014148	GCF_013187335.1
 15644230	RefSeq	NZ_JABRVG010000126.1	3990	4871	-	WP_004203553.1	nitrogenase iron protein	Klebsiella variicola	CRN 15	GCF_013266975.1
 15644230	RefSeq	NZ_JABRVJ010000100.1	22502	23383	+	WP_004203553.1	nitrogenase iron protein	Klebsiella variicola	CRN 19	GCF_013266925.1
-15644230	RefSeq	NZ_JABWOZ010000002.1	355819	356700	-	WP_004203553.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IF1SW-P3	GCF_013366555.1
-15644230	RefSeq	NZ_JABWPA010000001.1	19216	20097	-	WP_004203553.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IF1SW-P4	GCF_013366575.1
-15644230	RefSeq	NZ_JABWPB010000001.1	1168108	1168989	+	WP_004203553.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IF2SW-P1	GCF_013366585.1
-15644230	RefSeq	NZ_JABWPC010000001.1	1837488	1838369	+	WP_004203553.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IF2SW-B3	GCF_013366565.1
-15644230	RefSeq	NZ_JABWPD010000001.1	1837488	1838369	+	WP_004203553.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IF1SW-B2	GCF_013366635.1
-15644230	RefSeq	NZ_JABXWK010000002.1	513246	514127	-	WP_004203553.1	nitrogenase iron protein	Klebsiella quasipneumoniae	F3-6P(2)	GCF_013377665.1
-15644230	RefSeq	NZ_JABXWL010000002.1	516194	517075	-	WP_004203553.1	nitrogenase iron protein	Klebsiella quasipneumoniae	F3-6P(1)	GCF_013377595.1
-15644230	RefSeq	NZ_JABXWM010000001.1	40197	41078	-	WP_004203553.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IIIF3SW-P1	GCF_013377655.1
 15644230	RefSeq	NZ_JACAFN010000001.1	1406447	1407328	-	WP_004203553.1	nitrogenase iron protein	Klebsiella variicola	UFMG51	GCF_015354525.1
 15644230	RefSeq	NZ_JACHYL010000001.1	511560	512441	+	WP_004203553.1	nitrogenase iron protein	Klebsiella sp. RC2	RC2	GCF_014192815.1
 15644230	RefSeq	NZ_JACJCT010000002.1	9849	10730	+	WP_004203553.1	nitrogenase iron protein	Klebsiella pneumoniae	8	GCF_014526205.1
@@ -819,6 +819,10 @@ Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	S
 15644230	RefSeq	NZ_JARYWA010000002.1	117892	118773	+	WP_004203553.1	nitrogenase iron protein	Klebsiella quasipneumoniae	ttsh04	GCF_029913285.1
 15644230	RefSeq	NZ_JARYXF010000001.1	544478	545359	+	WP_004203553.1	nitrogenase iron protein	Klebsiella variicola	nuh59	GCF_029913015.1
 15644230	RefSeq	NZ_JARZAW010000001.1	1844487	1845368	-	WP_004203553.1	nitrogenase iron protein	Klebsiella variicola	3336c3	GCF_029929915.1
+15644230	RefSeq	NZ_JASBCT010000003.1	40669	41550	-	WP_004203553.1	nitrogenase iron protein	Klebsiella quasipneumoniae	CIFT_K5	
+15644230	RefSeq	NZ_JASBWI010000021.1	41222	42103	-	WP_004203553.1	nitrogenase iron protein	Klebsiella quasipneumoniae	HEE67_1	
+15644230	RefSeq	NZ_JASBWQ010000031.1	45593	46474	+	WP_004203553.1	nitrogenase iron protein	Klebsiella quasipneumoniae	CAL5_1	
+15644230	RefSeq	NZ_JASCAR010000001.1	439652	440533	+	WP_004203553.1	nitrogenase iron protein	Klebsiella sp. V115_8	V115_8	
 15644230	RefSeq	NZ_JDWA01000078.1	11820	12701	-	WP_004203553.1	nitrogenase iron protein	Klebsiella variicola	BZ19	GCF_000742915.1
 15644230	RefSeq	NZ_JRTV01000011.1	2755689	2756570	+	WP_004203553.1	nitrogenase iron protein	Klebsiella variicola	223/14	GCF_000786375.2
 15644230	RefSeq	NZ_JSWX01000027.1	29392	30273	+	WP_004203553.1	nitrogenase iron protein	Klebsiella variicola	B1	GCF_001006575.1
@@ -2571,14 +2575,14 @@ Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	S
 15644230	INSDC	JAAGEL010000016.1	62260	63141	+	NSM61441.1	nitrogenase iron protein	Klebsiella variicola	M50	GCA_013309855.1
 15644230	INSDC	JAAGEK010000013.1	106037	106918	+	NSM79310.1	nitrogenase iron protein	Klebsiella variicola	M15	GCA_013309865.1
 15644230	INSDC	JAAGEJ010000006.1	48231	49112	-	NSM85490.1	nitrogenase iron protein	Klebsiella variicola	M14	GCA_013309835.1
-15644230	INSDC	JABWOZ010000002.1	355819	356700	-	NUX30823.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IF1SW-P3	GCA_013366555.1
-15644230	INSDC	JABWPB010000001.1	1168108	1168989	+	NUX34999.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IF2SW-P1	GCA_013366585.1
-15644230	INSDC	JABWPA010000001.1	19216	20097	-	NUX85883.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IF1SW-P4	GCA_013366575.1
-15644230	INSDC	JABWPC010000001.1	1837488	1838369	+	NUY25778.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IF2SW-B3	GCA_013366565.1
-15644230	INSDC	JABWPD010000001.1	1837488	1838369	+	NUY84537.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IF1SW-B2	GCA_013366635.1
-15644230	INSDC	JABXWK010000002.1	513246	514127	-	NVO50665.1	nitrogenase iron protein	Klebsiella quasipneumoniae	F3-6P(2)	GCA_013377665.1
-15644230	INSDC	JABXWL010000002.1	516194	517075	-	NVO95077.1	nitrogenase iron protein	Klebsiella quasipneumoniae	F3-6P(1)	GCA_013377595.1
-15644230	INSDC	JABXWM010000001.1	40197	41078	-	NVP03594.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IIIF3SW-P1	GCA_013377655.1
+15644230	INSDC	JABWOZ010000002.1	355819	356700	-	NUX30823.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IF1SW-P3	
+15644230	INSDC	JABWPB010000001.1	1168108	1168989	+	NUX34999.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IF2SW-P1	
+15644230	INSDC	JABWPA010000001.1	19216	20097	-	NUX85883.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IF1SW-P4	
+15644230	INSDC	JABWPC010000001.1	1837488	1838369	+	NUY25778.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IF2SW-B3	
+15644230	INSDC	JABWPD010000001.1	1837488	1838369	+	NUY84537.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IF1SW-B2	
+15644230	INSDC	JABXWK010000002.1	513246	514127	-	NVO50665.1	nitrogenase iron protein	Klebsiella quasipneumoniae	F3-6P(2)	
+15644230	INSDC	JABXWL010000002.1	516194	517075	-	NVO95077.1	nitrogenase iron protein	Klebsiella quasipneumoniae	F3-6P(1)	
+15644230	INSDC	JABXWM010000001.1	40197	41078	-	NVP03594.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IIIF3SW-P1	
 15644230	INSDC	JAAEHP010000003.1	292349	293230	+	NWM02734.1	nitrogenase iron protein	Klebsiella quasipneumoniae	BS54-A	GCA_013392205.1
 15644230	INSDC	JAAFAQ010000002.1	355284	356165	-	NWO59067.1	nitrogenase iron protein	Klebsiella variicola	BS68R-1-A	GCA_013395165.1
 15644230	INSDC	LFQQ01000026.1	19050	19931	-	OBR58116.1	nitrogenase reductase	Klebsiella variicola	NL58	GCA_001674935.1
@@ -3078,11 +3082,12 @@ Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	S
 15644230	INSDC	CP114312.1	1880557	1881438	-	WBD73518.1	nitrogenase iron protein	Klebsiella variicola	2022CK-00500	GCA_025579445.2
 15644230	INSDC	CP050680.1	1839379	1840260	-	WDU67669.1	nitrogenase iron protein	Klebsiella variicola	SHET-01	GCA_028871695.1
 15644230	INSDC	CP089882.1	1779234	1780115	-	WFA62866.1	nitrogenase iron protein	Klebsiella pneumoniae	KP059	GCA_029541865.1
-15644230	INSDC	CP118271.1	1755061	1755942	-	WHA59110.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IF2SW-B3	
-15644230	INSDC	CP118272.1	1755061	1755942	-	WHA63965.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IF2SW-P1	
-15644230	INSDC	CP118273.1	1755061	1755942	-	WHA68812.1	nitrogenase iron protein	Klebsiella quasipneumoniae	F3-6P(1)	
-15644230	INSDC	CP118274.1	1755061	1755942	-	WHA73665.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IF1SW-P3	
-15644230	INSDC	CP118275.1	1755061	1755942	-	WHA78579.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IF1SW-P4	
-15644230	INSDC	CP118276.1	1755061	1755942	-	WHA90016.1	nitrogenase iron protein	Klebsiella quasipneumoniae	F3-6P(2)	
-15644230	INSDC	CP118277.1	1755061	1755942	-	WHA94868.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IF1SW-B2	
-15644230	INSDC	CP118278.1	1746661	1747542	-	WHA99695.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IIIF3SW-P1	
+15644230	INSDC	CP118271.1	1755061	1755942	-	WHA59110.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IF2SW-B3	GCA_013366565.2
+15644230	INSDC	CP118272.1	1755061	1755942	-	WHA63965.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IF2SW-P1	GCA_013366585.2
+15644230	INSDC	CP118273.1	1755061	1755942	-	WHA68812.1	nitrogenase iron protein	Klebsiella quasipneumoniae	F3-6P(1)	GCA_013377595.2
+15644230	INSDC	CP118274.1	1755061	1755942	-	WHA73665.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IF1SW-P3	GCA_013366555.2
+15644230	INSDC	CP118275.1	1755061	1755942	-	WHA78579.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IF1SW-P4	GCA_013366575.2
+15644230	INSDC	CP118276.1	1755061	1755942	-	WHA90016.1	nitrogenase iron protein	Klebsiella quasipneumoniae	F3-6P(2)	GCA_013377665.2
+15644230	INSDC	CP118277.1	1755061	1755942	-	WHA94868.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IF1SW-B2	GCA_013366635.2
+15644230	INSDC	CP118278.1	1746661	1747542	-	WHA99695.1	nitrogenase iron protein	Klebsiella quasipneumoniae	IIIF3SW-P1	GCA_013377655.2
+15644230	INSDC	CP124804.1	1784385	1785266	-	WHE64406.1	nitrogenase iron protein	Klebsiella variicola	J57	

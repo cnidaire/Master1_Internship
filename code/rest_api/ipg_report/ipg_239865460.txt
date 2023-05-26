@@ -1,5 +1,4 @@
 Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
 239865460	RefSeq	NZ_SNVV01000014.1	114125	115018	-	WP_133593344.1	nitrogenase iron protein	Azoarcus indigens	DSM 12121	GCF_004361735.1
-239865460	RefSeq	NZ_WTVL01000045.1	27563	28456	-	WP_133593344.1	nitrogenase iron protein	Azoarcus indigens	VB32	GCF_012910835.1
 239865460	INSDC	WTVL01000045.1	27563	28456	-	NMG67125.1	nitrogenase iron protein	Azoarcus indigens	VB32	GCA_012910835.1
 239865460	INSDC	SNVV01000014.1	114125	115018	-	TDN48717.1	Mo-nitrogenase iron protein subunit NifH	Azoarcus indigens	DSM 12121	GCA_004361735.1

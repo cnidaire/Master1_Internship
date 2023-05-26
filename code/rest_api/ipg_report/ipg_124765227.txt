@@ -1,6 +1,7 @@
 Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
 124765227	RefSeq	NZ_FNNU01000007.1	42566	43450	+	WP_090231401.1	nitrogenase iron protein	Pseudomonas kuykendallii	NRRL B-59562	GCF_900106975.1
 124765227	RefSeq	NZ_JAMOIJ010000014.1	91570	92454	-	WP_090231401.1	nitrogenase iron protein	Pseudomonas kuykendallii	LMG 26346	GCF_024448975.1
+124765227	RefSeq	NZ_JASCPA010000041.1	3796	4680	-	WP_090231401.1	nitrogenase iron protein	Pseudomonas sp. PS02288	PS02288	
 124765227	RefSeq	NZ_QFOH01000020.1	31322	32206	-	WP_090231401.1	nitrogenase iron protein	Pseudomonas kuykendallii		GCF_003241145.1
 124765227	INSDC	JAMOIJ010000014.1	91570	92454	-	MCQ4272425.1	nitrogenase iron protein	Pseudomonas kuykendallii	LMG 26346	GCA_024448975.1
 124765227	INSDC	QFOH01000020.1	31322	32206	-	PZP22301.1	nitrogenase iron protein	Pseudomonas kuykendallii		GCA_003241145.1
