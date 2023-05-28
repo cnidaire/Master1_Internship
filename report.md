@@ -60,7 +60,7 @@ For all these reasons, I think building a new fully automatized database from sc
 
 For the our study, we are interested in the workflow until "Assign Taxonomy".
 
-<img src="/home/remi/Documents/Master_CMB/M1/Internship/notes/dada2/images/workflow.png" style="zoom:40%;" />
+![Workflow](notes/dada2/images/workflow.png)
 
 
 
@@ -76,7 +76,7 @@ This steps helps to remove the sequencing errors and artifacts, in order to keep
 
 ==Annotate + explain figure==
 
-<img src="/home/remi/Documents/Master_CMB/M1/Internship/img/quality_score.jpg"/>
+![Workflow](img/quality_score.jpg)
 
 
 
@@ -88,7 +88,7 @@ In general, for the error plot, the frequency of the errors rate decrease as the
 
 ==Annotate figure if kept==
 
-<img src="/home/remi/Documents/Master_CMB/M1/Internship/img/error_rate.jpg"/>
+![Workflow](img/error_rate.jpg)
 
 ### Dereplicate Reads
 
