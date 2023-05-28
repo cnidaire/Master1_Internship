@@ -51,16 +51,15 @@ For all these reasons, I think building a new fully automatized database from sc
 
 
 
-## Materials and methods (methodology)
+# Methods
 
 **Put the code in the annexes**
 
-### Dada2 workflow
+## Dada2 Workflow
 
 For the our study, we are interested in the workflow until "Assign Taxonomy".
 
 ![](notes/dada2/images/workflow.png)
-
 
 ### Raw FASTQ Files
 
@@ -75,7 +74,6 @@ This steps helps to remove the sequencing errors and artifacts, in order to keep
 **Annotate + explain figure**
 
 ![Workflow](img/quality_score.jpg)
-
 
 ### Error Rate estimation
 
@@ -100,7 +98,8 @@ Testing the null-hypothesis that the sequence is too abundant in the sample to b
 **Now all the Forward and Reverse reads have been denoised** we can finally merge all the forward and reverse sequences.
 
 
-	
+​	
+
 ### Merge Reads
 
 We have inferred the sample sequences in the forward and reverse reads independently. Now it’s time to merge those inferred sequences together, throwing out those pairs of reads that don’t match. It will return a data frame corresponding to each successfully merged sequences.
@@ -168,11 +167,6 @@ Entrez, Global Query Cross-Database Search System, is a searching tool provided 
 
 
 
-
-
-
-
-# Methods
 # Results
 
 As a point of comparison, I use the data coming from DUPE exploration. 90% of the DUPE data has a kingdom associated after the annotation, and in this case we only have Bacteria which is given because we are working on Bacteria. However, at the phylum level we already have 57% that are not annotated and this is increasing until the family level where we have nearly 80% of the sequences that are unannotated. And this is a major problem when we want to characterize a population.
@@ -198,11 +192,7 @@ What I succeed, what I failed, and what should be done in order to improve
 
 
 
-# Annex
-
-Put the Python code
-
-
+<!---
 
 # Structure
 
@@ -251,6 +241,8 @@ From the answer I received from NCBi, I think all the sequences are important an
 
 However, I have to be careful to limit the length of the DNA sequences I obtain because it still doesn't explain why there is some sequences that a way bigger than some others.
 
+-->
+
 
 
 # References
@@ -262,3 +254,9 @@ However, I have to be careful to limit the length of the DNA sequences I obtain 
 - **Quantification of gene copy numbers is valuable in marine microbial ecology: A comment to Meiler et al. (2022)**
 - https://www.jzehrlab.com/nifh
 - M. A. Moynihan. 2020. nifHdada2 GitHub repository. Zenodo. http://doi.org/10.5281/zenodo.3958370
+
+
+
+# appendix
+
+Put the Python code
