@@ -70,29 +70,29 @@ We first have to import the Raw FASTQ files. In most of the cases, we have pair 
 
 ### Trim and Filter Reads
 
-Then we plot the quality score and determine the trimming cut-offs (traditionally we take 30 as the lowest accepted quality score. Usually, the quality of the reverse sequence is not as good as the forward, that's why we have to trim it more. However, we have to make sure that the Forward and reverse sequences are overlapping because DADA2 need at the very least 20 bp to successfully merge sequences.
+Then we plot the quality score and determine the trimming cut-offs (traditionally we take 30 as the lowest accepted quality score). Usually, the quality of the reverse sequence is not as good as the forward, that's why we have to trim it more. However, we have to make sure that the Forward and reverse sequences are overlapping because DADA2 need at the very least 20 base pair to successfully merge the two sequences.
 
 This steps helps to remove the sequencing errors and artifacts, in order to keep only the high quality sequences.
 
 ==Annotate + explain figure==
 
-<img src="/home/remi/Documents/Master_CMB/M1/Internship/img/quality_score.jpg"/>
+<img src="img/quality_score.jpg"/>
 
 
 
 ### Error Rate estimation
 
-DADA2 constructs an error model by learning the sequencing errors from  the quality-filtered reads. The error model is then used to correct  errors in the reads, resulting in improved sequence accuracy.
+DADA2 constructs an error model by learning the sequencing errors from  the quality-filtered reads. The error model is then used to correct  errors in the reads, improving the sequence accuracy.
 
 In general, for the error plot, the frequency of the errors rate decrease as the quality score increase.
 
 ==Annotate figure if kept==
 
-<img src="/home/remi/Documents/Master_CMB/M1/Internship/img/error_rate.jpg"/>
+<img src="img/error_rate.jpg"/>
 
 ### Dereplicate Reads
 
-Condense the data by collapsing together all reads that encode the same sequence to reduce the redundancy to speed up and simplify the computation.
+Condense the data by collapsing together all reads encoding for the same sequence to reduce the redundancy. It will speed up and simplify the computation.
 
 
 
@@ -101,6 +101,8 @@ Condense the data by collapsing together all reads that encode the same sequence
 Testing the null-hypothesis that the sequence is too abundant in the sample to be solely explained by errors in the data set. Hence, a low p-value sequence can be considered as real sequences that are not caused by random errors and in contrary, if the sequence has a high p-value, it won't be kept 
 
 ==Now all the Forward and Reverse reads have been denoised== we can finally merge all the forward and reverse sequences.
+
+==re-check what is this step== 
 
 
 
@@ -123,6 +125,8 @@ If there is too much chimera, we have to check if the 20 first base pairs of the
 ### Assign Taxonomy
 
 This is the part I'm interested in. We should give as an input a reference database at the FASTA format containing as the first line the Taxonomy of the sequence at the format: Domain / Pylum / Class / Order / Family / Genus; and as a second line the corresponding sequence of the nifH gene.
+
+Then DADA2 will infer the taxonomy based on the sequence similarity.
 
 
 
@@ -233,11 +237,21 @@ Put the Python code
 
 
 
+# What I still have to do
+
+
+
 **Maybe I should try to redo it with nucleotide to obtain a result**
 
 but when I looked at the DNA sequences, there is some letters that are not DNA (R,Y,M,K, etc: IUPAC notation) and I'm not sure of how DADA2 will handle it
 
 If DADA2 can use the IUPAC notation, then It can be really awesome but I kinda doubt of it and in the documentation, it look like this is only the case for the primers
+
+
+
+From the answer I received from NCBi, I think all the sequences are important and It would be easier to just take all the NCBI sequences in the IPG report and make other tables for each databases and then as a project for after the internship, retrieve fetch the information for the other database.
+
+However, I have to be careful to limit the length of the DNA sequences I obtain because it still doesn't explain why there is some sequences that a way bigger than some others.
 
 
 
