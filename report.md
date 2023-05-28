@@ -1,14 +1,13 @@
-# Format
+---
+title: "The Document Title"
+author: [Example Author, Another Author]
+date: "2017-02-20"
+keywords: [Markdown, Example]
+abstract: |
+	Short version of the introduction: to do later
+---
 
-Abstract, Introduction, Methodology/Results, Discussion, References
-
-# ==Abstract==
-
-short version of the introduction: to do later
-
-
-
-# ==Introduction==
+# Introduction
 
 ## Why study dinitrogen fixating bacterias?
 
@@ -54,14 +53,13 @@ For all these reasons, I think building a new fully automatized database from sc
 
 ## Materials and methods (methodology)
 
-==Put the code in the annexes==
+**Put the code in the annexes**
 
 ### Dada2 workflow
 
 For the our study, we are interested in the workflow until "Assign Taxonomy".
 
-![Workflow](notes/dada2/images/workflow.png)
-
+![](notes/dada2/images/workflow.png)
 
 
 ### Raw FASTQ Files
@@ -74,7 +72,7 @@ Then we plot the quality score and determine the trimming cut-offs (traditionall
 
 This steps helps to remove the sequencing errors and artifacts, in order to keep only the high quality sequences.
 
-==Annotate + explain figure==
+**Annotate + explain figure**
 
 ![Workflow](img/quality_score.jpg)
 
@@ -86,7 +84,7 @@ DADA2 constructs an error model by learning the sequencing errors from  the qual
 
 In general, for the error plot, the frequency of the errors rate decrease as the quality score increase.
 
-==Annotate figure if kept==
+**Annotate figure if kept**
 
 ![Workflow](img/error_rate.jpg)
 
@@ -100,10 +98,10 @@ Condense the data by collapsing together all reads that encode the same sequence
 
 Testing the null-hypothesis that the sequence is too abundant in the sample to be solely explained by errors in the data set. Hence, a low p-value sequence can be considered as real sequences that are not caused by random errors and in contrary, if the sequence has a high p-value, it won't be kept 
 
-==Now all the Forward and Reverse reads have been denoised== we can finally merge all the forward and reverse sequences.
+**Now all the Forward and Reverse reads have been denoised** we can finally merge all the forward and reverse sequences.
 
 
-
+	
 ### Merge Reads
 
 We have inferred the sample sequences in the forward and reverse reads independently. Now it’s time to merge those inferred sequences together, throwing out those pairs of reads that don’t match. It will return a data frame corresponding to each successfully merged sequences.
@@ -173,7 +171,8 @@ Entrez, Global Query Cross-Database Search System, is a searching tool provided 
 
 
 
-# ==Results==
+# Methods
+# Results
 
 As a point of comparison, I use the data coming from DUPE exploration. 90% of the DUPE data has a kingdom associated after the annotation, and in this case we only have Bacteria which is given because we are working on Bacteria. However, at the phylum level we already have 57% that are not annotated and this is increasing until the family level where we have nearly 80% of the sequences that are unannotated. And this is a major problem when we want to characterize a population.
 
@@ -190,13 +189,15 @@ As a point of comparison, I use the data coming from DUPE exploration. 90% of th
 
 
 
-# ==Discussion + Conclusion==
+# Discussion
+
+# Conclusion
 
 What I succeed, what I failed, and what should be done in order to improve
 
 
 
-# ==Annexe==
+# Annex
 
 Put the Python code
 
