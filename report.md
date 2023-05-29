@@ -148,7 +148,17 @@ Entrez, Global Query Cross-Database Search System, is a searching tool provided 
 
 ## Implementation with python
 
-**Tell a story off what I did so that everybody can understand it**
+I want to make a program that is gathering the sequences and the taxonomy from NCBI and maybe later from other databases for all the record available of the DNA sequences of the nifH gene. Here, I didn't worry about the computational time at all because this program is not ought be re-run on a daily basis but more every year or so if it work to create a new version of the database that is uniform and used by all the community.
+
+I first choose the gene proteins but there were not a lot of sequences and then when I looked at the nucleotide database, I realized that it is at the IUPAC format. The IUPAC DNA format is often used because instead of only containing A, T, C, G and U, it contains R,Y, S, W, etc. It gives the information when two or more nucleotides can be used. However, DADA2 is not able to use well such a FASTA reference file.
+
+In the end, I think the best idea is to use the Identical Protein Report. It will give us individual reports for each identical Amino Acids sequences. Even if it doesn't give access right away to the DNA sequence, inside of each report, there is the database it is present in, the reference of the DNA file, the Start and Stop because most of the time this DNA sequence is part of a bigger DNA sequence and the strand. With this information, we can download the corresponding DNA sequence for each references in the report. 
+
+However, I first thought that only one sequence of each report was enough because I thought that the DNA sequences were identical, I mistake that I would have been able to spot on my own if I took the time to take a step back. When I obtain my reference file, I obtained some inconsistencies inside. That's why I contacted NCBI and only recently received a reply that answered most of my questions. but I haven't been able to implement it yet.
+
+
+
+Therefore, here is how I proceeded with my python code so far.
 
 
 
@@ -171,6 +181,10 @@ Entrez, Global Query Cross-Database Search System, is a searching tool provided 
 
 As a point of comparison, I use the data coming from DUPE exploration. 90% of the DUPE data has a kingdom associated after the annotation, and in this case we only have Bacteria which is given because we are working on Bacteria. However, at the phylum level we already have 57% that are not annotated and this is increasing until the family level where we have nearly 80% of the sequences that are unannotated. And this is a major problem when we want to characterize a population.
 
+I haven't been able to finish the database. In the current database I created, there is some inconsistencies and some of the sequences I fetch are too big so I asked questions to NCBI and now I think I know how to continue to improve the database and solve my problems.
+
+For each DNA sequence associated with each IPG report, I have to split in different panda dataframe containing the id and location of the DNA file. As having the same protein sequence doesn't mean having the same DNA sequence, I will have to take all the report. I will still use IPG even if the reason I used it in the beginning doesn't stand anymore, because it enable me to obtain information for all different main databases in one go. Then I will have to download the sequences for the other databases but it will mean to learn an other too.
+
 
 
 | Taxonomy | With old data base (% of unannotated) | With new database (% of unannotated) |
@@ -184,11 +198,9 @@ As a point of comparison, I use the data coming from DUPE exploration. 90% of th
 
 
 
-# Discussion
+# Conclusion and Discussion
 
-# Conclusion
-
-What I succeed, what I failed, and what should be done in order to improve
+In conclusion, I am not so far from being able to create the database containing the sequences from NCBI. However, to have a complete database, I still need to add the DNA sequences of the nifH gene coming from the other databases such as UKProt and SwissProt. It will take time because the syntax and the packages to automatically retrieve the information will be different and will need more time than the 7 week I was given.
 
 
 
