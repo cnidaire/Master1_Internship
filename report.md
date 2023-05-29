@@ -5,7 +5,12 @@ date: "2017-02-20"
 keywords: [Markdown, Example]
 abstract: |
 	Short version of the introduction: to do later
+titlepage: true
 ---
+
+<!-- Voir -->
+<!-- https://github.com/Wandmalfarbe/pandoc-latex-template/tree/v2.1.0 -->
+<!-- pour les options de mise en page-->
 
 # Introduction
 
@@ -272,3 +277,8 @@ However, I have to be careful to limit the length of the DNA sequences I obtain 
 # appendix
 
 Put the Python code
+
+```{python}
+print(2+2)
+```
+
