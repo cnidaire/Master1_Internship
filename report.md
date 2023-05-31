@@ -8,6 +8,7 @@ abstract: |
     Most of the Nitrogen fixation in the oceans is due to nitrogen-fixating Bacteria thanks to a collection of genes: *nif*. To study the fixation dynamics and the composition of the Bacteria population we sample some environmental DNA and then using a reference database, we can characterize the population. However, the current reference file is incomplete and needs to be improved and automatized.
 titlepage: true
 toc-own-page: true
+bibliography: biblio.bib
 ---
 
 <!-- Voir -->
@@ -307,8 +308,15 @@ However, I have to be careful to limit the length of the DNA sequences I obtain 
 -->
 
 
+Maths can be written as follows $\int_x x^2.dx$ 
+
+Blah blah [see @doe99, pp. 33-35 and *passim*; @smith04, chap. 1].
+
+Wow @Angel18 is really cool.
 
 # References
+
+\bibliography{biblio.bib}\def\bibliography{}
 
 - Angel R, Nepel M, Panhölzl C,Schmidt H, Herbold CW, Eichorst SA and Woebken D (2018) Evaluation of Primers Targeting the Diazotroph Functional Gene and Development of NifMAP – A Bioinformatics Pipeline for Analyzing nifH Amplicon Data. Front. Microbiol. 9:703. doi: 10.3389/fmicb.2018.00703
 - Hallstrøm, S., Benavides, M., Salamon, E.R. *et al.* Activity and distribution of diazotrophic communities across the Cape Verde Frontal Zone in the Northeast Atlantic Ocean. *Biogeochemistry* **160**, 49–67 (2022). https://doi.org/10.1007/s10533-022-00940-w
@@ -322,6 +330,8 @@ However, I have to be careful to limit the length of the DNA sequences I obtain 
 
 
 ****
+
+\clearpage\appendix
 
 # appendix
 

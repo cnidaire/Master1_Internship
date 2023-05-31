@@ -1,7 +1,7 @@
 all: report.pdf
 
 report.tex: report.md
-	pandoc -f gfm -t latex+raw_tex $< --toc --toc-depth=2 --number-sections -s --template=eisvogel.tex --listings -o $@
+	pandoc -f markdown+raw_tex -t latex $< --toc --toc-depth=2 --number-sections -s --template=eisvogel.tex --citeproc --natbib --listings -o $@
 
 report.pdf: report.tex
 	pdflatex $<
