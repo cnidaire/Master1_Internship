@@ -5,3 +5,6 @@ report.tex: report.md
 
 report.pdf: report.tex
 	pdflatex $<
+	bibtex report.aux
+	pdflatex $<
+	pdflatex $<
