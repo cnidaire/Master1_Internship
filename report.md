@@ -25,51 +25,43 @@ I, Rémi Legrand, hereby confirm that I am the sole author of the written work h
 ## Why study dinitrogen-fixing bacteria?
 
 Nitrogen is a main block of life it is needed for DNA and proteins. However, Nitrogen is
-limited in most of the ocean surface (Contribution of atmospheric nitrogen deposition to new
-production in the nitrogen limited photic zone of the northern Indian Ocean).
+limited in most of the ocean surface [@singh_contribution_2012].
 
 Despite N2 gas constituting around 70% of our atmosphere and being saturated in seawater,
-the di-nitrogen fixation process is to a large extent mediated by diazotrophs (The sensitivity of
-marine N2 fixation to dissolved inorganic nitrogen). Using the nitrogenase enzyme,
+the di-nitrogen fixation process is to a large extent mediated by diazotrophs [knapp_sensitivity_2012]. Using the nitrogenase enzyme,
 diazotrophs break the strong triple bond between the two N atoms. This enzyme is encoded
-by *nif* genes (Biological Nitrogen Fixation).
+by *nif* genes [@stacey_biological_1992].
 
 Hence, reactive nitrogen sources such as dinitrogen (N2) fixation act as natural fertilizing
-processes (Changing perspectives in marine nitrogen fixation). Additionally, diazotrophs
+processes [@zehr_changing_2020]. Additionally, diazotrophs
 have a key role in the Nitrogen cycle and “thus is linked to the fixation of atmospheric carbon
-dioxide and export of carbon from the ocean's surface” (Nitrogen Cycling in the Ocean: New
+dioxide and export of carbon from the ocean's surface” (XXX Nitrogen Cycling in the Ocean: New
 Perspectives on Processes and Paradigms).
 
-Biological nitrogen fixation is catalyzed by the nitrogenase protein (Biological Nitrogen
-Fixation). It is an enzyme that reduces N2 to ammonium (NH3) and is composed of subunits:
+Biological nitrogen fixation is catalyzed by the nitrogenase protein [@stacey_biological_1992]. It is an enzyme that reduces N2 to ammonium (NH3) and is composed of subunits:
 
 - Heterotetrameric core (MoFe protein) encoded by the *nifD* and the *nifK* genes
 - Dinitrogenase reductase (Fe protein) encoded by the *nifH* gene
 
 
-Image of Nitrogenase protein
+FIXME: Image of Nitrogenase protein
 
 
 Both Nitrogenase’s subunit proteins are highly conserved but the Fe protein encoded by *nifH*
-is the most highly conserved across the microbial community (ref: Nitrogenase gene diversity
-and microbial community structure: a cross-system comparison).
+is the most highly conserved across the microbial community [@zehr_nitrogenase_2003].
 
 ## Why *nifH*?
 
 Usually, to characterize a population, we use the 16 S subunit of the polymerase. However, in
 the case of nitrogen-fixating microbial species, there are some genetic divergences of *nifH*
 between the species and the “16S rRNA genes do not correlate well at sequence dissimilarity
-values used commonly to define microbial species” whereas *nifH* does (A comprehensive
-aligned *nifH* database). Hence the *nifH* gene is commonly used to characterize a population
+values used commonly to define microbial species” whereas *nifH* does [@gaby_comprehensive_2014]. Hence the *nifH* gene is commonly used to characterize a population
 of Nitrogen fixating bacteria.
 
 ## Goals of the internship
 
 To characterize the studied population, a reference database containing the taxonomy and the
-sequences of the *nifH* gene for different species is needed. The first *nifH* database was created
-in 2014 and continuously updated until 2017 by the Zehr Lab (Zehr lab database
-construction). It was then normalized and kept updated manually by Molly Moynihan (M. A. Moynihan.
-2020. nifHdada2 GitHub repository. Zenodo. http://doi.org/10.5281/zenodo.3958370).
+sequences of the *nifH* gene for different species is needed. The first *nifH* database was created in 2014 and continuously updated until 2017 by the Zehr Lab [@heller_arbitrator_2014]. It was then normalized and kept updated manually by @moyn413.
 
 However, the current database leaves a considerable amount of unannotated sequences, and
 the annotation rate increases with the taxonomic level.
@@ -85,25 +77,25 @@ environmental DNA. In our case, we will use the *nifH* gene but the process is g
 
 The metabarcoding approach can be divided into the following steps:
 1. Sample the environment we are interested in, in this case, it is ocean or seawater
-2. Extract the DNA and amplify using Polymerization Chain Reaction (PCR) of the region we are interested in using the appropriate primers (Evaluation of Primers Targeting the Diazotroph Functional Gene and Development of NifMAP).
+2. Extract the DNA and amplify using Polymerization Chain Reaction (PCR) of the region we are interested in using the appropriate primers [@angel_evaluation_2018].
 3. Sequence the data using high-throughput sequencing (like Illumina sequencing).
 4. Process the samples through an adequate pipeline to obtain the annotation of the sequences.
 
 ## *nifH* amplicon datasets used
 
-The **DUPE** dataset (Sinking Trichodesmium fixes nitrogen in the dark ocean) has been
+The **DUPE** dataset (XXX Sinking Trichodesmium fixes nitrogen in the dark ocean) has been
 created by sequencing samples coming from sediment traps at 170, 270, and 1000 m at two
 locations in the South Pacific. It is constituted of 12 samples
 
-The **TONGA** dataset (Contrasting Roles of DOP as a Source of Phosphorus and Energy for
+The **TONGA** dataset (XXX Contrasting Roles of DOP as a Source of Phosphorus and Energy for
 Marine Diazotrophs) has been created by sampling in the ocean at two stations: in the Tonga
 trench volcanic arc region and the South Pacific Gyr. It is constituted of 20 samples.
 
 ## DADA2 Workflow
 
-DADA2 (https://www.bioconductor.org/packages/release/bioc/html/dada2.html) is a pipeline
+DADA2 (XXX https://www.bioconductor.org/packages/release/bioc/html/dada2.html) is a pipeline
 used to clean and annotate the genomic data coming from a population. It’s a pipeline running
-locally in R. The following workflow is a generic one and an example can be found in the
+locally in R (see @cabral_microbiomemetagenome_nodate for more details). The following workflow is a generic one and an example can be found in the
 appendix.
 
 ![](img/workflow.png)
@@ -205,9 +197,8 @@ different databases such as Swissprot, GenBank, PIR, etc.
 
 ## Entrez to access the NCBI library from Python
 
-Entrez (ref: https://www.ncbi.nlm.nih.gov/Web/Search/entrezfs.html), Global Query
-Cross-Database Search System, is a searching tool provided by NCBI enabling one to browse
-through the information of over 20 databases such as Swiss-Prot, PRF, and PIR-International.
+Entrez, Global Query Cross-Database Search System, [@entrez] is a searching tool provided by NCBI enabling one to browse through the information of over 20 databases such as Swiss-Prot, PRF, and PIR-International.
+
 It is an indexing and retrieving system gathering data from various sources and handing it
 back in a uniform format such as FlatFile, Fasta, or XML. Thanks to it, it is possible to
 retrieve information without going through the NCBI website and it makes it easier to
@@ -236,13 +227,13 @@ appendices, and comment on the figure
 ## Implementation with Python
 ### Improving the database
 The goal was to use the current database and then by extracting the unannotated sequences,
-make a BLAST using NCBI (ref) and extract sequences with a relevant alignment and then
+make a BLAST using NCBI (XXX ref) and extract sequences with a relevant alignment and then
 enrich the database with it.
 
 However, it appears to be a bad idea because:
 1. It has been manually updated and hence there is a possibility of human errors
-2. It is not updated automatically. Recently, the general bacteria taxonomy has changed (Prokaryotic taxonomy and nomenclature in the age of big sequence data: ISME journal https://www.nature.com/articles/s41396-021-00941-x) and the file had to but updated manually.
-3. The first database has been created using ARBitrator (ARBitrator: a software pipeline for on-demand retrieval of auto-curated *nifH* sequences from GenBank), and due to the way it was created, it contained some non-*nifH* sequences and miss some of the *nifH* sequences. As the current database is based on the one created with ARBitrator, there are still the same problems.
+2. It is not updated automatically. Recently, the general bacteria taxonomy has changed [@hugenholtz_prokaryotic_2021] and the file had to but updated manually.
+3. The first database has been created using ARBitrator [@heller_arbitrator_2014], and due to the way it was created, it contained some non-*nifH* sequences and miss some of the *nifH* sequences. As the current database is based on the one created with ARBitrator, there are still the same problems.
 
 For all these reasons, building a new fully automatized database from scratch would be more
 reasonable than improving and building on top of something we are not fully confident in.
@@ -290,21 +281,14 @@ only contain the sequences present inside the NCBI databases. The other database
 UK-Prot and Swiss-Prot don’t have the same API as NCBI and will require another study to
 retrieve the data and then merge the reference databases obtained.
 
-
-Blah blah [see @doe99, pp. 33-35 and *passim*; @smith04, chap. 1].
-
-Wow @Angel18 is really cool.
-
 \bibliography{biblio.bib}\def\bibliography{}
 
 # Old references to convert in bibtex
-- Angel R, Nepel M, Panhölzl C,Schmidt H, Herbold CW, Eichorst SA and Woebken D (2018) Evaluation of Primers Targeting the Diazotroph Functional Gene and Development of NifMAP – A Bioinformatics Pipeline for Analyzing *nifH* Amplicon Data. Front. Microbiol. 9:703. doi: 10.3389/fmicb.2018.00703
 - Hallstrøm, S., Benavides, M., Salamon, E.R. *et al.* Activity and distribution of diazotrophic communities across the Cape Verde Frontal Zone in the Northeast Atlantic Ocean. *Biogeochemistry* **160**, 49–67 (2022). https://doi.org/10.1007/s10533-022-00940-w
 - Hallstrom S., Benavides Mar, Salamon E. R., Evans C. W., Potts L. J., Granger J., Tobias C. R.,  Moisander P. H., Riemann L.  (2022).     Pelagic N-2 fixation dominated  by sediment diazotrophic communities in a shallow temperate estuary.          *Limnology and Oceanography*,    67 (2),    364-378.      ISSN 0024-3590.
-- Zehr JP, Capone DG. Changing perspectives in  marine nitrogen fixation. Science. 2020 May 15;368(6492):eaay9514. doi:10.1126/science.aay9514. PMID: 32409447.
 - **Quantification of gene copy numbers is valuable in marine microbial ecology: A comment to Meiler et al. (2022)**
-- https://www.jzehrlab.com/nifh
-- M. A. Moynihan. 2020. nifHdada2 GitHub repository. Zenodo. http://doi.org/10.5281/zenodo.3958370
+
+
 - *"Microbiome/ Metagenome Analysis Workshop: DADA2"* by Damien Cabral : https://www.youtube.com/watch?v=wV5_z7rR6yw
 
 
