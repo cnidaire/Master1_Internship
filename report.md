@@ -5,7 +5,7 @@ author: [Legrand Remi]
 date: "2023-05-30"
 keywords: [Markdown, Example]
 abstract: |
-    Most of the Nitrogen fixation in the oceans is due to nitrogen-fixating Bacteria thanks to a collection of genes: *nif*. To study the fixation dynamics and the composition of the Bacteria population we sample some environmental DNA and then using a reference database, we can characterize the population. However, the current reference file is incomplete and needs to be improved and automatized.
+    Nitrogen is a main block of life however it is a limiting resource on most ocean surfaces and hence nitrogen-fixating bacteria (diazotrophs) have a key role because only they can metabolize di-nitrogen into ammonium with the Nitrogenase protein. By studying the populations of diazotrophs we can have a better understanding of past, present, and future climate. The characterization of these populations is made using a reference database of the *nifH* gene, coding for a sub-unit of the nitrogenase. However, the current database is incomplete and leaves a lot of unannotated sequences. Creating a new reference database by collecting the annotated *nifH* sequences present in databases such as NCBI, UK-PROT, and Swiss-Prot is hence needed.
 titlepage: true
 toc-own-page: true
 bibliography: biblio.bib
@@ -21,294 +21,242 @@ bibliography: biblio.bib
 
 ## Why study dinitrogen-fixing bacteria?
 
-Many living organisms are unable to metabolize directly the atmospheric nitrogen. Thus, the main source of nitrogen in the ocean is coming from Dinitrogen (N2) fixating Bacteria (Cyanobacteria and non-Cyanobacteria) that are transforming into other forms that can be used by the other organisms.
+Nitrogen is a main block of life it is needed for DNA and proteins. However, Nitrogen is
+limited in most of the ocean surface (Contribution of atmospheric nitrogen deposition to new
+production in the nitrogen limited photic zone of the northern Indian Ocean).
 
-This fixation has a role in the global biogeochemical cycling of Nitrogen and is interlinked with the cycling of Carbon. Therefore, understanding the Nitrogen cycle would help to understand the current, past, and future food webs. As well as the storage dynamics of atmospheric CO2, and other greenhouse gases like nitrous oxide (that is a greenhouse gas 300 times more effective than carbon dioxide).
+Despite N2 gas constituting around 70% of our atmosphere and being saturated in seawater,
+the di-nitrogen fixation process is to a large extent mediated by diazotrophs (The sensitivity of
+marine N2 fixation to dissolved inorganic nitrogen). Using the nitrogenase enzyme,
+diazotrophs break the strong triple bond between the two N atoms. This enzyme is encoded
+by nif genes (Biological Nitrogen Fixation).
 
+Hence, reactive nitrogen sources such as dinitrogen (N2) fixation act as natural fertilizing
+processes (Changing perspectives in marine nitrogen fixation). Additionally, diazotrophs
+have a key role in the Nitrogen cycle and “thus is linked to the fixation of atmospheric carbon
+dioxide and export of carbon from the ocean's surface” (Nitrogen Cycling in the Ocean: New
+Perspectives on Processes and Paradigms).
 
+Biological nitrogen fixation is catalyzed by the nitrogenase protein (Biological Nitrogen
+Fixation). It is an enzyme that reduces N2 to ammonium (NH3) and is composed of subunits:
 
-## Why nifH
-
-Nitrogen fixation is catalyzed by the enzyme Nitrogenase. The *nif* genes are a collection of genes involved in nitrogen fixation. The Nitrogenase protein is composed of two sub-units metalloproteins: molybdenum iron protein and iron protein. It is likely to be an ancient protein since it's distributed widely through Bacteria and Archaea. Both Nitrogenase proteins are highly conserved but the Fe protein encoded by nifH is the most highly conserved.
-
-Thus NifH is the ideal gene to study nitrogen-fixating bacteria as it is highly conserved but not identical between the Bacteria's species and hence for environmental samples, we can identify the specie the protein belong to and thus characterize the population.
-
-
-
-image come from https://www.mdpi.com/2304-6740/6/1/25
-
-![](img/nif-gene.png)
-
-**Ask for an illustration of it from Subha**
-
-
-
-## How to collect environmental data: Metabarcoding
-
-Metabarcoding is a tool to characterize the taxonomic diversity of an ecosystem using environmental DNA. Usually, the region of the gene we focus on for the identification of the Bacterias and Archaeas is the 16S region due to various properties such as the size (~200-400bd) and the good conservation over the different species. However, it is possible to use some other parts of the genome if it is suitable for identification, like the nifH gene.
-
-The metabarcoding itself is divided into a few steps:
-
-First of all, we sample the middle we are working with, in this case, it's ocean or seawater. Then we extract the DNA and amplify using Polymerization Chain Reaction (PCR) of the region we are interested in using the appropriate primers. The next step is to sequence the data using high-throughput sequencing (like Illumina sequencing). We usually use pair hand sequencing and pool all the samples together to avoid as much batch effect as possible. Finally, the result is processed and demultiplexed through an adequate pipeline to obtain the annotation of the sequences.
+- Heterotetrameric core (MoFe protein) encoded by the nifD and the nifK genes
+- Dinitrogenase reductase (Fe protein) encoded by the nifH gene
 
 
+Image of Nitrogenase protein
+
+
+Both Nitrogenase’s subunit proteins are highly conserved but the Fe protein encoded by nifH
+is the most highly conserved across the microbial community (ref: Nitrogenase gene diversity
+and microbial community structure: a cross-system comparison).
+
+## Why *nifH*
+
+Usually, to characterize a population, we use the 16 S subunit of the polymerase. However, in
+the case of nitrogen-fixating microbial species, there are some genetic divergences of nifH
+between the species and the “16S rRNA genes do not correlate well at sequence dissimilarity
+values used commonly to define microbial species” whereas nifH does (A comprehensive
+aligned nifH database). Hence the nifH gene is commonly used to characterize a population
+of Nitrogen fixating bacteria.
 
 ## Goals of the internship
 
-To annotate the sequences coming from the nifH environmental data, the DADA2 pipeline is generally used and a reference file is needed. This reference file contains the sequences and the taxonomy associated. The current database was first created in 2014 and kept updated until 2017 by the Zehr Lab (Heller 2014: **put link to publication if I find it**). It was then normalized and kept updated manually by Molly Moynihan (**put link to publication in reference**).
+To characterize the studied population, a reference database containing the taxonomy and the
+sequences of the nifH gene for different species is needed. The first nifH database was created
+in 2014 and continuously updated until 2017 by the Zehr Lab (Zehr lab database
+construction). It was then normalized and kept updated manually by Molly Moynihan (M. A. Moynihan.
+2020. nifHdada2 GitHub repository. Zenodo. http://doi.org/10.5281/zenodo.3958370).
 
-However, this database annotates quite poorly the data obtained (for the data coming from the DUPE exploration, up to 80% of the sequences are unannotated). Resulting in a lot of uncertainty and the goal would be to either improve the current database or build a new one and find a way to automatize it.
-
-There are many problems I noticed with the current database:
-
-1. It has been created manually and hence there is a possibility of typos
-2. It is not updated automatically: if some sequence's taxonomy attribution changes it will not be updated
-3. Recently the taxonomy changed and they had to modify the 18,700 sequences manually, resulting in a lot of work and possible mistakes
-4. Lack of control over what is inside the database: there are a lot of identical sequences and hence we hope that the sequences have the same taxonomy associated otherwise (normally, there is an algorithm to check it and automatically annotate it in NCBI implemented in 2001 but as it's created manually, there is a possibility of typos once again), randomly chosen by DADA2
-5. It is hard to know which sequences are not in the reference yet
-
-For all these reasons, I think building a new fully automatized database from scratch would be more reasonable than improving and building on top of something we are not fully confident in.
-
-
-
-# Methods
-
-The code is in the appendix.
-
-## DADA2 Workflow
-
-For our study, we are interested in the workflow until "Assign Taxonomy".
+However, the current database leaves a considerable amount of unannotated sequences, and
+the annotation rate increases with the taxonomic level.
+The goal of my internship is to improve the current nifH database by using some other
+databases such as NCBI and write a code to automatize the update.
 
 ![](notes/dada2/images/workflow.png)
 
 ### Raw FASTQ Files
-
-We first have to import the Raw FASTQ files. In most cases, we have pair hand sequencing so we have to be careful to associate the reads pairwise.
+We first have to import the Raw FASTQ files. In most cases, we have paired-end sequencing
+so we have to be careful to associate the reads pairwise.
 
 ### Trim and Filter Reads
+Then using the plot of the quality score we determine the trimming cut-offs (traditionally the
+lowest accepted quality score is 30), making sure that for each pair the forward and reverse
+sequences overlap by at least 20bp to enable DAD2 to merge successfully the two sequences.
 
-Then we plot the quality score and determine the trimming cut-offs (traditionally we take 30 as the lowest accepted quality score). Usually, the quality of the reverse sequence is not as good as the forward, that's why we have to trim it more. However, we have to make sure that the Forward and reverse sequences are overlapping because DADA2 need at the very least 20 base pair to successfully merge the two sequences.
-
-This step helps to remove the sequencing errors and artifacts, to keep only the high-quality sequences.
-
-
-
-![Workflow](img/quality_score_forward.jpg)
-
-The green line is the average quality score and it is not dropping below  30 implying a really good overall quality score. Hence we can keep all the length of the reads for the forward reads.
-
-![Workflow](img/quality_score_reverse.jpg)
-
-The quality of the reverse reads is usually not as good as the one of the forward reads but in our case, the quality is so good that even for the reverse reads, we don't have to trim.
+This step helps to remove the sequencing errors and artifacts and to keep only high-quality
+sequences.
 
 ### Error Rate Estimation
+DADA2 constructs an error model by learning the sequencing errors from the quality-filtered
+reads. The error model is then used to correct errors in the reads, improving the sequence
+accuracy.
 
-DADA2 constructs an error model by learning the sequencing errors from  the quality-filtered reads. The error model is then used to correct errors in the reads, improving the sequence accuracy.
+In general, for the error plot, the frequency of the errors rate decrease as the quality score
+increase.
 
-In general, for the error plot, the frequency of the errors rate decrease as the quality score increase.
+Then it should be checked that the Error Frequency observed in the data fits the Expected
+Error rate predicted by the Q-score.
 
+![](notes/dada2/images/consensus.png)
 
-
-![Workflow](img/error_rate.jpg)
-
-This graph plots the frequency of all possible base transitions. The black line is what we observe in the data, and the red line is what we expect to see from the Q score. We can see that the Error Rate Estimation seems pretty accurate. 
-
-
+This graph plots the frequency of all possible base transitions. The black line is what we
+observe in the data, and the red line is what we expect from the Q score. We can see that the
+Error Rate Estimation seems pretty accurate.
 
 ### Dereplicate Reads
 
-Condense the data by collapsing together all read encoding for the same sequence to reduce redundancy. It will speed up and simplify the computation.
-
-
+Condense the data by collapsing together all read encoding for the same sequence to reduce
+redundancy. It will speed up and simplify the computation.
 
 ### Sample Inference with DADA2 Algorithm
-
-
-
-Test the null hypothesis that the sequence is too abundant in the sample to be solely explained by errors in the data set. Hence, a low p-value sequence can be considered a real sequence that is not caused by random errors, and on the contrary, if the sequence has a high p-value it would likely be caused by errors and won't be kept. 
-
+Test the null hypothesis that the sequence is too abundant in the sample to be solely explained
+by errors in the data set. Hence, a low p-value sequence can be considered a real sequence
+that is not caused by random errors, and on the contrary, if the sequence has a high p-value it
+would likely be caused by errors and won't be kept.
 It is the last denoising step for the Reverse and forward reads.
 
 ### Merge Reads
 
-We have inferred the sample sequences in the forward and reverse reads independently. Now it’s time to merge those inferred sequences, throwing out those pairs of reads that don’t match. It will return a data frame corresponding to each successfully merged sequence.
-
-
+We have inferred the sample sequences in the forward and reverse reads independently. Now
+it’s time to merge those inferred sequences, throwing out those pairs of reads that don’t
+match. It will return a data frame corresponding to each successfully merged sequence.
 
 ### Chimera Checking and Removal
 
-A chimera is a fusion of two or more parent sequences and can be created during the PCR amplification process. To spot the chimera sequences, we perform multiple sequence alignments from the least abundant read, and for all the more abundant reads, it will do sequence alignment with all possible combinations. When a chimera is detected, it is removed from the sequence table.
+A chimera is a fusion of two or more parent sequences and can be created during the PCR
+amplification process. To spot the chimera sequences, we perform multiple sequence
+alignments from the least abundant read, and for all the more abundant reads, it will do
+sequence alignment with all possible combinations. When a chimera is detected, it is
+removed from the sequence table.
 
-More than 90% of the unique sequences identified are bimeras and most of the total reads shouldn't be identified as chimeras.
+More than 90% of the unique sequences identified are bimeras and most of the total reads
+shouldn't be identified as chimeras.
 
-If there are too many chimeras, we have to check if the 20 first base pairs of the reads were trimmed because contain primers that can artificially increase the number of chimeras. But if it is not the case, we should try to trim more of the low-quality base pair.
-
-
+If there are too many chimeras, we have to check if the 20 first base pairs of the reads were
+trimmed because contain primers that can artificially increase the number of chimeras. But if
+it is not the case, we should try to trim more of the low-quality base pair.
 
 ### Assign Taxonomy
-
-This is the part I'm interested in. We should give as an input a reference database in the FASTA format containing as the first line the Taxonomy of the sequence at the format: Domain / Phylum / Class / Order / Family / Genus; and as a second line the corresponding sequence of the nifH gene.
-
-```
->Domain; Phylum; Class; Order; Family; Genus
-CTAGTCCACGATCCCGTAGTCGCGCATCAGATCCTCAAGGTCATCCTGGGTGACCGGT
-```
+This is the part I'm interested in. We should give as an input a reference database in the
+FASTA format containing as the first line the Taxonomy of the sequence at the format:
+Domain / Phylum / Class / Order / Family / Genus; and as a second line the corresponding
+sequence of the nifH gene.
 
 Then DADA2 will infer the taxonomy based on the sequence similarity.
 
+## NCBI Databases
+The National Center of Biotechnology Information (NCBI), is an american institute
+developing software to analyze genome data. NCBI is not itself a database but it assembles
+many databases such as GenBank, RefSeq, and PubMed which are the most famous ones.
+Here I will only present the main ones that might be interesting for the study.
 
+The **gene** database integrates information from a wide range of species. A record may include
+nomenclature, Reference Sequences (RefSeqs), maps, pathways, variations, phenotypes, and
+links to the genome, phenotype, and locus-specific resources worldwide.
 
-## NCBI databases
+The **proteins** database is a collection of sequences from several sources, including
+translations from annotated coding regions in GenBank, RefSeq, and TPA, as well as records
+from SwissProt, PIR, PRF, and PDB. Protein sequences are the fundamental determinants of
+biological structure and function.
 
-NCBI: National Center of Biotechnology Information, is an American institute developing software to analyze the genome data. NCBI is not a database but it develops many databases such as GenBank, RefSeq, and PubMed which are the most famous ones. Here I'm only going to present the main ones that might be interesting for the study.
+It is really interesting in our case because the *nifH* gene is coding for a protein and hence we
+can access the taxonomy and many other interesting information on different databases. The
+downside is that we obtain the amino acid sequences and not the DNA ones and we have
+duplicates.
 
-The **gene** database integrates information from a wide range of species. A record may include nomenclature, Reference Sequences (RefSeqs), maps, pathways, variations, phenotypes, and links to genome-, phenotype-, and locus-specific resources worldwide.
+The **Identical Protein Groups (IPG)** database takes in my opinion the best of both worlds:
+we obtain all the sequences clustered when Amino Acids sequences are identical, we can
+obtain the ID of the corresponding DNA sequences and it's gathering the information from
+different databases such as Swissprot, GenBank, PIR, etc.
 
-The **proteins** database is a collection of sequences from several sources, including translations from annotated coding regions in GenBank, RefSeq, and TPA, as well as records from SwissProt, PIR, PRF, and PDB. Protein sequences are the fundamental determinants of biological structure and function.
+## Entrez to access the NCBI library from Python
 
-It is really interesting in our case because the nifH gene is coding for a protein and hence we can access the taxonomy and many other interesting information on different databases. The downside is that we obtain the Amino Acid sequences and not the DNA ones and we have duplicates.
+Entrez (ref: https://www.ncbi.nlm.nih.gov/Web/Search/entrezfs.html), Global Query
+Cross-Database Search System, is a searching tool provided by NCBI enabling one to browse
+through the information of over 20 databases such as Swiss-Prot, PRF, and PIR-International.
+It is an indexing and retrieving system gathering data from various sources and handing it
+back in a uniform format such as FlatFile, Fasta, or XML. Thanks to it, it is possible to
+retrieve information without going through the NCBI website and it makes it easier to
+automatize it when working on large datasets like the one we want to make.
 
-The **Identical Protein Groups (IPG)** database takes in my opinion the best of both worlds: we obtain all the sequences clustered when Amino Acids sequences are identical, we can obtain the ID of the corresponding DNA sequences and it's gathering the information from different databases such as Swissprot, GenBank, PIR, etc.
+## Files format
+**FASTA** format is a text file used to store biological sequences (nucleic or proteic) and is a
+standard file used in informatics. The first line starts with > followed by a description of the
+sequence, and the second line is the DNA or amino acids sequence.
 
-The downside is that Entrez is not perfectly suitable for what I want because you have to pass by the gene database to obtain the DNA sequence and there is not downloadable directly from the IPG database on NCBI so I have to send a request to consult the gene database.
+**FASTQ** format is a text file enabling to store at the same time the biological sequences and
+the associated quality score. It is the standard output given by high-throughput sequencers.
 
-
-
-## Entrez to access NCBI library from Python
-
-Entrez, Global Query Cross-Database Search System, is a searching tool provided by NCBI enabling one to browse through the information of over 20 databases such as Swiss-Prot, PRF, and PIR-International. It is an indexing and retrieving system gathering data from various sources and handing it back in a uniform format such as FlatFile, Fasta, or XML. Thanks to it, it is possible to retrieve information without going through the NCBI website and it makes it easier to automatize it when working on large datasets like the one we want to make.
-
-
-
-## Implementation with Python
-
-### First idea: Improving the database
-
-At first, I wanted to make keep using the old database and just add the missing sequences.
-
-I started by DADA2 over a dataset and gathered the unannotated sequences. Then I used NCBI's Blast n to align a set of sequences in their references and put the right filter on the data it's aligned on (I used "seq (nifH[TW] AND 100:1000[SLEN])" as an Entrez Query).
-
-Then, from all the reports I obtained, I wanted to extract only the most relevant aligned DNA sequences but I stopped for a few reasons.
-
-The first one is on how the previous database was created and kept updated . Additionally, as the two alignment algorithms are different, I might add a sequence that was already inside the database. Furthermore, it means that I have to rerun a BLAST n every time there is some new environmental data to improve the file.
-
-To sum up, it would mean that we don’t have control over what is inside the database and that at a given time, we can be sure that your reference is not complete and it will result too in people working in a different database (which would awful in terms of reproducible science).
-
-Hence I dropped the idea and started to try building a new one from scratch.
-
-
-
-### Second idea: Making a new database from scratch
-
-I want to make a program that is gathering the sequences and the taxonomy from NCBI and maybe later from other databases for all the records available of the DNA sequences of the nifH gene. Here, I didn't worry about the computational time at all because this program not ought to be re-run daily but more once every year or so if it works to create a new version of the database that is uniform and can be used by all the community.
-
-I first chose the gene proteins but there were not a lot of sequences and then when I looked at the nucleotide database, I realized that it is in the IUPAC format. The IUPAC DNA format is often used because instead of only containing A, T, C, G, and U, it contains R, Y, S, W, etc. It gives the information when two or more nucleotides can be used. However, DADA2 is not able to use well such a FASTA reference file.
-
-In the end, I think the best idea is to use the Identical Protein Report. It will give us individual reports for each identical Amino Acids sequence. Even if it doesn't give access right away to the DNA sequence, inside of each report, there is the database it is present in, the reference of the DNA file, Start and Stop because most of the time this DNA sequence is part of a bigger DNA sequence and the strand. With this information, we can download the corresponding DNA sequence for each reference in the report. 
-
-However, I first thought that only one sequence of each report was enough because I thought that the DNA sequences were identical, I mistake that I would have been able to spot on my own if I took the time to take a step back. When I obtain my reference file, I obtained some inconsistencies inside. That's why I contacted NCBI and only recently received a reply that answered most of my questions. but I haven't been able to implement it yet.
-
-
-
-Therefore, here is how I proceeded with my Python code so far.
-
-
-
-- Gather all the ID of the IPG reports from a Query request
-
-- Download the corresponding IPG report
-
-- Extract the first line of the IPG report present in NCBI and put it in the table
-  - normally all the sequences are identical and the taxonomy should be the same because NCBI checks it and automatically annotate so It doesn't matter which sequence I select. As I'm currently dealing mostly with NCBI, it's easier to retrieve the sequences from NCBI (there are only 2 IPG reports that don't have any sequence in NCBI so either I will have to do it manually as it's only two or find another way because it's another tool than Entrez)
-- Fetch with Entrez the XML report for each sequence in the previous table
-  - There are different formats that we can obtain but the most practical one is XML because it contains the taxonomy and the sequence in the same file. Moreover, it has a structure making it easy to access specific data inside the file.
-  - As most of the DNA sequences the IPG report is redirecting me to are genomes or groups of genes, I have to ask specifically about the DNA sequence starting at a given point and stopping at another (the information is in the IPG report). And we have to be careful of the DNA strand.
-- Make a FASTA file by extracting for each file the taxa and the sequence.
-  - the fasta file starts with a ">" followed by a description of the sequence on the first line (in our case the taxonomy) and on the second line the sequence itself. And so on for all the sequences in the file
-  - Sadly, there are some sequences or taxonomy that are not found and I didn't have the time to find a way to fix it.
-
-
+Extensible Markable language (**XML**) is a markup language and a file format for storing. It is
+made to be readable by humans and machines and structure the information. In the case of
+NCBI, it is used to gather all the concerning a sequence, such as the sequences, the authors,
+the paper it has been published in, the sequence, the taxonomy, etc. in the same file in an
+organized and easy to retrieve way.
 
 # Results
+## Running DADA2 on the datasets
 
-As a point of comparison, I use the data coming from DUPE exploration. 90% of the DUPE data has a kingdom associated after the annotation, and in this case, we only have Bacteria which is given because we are working on Bacteria. However, at the phylum level, we already have 57% that are not annotated and this is increasing until the family level where we have nearly 80% of the unannotated sequences. And this is a major problem when we want to characterize a population.
+Put the figure (annotation rate depending on the Taxonomic rank), redirect to the code in the
+appendices, and comment on the figure
 
-I haven't been able to finish the database. In the current database I created, there are some inconsistencies and some of the sequences I fetch are too big so I asked questions to NCBI and now I think I know how to continue to improve the database and solve my problems.
+## Implementation with Python
+### Improving the database
+The goal was to use the current database and then by extracting the unannotated sequences,
+make a BLAST using NCBI (ref) and extract sequences with a relevant alignment and then
+enrich the database with it.
 
-For each DNA sequence associated with each IPG report, I have to split into different panda data frames containing the id and location of the DNA file. As having the same protein sequence doesn't mean having the same DNA sequence, I will have to take all the reports. I will still use IPG even if the reason I used it doesn't stand anymore, because it enables me to obtain information for all different main databases in one go. Then I will have to download the sequences for the other databases but it will mean learning another package too.
+However, it appears to be a bad idea because:
+1. It has been manually updated and hence there is a possibility of human errors
+2. It is not updated automatically. Recently, the general bacteria taxonomy has changed (Prokaryotic taxonomy and nomenclature in the age of big sequence data: ISME journal https://www.nature.com/articles/s41396-021-00941-x) and the file had to but updated manually.
+3. The first database has been created using ARBitrator (ARBitrator: a software pipeline for on-demand retrieval of auto-curated nifH sequences from GenBank), and due to the way it was created, it contained some non-nifH sequences and miss some of the *nifH* sequences. As the current database is based on the one created with ARBitrator, there are still the same problems.
 
+For all these reasons, building a new fully automatized database from scratch would be more
+reasonable than improving and building on top of something we are not fully confident in.
 
+### Making a new database from scratch
+The goal is to create a program that gathers the sequences and the taxonomy from NCBI (and
+in the future maybe also from other databases) for all the records available of the DNA
+sequences of the nifH gene. I chose to make a program fetching the annotated nifH sequences
+in NCBI.
 
-| Taxonomy | With old data base (% of unannotated) | With new database (% of unannotated) |
-| -------- | ------------------------------------- | ------------------------------------ |
-| Kingdom  | 10.39 %                               |                                      |
-| Phylum   | 57.07 %                               |                                      |
-| Class    | 65.78 %                               |                                      |
-| Order    | 75.94 %                               |                                      |
-| Family   | 78.59 %                               |                                      |
-| Genus    | 80.17 %                               |                                      |
+To do so I used the Identical Protein Groups. For a given QUERY, we obtain one report for
+each identical amino acids sequence, and inside of each report there is the reference of the
+DNA file, the database it is present in, Start and Stop (most of the time this DNA sequence is
+part of a bigger DNA sequence) and the strand.
 
+However, Entrez does not enable to download the DNA sequences of the IPG reports coming
+from the IPG database. Hence to obtain the DNA sequences, we need to extract the
+information from the IPG report and then make a request for the DNA sequence in the gene
+database.
 
-
-# Conclusion and Discussion
-
-In conclusion, I am not so far from being able to create the database containing the sequences from NCBI. However, to have a complete database, I still need to add the DNA sequences of the nifH gene coming from the other databases such as UKProt and SwissProt. It will take time because the syntax and the packages to automatically retrieve the information will be different and will need more time than the 7 weeks I was given. Furthermore, the current taxonomy coming directly from NCBI is not normalized because there are some subclasses that we need to get rid of.
-
-
-
-<!---
-
-# Structure
-
-1. Why is nifH stduy interesting for (explain metabarcoding)
-   1. gene size, variable like the ribosome, genetically conserved between the species
-   2. use intro seen previously
-2. How do we annotate the data we obtain (DADA2 pipeline)
-3. How was the database created and what are the problems with this db
-   1. created manually: possibility of typo
-   2. not updated automatically: if some sequences attribution change, will not be updated
-   3. the taxonomy changed: they had to modify the 18,700 sequences manually: lot of work and possible mistakes
-   4. a lot of identical sequences and hence we hope that the sequences have the exact same taxonomy associated otherwise, randomly chosen by DADA2
-   5. hard to know which sequences are not in the reference yet
-4. How did I proceed?
-   1. try to understand how the DADA2 pipeline works by re-running it on some already obtained data
-   2. tried to quantify how much sequences are non annotated at the different levels
-   3. try to annotate the sequences by using blast on the un-annotated ones to obtain some aligned sequences that I can then put into the reference database bu three problems:
-      1. To obtain a full database, you will have to re-run it every time on the un annotated sequences and then incorporate it to the database but it's not what they asked: there will be a lot of different databases annotated by different people
-      2. Blast and DADA2 alignment method are not identical, hence it's possible that the sequence was already inside of the reference and that every time we run it, we add a duplicate.
-      3. Molly used a database and improved it but the link to the original database is dead so it's not even possible to know how it was made in the first place
-   4. try to create a database from the DNA sequences by making a query request and then obtaining the right portion of the DNA sequence but soon realize that there is (once we get rid of all the un-annotated ones) 7576 sequences in the nucleotide between 100 and 350 base pairs (to obtain the partial CDS too).
-      1. don't exactly remember why I stoped, maybe I should start again
-   5. Use something called Identical protein groups and which is pretty cool and perfectly suited for what I want but there is few people using it and obtaining the Amino Acids sequence is easy by the DNA sequence is way harder because there is no package to do it directly so I ad to tinker:
-      1. get all the ID of the IPG reports
-      2. Download the IPG reports
-      3. extract from these IPG reports the nucleotide accession number (often linking to he whole genome), the stand, the beginning of the sequence and the end of the sequence
-      4. then download so custom GeneBank report containing the taxonomy, other info but only the part of the genome I'm interested in
-      5. extract the taxonomy and the sequence for each file to put it into the reference file in the fasta format
-      6. **realize that even though I limited the length of the sequences, I have some that are way longer than what they are supposed to and that for some report, inside of these reports, all the sequences don't have the same length even if they are supposed to be identical.**
+Thus, from the information contained in the IPG reports, we can download each DNA
+sequence with the corresponding taxonomy and make a reference file out of it.
+Unfortunately, I obtained inconsistencies in some reports with sequences of tens of thousand
+bp long whereas the nifH gene is around 900 bp long. I asked NCBI but didn’t have the time
+to implement it in Python after their reply.
 
 
+Therefore, here is how we should proceed with the Python code:
 
-# What I still have to do
+1. Gather all the IDs of the IPG reports from a Query request
+2. Download the corresponding IPG report
+3. Extract all references for the DNA sequences of the IPG report coming from NCBI and fill a table with it.
+4. Fetch with Entrez the XML report for each sequence in the previous table
+   - Different formats can be obtained but the most practical one is XML because it contains the taxonomy and the sequence in the same file. Moreover, it has a structure making it easy to access specific data inside the file.
+   - As most of the DNA sequences the IPG report is redirecting to are genomes or groups of genes, the DNA sequence, as well as the DNA strand, the starting and stopping nucleotides have to be given.
+5. Make a FASTA file by extracting for each file the taxa and the sequence.
+6. Normalize the taxonomy
+   - Some of the bacteria in the reference have sub-classes that are making the
+taxonomy ununiform and should be suppressed with regular expressions.
 
+# Discussion and conclusions
 
+Some slight modifications to the code should to obtain the nifH database. However, it will
+only contain the sequences present inside the NCBI databases. The other databases such as
+UK-Prot and Swiss-Prot don’t have the same API as NCBI and will require another study to
+retrieve the data and then merge the reference databases obtained.
 
-**Maybe I should try to redo it with nucleotide to obtain a result**
-
-but when I looked at the DNA sequences, there is some letters that are not DNA (R,Y,M,K, etc: IUPAC notation) and I'm not sure of how DADA2 will handle it
-
-If DADA2 can use the IUPAC notation, then It can be really awesome but I kinda doubt of it and in the documentation, it look like this is only the case for the primers
-
-
-
-From the answer I received from NCBi, I think all the sequences are important and It would be easier to just take all the NCBI sequences in the IPG report and make other tables for each databases and then as a project for after the internship, retrieve fetch the information for the other database.
-
-However, I have to be careful to limit the length of the DNA sequences I obtain because it still doesn't explain why there is some sequences that a way bigger than some others.
-
--->
-
-
-Maths can be written as follows $\int_x x^2.dx$ 
 
 Blah blah [see @doe99, pp. 33-35 and *passim*; @smith04, chap. 1].
 
