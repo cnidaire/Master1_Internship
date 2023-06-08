@@ -138,15 +138,25 @@ write.table(taxa, '../data/taxa.txt') # To save the table
 
 ```{r}
 colnames(taxa)
-anno
-sum(is.na(taxa[,1]))/dim(taxa)[1]*100 # 10% of data has no associated kingdom
-sum(is.na(taxa[,2]))/dim(taxa)[1]*100 # 57% at the phylum lvl
-sum(is.na(taxa[,3]))/dim(taxa)[1]*100
-sum(is.na(taxa[,4]))/dim(taxa)[1]*100
-sum(is.na(taxa[,5]))/dim(taxa)[1]*100 # 78% at the family lvl and around the same for the genus lvl
-sum(is.na(taxa[,6]))/dim(taxa)[1]*100
+annotation <- c()
+
+annotation <- c(annotation, 100 - sum(is.na(taxa[,1]))/dim(taxa)[1]*100) # 10% of data has no associated kingdom
+annotation <- c(annotation, 100 - sum(is.na(taxa[,2]))/dim(taxa)[1]*100) # 57% at the phylum lvl
+annotation <- c(annotation, 100 - sum(is.na(taxa[,3]))/dim(taxa)[1]*100)
+annotation <- c(annotation, 100 - sum(is.na(taxa[,4]))/dim(taxa)[1]*100)
+annotation <- c(annotation, 100 - sum(is.na(taxa[,5]))/dim(taxa)[1]*100) # 78% at the family lvl and around the same for the genus lvl
+annotation <- c(annotation, 100 - sum(is.na(taxa[,6]))/dim(taxa)[1]*100)
+annotation
+barplot(annotation, ylim = c(0,100))
 ```
 
+```{r}
+library(ggplot2)
+library(forcats)
+df=data.frame(val=annotation, id=colnames(taxa))
+ggplot(df, aes(x=fct_reorder(id,-val), y=val)) + geom_col(color="black", fill="gray") +
+    theme_classic() + ylim(0,100) 
+```
 
 # extract the non identified sequences
 
@@ -161,7 +171,9 @@ hist(nchar(row.names(non_id))) # to check the distribution of the length of the 
 ```{r}
 identified <- taxa[!is.na(taxa[,6]),]
 write.table(identified, '../data/identified.txt') # To save the table
+# jpeg(file="../img/annotation_rate.jpeg")
 hist(nchar(row.names(identified))) # to check the distribution of the length of the sequences
+# dev.off()
 ```
 
 # create a training at FASTA format
