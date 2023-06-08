@@ -239,6 +239,8 @@ We used the Extensible Markable Language (**XML**) format, which is a markup lan
 ## Running DADA2 on the datasets
 \label{sec.res.dada2}
 
+FIXME: Explain!!!
+
 Put the figure (annotation rate depending on the Taxonomic rank), redirect to the code in the
 appendices, and comment on the figure
 
