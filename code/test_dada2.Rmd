@@ -37,7 +37,7 @@ fnRs <- file.path(path, fnRs)
 
 ```{r}
 # Plot average quality score
-plotQualityProfile(fnFs[1:2])# I don't know what is negative but the curve is weird
+plotQualityProfile(fnFs[1:6])# I don't know what is negative but the curve is weird
 plotQualityProfile(fnRs[1:6])
 
 
@@ -138,10 +138,15 @@ write.table(taxa, '../data/taxa.txt') # To save the table
 
 ```{r}
 colnames(taxa)
+anno
 sum(is.na(taxa[,1]))/dim(taxa)[1]*100 # 10% of data has no associated kingdom
 sum(is.na(taxa[,2]))/dim(taxa)[1]*100 # 57% at the phylum lvl
+sum(is.na(taxa[,3]))/dim(taxa)[1]*100
+sum(is.na(taxa[,4]))/dim(taxa)[1]*100
 sum(is.na(taxa[,5]))/dim(taxa)[1]*100 # 78% at the family lvl and around the same for the genus lvl
+sum(is.na(taxa[,6]))/dim(taxa)[1]*100
 ```
+
 
 # extract the non identified sequences
 

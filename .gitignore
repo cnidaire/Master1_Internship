@@ -155,3 +155,16 @@ code/rest_api/insdseq_xml_report/
 code/rest_api/ipg_report/
 code/rest_api/xml_file_with_problems/
 report.pdf
+code/.Rhistory
+code/.Rhistory
+*.aux
+report.docx
+*.toc
+report.tex
+report_V*.pdf
+*.log
+code/rest_api/reference_db_ipg.zip
+Piyush_Mishra_M1.pdf
+bibliography/DUPE_BenavidPiyush_Mishra_M1.pdf
+bibliography/TONGA_Filella_et_al._2022_-_Contrasting_Roles_of_DOP_as_a_Source_of_Phosphorus_and_Energy_for_Marine_Diazotrophs.pdf
+        bibliography/DUPE_Benavides_et_al._2022_-_Sinking_Trichodesmium_fixes_nitrogen_in_the_dark_ocean.pdf
