@@ -3,7 +3,7 @@ title: "Improving the *nifH* gene reference database"
 subtitle: "Master 1 Internship"
 author: [Legrand Rémi]
 date: "June 8, 2023"
-keywords: [Markdown, Example]
+keywords: [nifh gene reference database, diazotrophs]
 fontsize: 12pt
 abstract: |
     Nitrogen is a main block of life however it is a limiting resource on most ocean surfaces and hence nitrogen-fixating bacteria (diazotrophs) have a key role because only they can metabolize di-nitrogen into ammonium with the Nitrogenase protein. By studying the populations of diazotrophs we can have a better understanding of past, present, and future climate. The characterization of these populations is made using a reference database of the *nifH* gene, coding for a sub-unit of the nitrogenase. However, the current database is incomplete and leaves a lot of unannotated sequences. Creating a new reference database by collecting the annotated *nifH* sequences present in databases such as NCBI, UK-PROT, and Swiss-Prot is hence needed.
@@ -35,8 +35,7 @@ by *nif* genes [@stacey_biological_1992].
 Hence, reactive nitrogen sources such as dinitrogen (N2) fixation act as natural fertilizing
 processes [@zehr_changing_2020]. Additionally, diazotrophs
 have a key role in the Nitrogen cycle and “thus is linked to the fixation of atmospheric carbon
-dioxide and export of carbon from the ocean's surface” (XXX Nitrogen Cycling in the Ocean: New
-Perspectives on Processes and Paradigms).
+dioxide and export of carbon from the ocean's surface” [@zehr_nitrogen_2002].
 
 Biological nitrogen fixation is catalyzed by the nitrogenase protein [@stacey_biological_1992]. It is an enzyme that reduces N2 to ammonium (NH3) and is composed of subunits:
 
@@ -66,7 +65,7 @@ sequences of the *nifH* gene for different species is needed. The first *nifH* d
 However, the current database leaves a considerable amount of unannotated sequences, and
 the annotation rate increases with the taxonomic level.
 The goal of my internship is to improve the current *nifH* database by using some other
-databases such as NCBI and write a code to automatize the update.
+databases such as NCBI [@sayers_database_2022] and write a code to automatize the update.
 
 # Methods
 
@@ -83,19 +82,17 @@ The metabarcoding approach can be divided into the following steps:
 
 ## *nifH* amplicon datasets used
 
-The **DUPE** dataset (XXX Sinking Trichodesmium fixes nitrogen in the dark ocean) has been
+The **DUPE** dataset [@benavides_sinking_2022] has been
 created by sequencing samples coming from sediment traps at 170, 270, and 1000 m at two
 locations in the South Pacific. It is constituted of 12 samples
 
-The **TONGA** dataset (XXX Contrasting Roles of DOP as a Source of Phosphorus and Energy for
-Marine Diazotrophs) has been created by sampling in the ocean at two stations: in the Tonga
-trench volcanic arc region and the South Pacific Gyr. It is constituted of 20 samples.
+The **TONGA** dataset [@filella_contrasting_2022] has been created by sampling in the ocean at two stations: in the Tonga trench volcanic arc region and the South Pacific Gyr. It is constituted of 20 samples.
 
 ## DADA2 Workflow
 
-DADA2 (XXX https://www.bioconductor.org/packages/release/bioc/html/dada2.html) is a pipeline
+DADA2 [@callahan_dada2_2016] is a pipeline
 used to clean and annotate the genomic data coming from a population. It’s a pipeline running
-locally in R (see @cabral_microbiomemetagenome_nodate for more details). The following workflow is a generic one and an example can be found in the
+locally in R (see @cabral_microbiomemetagenome_2017 for more details). The following workflow is a generic one and an example can be found in the
 appendix.
 
 ![](img/workflow.png)
@@ -171,7 +168,7 @@ sequence of the *nifH* gene.
 Then DADA2 will infer the taxonomy based on the sequence similarity.
 
 ## NCBI Databases
-The National Center of Biotechnology Information (NCBI), is an american institute
+The National Center of Biotechnology Information (NCBI [@sayers_database_2022]), is an american institute
 developing software to analyze genome data. NCBI is not itself a database but it assembles
 many databases such as GenBank, RefSeq, and PubMed which are the most famous ones.
 Here I will only present the main ones that might be interesting for the study.
@@ -227,7 +224,7 @@ appendices, and comment on the figure
 ## Implementation with Python
 ### Improving the database
 The goal was to use the current database and then by extracting the unannotated sequences,
-make a BLAST using NCBI (XXX ref) and extract sequences with a relevant alignment and then
+make a BLAST [@altschul_basic_1990] using NCBI and extract sequences with a relevant alignment and then
 enrich the database with it.
 
 However, it appears to be a bad idea because:
@@ -283,13 +280,11 @@ retrieve the data and then merge the reference databases obtained.
 
 \bibliography{biblio.bib}\def\bibliography{}
 
-# Old references to convert in bibtex
-- Hallstrøm, S., Benavides, M., Salamon, E.R. *et al.* Activity and distribution of diazotrophic communities across the Cape Verde Frontal Zone in the Northeast Atlantic Ocean. *Biogeochemistry* **160**, 49–67 (2022). https://doi.org/10.1007/s10533-022-00940-w
-- Hallstrom S., Benavides Mar, Salamon E. R., Evans C. W., Potts L. J., Granger J., Tobias C. R.,  Moisander P. H., Riemann L.  (2022).     Pelagic N-2 fixation dominated  by sediment diazotrophic communities in a shallow temperate estuary.          *Limnology and Oceanography*,    67 (2),    364-378.      ISSN 0024-3590.
-- **Quantification of gene copy numbers is valuable in marine microbial ecology: A comment to Meiler et al. (2022)**
-
-
-- *"Microbiome/ Metagenome Analysis Workshop: DADA2"* by Damien Cabral : https://www.youtube.com/watch?v=wV5_z7rR6yw
+<!-- # Old references to convert in bibtex -->
+<!-- - Hallstrøm, S., Benavides, M., Salamon, E.R. *et al.* Activity and distribution of diazotrophic communities across the Cape Verde Frontal Zone in the Northeast Atlantic Ocean. *Biogeochemistry* **160**, 49–67 (2022). https://doi.org/10.1007/s10533-022-00940-w -->
+<!-- - Hallstrom S., Benavides Mar, Salamon E. R., Evans C. W., Potts L. J., Granger J., Tobias C. R.,  Moisander P. H., Riemann L.  (2022).     Pelagic N-2 fixation dominated  by sediment diazotrophic communities in a shallow temperate estuary.          *Limnology and Oceanography*,    67 (2),    364-378.      ISSN 0024-3590. -->
+<!-- - **Quantification of gene copy numbers is valuable in marine microbial ecology: A comment to Meiler et al. (2022)** -->
+<!-- - *"Microbiome/ Metagenome Analysis Workshop: DADA2"* by Damien Cabral : https://www.youtube.com/watch?v=wV5_z7rR6yw -->
 
 
 
