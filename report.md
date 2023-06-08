@@ -1,9 +1,10 @@
 ---
-title: "Master 1 Internship"
-subtitle: "Improving the *nifH gene* reference database"
-author: [Legrand Remi]
-date: "2023-05-30"
+title: "Improving the *nifH* gene reference database"
+subtitle: "Master 1 Internship"
+author: [Legrand Rémi]
+date: "June 8, 2023"
 keywords: [Markdown, Example]
+fontsize: 12pt
 abstract: |
     Nitrogen is a main block of life however it is a limiting resource on most ocean surfaces and hence nitrogen-fixating bacteria (diazotrophs) have a key role because only they can metabolize di-nitrogen into ammonium with the Nitrogenase protein. By studying the populations of diazotrophs we can have a better understanding of past, present, and future climate. The characterization of these populations is made using a reference database of the *nifH* gene, coding for a sub-unit of the nitrogenase. However, the current database is incomplete and leaves a lot of unannotated sequences. Creating a new reference database by collecting the annotated *nifH* sequences present in databases such as NCBI, UK-PROT, and Swiss-Prot is hence needed.
 titlepage: true
@@ -15,7 +16,9 @@ bibliography: biblio.bib
 <!-- https://github.com/Wandmalfarbe/pandoc-latex-template/tree/v2.1.0 -->
 <!-- pour les options de mise en page-->
 
-**Put the "Declaration of Originality"**
+\paragraph*{Declaration of Originality}
+
+I, Rémi Legrand, hereby confirm that I am the sole author of the written work here enclosed and that I have compiled it in my own words. Parts excepted are corrections of form and content by my supervisor. All information derived from other sources has been duly acknowledged in the references, and due credit is given to the parties involved. No part of this work was previously presented for any other diploma at any other institution.
 
 # Introduction
 
@@ -29,7 +32,7 @@ Despite N2 gas constituting around 70% of our atmosphere and being saturated in 
 the di-nitrogen fixation process is to a large extent mediated by diazotrophs (The sensitivity of
 marine N2 fixation to dissolved inorganic nitrogen). Using the nitrogenase enzyme,
 diazotrophs break the strong triple bond between the two N atoms. This enzyme is encoded
-by nif genes (Biological Nitrogen Fixation).
+by *nif* genes (Biological Nitrogen Fixation).
 
 Hence, reactive nitrogen sources such as dinitrogen (N2) fixation act as natural fertilizing
 processes (Changing perspectives in marine nitrogen fixation). Additionally, diazotrophs
@@ -40,40 +43,70 @@ Perspectives on Processes and Paradigms).
 Biological nitrogen fixation is catalyzed by the nitrogenase protein (Biological Nitrogen
 Fixation). It is an enzyme that reduces N2 to ammonium (NH3) and is composed of subunits:
 
-- Heterotetrameric core (MoFe protein) encoded by the nifD and the nifK genes
-- Dinitrogenase reductase (Fe protein) encoded by the nifH gene
+- Heterotetrameric core (MoFe protein) encoded by the *nifD* and the *nifK* genes
+- Dinitrogenase reductase (Fe protein) encoded by the *nifH* gene
 
 
 Image of Nitrogenase protein
 
 
-Both Nitrogenase’s subunit proteins are highly conserved but the Fe protein encoded by nifH
+Both Nitrogenase’s subunit proteins are highly conserved but the Fe protein encoded by *nifH*
 is the most highly conserved across the microbial community (ref: Nitrogenase gene diversity
 and microbial community structure: a cross-system comparison).
 
-## Why *nifH*
+## Why *nifH*?
 
 Usually, to characterize a population, we use the 16 S subunit of the polymerase. However, in
-the case of nitrogen-fixating microbial species, there are some genetic divergences of nifH
+the case of nitrogen-fixating microbial species, there are some genetic divergences of *nifH*
 between the species and the “16S rRNA genes do not correlate well at sequence dissimilarity
-values used commonly to define microbial species” whereas nifH does (A comprehensive
-aligned nifH database). Hence the nifH gene is commonly used to characterize a population
+values used commonly to define microbial species” whereas *nifH* does (A comprehensive
+aligned *nifH* database). Hence the *nifH* gene is commonly used to characterize a population
 of Nitrogen fixating bacteria.
 
 ## Goals of the internship
 
 To characterize the studied population, a reference database containing the taxonomy and the
-sequences of the nifH gene for different species is needed. The first nifH database was created
+sequences of the *nifH* gene for different species is needed. The first *nifH* database was created
 in 2014 and continuously updated until 2017 by the Zehr Lab (Zehr lab database
 construction). It was then normalized and kept updated manually by Molly Moynihan (M. A. Moynihan.
 2020. nifHdada2 GitHub repository. Zenodo. http://doi.org/10.5281/zenodo.3958370).
 
 However, the current database leaves a considerable amount of unannotated sequences, and
 the annotation rate increases with the taxonomic level.
-The goal of my internship is to improve the current nifH database by using some other
+The goal of my internship is to improve the current *nifH* database by using some other
 databases such as NCBI and write a code to automatize the update.
 
-![](notes/dada2/images/workflow.png)
+# Methods
+
+## Collect environmental data: Metabarcoding
+
+Metabarcoding is a tool to characterize the taxonomic diversity of a population using
+environmental DNA. In our case, we will use the *nifH* gene but the process is generic.
+
+The metabarcoding approach can be divided into the following steps:
+1. Sample the environment we are interested in, in this case, it is ocean or seawater
+2. Extract the DNA and amplify using Polymerization Chain Reaction (PCR) of the region we are interested in using the appropriate primers (Evaluation of Primers Targeting the Diazotroph Functional Gene and Development of NifMAP).
+3. Sequence the data using high-throughput sequencing (like Illumina sequencing).
+4. Process the samples through an adequate pipeline to obtain the annotation of the sequences.
+
+## *nifH* amplicon datasets used
+
+The **DUPE** dataset (Sinking Trichodesmium fixes nitrogen in the dark ocean) has been
+created by sequencing samples coming from sediment traps at 170, 270, and 1000 m at two
+locations in the South Pacific. It is constituted of 12 samples
+
+The **TONGA** dataset (Contrasting Roles of DOP as a Source of Phosphorus and Energy for
+Marine Diazotrophs) has been created by sampling in the ocean at two stations: in the Tonga
+trench volcanic arc region and the South Pacific Gyr. It is constituted of 20 samples.
+
+## DADA2 Workflow
+
+DADA2 (https://www.bioconductor.org/packages/release/bioc/html/dada2.html) is a pipeline
+used to clean and annotate the genomic data coming from a population. It’s a pipeline running
+locally in R. The following workflow is a generic one and an example can be found in the
+appendix.
+
+![](img/workflow.png)
 
 ### Raw FASTQ Files
 We first have to import the Raw FASTQ files. In most cases, we have paired-end sequencing
@@ -98,7 +131,7 @@ increase.
 Then it should be checked that the Error Frequency observed in the data fits the Expected
 Error rate predicted by the Q-score.
 
-![](notes/dada2/images/consensus.png)
+![](img/error_rate.jpg)
 
 This graph plots the frequency of all possible base transitions. The black line is what we
 observe in the data, and the red line is what we expect from the Q score. We can see that the
@@ -141,7 +174,7 @@ it is not the case, we should try to trim more of the low-quality base pair.
 This is the part I'm interested in. We should give as an input a reference database in the
 FASTA format containing as the first line the Taxonomy of the sequence at the format:
 Domain / Phylum / Class / Order / Family / Genus; and as a second line the corresponding
-sequence of the nifH gene.
+sequence of the *nifH* gene.
 
 Then DADA2 will infer the taxonomy based on the sequence similarity.
 
@@ -209,7 +242,7 @@ enrich the database with it.
 However, it appears to be a bad idea because:
 1. It has been manually updated and hence there is a possibility of human errors
 2. It is not updated automatically. Recently, the general bacteria taxonomy has changed (Prokaryotic taxonomy and nomenclature in the age of big sequence data: ISME journal https://www.nature.com/articles/s41396-021-00941-x) and the file had to but updated manually.
-3. The first database has been created using ARBitrator (ARBitrator: a software pipeline for on-demand retrieval of auto-curated nifH sequences from GenBank), and due to the way it was created, it contained some non-nifH sequences and miss some of the *nifH* sequences. As the current database is based on the one created with ARBitrator, there are still the same problems.
+3. The first database has been created using ARBitrator (ARBitrator: a software pipeline for on-demand retrieval of auto-curated *nifH* sequences from GenBank), and due to the way it was created, it contained some non-*nifH* sequences and miss some of the *nifH* sequences. As the current database is based on the one created with ARBitrator, there are still the same problems.
 
 For all these reasons, building a new fully automatized database from scratch would be more
 reasonable than improving and building on top of something we are not fully confident in.
@@ -217,7 +250,7 @@ reasonable than improving and building on top of something we are not fully conf
 ### Making a new database from scratch
 The goal is to create a program that gathers the sequences and the taxonomy from NCBI (and
 in the future maybe also from other databases) for all the records available of the DNA
-sequences of the nifH gene. I chose to make a program fetching the annotated nifH sequences
+sequences of the *nifH* gene. I chose to make a program fetching the annotated *nifH* sequences
 in NCBI.
 
 To do so I used the Identical Protein Groups. For a given QUERY, we obtain one report for
@@ -233,7 +266,7 @@ database.
 Thus, from the information contained in the IPG reports, we can download each DNA
 sequence with the corresponding taxonomy and make a reference file out of it.
 Unfortunately, I obtained inconsistencies in some reports with sequences of tens of thousand
-bp long whereas the nifH gene is around 900 bp long. I asked NCBI but didn’t have the time
+bp long whereas the *nifH* gene is around 900 bp long. I asked NCBI but didn’t have the time
 to implement it in Python after their reply.
 
 
@@ -252,7 +285,7 @@ taxonomy ununiform and should be suppressed with regular expressions.
 
 # Discussion and conclusions
 
-Some slight modifications to the code should to obtain the nifH database. However, it will
+Some slight modifications to the code should to obtain the *nifH* database. However, it will
 only contain the sequences present inside the NCBI databases. The other databases such as
 UK-Prot and Swiss-Prot don’t have the same API as NCBI and will require another study to
 retrieve the data and then merge the reference databases obtained.
@@ -265,7 +298,7 @@ Wow @Angel18 is really cool.
 \bibliography{biblio.bib}\def\bibliography{}
 
 # Old references to convert in bibtex
-- Angel R, Nepel M, Panhölzl C,Schmidt H, Herbold CW, Eichorst SA and Woebken D (2018) Evaluation of Primers Targeting the Diazotroph Functional Gene and Development of NifMAP – A Bioinformatics Pipeline for Analyzing nifH Amplicon Data. Front. Microbiol. 9:703. doi: 10.3389/fmicb.2018.00703
+- Angel R, Nepel M, Panhölzl C,Schmidt H, Herbold CW, Eichorst SA and Woebken D (2018) Evaluation of Primers Targeting the Diazotroph Functional Gene and Development of NifMAP – A Bioinformatics Pipeline for Analyzing *nifH* Amplicon Data. Front. Microbiol. 9:703. doi: 10.3389/fmicb.2018.00703
 - Hallstrøm, S., Benavides, M., Salamon, E.R. *et al.* Activity and distribution of diazotrophic communities across the Cape Verde Frontal Zone in the Northeast Atlantic Ocean. *Biogeochemistry* **160**, 49–67 (2022). https://doi.org/10.1007/s10533-022-00940-w
 - Hallstrom S., Benavides Mar, Salamon E. R., Evans C. W., Potts L. J., Granger J., Tobias C. R.,  Moisander P. H., Riemann L.  (2022).     Pelagic N-2 fixation dominated  by sediment diazotrophic communities in a shallow temperate estuary.          *Limnology and Oceanography*,    67 (2),    364-378.      ISSN 0024-3590.
 - Zehr JP, Capone DG. Changing perspectives in  marine nitrogen fixation. Science. 2020 May 15;368(6492):eaay9514. doi:10.1126/science.aay9514. PMID: 32409447.
@@ -280,7 +313,7 @@ Wow @Angel18 is really cool.
 
 \clearpage\appendix
 
-# appendix
+# Appendix
 
 ## DADA2 Pipeline
 
