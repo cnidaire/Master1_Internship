@@ -92,10 +92,10 @@ The **TONGA** dataset [@filella_contrasting_2022] has been created by sampling i
 
 DADA2 [@callahan_dada2_2016] is a pipeline
 used to clean and annotate the genomic data coming from a population. It’s a pipeline running
-locally in R (see @cabral_microbiomemetagenome_2017 for more details). The following workflow is a generic one and an example can be found in the
+locally in R (see @cabral_microbiomemetagenome_2017 for more details). The workflow illustrated in Figure \ref{dada2} is a generic one and an example can be found in the
 appendix.
 
-![](img/workflow.png)
+![DADA2 Workflow (from @cabral_microbiomemetagenome_2017)\label{dada2}](img/workflow.png)
 
 ### Raw FASTQ Files
 We first have to import the Raw FASTQ files. In most cases, we have paired-end sequencing
@@ -120,9 +120,9 @@ increase.
 Then it should be checked that the Error Frequency observed in the data fits the Expected
 Error rate predicted by the Q-score.
 
-![](img/error_rate.jpg)
+![Error rate estimation in the **DUPE** dataset\label{error_rate}](img/error_rate.jpg)
 
-This graph plots the frequency of all possible base transitions. The black line is what we
+The graph in Figure \ref{error_rate} represents the frequency of all possible base transitions. The black line is what we
 observe in the data, and the red line is what we expect from the Q score. We can see that the
 Error Rate Estimation seems pretty accurate.
 
