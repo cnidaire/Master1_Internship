@@ -68,31 +68,22 @@ databases such as NCBI [@sayers_database_2022] and to write a code for automatiz
 
 FIXME: This section needs love.
 
-In my internship, I first reproduced the results of
-@benavides_sinking_2022 in order to evaluate the annotation rate of
-the dataset of the study. The methodology for building, collect and
-processing the samples is described in Section \ref{sec.metabar},
-\ref{sec.amplicon}, and \ref{sec.dada2} while the outcome of my
-replication attempt is presented in Section \ref{sec.res.dada2}.
+In my internship, I first reproduced the annotation of the sequences of @benavides_sinking_2022 in order to evaluate the annotation rate of the dataset of the study. The methodology for building, collect and processing the samples is described in Section \ref{sec.metabar}, \ref{sec.amplicon}, and \ref{sec.dada2} while the outcome of my replication attempt is presented in Section \ref{sec.res.dada2}.
 
-Then, I recomputed the database and the ... from the NCBI
-database. This database and how to interact with it is described in
-Section \ref{sec.ncbi} and \ref{sec.entrez} while
-the outcome of my replication attempt is presented in
-Section \ref{sec.res.python}.
+Then, I intended to improve the reference database of the *nifH* gene using the NCBI databases. These databases and how to interacted with it are described in Section \ref{sec.ncbi} and \ref{sec.entrez} while the explanations of what I did are presented in Section \ref{sec.res.python}.
 
 <!-- First step: -->
 <!-- - reproduire les résultats précédents. -->
 <!--    - méthode = metabarcoding -->
 <!--    - obtenir les échantillons = dataset -->
 <!--    - dernière étape = processing, i.e., dada2 -->
-   
+
 <!-- - recalculer la BD de ref avec NCBI -->
 <!--   - NCBI -->
 <!--   - Manière d'interagir -->
 <!--   - formats de fichiers communs -->
 <!--   -  -->
-  
+
 
 
 # Methods
@@ -236,27 +227,38 @@ We used the Extensible Markable Language (**XML**) format, which is a markup lan
 
 # Results
 
-## Running DADA2 on the datasets
+## Running DADA2 on the dataset
+
 \label{sec.res.dada2}
 
-FIXME: Explain!!!
 
-Put the figure (annotation rate depending on the Taxonomic rank), redirect to the code in the
-appendices, and comment on the figure
+
+In order to check the annotation rate of the annotation rate produced by current reference file, I ran the DADA2 pipeline for the DUPE dataset (see Section \ref{sec.appendix.dada2}). Here we have the annotation rate of the already processed sequences meaning that the low quality reads and chimeras have already been removed. In the figure \ref{annotation_rate}, we can see that the annotation rate is decreasing along the Taxonomic rank. The annotation rate is high at the Kingdom level (89.6%), however, it quickly drop to 24.1% for the Order level. With this level of annotation, it can be tough to characterize the population because it suppose that the annotation rate of the sequences is uniformly distributed over the species, meaning that the reference database does not annotate significantly more some species than some other.
+
+
+
+![Annotation rate of the sequences coming from the DUPE expedition after being processed by the DADA2 pipeline using the current reference file\label{annotation_rate}](img/annotation_rate.png)
+
+
+
+
+
+FIXME: Put a transition between annotation rate and the python implementation
 
 ## Implementation with Python
 \label{sec.res.python}
 
 ### Improving the database
 
-FIXME: There are 4 databases, 1 per line. Clarify!
-
-Our initial goal was to use the current database and extract the unannotated sequences and BLAST [@altschul_basic_1990] them using NCBI in order to extract sequences with a relevant alignment and then enrich back the database with them.
+Our initial goal was to use the current reference database made by @moyn413, extract the unannotated sequences and BLAST [@altschul_basic_1990] them using NCBI in order to extract sequences with a relevant alignment and then enrich back the database with them.
 
 However, it revealed to be a bad idea because:
-1. The reference database has been manually updated and hence there is a possibility of human errors;
-2. This database is not updated automatically. Unfortunately, the general bacteria taxonomy has recently changed [@hugenholtz_prokaryotic_2021] and the file had to be manually revised.
-3. The first database has been created using ARBitrator [@heller_arbitrator_2014], and, due to the way it was created, it both contains some non-*nifH* sequences and misses some of the *nifH* sequences. Since the current database is based on the one created with ARBitrator, there are still the same problems.
+
+
+
+1. This reference database has been manually updated and hence there is a possibility of human errors;
+2. This reference database is not updated automatically. Unfortunately, the general bacteria taxonomy has recently changed [@hugenholtz_prokaryotic_2021] and the file had to be manually revised.
+3. The first database has been created using ARBitrator [@heller_arbitrator_2014], and, due to the way it was created, it both contains some non-*nifH* sequences and misses some of the *nifH* sequences. Since the current reference database is based on the one created with ARBitrator, there are still the same problems.
 
 For all these reasons, building a new database from scratch in a fully automated way seemed  more reasonable than improving and building on top of something we are not fully confident in.
 
@@ -294,7 +296,7 @@ Although I did not have the time to update my Python code (see Section \ref{sec
 5. Make a FASTA file by extracting for each file the taxa and the sequence.
 6. Normalize the taxonomy
    - Some of the bacteria in the reference have sub-classes that are making the
-taxonomy non-uniform and should be suppressed with regular expressions.
+   taxonomy non-uniform and should be suppressed with regular expressions.
 
 # Discussion and conclusions
 
