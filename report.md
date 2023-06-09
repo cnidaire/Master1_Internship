@@ -2,11 +2,11 @@
 title: "Improving the *nifH* gene reference database"
 subtitle: "Master 1 Internship"
 author: [Legrand Rémi]
-date: "June 8, 2023"
+date: "June 9, 2023"
 keywords: [nifh gene reference database, diazotrophs]
 fontsize: 12pt
 abstract: |
-    Nitrogen is a main block of life however it is a limiting resource on most ocean surfaces and hence nitrogen-fixating bacteria (diazotrophs) have a key role because they are the only lifeform that can metabolize di-nitrogen into ammonium with the Nitrogenase protein. By studying the populations of diazotrophs we can gain a better understanding of past, present, and future climate. The characterization of these populations is made using a reference database of the *nifH* gene, coding for a sub-unit of the nitrogenase. However, the current database is incomplete and comprises a lot of unannotated sequences. We present preliminary work to automatically create a new reference database by collecting the annotated *nifH* sequences present in databases such as NCBI, UK-PROT, and Swiss-Prot.
+    Nitrogen is a main block of life however it is a limiting resource on most ocean surfaces and hence nitrogen-fixating bacteria (diazotrophs) have a key role because they are the only lifeform that can metabolize di-nitrogen into ammonium with the Nitrogenase protein. By studying the populations of diazotrophs we can gain a better understanding of past, present, and future climate. The characterization of these populations is made using a reference database of the *nifH* gene, coding for a sub-unit of the Nitrogenase. However, the current database is incomplete and the annotation process result in a lot of unannotated sequences. We present preliminary work to automatically create a new reference database by collecting the annotated *nifH* sequences present in databases such as NCBI, UK-PROT, and Swiss-Prot.
 titlepage: true
 toc-own-page: true
 ---
@@ -26,8 +26,8 @@ I, Rémi Legrand, hereby confirm that I am the sole author of the written work h
 Nitrogen is a main block of life since it is present in DNA and proteins. However, Nitrogen is
 limited in most of the ocean surface [@singh_contribution_2012].
 
-Even though the N2 gas constitutes around 70% of our atmosphere and is saturated in seawater,
-the di-nitrogen fixation process is to a large extent mediated by diazotrophs [knapp_sensitivity_2012]. Using the nitrogenase enzyme, diazotrophs break the strong triple bond between the two N atoms. This enzyme is encoded
+Even though the N2 gas constitutes around 78% of our atmosphere and is saturated in seawater,
+the di-nitrogen fixation process is to a large extent mediated by diazotrophs in the oceans [@knapp_sensitivity_2012]. Using the nitrogenase enzyme, diazotrophs break the strong triple bond between the two N atoms. This enzyme is encoded
 by *nif* genes [@stacey_biological_1992].
 
 Hence, reactive nitrogen sources such as dinitrogen (N2) fixation act as natural fertilizing
@@ -66,11 +66,9 @@ databases such as NCBI [@sayers_database_2022] and to write a code for automatiz
 
 ## Organization of the report
 
-FIXME: This section needs love.
+In my internship, I first reproduced the processing and annotation of the sequences of @benavides_sinking_2022 with DADA2 in order to evaluate the annotation rate of the dataset of the study. The methodology for building, collect and processing the samples is described in Section \ref{sec.metabar}, \ref{sec.amplicon}, and \ref{sec.dada2} while the outcome of my replication attempt is presented in Section \ref{sec.res.dada2}.
 
-In my internship, I first reproduced the annotation of the sequences of @benavides_sinking_2022 in order to evaluate the annotation rate of the dataset of the study. The methodology for building, collect and processing the samples is described in Section \ref{sec.metabar}, \ref{sec.amplicon}, and \ref{sec.dada2} while the outcome of my replication attempt is presented in Section \ref{sec.res.dada2}.
-
-Then, I intended to improve the reference database of the *nifH* gene using the NCBI databases. These databases and how to interacted with it are described in Section \ref{sec.ncbi} and \ref{sec.entrez} while the explanations of what I did are presented in Section \ref{sec.res.python}.
+Then, I intended to improve the reference database of the *nifH* gene with Python using the NCBI databases. These databases and how to interacted with them are described in Section \ref{sec.ncbi} and \ref{sec.entrez} while the explanations of what I did are presented in Section \ref{sec.res.python}.
 
 <!-- First step: -->
 <!-- - reproduire les résultats précédents. -->
@@ -184,7 +182,7 @@ If there are too many chimeras, the analyst should check if the 20 first base pa
 
 ### Assign Taxonomy
 
-This is the part I have been working on. The analyst should provide as an input a reference database in the FASTA format. The **FASTA** format is a text file used to store biological sequences (nucleic or proteic) and is a standard file used in informatics. The first line starts with > followed by a description of the sequence (i.e., Domain / Phylum / Class / Order / Family / Genus in our case), and the second line is the corresponding DNA or amino acids sequence (i.e., DNA sequences of the *nifH* gene in our case). 
+This is the part I have been working on. The analyst should provide as an input a reference database in the FASTA format. The **FASTA** format is a text file used to store biological sequences (nucleic or proteic) and is a standard file used in informatics. The first line starts with ">" followed by a description of the sequence (i.e., Domain / Phylum / Class / Order / Family / Genus in our case), and the second line is the corresponding DNA or amino acids sequence (i.e., DNA sequences of the *nifH* gene in our case). 
 
 Then DADA2 will infer the taxonomy and build the annotation based on the sequence similarity.
 
@@ -227,28 +225,50 @@ We used the Extensible Markable Language (**XML**) format, which is a markup lan
 
 # Results
 
+
+
+I first rewrote the DADA2 pipeline to obtain the annotation rates for depending on the taxonomic rank on the DUPE database [@benavides_sinking_2022]. I used @cabral_microbiomemetagenome_2017 as a support in R (section \ref{sec.res.dada2}).
+
+
+
+I then intended to improve the reference file using Python scripts that I fully developed myself. To do so I explored four different avenues of research that did not lead to a satisfying result and I will present the main ones in the section \ref{sec.res.python}.
+
+<!-- All the codes in this section are fully developed by myself in python. -->
+
+<!-- I then extracted the un-annotated sequences with python and blast it with NCBI to add it in the reference file with R before realizing the problems that it implied. -->
+
+<!-- I then tried to gather the DNA sequences coming from the gene database of NCBI using Python. However the DNA sequences are at the IUPAC format, meaning that it does not only contain ATCG but also R,Y,S,W,K,M, etc for the ambiguous base pairs which provides more information but DADA2 is not able to use such a reference file. -->
+
+<!-- I then tried to obtain the corresponding DNA files for all the IPG reports corresponding to the *nifH* gene. However I thought that only on DNA file for each IPG report was enough as the RNA sequence was the same, but of course after talking with NCBI I realized my mistake that the corresponding DNA files are often different after the reply from NCBI and hence we need to download all the DNA files.-->
+
 ## Running DADA2 on the dataset
 
 \label{sec.res.dada2}
 
 
 
-In order to check the annotation rate of the annotation rate produced by current reference file, I ran the DADA2 pipeline for the DUPE dataset (see Section \ref{sec.appendix.dada2}). Here we have the annotation rate of the already processed sequences meaning that the low quality reads and chimeras have already been removed. In the figure \ref{annotation_rate}, we can see that the annotation rate is decreasing along the Taxonomic rank. The annotation rate is high at the Kingdom level (89.6%), however, it quickly drop to 24.1% for the Order level. With this level of annotation, it can be tough to characterize the population because it suppose that the annotation rate of the sequences is uniformly distributed over the species, meaning that the reference database does not annotate significantly more some species than some other.
+In order to check the annotation rate of the annotation rate produced by current reference file, I ran the DADA2 pipeline for the DUPE dataset (see Section \ref{sec.appendix.dada2}). Here we have the annotation rate of the already processed sequences meaning that the low quality reads and chimeras have already been removed. In the figure \ref{annotation_rate}, we can see that the annotation rate is decreasing along the Taxonomic rank. The annotation rate is high at the Kingdom level (89.6%), however, it quickly drop to 24.1% for the Order level. 
+
+\begin{figure}
+\centering
+
+\includegraphics[width = 9cm]{img/annotation_rate.png}
+
+\caption{Annotation rate of the sequences coming from the DUPE
+expedition after being processed by the DADA2 pipeline using the current
+reference file\label{annotation_rate}}
+\end{figure}
 
 
 
-![Annotation rate of the sequences coming from the DUPE expedition after being processed by the DADA2 pipeline using the current reference file\label{annotation_rate}](img/annotation_rate.png)
-
-
-
-
-
-FIXME: Put a transition between annotation rate and the python implementation
+With this level of annotation, it can be tough to characterize the population because we need to suppose that the annotation rate of the sequences is uniformly distributed over the species, meaning that the reference database does not annotate significantly more some species than some other. Which is why in the next section I will talk about how to make a more complete reference database to obtain improve the annotation rate.
 
 ## Implementation with Python
 \label{sec.res.python}
 
 ### Improving the database
+
+\label{sec.blast.rf}
 
 Our initial goal was to use the current reference database made by @moyn413, extract the unannotated sequences and BLAST [@altschul_basic_1990] them using NCBI in order to extract sequences with a relevant alignment and then enrich back the database with them.
 
@@ -264,7 +284,27 @@ For all these reasons, building a new database from scratch in a fully automated
 
 ### Making a new database from scratch
 
-FIXME: It is not so easy to evaluate what you have done. Explique que tu as suivi plusieurs pistes qui n'ont pas abouti pour différentes difficultés techniques et produit 5 versions de code différentes avant d'aboutir à celle qui est fournie en annexe. Explique aussi bien ce qui est vraiment de toi et ce qui est une inspiration du code de quelqu'un d'autre.
+\label{sec.new.db}
+
+<!-- FIXME: It is not so easy to evaluate what you have done. Explique que tu as suivi plusieurs pistes qui n'ont pas abouti pour différentes difficultés techniques et produit 5 versions de code différentes avant d'aboutir à celle qui est fournie en annexe. Explique aussi bien ce qui est vraiment de toi et ce qui est une inspiration du code de quelqu'un d'autre. -->
+
+
+
+<!-- What I did: -->
+
+<!-- I had different avenues of research that did not lead to a satisfying result. All the codes in this section are fully developed by myself in python. -->
+
+<!-- I first rewrote the DADA2 pipeline using @cabral_microbiomemetagenome_2017 as a support in R. -->
+
+<!-- I then extracted the un-annotated sequences with python and blast it with NCBI to add it in the reference file with R before realizing the problems that it implied. -->
+
+<!-- I then tried to gather the DNA sequences coming from the gene database of NCBI using Python. However the DNA sequences are at the IUPAC format, meaning that it does not only contain ATCG but also R,Y,S,W,K,M, etc for the ambiguous base pairs which provides more information but DADA2 is not able to use such a reference file. -->
+
+<!-- I then tried to obtain the corresponding DNA files for all the IPG reports corresponding to the *nifH* gene. However I thought that only on DNA file for each IPG report was enough as the RNA sequence was the same, but of course after talking with NCBI I realized my mistake that the corresponding DNA files are often different after the reply from NCBI and hence we need to download all the DNA files. -->
+
+
+
+
 
 My goal was to create a program that gathers the sequences and the taxonomy from NCBI (and
 in the future maybe also from other databases) for all the records available of the DNA
@@ -300,9 +340,11 @@ Although I did not have the time to update my Python code (see Section \ref{sec
 
 # Discussion and conclusions
 
-FIXME: Ensure the reader understands what you did solely from reading the introduction and the conclusion.
+Improving the current reference database by adding the relevant sequences obtained by doing a BLAST of the un-annotated sequences over the NCBI databases revealed to be a bad idea for the reasons explained in \ref{sec.blast.rf}. 
 
-Some minor modifications to the code are still required to automatically build the *nifH* database. However, it will only contain the sequences present inside the NCBI databases. The other databases such as UK-Prot and Swiss-Prot do not have the same API as NCBI and will require further developments to retrieve the data and then merge the reference databases obtained. It is unfortunately too soon to predict by how much the annotation rate of the new database would increase.
+It seemed more reasonable to create a new reference file from scratch following the steps in section \ref{sec.new.db}, although I did not have the time to fully implement it. Some minor modifications to the Python code (available in \ref{sec.appendix.python}) are still required to automatically build the *nifH* reference database from the databases available on NCBI. It will however only contain the sequences present inside the NCBI databases. The other databases such as UK-Prot and Swiss-Prot do not have the same API as NCBI and will require further developments to retrieve the data and then merge the reference databases obtained. 
+
+It is unfortunately too soon to predict by how much the annotation rate of the new database would increase.
 
 \bibliography{biblio.bib}\def\bibliography{}
 
