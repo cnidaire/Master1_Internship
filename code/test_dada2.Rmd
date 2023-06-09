@@ -154,8 +154,11 @@ barplot(annotation, ylim = c(0,100))
 library(ggplot2)
 library(forcats)
 df=data.frame(val=annotation, id=colnames(taxa))
+png("../img/annotation_rate.png")
 ggplot(df, aes(x=fct_reorder(id,-val), y=val)) + geom_col(color="black", fill="gray") +
-    theme_classic() + ylim(0,100) 
+    theme_classic() + ylim(0,100) + ggtitle("Annotation rate of the DUPE dataset") + 
+  ylab("% of annotated sequences") + xlab("taxonomic rank")
+dev.off()
 ```
 
 # extract the non identified sequences
