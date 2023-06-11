@@ -1,12 +1,12 @@
 ---
 title: "Improving the *nifH* gene reference database"
 subtitle: "Master 1 Internship"
-author: [Legrand Rémi]
+author: [Rémi Legrand]
 date: "June 9, 2023"
 keywords: [nifh gene reference database, diazotrophs]
 fontsize: 12pt
 abstract: |
-    Nitrogen is a main block of life however it is a limiting resource on most ocean surfaces and hence nitrogen-fixating bacteria (diazotrophs) have a key role because they are the only lifeform that can metabolize di-nitrogen into ammonium with the Nitrogenase protein. By studying the populations of diazotrophs we can gain a better understanding of past, present, and future climate. The characterization of these populations is made using a reference database of the *nifH* gene, coding for a sub-unit of the Nitrogenase. However, the current database is incomplete and the annotation process result in a lot of unannotated sequences. We present preliminary work to automatically create a new reference database by collecting the annotated *nifH* sequences present in databases such as NCBI, UK-PROT, and Swiss-Prot.
+    Nitrogen is a main block of life however it is a limiting resource on most ocean surfaces and hence nitrogen-fixating bacteria (diazotrophs) have a key role because they are the only lifeform that can metabolize di-nitrogen into ammonium with the Nitrogenase protein. By studying the populations of diazotrophs we can gain a better understanding of past, present, and future climate. The characterization of these populations is made using a reference database of the *nifH* gene, coding for a sub-unit of the Nitrogenase. However, the current database is incomplete and the annotation process results in a lot of unannotated sequences. We present preliminary work to automatically create a new reference database by collecting the annotated *nifH* sequences present in databases such as NCBI, UK-PROT, and Swiss-Prot.
 titlepage: true
 toc-own-page: true
 ---
@@ -48,9 +48,9 @@ is the most highly conserved across the microbial community [@zehr_nitrogenase_2
 
 ## Why *nifH*?
 
-Usually, to characterize a population, we use the 16 S subunit of the polymerase. However, in
+Usually, to characterize a population, we use the 16S subunit of the polymerase. However, in
 the case of nitrogen-fixating microbial species, there are some genetic divergences of *nifH*
-between the species and the “16S rRNA genes do not correlate well at sequence dissimilarity
+between the species. Moreover, the “16S rRNA genes do not correlate well at sequence dissimilarity
 values used commonly to define microbial species” whereas *nifH* does [@gaby_comprehensive_2014]. Hence the *nifH* gene is commonly used to characterize a population
 of Nitrogen fixating bacteria.
 
@@ -62,13 +62,15 @@ sequences of the *nifH* gene for different species is needed. The first *nifH* d
 However, the current database leaves a considerable amount of unannotated sequences, and
 the annotation rate increases with the taxonomic level.
 The goal of my internship is to improve the current *nifH* database by using some other
-databases such as NCBI [@sayers_database_2022] and to write a code for automatizing the update.
+databases such as NCBI [@sayers_database_2022] and write a code to automatize the update.
 
 ## Organization of the report
 
-In my internship, I first reproduced the processing and annotation of the sequences of @benavides_sinking_2022 with DADA2 in order to evaluate the annotation rate of the dataset of the study. The methodology for building, collect and processing the samples is described in Section \ref{sec.metabar}, \ref{sec.amplicon}, and \ref{sec.dada2} while the outcome of my replication attempt is presented in Section \ref{sec.res.dada2}.
+During my internship, I first reproduced the processing and annotation of the sequences proposed by @benavides_sinking_2022 with DADA2 in order to evaluate the annotation rate of the dataset of the study. The methodology for building, collecting and processing the samples is described in Section \ref{sec.metabar}, \ref{sec.amplicon}, and \ref{sec.dada2} while the outcome of my replication attempt is presented in Section \ref{sec.res.dada2}.
 
-Then, I intended to improve the reference database of the *nifH* gene with Python using the NCBI databases. These databases and how to interacted with them are described in Section \ref{sec.ncbi} and \ref{sec.entrez} while the explanations of what I did are presented in Section \ref{sec.res.python}.
+Then, I tried to improve the reference database of the *nifH* gene by rebuilding from the NCBI databases. These databases and how to interact with them are described in Section \ref{sec.ncbi} and \ref{sec.entrez} while a synthetic presentation of the challenges I faced and how I proceeded is given in Section \ref{sec.res.python}.
+
+Section \ref{sec.conclusion} concludes this report with some perspectives opened by my work.
 
 <!-- First step: -->
 <!-- - reproduire les résultats précédents. -->
@@ -93,30 +95,35 @@ environmental DNA. In our case, we will use the *nifH* gene even though the proc
 
 The metabarcoding approach can be divided into the following steps:
 
-1. Sample the environment we are interested in, in this case, it is ocean or seawater;
-2. Extract the DNA and amplify using Polymerization Chain Reaction (PCR) of the region we are interested in using the appropriate primers [@angel_evaluation_2018];
-3. Sequence the data using high-throughput sequencing (like Illumina sequencing);
+1. Sample the environment we are interested in, ocean or seawater in our case;
+2. Extract the DNA and amplify the region we are interested in using Polymerization Chain Reaction (PCR) with the appropriate primers [@angel_evaluation_2018];
+3. Sequence the data using high-throughput sequencing (such as Illumina sequencing);
 4. Process the samples through an adequate pipeline that matches them with a reference database to obtain the annotation of the sequences.
 
-Although the first step typically involves costly field expedition, the second and third ones are generally conducted by private companies. The last step is conducted by the researchers themselves. 
+Although the first step typically involves costly field expeditions, the second and third ones are generally conducted by private companies. The last step is usually conducted by the researchers themselves. 
 
 ## *nifH* amplicon datasets used
 \label{sec.amplicon}
 
 In the lab I had access to datasets obtained from two different expeditions:
 
-1. The **DUPE** dataset [@benavides_sinking_2022] has been created by sequencing samples coming from sediment traps at 170, 270, and 1000 m at two locations in the South Pacific. It is constituted of 12 samples.
+1. The **DUPE** dataset [@benavides_sinking_2022] has been created by sequencing samples coming from two locations in the South Pacific. It is constituted of 12 samples collected with sediment traps at 170, 270 and 1000m.
 
-2. The **TONGA** dataset [@filella_contrasting_2022] has been created by sampling in the ocean at two stations: in the Tonga trench volcanic arc region and the South Pacific Gyr. It is constituted of 20 samples.
+2. The **TONGA** dataset [@filella_contrasting_2022] is based on samples from the Tonga trench volcanic arc region and the South Pacific Gyr. It is constituted of 20 samples.
 
 During my internship, I focused on the **DUPE** dataset as it was complete.
 
 ## Overview of the DADA2 Workflow
 \label{sec.dada2}
 
-DADA2 [@callahan_dada2_2016] is a pipeline
-used to clean and annotate the genomic data coming from a population which can run on a laptop using R (see @cabral_microbiomemetagenome_2017 for more details). The workflow illustrated in Figure \ref{dada2} is a generic one and an example can be found in the
-appendix (see Section \ref{sec.appendix.dada2}).
+DADA2 [@callahan_dada2_2016] is a pipeline used to clean and annotate
+the genomic data coming from a population. It uses R and it
+sufficiently light to run on a laptop.
+
+Figure \ref{dada2} shows the generic workflow of DADA2. I adpated the
+implementation given by @cabral_microbiomemetagenome_2017 to use it on
+the **DUPE** dataset. The code can be found in the appendix (see
+Section \ref{sec.appendix.dada2}).
 
 ![DADA2 Workflow (from @cabral_microbiomemetagenome_2017)\label{dada2}](img/workflow.png)
 
@@ -124,43 +131,58 @@ The next subsections describe every stage of the pipeline.
 
 ### Raw FASTQ Files
 
-The **FASTQ** format is a text file format used to store at the same time the biological sequences and the associated quality score. It is the standard output given by high-throughput sequencers. The first stage is thus to import the Raw FASTQ files. In most cases, paired-end sequencing is used so the reads should be associated pairwise.
+The FASTQ format is a text file format used to store at the same time
+the biological sequences and the associated quality score. It is the
+standard output given by high-throughput sequencers. The first stage
+is thus to import the Raw FASTQ files. Paired-end sequencing is used
+in most cases, hence the analyst has to associate the reads pairwise.
 
 ### Trim and Filter Reads
 
-Then using the plot of the quality score the analyst determines the trimming cut-offs (usually the lowest accepted quality score is 30), making sure that for each pair the forward and reverse
-sequences overlap by at least 20bp (base pairs) to enable DADA2 to successfully merge the two sequences.
+This step aims to remove the sequencing errors and artifacts and to
+keep only high-quality sequences.
+Using the plot of the quality score the analyst determines the
+trimming cut-offs (usually the lowest accepted quality score is 30),
+making sure that for each pair the forward and reverse sequences
+overlap by at least 20bp (base pairs). This will enable DADA2 to successfully
+merge the two sequences in a further step.
 
-This step helps to remove the sequencing errors and artifacts and to keep only high-quality
-sequences.
 
 ### Error Rate Estimation
 
-DADA2 builds an error model by learning the sequencing errors from the quality-filtered
-reads. The error model is then used to correct errors in the reads, improving the sequence
-accuracy.
+DADA2 builds an error model by learning the sequencing errors from the
+quality-filtered reads. The error model is then used to correct errors
+in the reads, improving the sequence accuracy.
 
-In general, for the error plot, the frequency of the errors rate decrease as the quality score
-increase.
-
-Then the analyst should check that the Error Frequency observed in the data fits the Expected
-Error rate predicted by the Q-score.
+In general, for the error plot, the frequency of the errors rate
+decreases as the quality score increases. 
+Then the analyst should check that the error frequency observed in the
+data fits the expected error rate predicted by the Q-score.
 
 ![Error rate estimation in the **DUPE** dataset\label{error_rate}](img/error_rate.jpg)
 
-The graph in Figure \ref{error_rate} represents the frequency of all possible base transitions in the **DUPE** dataset. The black line is what we observe in the data, and the red line is what we expect from the Q score. 
+To this end, I plotted the error frequency rates of the different base
+transitions of the **DUPE** dataset (see Figure \ref{error_rate}). The
+black line represents what we observe in the data, and the red line is
+what we expect from the Q-score. The fitting of these two curves
+varies from one base transition to another, however the precise
+analysis of these graphics is beyond the scope of this intership.
 
 ### Dereplicate Reads
 
-Condense the data by collapsing together all read encoding for the same sequence to reduce
-redundancy. It will speed up and simplify the computation.
+The analyst then needs to condense the data by collapsing together all reads encoding the
+same sequence to reduce redundancy. This will simplify and speed up the
+computation.
 
 ### Sample Inference with DADA2 Algorithm
-Test the null hypothesis that the sequence is too abundant in the sample to be solely explained
-by errors in the data set. Hence, a low p-value sequence can be considered as a real sequence
-that is not caused by random errors, and on the contrary, if the sequence has a high p-value it
-would likely be caused by errors and won't be kept.
-It is the last denoising step for the Reverse and forward reads.
+The next step consists in filtering out the artifacts generate by the
+PCR. To do that, the analyst tests the null hypothesis that the sequence is too
+abundant in the sample to be solely explained by errors in the data
+set.  Hence, a low p-value sequence can be considered as a real
+sequence that is not caused by random errors. On the contrary, if
+the sequence has a high p-value it would likely be caused by errors
+and will not be kept. This is the last denoising step for the reverse and
+forward reads.
 
 ### Merge Reads
 
@@ -171,10 +193,14 @@ match. It will return a data frame corresponding to each successfully merged seq
 ### Chimera Checking and Removal
 
 A chimera is a fusion of two or more parent sequences and can be created during the PCR
-amplification process. To spot the chimera sequences, the pipeline performs multiple sequence
-alignments from the least abundant read, and for all the more abundant reads, it will do
-sequence alignment with all possible combinations. When a chimera is detected, it is
-removed from the sequence table.
+amplification process.
+As we want to characterize the sequences coming from the population, fusions of sequences can bias the results and hence need to be removed.
+As chimeras are relatively rare, the pipeline searches for them amongst the least abundant reads.
+To spot the chimera sequences, the pipeline performs multiple sequence
+alignments starting from the least abundant read, and matching them
+with more abundant reads. The pipeline computes all possible sequence
+alignment for each combination of reads. When a chimera is detected,
+it is removed directly from the sequence table.
 
 In general, more than 90% of the unique sequences identified are bimeras and most of the total reads shouldn't be identified as chimeras.
 
@@ -182,7 +208,7 @@ If there are too many chimeras, the analyst should check if the 20 first base pa
 
 ### Assign Taxonomy
 
-This is the part I have been working on. The analyst should provide as an input a reference database in the FASTA format. The **FASTA** format is a text file used to store biological sequences (nucleic or proteic) and is a standard file used in informatics. The first line starts with ">" followed by a description of the sequence (i.e., Domain / Phylum / Class / Order / Family / Genus in our case), and the second line is the corresponding DNA or amino acids sequence (i.e., DNA sequences of the *nifH* gene in our case). 
+This is the part I have been mainly working on. The analyst should provide as an input a reference database in the FASTA format. FASTA is a text file format used to store biological sequences (nucleic or proteic) and is a standard format used in bioinformatics. The first line starts with ">" followed by a description of the sequence (i.e., Domain / Phylum / Class / Order / Family / Genus in our case), and the second line is the corresponding DNA or amino acids sequence (i.e., DNA sequences of the *nifH* gene in our case). 
 
 Then DADA2 will infer the taxonomy and build the annotation based on the sequence similarity.
 
@@ -225,15 +251,36 @@ We used the Extensible Markable Language (**XML**) format, which is a markup lan
 
 # Results
 
+I started by adapting the R DADA2 [@callahan_dada2_2016] pipeline implemented by @cabral_microbiomemetagenome_2017 to compute the annotation rates as a function of the taxonomic rank of sequences. Applying this to the DUPE database [@benavides_sinking_2022] revealed a rather low annotation rate, as explained in more details in Section \ref{sec.res.dada2}).
 
+Therefore, I decided to try to improve the reference database by rebuilding it from the NCBI databases. This has been done using Python scripts that I fully developed myself. To do so I explored four different approaches that did not lead to a satisfying result and I will present my last attempt in Section \ref{sec.res.python}.
 
-I first rewrote the DADA2 pipeline to obtain the annotation rates for depending on the taxonomic rank on the DUPE database [@benavides_sinking_2022]. I used @cabral_microbiomemetagenome_2017 as a support in R (section \ref{sec.res.dada2}).
+## Evaluation of the annotation rates
 
+\label{sec.res.dada2}
 
+In order to check the annotation rate produced by current reference file, I ran the DADA2 pipeline for the DUPE dataset (see Section \ref{sec.appendix.dada2}). The outcome is represented Figure \ref{annotation_rate}, which depicts the annotation rate of the processed sequences where the low quality reads and chimeras have already been removed. We can see that the annotation rate decreases along the Taxonomic rank. The annotation rate is high at the Kingdom level (89.6%), however, it quickly drops to 24.1% for the Order level.
 
-I then intended to improve the reference file using Python scripts that I fully developed myself. To do so I explored four different avenues of research that did not lead to a satisfying result and I will present the main ones in the section \ref{sec.res.python}.
+\begin{figure}
+\centering
 
-<!-- All the codes in this section are fully developed by myself in python. -->
+\includegraphics[width = 9cm]{img/annotation_rate.pdf}
+
+\caption{Annotation rate of the sequences coming from the DUPE
+expedition after being processed by the DADA2 pipeline using the current
+reference file\label{annotation_rate}}
+\end{figure}
+
+With such a level of annotation, it can be tough to characterize the population because we need to assume that the annotation rate of the sequences is uniformly distributed over the species. 
+
+If the diversity of a specie is well represented in the reference database, then it will well cover the diversity of the sequences and the most of the sequences from the specie will be annotated when aligned over the reference file. Contrarily, if there is few similar sequences for a specie, then it is most likely that the sequences diverging too much from the pool of reference sequences will not be annotated, leading to a non-uniform annotation rate.
+
+Taking all the annotated sequences will ensure to annotate the sequences to the best of our capacity. It will however not solve the disparity of sequence annotation because not all the species are studied to the same extent and thus their diversiy will not be represented as well.
+
+This is why, I will explain in the next section about how to build a more complete reference database to improve the annotation rate. However but will not consider the diversity representativity problems.
+
+## Improvement of the reference database
+\label{sec.res.python}
 
 <!-- I then extracted the un-annotated sequences with python and blast it with NCBI to add it in the reference file with R before realizing the problems that it implied. -->
 
@@ -241,32 +288,7 @@ I then intended to improve the reference file using Python scripts that I fully 
 
 <!-- I then tried to obtain the corresponding DNA files for all the IPG reports corresponding to the *nifH* gene. However I thought that only on DNA file for each IPG report was enough as the RNA sequence was the same, but of course after talking with NCBI I realized my mistake that the corresponding DNA files are often different after the reply from NCBI and hence we need to download all the DNA files.-->
 
-## Running DADA2 on the dataset
-
-\label{sec.res.dada2}
-
-
-
-In order to check the annotation rate of the annotation rate produced by current reference file, I ran the DADA2 pipeline for the DUPE dataset (see Section \ref{sec.appendix.dada2}). Here we have the annotation rate of the already processed sequences meaning that the low quality reads and chimeras have already been removed. In the figure \ref{annotation_rate}, we can see that the annotation rate is decreasing along the Taxonomic rank. The annotation rate is high at the Kingdom level (89.6%), however, it quickly drop to 24.1% for the Order level. 
-
-\begin{figure}
-\centering
-
-\includegraphics[width = 9cm]{img/annotation_rate.png}
-
-\caption{Annotation rate of the sequences coming from the DUPE
-expedition after being processed by the DADA2 pipeline using the current
-reference file\label{annotation_rate}}
-\end{figure}
-
-
-
-With this level of annotation, it can be tough to characterize the population because we need to suppose that the annotation rate of the sequences is uniformly distributed over the species, meaning that the reference database does not annotate significantly more some species than some other. Which is why in the next section I will talk about how to make a more complete reference database to obtain improve the annotation rate.
-
-## Implementation with Python
-\label{sec.res.python}
-
-### Improving the database
+### Enriching the database using BLAST
 
 \label{sec.blast.rf}
 
@@ -339,10 +361,11 @@ Although I did not have the time to update my Python code (see Section \ref{sec
    taxonomy non-uniform and should be suppressed with regular expressions.
 
 # Discussion and conclusions
+\label{sec.conclusion}
 
-Improving the current reference database by adding the relevant sequences obtained by doing a BLAST of the un-annotated sequences over the NCBI databases revealed to be a bad idea for the reasons explained in \ref{sec.blast.rf}. 
+Doing a BLAST of the un-annotated sequences over the NCBI databases to then enrich the current reference database with the relevant sequences obtained revealed to be a bad idea for a few reasons. The current database is manually updated and hence might contain some human errors and due to the way it was first created, it both contains some non-*nifH* sequences and misses some *nifH* sequences.
 
-It seemed more reasonable to create a new reference file from scratch following the steps in section \ref{sec.new.db}, although I did not have the time to fully implement it. Some minor modifications to the Python code (available in \ref{sec.appendix.python}) are still required to automatically build the *nifH* reference database from the databases available on NCBI. It will however only contain the sequences present inside the NCBI databases. The other databases such as UK-Prot and Swiss-Prot do not have the same API as NCBI and will require further developments to retrieve the data and then merge the reference databases obtained. 
+For these reasons it seemed more reasonable to create a new reference file from scratch by gathering all the annotated DNA sequences of the *nifH* gene in the NCBI databases (the steps are described in section \ref{sec.new.db}), although I did not have the time to fully implement it. Some minor modifications to the Python code (available in \ref{sec.appendix.python}) are still required to automatically build the *nifH* reference database from the databases available on NCBI. It will however only contain the sequences present inside the NCBI databases. The other databases such as UK-Prot and Swiss-Prot do not have the same API as NCBI and will require further developments to retrieve the data and then merge the reference databases obtained. 
 
 It is unfortunately too soon to predict by how much the annotation rate of the new database would increase.
 
