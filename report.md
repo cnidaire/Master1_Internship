@@ -6,7 +6,7 @@ date: "June 9, 2023"
 keywords: [nifh gene reference database, diazotrophs]
 fontsize: 12pt
 abstract: |
-    Nitrogen is a main block of life however it is a limiting resource on most ocean surfaces and hence nitrogen-fixating bacteria (diazotrophs) have a key role because they are the only lifeform that can metabolize di-nitrogen into ammonium with the Nitrogenase protein. By studying the populations of diazotrophs we can gain a better understanding of past, present, and future climate. The characterization of these populations is made using a reference database of the *nifH* gene, coding for a sub-unit of the Nitrogenase. However, the current database is incomplete and the annotation process results in a lot of unannotated sequences. We present preliminary work to automatically create a new reference database by collecting the annotated *nifH* sequences present in databases such as NCBI, UK-PROT, and Swiss-Prot.
+    Nitrogen is a main block of life however it is a limiting resource on most ocean surfaces and hence nitrogen-fixating bacteria (diazotrophs) have a key role because they are the only lifeform that can metabolize di-nitrogen into ammonium with the Nitrogenase protein. By studying the populations of diazotrophs we can gain a better understanding of past, present, and future climate. The characterization of these populations is made using a reference database of the *nifH* gene, coding for a sub-unit of the Nitrogenase. However, the current database is incomplete and the annotation process results in a lot of unannotated sequences. We present preliminary work to automatically create a new reference database by collecting the annotated *nifH* sequences present in databases such as NCBI, UK-PROT, and Swiss-Prot.\vspace{-.5cm}
 titlepage: true
 toc-own-page: true
 ---
@@ -159,7 +159,14 @@ decreases as the quality score increases.
 Then the analyst should check that the error frequency observed in the
 data fits the expected error rate predicted by the Q-score.
 
-![Error rate estimation in the **DUPE** dataset\label{error_rate}](img/error_rate.jpg)
+<!-- ![Error rate estimation in the **DUPE** dataset\label{error_rate}](img/error_rate.jpg) -->
+
+\begin{figure}[t]
+\centering
+\includegraphics{img/error_rate.jpg}
+\caption{Error rate estimation in the \textbf{DUPE}
+dataset\label{error_rate}}
+\end{figure}
 
 To this end, I plotted the error frequency rates of the different base
 transitions of the **DUPE** dataset (see Figure \ref{error_rate}). The
@@ -259,7 +266,7 @@ Therefore, I decided to try to improve the reference database by rebuilding it f
 
 \label{sec.res.dada2}
 
-In order to check the annotation rate produced by current reference file, I ran the DADA2 pipeline for the DUPE dataset (see Section \ref{sec.appendix.dada2}). The outcome is represented Figure \ref{annotation_rate}, which depicts the annotation rate of the processed sequences where the low quality reads and chimeras have already been removed. We can see that the annotation rate decreases along the Taxonomic rank. The annotation rate is high at the Kingdom level (89.6%), however, it quickly drops to 24.1% for the Order level.
+In order to check the annotation rate produced by the current reference database, I ran the DADA2 pipeline for the DUPE dataset (see Section \ref{sec.appendix.dada2}). The outcome is represented Figure \ref{annotation_rate}, which depicts the annotation rate of the processed sequences where the low quality reads and chimeras have already been removed. We can see that the annotation rate decreases along the Taxonomic rank. The annotation rate is high at the Kingdom level (89.6%), however, it quickly drops to 24.1% for the Order level.
 
 \begin{figure}
 \centering
@@ -268,16 +275,16 @@ In order to check the annotation rate produced by current reference file, I ran 
 
 \caption{Annotation rate of the sequences coming from the DUPE
 expedition after being processed by the DADA2 pipeline using the current
-reference file\label{annotation_rate}}
+reference database.\label{annotation_rate}}
 \end{figure}
 
 With such a level of annotation, it can be tough to characterize the population because we need to assume that the annotation rate of the sequences is uniformly distributed over the species. 
 
-If the diversity of a specie is well represented in the reference database, then it will well cover the diversity of the sequences and the most of the sequences from the specie will be annotated when aligned over the reference file. Contrarily, if there is few similar sequences for a specie, then it is most likely that the sequences diverging too much from the pool of reference sequences will not be annotated, leading to a non-uniform annotation rate.
+If the diversity of a species is well represented in the reference database, then it will well cover the diversity of the sequences and the most of the sequences from the species will be annotated when aligned over the reference database. On the opposite, if there are few similar sequences for a given species, then it is most likely that the sequences diverging too much from the pool of reference sequences will not be annotated, leading to a non-uniform annotation rate.
 
-Taking all the annotated sequences will ensure to annotate the sequences to the best of our capacity. It will however not solve the disparity of sequence annotation because not all the species are studied to the same extent and thus their diversiy will not be represented as well.
+Considering all the annotated sequences would allow to annotate the sequences to the best of our capacity. It will however not solve the disparity of sequence annotation because not all the species are studied to the same extent and thus their diversiy will not be as well represented.
 
-This is why, I will explain in the next section about how to build a more complete reference database to improve the annotation rate. However but will not consider the diversity representativity problems.
+This is why, I will explain in the next section how to build a more complete reference database to improve the annotation rate even though it will not fully address the diversity representativity problems.
 
 ## Improvement of the reference database
 \label{sec.res.python}
@@ -292,17 +299,15 @@ This is why, I will explain in the next section about how to build a more comple
 
 \label{sec.blast.rf}
 
-Our initial goal was to use the current reference database made by @moyn413, extract the unannotated sequences and BLAST [@altschul_basic_1990] them using NCBI in order to extract sequences with a relevant alignment and then enrich back the database with them.
+Our initial goal was to start from the current reference database made by @moyn413 and extract the unannotated sequences. It would then have been possible to BLAST [@altschul_basic_1990] them using NCBI in order to extract sequences with a relevant alignment and then enrich back the database.
+However, it revealed to be a bad idea for the following reasons:
 
-However, it revealed to be a bad idea because:
+1. This reference database has been manually updated, i.e., some sequences have been inserted afterward, which is makes the quality of the database difficult to guarantee;
+2. This reference database is not updated automatically. Unfortunately, the general bacteria taxonomy has recently changed [@hugenholtz_prokaryotic_2021] and the reference database had to be manually revised;
+3. The first version of this reference database has been created using ARBitrator [@heller_arbitrator_2014]. To the best of my understanding, the construction of the database starts from a selection of a few sequences which are considered to be representative of the diversity of the *nifH* genes. Then the ARBitrator program 
+repeatedly looks for similar sequences in NCBI. This similiarity measure does not control for the *nifH* membership and, as a consequence, the resulting database both contains some non-*nifH* sequences and misses some of the *nifH* sequences. Since the current reference database is based on the one created with ARBitrator, this problem remains.
 
-
-
-1. This reference database has been manually updated and hence there is a possibility of human errors;
-2. This reference database is not updated automatically. Unfortunately, the general bacteria taxonomy has recently changed [@hugenholtz_prokaryotic_2021] and the file had to be manually revised.
-3. The first database has been created using ARBitrator [@heller_arbitrator_2014], and, due to the way it was created, it both contains some non-*nifH* sequences and misses some of the *nifH* sequences. Since the current reference database is based on the one created with ARBitrator, there are still the same problems.
-
-For all these reasons, building a new database from scratch in a fully automated way seemed  more reasonable than improving and building on top of something we are not fully confident in.
+For all these reasons, building a new database from scratch in a fully automated way seemed more promising than trying to build on top of something I was not fully confident in.
 
 ### Making a new database from scratch
 
@@ -328,24 +333,17 @@ For all these reasons, building a new database from scratch in a fully automated
 
 
 
-My goal was to create a program that gathers the sequences and the taxonomy from NCBI (and
-in the future maybe also from other databases) for all the records available of the DNA
-sequences of the *nifH* gene. For scalability reasons, I chose to make a program that fetches only the annotated *nifH* sequences in NCBI.
+Unlike the approach proposed in ARBitrator [@heller_arbitrator_2014], my goal was to create a program that gathers the sequences and the taxonomy from NCBI (and in the future maybe also from other databases) for **all** and **only** the available and annotated records of the DNA sequences of the *nifH* gene. In a first approach and for scalability reasons, I chose to make a program that fetches the annotated *nifH* sequences only from NCBI.
 
-To do so I used the *Identical Protein Groups*. For a given QUERY, we obtain one report for
-each identical amino acids sequence, and inside of each report there is the reference of the
-DNA file, the database it is present in, Start and Stop (most of the time this DNA sequence is
-part of a bigger DNA sequence) and the strand.
+To do so I used the *Identical Protein Groups*. For a given QUERY, we obtain one report for each identical amino acids sequence, and inside of each report there is the reference of the DNA file, the database it is present in, Start and Stop (most of the time this DNA sequence is part of a bigger DNA sequence) and the strand.
 
-However, *Entrez* does not enable to download the DNA sequences of the IPG reports coming
-from the IPG database. Hence to obtain the DNA sequences, we need to extract the
-information from the IPG report and then make a request for the DNA sequence in the gene
-database.
+However, *Entrez* does not enable to download the DNA sequences of the IPG reports coming from the IPG database. Hence to obtain the DNA sequences, we need to extract the information from the IPG report and then make a request for the DNA sequence in the gene database.
 
 Thus, from the information contained in the IPG reports, we can download each DNA
-sequence with the corresponding taxonomy and make a reference file out of it.
-Unfortunately, I obtained inconsistencies in some reports with sequences of tens of thousand
-bp long whereas the *nifH* gene is around 900 bp long. I contacted the NCBI support team who gave me some leads: non identical DNA sequences may be present inside the same IPG report, and all reports should thus be downloaded to be included in the reference database .
+sequence with the corresponding taxonomy and make a reference database out of it.
+Running my Python code (see Section \ref{sec.appendix.python} took about 6 hours, downloaded about 400Mb and produced a database with around 3,500 unique sequences.
+
+Unfortunately, I obtained inconsistencies in some reports with sequences of tens of thousand bp long whereas the *nifH* gene is around 900 bp long. I contacted the NCBI support team who gave me some leads: non identical DNA sequences may be present inside the same IPG report, and all reports should thus be downloaded to be included in the reference database. The resulting database could then comprise about 5-10 times more sequences (, whereas the reference database comprises $\approx$ 20,000 non-unique sequences with a mixture of both *nifH* and *non-nifH* sequences).
 
 Although I did not have the time to update my Python code (see Section \ref{sec.appendix.python}) after their reply, here is how we should proceed:
 
@@ -360,12 +358,14 @@ Although I did not have the time to update my Python code (see Section \ref{sec
    - Some of the bacteria in the reference have sub-classes that are making the
    taxonomy non-uniform and should be suppressed with regular expressions.
 
+Adapting the code to take into account the advices from the NCBI support team in steps 1 to 5 is a matter of a few days of work. Step 6 was however not started at all but it should require a few days of work too.
+
 # Discussion and conclusions
 \label{sec.conclusion}
 
-Doing a BLAST of the un-annotated sequences over the NCBI databases to then enrich the current reference database with the relevant sequences obtained revealed to be a bad idea for a few reasons. The current database is manually updated and hence might contain some human errors and due to the way it was first created, it both contains some non-*nifH* sequences and misses some *nifH* sequences.
+Doing a BLAST of the un-annotated sequences over the NCBI databases to then enrich the current reference database with the relevant sequences obtained revealed to be a bad idea for the following reasons: the current database is manually updated and hence might contain some human errors and, due to the way it was first created, it both contains some non-*nifH* sequences and misses some *nifH* sequences.
 
-For these reasons it seemed more reasonable to create a new reference file from scratch by gathering all the annotated DNA sequences of the *nifH* gene in the NCBI databases (the steps are described in section \ref{sec.new.db}), although I did not have the time to fully implement it. Some minor modifications to the Python code (available in \ref{sec.appendix.python}) are still required to automatically build the *nifH* reference database from the databases available on NCBI. It will however only contain the sequences present inside the NCBI databases. The other databases such as UK-Prot and Swiss-Prot do not have the same API as NCBI and will require further developments to retrieve the data and then merge the reference databases obtained. 
+For these reasons it seemed more reasonable to create a new reference database from scratch by gathering all the annotated DNA sequences of the *nifH* gene in the NCBI databases (the steps are described in section \ref{sec.new.db}). Although I did not have the time to fully implement it, some encouraging results were obtained. Some minor modifications to the Python code (available in \ref{sec.appendix.python}) are still required to automatically build the *nifH* reference database from the databases available on NCBI. It will however only contain the sequences present inside the NCBI databases. The other databases such as UK-Prot and Swiss-Prot do not have the same API as NCBI and will require further developments to retrieve the data and then merge the resulting reference databases.
 
 It is unfortunately too soon to predict by how much the annotation rate of the new database would increase.
 
