@@ -59,16 +59,16 @@ of Nitrogen fixating bacteria.
 To characterize the studied population, a reference database containing the taxonomy and the
 sequences of the *nifH* gene for different species is needed. The first *nifH* database was created in 2014 and continuously updated until 2017 by the Zehr Lab [@heller_arbitrator_2014]. It was then normalized and kept updated manually by @moyn413.
 
-However, the current database leaves a considerable amount of unannotated sequences, and
-the annotation rate increases with the taxonomic level.
+However, the current database leaves a considerable amount of unannotated sequences and
+the annotation rate decreases with the taxonomic level.
 The goal of my internship is to improve the current *nifH* database by using some other
 databases such as NCBI [@sayers_database_2022] and write a code to automatize the update.
 
 ## Organization of the report
 
-During my internship, I first reproduced the processing and annotation of the sequences proposed by @benavides_sinking_2022 with DADA2 in order to evaluate the annotation rate of the dataset of the study. The methodology for building, collecting and processing the samples is described in Section \ref{sec.metabar}, \ref{sec.amplicon}, and \ref{sec.dada2} while the outcome of my replication attempt is presented in Section \ref{sec.res.dada2}.
+During my internship, I first reproduced the processing and annotation of the sequences proposed by @benavides_sinking_2022 with DADA2 to evaluate the annotation rate of the dataset of the study. The methodology for building, collecting and processing the samples is described in Section \ref{sec.metabar}, \ref{sec.amplicon}, and \ref{sec.dada2} while the outcome of my replication attempt is presented in Section \ref{sec.res.dada2}.
 
-Then, I tried to improve the reference database of the *nifH* gene by rebuilding from the NCBI databases. These databases and how to interact with them are described in Section \ref{sec.ncbi} and \ref{sec.entrez} while a synthetic presentation of the challenges I faced and how I proceeded is given in Section \ref{sec.res.python}.
+Then, I tried to improve the reference database of the *nifH* gene by rebuilding it from the NCBI databases. These databases and how to interact with them are described in Section \ref{sec.ncbi} and \ref{sec.entrez} while a synthetic presentation of the challenges I faced and how I proceeded is given in Section \ref{sec.res.python}.
 
 Section \ref{sec.conclusion} concludes this report with some perspectives opened by my work.
 
@@ -105,7 +105,7 @@ Although the first step typically involves costly field expeditions, the second 
 ## *nifH* amplicon datasets used
 \label{sec.amplicon}
 
-In the lab I had access to datasets obtained from two different expeditions:
+In the lab, I had access to datasets obtained from two different expeditions:
 
 1. The **DUPE** dataset [@benavides_sinking_2022] has been created by sequencing samples coming from two locations in the South Pacific. It is constituted of 12 samples collected with sediment traps at 170, 270 and 1000m.
 
@@ -117,10 +117,10 @@ During my internship, I focused on the **DUPE** dataset as it was complete.
 \label{sec.dada2}
 
 DADA2 [@callahan_dada2_2016] is a pipeline used to clean and annotate
-the genomic data coming from a population. It uses R and it
+the genomic data coming from a population. It uses R and it is
 sufficiently light to run on a laptop.
 
-Figure \ref{dada2} shows the generic workflow of DADA2. I adpated the
+Figure \ref{dada2} shows the generic workflow of DADA2. I adapted the
 implementation given by @cabral_microbiomemetagenome_2017 to use it on
 the **DUPE** dataset. The code can be found in the appendix (see
 Section \ref{sec.appendix.dada2}).
@@ -154,7 +154,7 @@ DADA2 builds an error model by learning the sequencing errors from the
 quality-filtered reads. The error model is then used to correct errors
 in the reads, improving the sequence accuracy.
 
-In general, for the error plot, the frequency of the errors rate
+In general, for the error plot, the frequency of the error rate
 decreases as the quality score increases. 
 Then the analyst should check that the error frequency observed in the
 data fits the expected error rate predicted by the Q-score.
@@ -365,7 +365,7 @@ Adapting the code to take into account the advices from the NCBI support team in
 
 Doing a BLAST of the un-annotated sequences over the NCBI databases to then enrich the current reference database with the relevant sequences obtained revealed to be a bad idea for the following reasons: the current database is manually updated and hence might contain some human errors and, due to the way it was first created, it both contains some non-*nifH* sequences and misses some *nifH* sequences.
 
-For these reasons it seemed more reasonable to create a new reference database from scratch by gathering all the annotated DNA sequences of the *nifH* gene in the NCBI databases (the steps are described in section \ref{sec.new.db}). Although I did not have the time to fully implement it, some encouraging results were obtained. Some minor modifications to the Python code (available in \ref{sec.appendix.python}) are still required to automatically build the *nifH* reference database from the databases available on NCBI. It will however only contain the sequences present inside the NCBI databases. The other databases such as UK-Prot and Swiss-Prot do not have the same API as NCBI and will require further developments to retrieve the data and then merge the resulting reference databases.
+For these reasons, it seemed more reasonable to create a new reference database from scratch by gathering all the annotated DNA sequences of the *nifH* gene in the NCBI databases (the steps are described in section \ref{sec.new.db}). Although I did not have the time to fully implement it, some encouraging results were obtained. Some minor modifications to the Python code (available in \ref{sec.appendix.python}) are still required to automatically build the *nifH* reference database from the databases available on NCBI. It will however only contain the sequences present inside the NCBI databases. The other databases such as UK-Prot and Swiss-Prot do not have the same API as NCBI and will require further developments to retrieve the data and then merge the resulting reference databases.
 
 It is unfortunately too soon to predict by how much the annotation rate of the new database would increase.
 
